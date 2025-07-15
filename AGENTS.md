@@ -5,6 +5,11 @@
 ```
 perangkat-pembelajaran/
 ├── AGENTS.md                    # This file - agent guidelines
+├── index.html                   # Docsify configuration & entry point
+├── custom.css                   # Custom styling for lesson modules
+├── README.md                    # Homepage content
+├── _sidebar.md                  # Navigation menu
+├── .nojekyll                   # Disable Jekyll for GitHub Pages
 ├── english/                     # English subject materials
 │   ├── x/                      # Grade X (10th grade) materials
 │   │   └── descriptive-text-x.md   # Descriptive text lesson (beginner level)
@@ -14,11 +19,27 @@ perangkat-pembelajaran/
 
 This is the `perangkat-pembelajaran` (learning tools) project containing lesson modules (modul ajar) following Indonesian Kurikulum Merdeka format for English language teaching.
 
+## Deployment & Access
+
+**Live Site:** https://modul-belajar.code.app.web.id/
+- **Platform**: GitHub Pages with custom domain
+- **Technology**: Docsify static site generator
+- **Features**: Hot reload, responsive design, search functionality
+- **Repository**: https://github.com/yokowasis/perangkat-pembelajaran
+
 ## Current Project Files
 
+### Lesson Modules:
 - `english/x/descriptive-text-x.md` - Descriptive text lesson for Grade X (beginner level with pretest focus)
 - `english/xii/narative-text-xii.md` - Narrative text lesson for Grade XII (advanced level)
 - Both files follow standardized table format with numbered components (1-10)
+
+### Docsify Configuration:
+- `index.html` - Main configuration with plugins (search, pagination, copy-code, zoom)
+- `custom.css` - Professional styling for lesson module tables and responsive design
+- `_sidebar.md` - Navigation structure with grade-level organization
+- `README.md` - Homepage with project overview and usage instructions
+- `.nojekyll` - Disables Jekyll processing for proper Docsify functionality
 
 ## Lesson Module (Modul Ajar) Format
 
@@ -46,14 +67,12 @@ This is the `perangkat-pembelajaran` (learning tools) project containing lesson 
 ## Content Guidelines by Grade Level
 
 **Grade X (Beginner Level):**
-
 - Use visual learning, TPR methods, mixed Indonesian-English instruction
 - Focus on basic vocabulary, simple structures
 - Include pretest for diagnostic assessment
 - Time: Usually 2x45 minutes with longer pretest allocation
 
 **Grade XII (Advanced Level):**
-
 - Complex analysis, critical thinking, advanced language features
 - English-heavy instruction with sophisticated materials
 - Focus on academic and professional English skills
@@ -71,10 +90,91 @@ This is the `perangkat-pembelajaran` (learning tools) project containing lesson 
 - **Sumatif**: Summative assessment at end
 - Include detailed rubrics with 4-level criteria (Sangat Baik, Baik, Cukup, Kurang)
 
+## Docsify Development Workflow
+
+### Local Development:
+```bash
+# Start development server
+cd /workspace/perangkat-pembelajaran
+docsify serve . --port 3000
+# Access: http://localhost:3000
+```
+
+### CSS Customization:
+- Edit `custom.css` for styling changes
+- Hot reload support - changes appear immediately
+- Professional color scheme with CSS variables
+- Responsive design for mobile/tablet/desktop
+- Print-friendly styles included
+
+### Content Updates:
+1. Edit markdown files in `english/` directories
+2. Update `_sidebar.md` for navigation changes
+3. Modify `README.md` for homepage content
+4. All changes auto-reload in browser
+
+### Deployment:
+```bash
+# Add and commit changes
+git add .
+git commit -m "Description of changes"
+git push origin main
+# Changes appear on https://modul-belajar.code.app.web.id/ in 5-10 minutes
+```
+
+## Troubleshooting Notes
+
+### GitHub Pages Issues:
+- **Sidebar not showing**: Ensure `.nojekyll` file exists in root
+- **Custom domain**: Set in GitHub repo settings → Pages → Custom domain
+- **HTTPS**: Enable "Enforce HTTPS" in GitHub Pages settings
+- **Cache**: Use hard refresh (Ctrl+F5) after deployments
+
+### Docsify Configuration:
+- Navigation controlled by `loadSidebar: true` in index.html
+- Search functionality requires search plugin
+- Base path should be `/` for custom domains
+- File paths are case-sensitive
+
 ## Development Commands
 
-- This is a documentation project - no build/test commands needed
-- Validation: Check markdown table formatting consistency
-- Review: Ensure alignment with Kurikulum Merdeka standards and CP requirements
-- Quality check: Verify age-appropriate content and difficulty level per grade
+### Local Testing:
+```bash
+# Install docsify globally (one-time)
+npm install -g docsify-cli
+
+# Serve locally
+docsify serve . --port 3000
+
+# Check file accessibility
+curl http://localhost:3000/_sidebar.md
+```
+
+### Git Workflow:
+```bash
+# Standard workflow
+git status
+git add .
+git commit -m "Descriptive message"
+git push origin main
+
+# If remote has changes
+git pull origin main --rebase
+git push origin main
+```
+
+## Quality Assurance
+
+- **Content**: Verify alignment with Kurikulum Merdeka standards and CP requirements
+- **Format**: Check markdown table formatting consistency
+- **Responsive**: Test on mobile, tablet, desktop viewports
+- **Navigation**: Verify all sidebar links work correctly
+- **Age-appropriate**: Ensure content difficulty matches grade level
+- **Print**: Check print styles for document export
+
+## Author Information
+
+**Penyusun**: Wasis Haryo Sasoko, S.Pd., M.Kom.  
+**Institusi**: MAN 1 Kota Bima  
+**Tahun**: 2024
 
