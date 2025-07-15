@@ -39,6 +39,19 @@ body {
 }
 
 .markdown-section table td {
-  padding: 5px;
+  padding: 2px 5px;
+}
+
+.markdown-section table td:first-child,
+.markdown-section table td:nth-child(2) {
+  font-weight: bold;
+  color: var(--text-dark);
+}
+
+.markdown-section table td:empty {
+  padding: 10px 5px;
+}
+
+.markdown-section table tr {
 }
 
