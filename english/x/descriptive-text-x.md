@@ -72,17 +72,17 @@
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td>- Mengenal teks deskriptif sederhana<br>- Memahami kosakata dasar untuk mendeskripsikan<br>- Mengidentifikasi ciri-ciri teks deskriptif</td>
+        <td><ul><li>Mengenal teks deskriptif sederhana</li><li>Memahami kosakata dasar untuk mendeskripsikan</li><li>Mengidentifikasi ciri-ciri teks deskriptif</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<br>1. Mengenal dan memahami pengertian teks deskriptif sederhana<br>2. Mengidentifikasi kosakata dasar untuk mendeskripsikan benda, orang, dan tempat<br>3. Membedakan teks deskriptif dengan jenis teks lainnya<br>4. Menunjukkan kemampuan awal dalam memahami teks deskriptif<br>5. Mengekspresikan deskripsi sederhana dengan kata-kata dasar</td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengenal dan memahami pengertian teks deskriptif sederhana</li><li>Mengidentifikasi kosakata dasar untuk mendeskripsikan benda, orang, dan tempat</li><li>Membedakan teks deskriptif dengan jenis teks lainnya</li><li>Menunjukkan kemampuan awal dalam memahami teks deskriptif</li><li>Mengekspresikan deskripsi sederhana dengan kata-kata dasar</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td>1. What is descriptive text and why do we use it?<br>2. How do we describe people, places, and things in English?<br>3. What basic words can help us describe our surroundings?<br>4. How can simple descriptions help us communicate better?<br>5. What do we already know about describing in English?</td>
+        <td><ol><li>What is descriptive text and why do we use it?</li><li>How do we describe people, places, and things in English?</li><li>What basic words can help us describe our surroundings?</li><li>How can simple descriptions help us communicate better?</li><li>What do we already know about describing in English?</li></ol></td>
     </tr>
     <tr>
         <td></td>
@@ -97,7 +97,7 @@
     <tr>
         <td></td>
         <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td>1. Bernalar Kritis: Mengamati dan menganalisis objek di sekitar dengan logis untuk dideskripsikan<br>2. Kreatif: Menggunakan imajinasi dalam mendeskripsikan objek dengan kata-kata sederhana<br>3. Mandiri: Berani mencoba menggunakan bahasa Inggris meskipun kosakata masih terbatas<br>4. Gotong Royong: Bekerja sama dalam aktivitas kelompok untuk saling membantu memahami materi</td>
+        <td><ol><li>Bernalar Kritis: Mengamati dan menganalisis objek di sekitar dengan logis untuk dideskripsikan</li><li>Kreatif: Menggunakan imajinasi dalam mendeskripsikan objek dengan kata-kata sederhana</li><li>Mandiri: Berani mencoba menggunakan bahasa Inggris meskipun kosakata masih terbatas</li><li>Gotong Royong: Bekerja sama dalam aktivitas kelompok untuk saling membantu memahami materi</li></ol></td>
     </tr>
     <tr>
         <td>4</td>
@@ -107,12 +107,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td>1. Soal pretest teks deskriptif sederhana<br>2. Gambar objek sederhana (buah, hewan, ruang kelas)<br>3. Kosakata dasar descriptive words<br>4. Contoh teks deskriptif sangat sederhana<br>5. Kamus bergambar bahasa Inggris-Indonesia</td>
+        <td><ol><li>Soal pretest teks deskriptif sederhana</li><li>Gambar objek sederhana (buah, hewan, ruang kelas)</li><li>Kosakata dasar descriptive words</li><li>Contoh teks deskriptif sangat sederhana</li><li>Kamus bergambar bahasa Inggris-Indonesia</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td>1. Proyektor dan layar<br>2. Papan tulis dan spidol warna-warni<br>3. Kertas pretest dan lembar jawaban<br>4. Gambar-gambar untuk media pembelajaran<br>5. Kartu kosakata bergambar</td>
+        <td><ol><li>Proyektor dan layar</li><li>Papan tulis dan spidol warna-warni</li><li>Kertas pretest dan lembar jawaban</li><li>Gambar-gambar untuk media pembelajaran</li><li>Kartu kosakata bergambar</li></ol></td>
     </tr>
     <tr>
         <td>5</td>
@@ -122,7 +122,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td>1. Pembelajaran Tatap Muka<br>2. Pendekatan Komunikatif sederhana<br>3. Metode Total Physical Response (TPR)<br>4. Teknik demonstrasi dan peniruan<br>5. Pembelajaran berbasis gambar (Visual Learning)</td>
+        <td><ol><li>Pembelajaran Tatap Muka</li><li>Pendekatan Komunikatif sederhana</li><li>Metode Total Physical Response (TPR)</li><li>Teknik demonstrasi dan peniruan</li><li>Pembelajaran berbasis gambar (Visual Learning)</li></ol></td>
     </tr>
     <tr>
         <td>6</td>
@@ -132,22 +132,22 @@
     <tr>
         <td></td>
         <td>Pendahuluan (10 menit)</td>
-        <td>1. Guru membuka dengan salam dalam bahasa Inggris dan Indonesia<br>2. Mengecek kehadiran siswa dengan sapaan sederhana<br>3. Ice breaking: Guru mendeskripsikan diri dengan sangat sederhana sebagai contoh<br>4. Menjelaskan tujuan pembelajaran dan pentingnya pretest<br>5. Memotivasi siswa bahwa tidak ada jawaban salah dalam pretest</td>
+        <td><ol><li>Guru membuka dengan salam dalam bahasa Inggris dan Indonesia</li><li>Mengecek kehadiran siswa dengan sapaan sederhana</li><li>Ice breaking: Guru mendeskripsikan diri dengan sangat sederhana sebagai contoh</li><li>Menjelaskan tujuan pembelajaran dan pentingnya pretest</li><li>Memotivasi siswa bahwa tidak ada jawaban salah dalam pretest</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kegiatan Inti (30 menit)</td>
-        <td>1. Pretest (20 menit): Siswa mengerjakan soal untuk mengukur kemampuan awal memahami teks deskriptif sederhana<br>2. Pengenalan konsep (5 menit): Guru menjelaskan apa itu descriptive text menggunakan bahasa campuran<br>3. Demonstrasi (3 menit): Guru mencontohkan mendeskripsikan benda di kelas dengan kata-kata sangat sederhana<br>4. Observasi gambar (2 menit): Siswa mengamati gambar dan mencoba menyebutkan kata-kata yang mereka ketahui</td>
+        <td><ol><li>Pretest (20 menit): Siswa mengerjakan soal untuk mengukur kemampuan awal memahami teks deskriptif sederhana</li><li>Pengenalan konsep (5 menit): Guru menjelaskan apa itu descriptive text menggunakan bahasa campuran</li><li>Demonstrasi (3 menit): Guru mencontohkan mendeskripsikan benda di kelas dengan kata-kata sangat sederhana</li><li>Observasi gambar (2 menit): Siswa mengamati gambar dan mencoba menyebutkan kata-kata yang mereka ketahui</li></ol></td>
     </tr>
     <tr>
         <td>c</td>
         <td>Refleksi Ringan</td>
-        <td>1. Siswa berbagi perasaan setelah mengerjakan pretest<br>2. Guru memberikan motivasi dan dukungan<br>3. Identifikasi kosakata yang sudah diketahui siswa</td>
+        <td><ol><li>Siswa berbagi perasaan setelah mengerjakan pretest</li><li>Guru memberikan motivasi dan dukungan</li><li>Identifikasi kosakata yang sudah diketahui siswa</li></ol></td>
     </tr>
     <tr>
         <td>d</td>
         <td>Penutup (5 menit)</td>
-        <td>1. Guru menyampaikan bahwa pretest bukan untuk nilai<br>2. Preview materi untuk pertemuan berikutnya<br>3. Motivasi untuk belajar kosakata sederhana di rumah<br>4. Doa penutup dan salam</td>
+        <td><ol><li>Guru menyampaikan bahwa pretest bukan untuk nilai</li><li>Preview materi untuk pertemuan berikutnya</li><li>Motivasi untuk belajar kosakata sederhana di rumah</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
     <tr>
         <td>7</td>
@@ -157,27 +157,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td>1. Kemampuan awal memahami teks deskriptif<br>2. Pengenalan kosakata dasar bahasa Inggris<br>3. Kemampuan mengidentifikasi objek sederhana<br>4. Keberanian mencoba menggunakan bahasa Inggris</td>
+        <td><ol><li>Kemampuan awal memahami teks deskriptif</li><li>Pengenalan kosakata dasar bahasa Inggris</li><li>Kemampuan mengidentifikasi objek sederhana</li><li>Keberanian mencoba menggunakan bahasa Inggris</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td>1. Pretest: Tes diagnostik untuk mengukur kemampuan awal<br>2. Observasi: Mengamati partisipasi dan antusiasme siswa<br>3. Assessment informal: Tanya jawab sederhana</td>
+        <td><ol><li>Pretest: Tes diagnostik untuk mengukur kemampuan awal</li><li>Observasi: Mengamati partisipasi dan antusiasme siswa</li><li>Assessment informal: Tanya jawab sederhana</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td>1. Pengetahuan: Pretest pilihan ganda dan isian sederhana<br>2. Keterampilan: Observasi kemampuan menyebutkan kosakata<br>3. Sikap: Keberanian mencoba dan semangat belajar</td>
+        <td><ol><li>Pengetahuan: Pretest pilihan ganda dan isian sederhana</li><li>Keterampilan: Observasi kemampuan menyebutkan kosakata</li><li>Sikap: Keberanian mencoba dan semangat belajar</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td>1. Pretest tertulis dengan soal bergambar<br>2. Checklist observasi partisipasi<br>3. Catatan anekdotal untuk kemampuan individual<br>4. Dokumentasi respons siswa</td>
+        <td><ol><li>Pretest tertulis dengan soal bergambar</li><li>Checklist observasi partisipasi</li><li>Catatan anekdotal untuk kemampuan individual</li><li>Dokumentasi respons siswa</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td>Untuk Pretest (diagnostik, bukan untuk nilai):<br>1. Tinggi (>75%): Sudah mengenal konsep dasar deskripsi<br>2. Sedang (50-75%): Mengenal sebagian kosakata dasar<br>3. Rendah (25-50%): Mengenal sedikit kosakata<br>4. Sangat Rendah (<25%): Perlu bimbingan intensif</td>
+        <td>Untuk Pretest (diagnostik, bukan untuk nilai):<ol><li>Tinggi (>75%): Sudah mengenal konsep dasar deskripsi</li><li>Sedang (50-75%): Mengenal sebagian kosakata dasar</li><li>Rendah (25-50%): Mengenal sedikit kosakata</li><li>Sangat Rendah (<25%): Perlu bimbingan intensif</li></ol></td>
     </tr>
     <tr>
         <td>8</td>
@@ -187,17 +187,17 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td>1. Bagaimana tingkat kemampuan awal siswa berdasarkan pretest?<br>2. Strategi apa yang perlu disiapkan untuk siswa dengan kosakata sangat terbatas?<br>3. Apakah siswa merasa nyaman dengan pembelajaran hari ini?<br>4. Bagaimana merencanakan pembelajaran yang sesuai level siswa?</td>
+        <td><ol><li>Bagaimana tingkat kemampuan awal siswa berdasarkan pretest?</li><li>Strategi apa yang perlu disiapkan untuk siswa dengan kosakata sangat terbatas?</li><li>Apakah siswa merasa nyaman dengan pembelajaran hari ini?</li><li>Bagaimana merencanakan pembelajaran yang sesuai level siswa?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td>1. Bagaimana perasaan kalian tentang bahasa Inggris hari ini?<br>2. Kata-kata bahasa Inggris apa yang sudah kalian ketahui?<br>3. Apa yang paling sulit dari soal pretest tadi?<br>4. Apa yang ingin kalian pelajari tentang bahasa Inggris?</td>
+        <td><ol><li>Bagaimana perasaan kalian tentang bahasa Inggris hari ini?</li><li>Kata-kata bahasa Inggris apa yang sudah kalian ketahui?</li><li>Apa yang paling sulit dari soal pretest tadi?</li><li>Apa yang ingin kalian pelajari tentang bahasa Inggris?</li></ol></td>
     </tr>
     <tr>
         <td>9</td>
         <td>Daftar Pustaka</td>
-        <td>1. Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X<br>2. Harmer, J. (2019). The Practice of English Language Teaching<br>3. Richards, J.C. (2020). Teaching English for Beginners<br>4. Nation, I.S.P. (2021). Learning Vocabulary in Another Language<br>5. Visual dictionaries for beginner English learners</td>
+        <td><ol><li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X</li><li>Harmer, J. (2019). The Practice of English Language Teaching</li><li>Richards, J.C. (2020). Teaching English for Beginners</li><li>Nation, I.S.P. (2021). Learning Vocabulary in Another Language</li><li>Visual dictionaries for beginner English learners</li></ol></td>
     </tr>
     <tr>
         <td>10</td>
@@ -207,12 +207,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td>1. Untuk siswa dengan kemampuan lebih: berlatih mendeskripsikan objek kompleks dengan kosakata yang lebih beragam<br>2. Menggunakan aplikasi kosakata bahasa Inggris<br>3. Menonton video deskripsi sederhana dengan subtitle<br>4. Membuat kamus bergambar pribadi</td>
+        <td><ol><li>Untuk siswa dengan kemampuan lebih: berlatih mendeskripsikan objek kompleks dengan kosakata yang lebih beragam</li><li>Menggunakan aplikasi kosakata bahasa Inggris</li><li>Menonton video deskripsi sederhana dengan subtitle</li><li>Membuat kamus bergambar pribadi</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td>1. Pembelajaran kosakata dasar dengan flash cards bergambar<br>2. Pendampingan individual dengan bantuan bahasa Indonesia<br>3. Menggunakan aplikasi pembelajaran bahasa untuk pemula<br>4. Peer tutoring dengan siswa yang lebih mampu<br>5. Latihan menghafal 5-10 kata sederhana setiap hari</td>
+        <td><ol><li>Pembelajaran kosakata dasar dengan flash cards bergambar</li><li>Pendampingan individual dengan bantuan bahasa Indonesia</li><li>Menggunakan aplikasi pembelajaran bahasa untuk pemula</li><li>Peer tutoring dengan siswa yang lebih mampu</li><li>Latihan menghafal 5-10 kata sederhana setiap hari</li></ol></td>
     </tr>
 </tbody>
 </table>
