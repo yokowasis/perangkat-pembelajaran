@@ -1,0 +1,44 @@
+/* ========================================
+   DOCSIFY CUSTOM STYLES
+   Perangkat Pembelajaran - Bahasa Inggris
+   ======================================== */
+
+/* ==========================================
+   GENERAL STYLING
+   ========================================== */
+:root {
+  --primary-color: #2c5aa0;
+  --secondary-color: #e8f4f8;
+  --accent-color: #f0f8ff;
+  --border-color: #ddd;
+  --text-dark: #333;
+  --text-light: #666;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+}
+
+/* Custom font */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+/* ==========================================
+   TABLE STYLING - MODUL AJAR
+   ========================================== */
+
+.markdown-section table {
+  display: table;
+}
+
+.markdown-section table th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 10px;
+  text-align: left;
+}
+
+.markdown-section table td {
+  padding: 5px;
+}
+
