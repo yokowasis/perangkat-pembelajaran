@@ -45,27 +45,27 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
         <td>Pada akhir Fase F, peserta didik menggunakan teks lisan, tulisan, dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Peserta didik menggunakan bahasa Inggris sederhana untuk berdiskusi dan menyampaikan keinginan/perasaan. Peserta didik menggunakan keterampilan berbahasa Inggris untuk mengeksplorasi berbagai teks dalam berbagai macam topik kontekstual. Peserta didik membaca teks tulisan untuk mempelajari sesuatu/mendapatkan informasi dan untuk kesenangan. Pemahaman mereka terhadap teks tulisan makin mendalam. Keterampilan inferensi tersirat sederhana dalam memahami berbagai jenis teks dalam bahasa Inggris mulai berkembang.</td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Elemen Domain (CP)</td>
         <td><ul><li>Memahami struktur text naratif</li><li>Menggunakan kosakata naratif dasar</li><li>Menulis teks naratif sederhana</li></ul></td>
     </tr>
     <tr>
-        <td>c</td>
+        <td></td>
         <td>Tujuan Pembelajaran</td>
         <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengidentifikasi struktur teks naratif (orientation, complication, resolution) dengan tepat</li><li>Menganalisis unsur-unsur intrinsik dalam teks naratif (tokoh, setting, plot, tema)</li><li>Memahami fitur kebahasaan teks naratif (past tense, temporal connectives, action verbs)</li><li>Menyusun teks naratif sederhana dengan struktur yang benar</li><li>Mempresentasikan teks naratif dengan pronunciasi yang tepat</li></ol></td>
     </tr>
     <tr>
-        <td>d</td>
+        <td></td>
         <td>Essential Questions</td>
         <td><ol><li>What makes a story engaging and memorable for readers?</li><li>How do narrative texts reflect cultural values and human experiences?</li><li>Why is understanding story structure important in effective communication?</li><li>How can we use narrative techniques to tell our own stories in English?</li><li>What role do narratives play in preserving and sharing cultural heritage?</li></ol></td>
     </tr>
     <tr>
-        <td>e</td>
+        <td></td>
         <td>Lingkungan Belajar</td>
         <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
     </tr>
@@ -75,7 +75,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Profil Pelajar Pancasila yang berkaitan</td>
         <td><ol><li>Bernalar Kritis: Menganalisis struktur dan makna teks naratif dengan logis dan sistematis</li><li>Kreatif: Menyusun teks naratif yang orisinal dan inovatif dengan imajinasi</li><li>Berkebinekaan Global: Memahami nilai budaya dalam cerita dari berbagai negara dan menghargai perbedaan</li><li>Mandiri: Mengembangkan kemampuan belajar bahasa Inggris secara konsisten dan bertanggung jawab</li></ol></td>
     </tr>
@@ -85,12 +85,12 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Materi/Sumber Pembelajaran</td>
         <td><ol><li>Teks naratif klasik (Cinderella, Snow White)</li><li>Video cerita pendek berbahasa Inggris</li><li>Worksheet struktur teks naratif</li><li>Kamus bahasa Inggris</li><li>Buku teks Bahasa Inggris Kelas XII</li></ol></td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Fasilitas / Alat Bantu</td>
         <td><ol><li>Proyektor dan layar</li><li>Speaker untuk audio</li><li>Papan tulis dan spidol</li><li>Laptop/komputer</li><li>Kartu kata (vocabulary cards)</li></ol></td>
     </tr>
@@ -100,7 +100,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Mode Pembelajaran</td>
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Metode Cooperative Learning</li><li>Pendekatan Komunikatif</li><li>Teknik Think-Pair-Share</li><li>Pembelajaran Berbasis Tugas (Task-Based Learning)</li></ol></td>
     </tr>
@@ -110,22 +110,22 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Pendahuluan (10 menit)</td>
         <td><ol><li>Guru membuka dengan salam dan doa</li><li>Mengecek kehadiran siswa</li><li>Apersepsi: Menanyakan cerita favorit siswa</li><li>Menyampaikan tujuan pembelajaran</li><li>Motivasi: Menjelaskan manfaat memahami teks naratif</li></ol></td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Kegiatan Inti (30 menit)</td>
         <td><ol><li>Eksplorasi: Membaca teks naratif "Cinderella"</li><li>Elaborasi: Mengidentifikasi struktur teks secara berkelompok</li><li>Konfirmasi: Diskusi hasil analisis dengan guru</li><li>Latihan: Melengkapi teks naratif yang rumpang</li><li>Presentasi: Kelompok menyajikan hasil analisis</li></ol></td>
     </tr>
     <tr>
-        <td>c</td>
+        <td></td>
         <td>Refleksi Ringan</td>
         <td><ol><li>Siswa merefleksikan pemahaman tentang struktur naratif</li><li>Guru memberikan feedback singkat</li><li>Identifikasi kesulitan yang dialami siswa</li></ol></td>
     </tr>
     <tr>
-        <td>d</td>
+        <td></td>
         <td>Penutup (5 menit)</td>
         <td><ol><li>Menyimpulkan materi pembelajaran</li><li>Memberikan tugas untuk pertemuan berikutnya</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
@@ -135,27 +135,27 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Target Penilaian</td>
         <td><ol><li>Pemahaman struktur teks naratif</li><li>Kemampuan menganalisis unsur intrinsik</li><li>Keterampilan presentasi</li><li>Kerja sama dalam kelompok</li></ol></td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Jenis Assessment</td>
         <td><ol><li>Assessment Formatif: Observasi selama pembelajaran</li><li>Assessment Sumatif: Tes tertulis dan lisan</li><li>Assessment Autentik: Portofolio karya siswa</li></ol></td>
     </tr>
     <tr>
-        <td>c</td>
+        <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
         <td><ol><li>Pengetahuan: Tes pilihan ganda dan essay</li><li>Keterampilan: Praktik presentasi dan diskusi</li><li>Sikap: Observasi partisipasi dan kerjasama</li></ol></td>
     </tr>
     <tr>
-        <td>d</td>
+        <td></td>
         <td>Cara Melakukan Assessment</td>
         <td><ol><li>Rubrik penilaian terstruktur</li><li>Checklist observasi</li><li>Peer assessment antar siswa</li><li>Self assessment (penilaian diri)</li></ol></td>
     </tr>
     <tr>
-        <td>e</td>
+        <td></td>
         <td>Kriteria Penilaian</td>
         <td><ol><li>Sangat Baik (86-100): Menguasai semua indikator</li><li>Baik (71-85): Menguasai sebagian besar indikator</li><li>Cukup (56-70): Menguasai sebagian indikator</li><li>Kurang (<55): Belum menguasai indikator</li></ol></td>
     </tr>
@@ -165,12 +165,12 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Refleksi Guru</td>
         <td><ol><li>Apakah metode pembelajaran efektif untuk semua siswa?</li><li>Bagian mana dari pembelajaran yang perlu diperbaiki?</li><li>Apakah alokasi waktu sudah sesuai?</li><li>Bagaimana respon dan partisipasi siswa?</li></ol></td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Refleksi Siswa</td>
         <td><ol><li>Apa yang paling menarik dari pembelajaran hari ini?</li><li>Kesulitan apa yang dihadapi dalam memahami materi?</li><li>Bagaimana perasaan setelah mengikuti pembelajaran?</li><li>Apa yang ingin dipelajari lebih lanjut?</li></ol></td>
     </tr>
@@ -197,12 +197,12 @@
         <td></td>
     </tr>
     <tr>
-        <td>a</td>
+        <td></td>
         <td>Pengayaan</td>
         <td><ol><li>Membaca teks naratif dari berbagai budaya</li><li>Menulis cerita pendek kreatif</li><li>Membuat video storytelling</li><li>Menganalisis film dengan struktur naratif</li></ol></td>
     </tr>
     <tr>
-        <td>b</td>
+        <td></td>
         <td>Remedial</td>
         <td><ol><li>Pembelajaran individual dengan pendampingan</li><li>Latihan tambahan mengidentifikasi struktur teks</li><li>Peer tutoring dengan siswa yang sudah paham</li><li>Penggunaan media visual untuk mempermudah pemahaman</li></ol></td>
     </tr>
