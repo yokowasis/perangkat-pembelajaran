@@ -55,7 +55,10 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### Kelas XII
 
-- [📖 Narrative Text - Pertemuan 1](english/xii/narative-text-xii.md) - Analisis mendalam teks naratif
+- [📖 Narrative Text - Pertemuan 1](english/xii/narative-text-xii.md) - Pengenalan struktur dan unsur teks naratif
+- [📖 Narrative Text - Pertemuan 2](english/xii/narrative-text-xii-meeting2.md) - Analisis fitur kebahasaan dan teknik naratif
+- [📖 Narrative Text - Pertemuan 3](english/xii/narrative-text-xii-meeting3.md) - Praktik menulis teks naratif kreatif
+- [📖 Narrative Text - Pertemuan 4](english/xii/narrative-text-xii-meeting4.md) - Presentasi dan evaluasi akhir
 
 ## 👨‍🏫 Informasi Penyusun
 

@@ -12,6 +12,9 @@
 - **📚 Kelas XII (Grade 12)**
 
   - [📖 Narrative Text - Pertemuan 1](english/xii/narative-text-xii.md)
+  - [📖 Narrative Text - Pertemuan 2](english/xii/narrative-text-xii-meeting2.md)
+  - [📖 Narrative Text - Pertemuan 3](english/xii/narrative-text-xii-meeting3.md)
+  - [📖 Narrative Text - Pertemuan 4](english/xii/narrative-text-xii-meeting4.md)
 
 - **📋 Dokumentasi**
   - [⚙️ AGENTS.md](AGENTS.md)
