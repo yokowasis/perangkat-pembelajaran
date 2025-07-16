@@ -2,7 +2,7 @@
 
 <table>
 <thead>
-    <tr>
+    <tr class="header">
         <th>No</th>
         <th>Komponen</th>
         <th>Deskripsi</th>
@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td></td>
-        <td>Nama INstitusi</td>
+        <td>Nama Institusi</td>
         <td>MAN 1 Kota Bima</td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
         <td>Alokasi Waktu</td>
         <td>2 x 45 menit</td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
         <td></td>
@@ -69,7 +69,7 @@
         <td>Lingkungan Belajar</td>
         <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
         <td></td>
@@ -79,7 +79,7 @@
         <td>Profil Pelajar Pancasila yang berkaitan</td>
         <td><ol><li>Bernalar Kritis: Menganalisis struktur dan makna teks naratif dengan logis dan sistematis</li><li>Kreatif: Menyusun teks naratif yang orisinal dan inovatif dengan imajinasi</li><li>Berkebinekaan Global: Memahami nilai budaya dalam cerita dari berbagai negara dan menghargai perbedaan</li><li>Mandiri: Mengembangkan kemampuan belajar bahasa Inggris secara konsisten dan bertanggung jawab</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat, dan Bahan</td>
         <td></td>
@@ -94,7 +94,7 @@
         <td>Fasilitas / Alat Bantu</td>
         <td><ol><li>Proyektor dan layar</li><li>Speaker untuk audio</li><li>Papan tulis dan spidol</li><li>Laptop/komputer</li><li>Kartu kata (vocabulary cards)</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
         <td></td>
@@ -104,7 +104,7 @@
         <td>Mode Pembelajaran</td>
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Metode Cooperative Learning</li><li>Pendekatan Komunikatif</li><li>Teknik Think-Pair-Share</li><li>Pembelajaran Berbasis Tugas (Task-Based Learning)</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
         <td></td>
@@ -129,7 +129,7 @@
         <td>Penutup (5 menit)</td>
         <td><ol><li>Menyimpulkan materi pembelajaran</li><li>Memberikan tugas untuk pertemuan berikutnya</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>7</td>
         <td>Assessment</td>
         <td></td>
@@ -159,7 +159,7 @@
         <td>Kriteria Penilaian</td>
         <td><ol><li>Sangat Baik (86-100): Menguasai semua indikator</li><li>Baik (71-85): Menguasai sebagian besar indikator</li><li>Cukup (56-70): Menguasai sebagian indikator</li><li>Kurang (<55): Belum menguasai indikator</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
         <td></td>
@@ -174,12 +174,24 @@
         <td>Refleksi Siswa</td>
         <td><ol><li>Apa yang paling menarik dari pembelajaran hari ini?</li><li>Kesulitan apa yang dihadapi dalam memahami materi?</li><li>Bagaimana perasaan setelah mengikuti pembelajaran?</li><li>Apa yang ingin dipelajari lebih lanjut?</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
-        <td><ol><li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas XII</li><li>Richards, J.C. (2021). Communicative Language Teaching</li><li>Anderson, M. (2020). Text Types in English</li><li>Brown, H.D. (2019). Teaching by Principles</li><li>www.britishcouncil.org - Learning English Stories</li></ol></td>
+        <td></td>
     </tr>
     <tr>
+        <td></td>
+        <td colspan="2">
+            <ul style="font-weight:normal">
+                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas XII</li>
+                <li>Richards, J.C. (2021). Communicative Language Teaching</li>
+                <li>Anderson, M. (2020). Text Types in English</li>
+                <li>Brown, H.D. (2019). Teaching by Principles</li>
+                <li>www.britishcouncil.org - Learning English Stories</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>
         <td></td>
