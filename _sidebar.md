@@ -6,6 +6,8 @@
 
   - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md)
   - [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md)
+  - [📖 Descriptive Text - Pertemuan 3](english/x/descriptive-text-x-meeting3.md)
+  - [📖 Descriptive Text - Pertemuan 4](english/x/descriptive-text-x-meeting4.md)
 
 - **📚 Kelas XII (Grade 12)**
 
