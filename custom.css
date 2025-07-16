@@ -73,3 +73,117 @@ body {
 .markdown-section table tr:hover {
   background-color: var(--accent-color);
 }
+
+/* ==========================================
+   PRINT STYLES
+   ========================================== */
+@media print {
+  .markdown-section table tr:first-child.header td {
+    background: none !important;
+    color: var(--text-dark) !important;
+  }
+
+  /* Hide sidebar */
+  .sidebar,
+  .sidebar-toggle,
+  aside.sidebar {
+    display: none !important;
+  }
+
+  /* Hide edit document buttons */
+  .edit-document,
+  .edit-on-github,
+  .edit-link,
+  [href*="edit"],
+  .edit-doc,
+  .docsify-edit-on-github,
+  .edit-page,
+  .github-corner,
+  .edit-button,
+  a[title*="edit"],
+  a[title*="Edit"] {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  /* Hide first paragraph containing edit document link */
+  .markdown-section p:first-child {
+    display: none !important;
+  }
+
+  /* Hide navigation (previous/next) */
+  .pagination-item,
+  .pagination-item-title,
+  .docsify-pagination,
+  nav[aria-label="pagination"] {
+    display: none !important;
+  }
+
+  /* Adjust main content for full width */
+  .content,
+  .markdown-section,
+  main,
+  section.content,
+  .app-main {
+    margin: 0 !important;
+    margin-left: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    width: 100% !important;
+    left: 0 !important;
+    transform: translateX(0) !important;
+  }
+
+  /* Override Docsify's default sidebar spacing */
+  body {
+    margin-left: 0 !important;
+  }
+
+  /* Normalize header font sizes */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 14pt !important;
+    margin: 10pt 0 5pt 0 !important;
+    page-break-after: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Keep title and table together */
+  h1 + table,
+  h2 + table,
+  h3 + table {
+    page-break-before: avoid !important;
+  }
+
+  /* Reduce table cell padding */
+  .markdown-section table td,
+  .markdown-section table th {
+    padding: 4px 6px !important;
+    font-size: 10pt !important;
+  }
+
+  /* Full width tables with no margins */
+  .markdown-section table {
+    width: 100% !important;
+    margin: 0 !important;
+    page-break-inside: avoid;
+  }
+
+  /* Remove hover effects for print */
+  .markdown-section table tr:hover {
+    background-color: transparent !important;
+  }
+
+  /* Ensure good contrast for print */
+  .markdown-section table tr.header td,
+  .markdown-section table tr.header th {
+    background-color: #333 !important;
+    color: white !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
