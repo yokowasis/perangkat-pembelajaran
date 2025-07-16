@@ -2,6 +2,10 @@
 
 > Modul Ajar Kurikulum Merdeka untuk Mata Pelajaran Bahasa Inggris
 
+## 🌐 Homepage
+
+**Live Site**: [https://modul-belajar.code.app.web.id/](https://modul-belajar.code.app.web.id/)
+
 ## 📖 Tentang Proyek Ini
 
 Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggris yang disusun berdasarkan **Kurikulum Merdeka**. Setiap modul dirancang untuk memfasilitasi pembelajaran yang efektif dan sesuai dengan Capaian Pembelajaran (CP) yang telah ditetapkan.
@@ -48,17 +52,17 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### Kelas X
 
-- [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md) - Pengenalan teks deskriptif untuk siswa pemula
-- [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md) - Struktur dan fitur kebahasaan teks deskriptif
-- [📖 Descriptive Text - Pertemuan 3](english/x/descriptive-text-x-meeting3.md) - Praktik menulis deskripsi sederhana
-- [📖 Descriptive Text - Pertemuan 4](english/x/descriptive-text-x-meeting4.md) - Presentasi dan evaluasi akhir
+- [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x) - Pengenalan teks deskriptif untuk siswa pemula
+- [📖 Descriptive Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting2) - Struktur dan fitur kebahasaan teks deskriptif
+- [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting3) - Praktik menulis deskripsi sederhana
+- [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting4) - Presentasi dan evaluasi akhir
 
 ### Kelas XII
 
-- [📖 Narrative Text - Pertemuan 1](english/xii/narative-text-xii.md) - Pengenalan struktur dan unsur teks naratif
-- [📖 Narrative Text - Pertemuan 2](english/xii/narrative-text-xii-meeting2.md) - Analisis fitur kebahasaan dan teknik naratif
-- [📖 Narrative Text - Pertemuan 3](english/xii/narrative-text-xii-meeting3.md) - Praktik menulis teks naratif kreatif
-- [📖 Narrative Text - Pertemuan 4](english/xii/narrative-text-xii-meeting4.md) - Presentasi dan evaluasi akhir
+- [📖 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xii/narative-text-xii) - Pengenalan struktur dan unsur teks naratif
+- [📖 Narrative Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting2) - Analisis fitur kebahasaan dan teknik naratif
+- [📖 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting3) - Praktik menulis teks naratif kreatif
+- [📖 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting4) - Presentasi dan evaluasi akhir
 
 ## 👨‍🏫 Informasi Penyusun
 
@@ -68,7 +72,7 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ## 🛠️ Untuk Developer
 
-Jika Anda ingin berkontribusi atau mengembangkan modul ini lebih lanjut, silakan baca [AGENTS.md](AGENTS.md) untuk panduan teknis dan format yang digunakan.
+Jika Anda ingin berkontribusi atau mengembangkan modul ini lebih lanjut, silakan baca [AGENTS.md](https://modul-belajar.code.app.web.id/#/AGENTS) untuk panduan teknis dan format yang digunakan.
 
 ## 📄 Lisensi
 
