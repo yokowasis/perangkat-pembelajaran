@@ -35,7 +35,8 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.markdown-section table th {
+.markdown-section table tr.header td,
+.markdown-section table tr.header th {
   background-color: var(--primary-color);
   color: white;
   padding: 12px;

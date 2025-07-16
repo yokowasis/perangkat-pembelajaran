@@ -2,7 +2,7 @@
 
 <table>
 <thead>
-    <tr>
+    <tr class="header">
         <th>No</th>
         <th>Komponen</th>
         <th>Deskripsi</th>
@@ -59,7 +59,7 @@
         <td>Pertemuan</td>
         <td>1 (Pretest dan Pengenalan Dasar)</td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
         <td></td>
@@ -89,7 +89,7 @@
         <td>Lingkungan Belajar</td>
         <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
         <td></td>
@@ -99,7 +99,7 @@
         <td>Profil Pelajar Pancasila yang berkaitan</td>
         <td><ol><li>Bernalar Kritis: Mengamati dan menganalisis objek di sekitar dengan logis untuk dideskripsikan</li><li>Kreatif: Menggunakan imajinasi dalam mendeskripsikan objek dengan kata-kata sederhana</li><li>Mandiri: Berani mencoba menggunakan bahasa Inggris meskipun kosakata masih terbatas</li><li>Gotong Royong: Bekerja sama dalam aktivitas kelompok untuk saling membantu memahami materi</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat dan Bahan</td>
         <td></td>
@@ -114,7 +114,7 @@
         <td>Fasilitas / Alat Bantu</td>
         <td><ol><li>Proyektor dan layar</li><li>Papan tulis dan spidol warna-warni</li><li>Kertas pretest dan lembar jawaban</li><li>Gambar-gambar untuk media pembelajaran</li><li>Kartu kosakata bergambar</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
         <td></td>
@@ -124,7 +124,7 @@
         <td>Mode Pembelajaran</td>
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Pendekatan Komunikatif sederhana</li><li>Metode Total Physical Response (TPR)</li><li>Teknik demonstrasi dan peniruan</li><li>Pembelajaran berbasis gambar (Visual Learning)</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
         <td></td>
@@ -140,16 +140,16 @@
         <td><ol><li>Pretest (20 menit): Siswa mengerjakan soal untuk mengukur kemampuan awal memahami teks deskriptif sederhana</li><li>Pengenalan konsep (5 menit): Guru menjelaskan apa itu descriptive text menggunakan bahasa campuran</li><li>Demonstrasi (3 menit): Guru mencontohkan mendeskripsikan benda di kelas dengan kata-kata sangat sederhana</li><li>Observasi gambar (2 menit): Siswa mengamati gambar dan mencoba menyebutkan kata-kata yang mereka ketahui</li></ol></td>
     </tr>
     <tr>
-        <td>c</td>
+        <td></td>
         <td>Refleksi Ringan</td>
         <td><ol><li>Siswa berbagi perasaan setelah mengerjakan pretest</li><li>Guru memberikan motivasi dan dukungan</li><li>Identifikasi kosakata yang sudah diketahui siswa</li></ol></td>
     </tr>
     <tr>
-        <td>d</td>
+        <td></td>
         <td>Penutup (5 menit)</td>
         <td><ol><li>Guru menyampaikan bahwa pretest bukan untuk nilai</li><li>Preview materi untuk pertemuan berikutnya</li><li>Motivasi untuk belajar kosakata sederhana di rumah</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>7</td>
         <td>Assessment</td>
         <td></td>
@@ -179,7 +179,7 @@
         <td>Kriteria Penilaian</td>
         <td>Untuk Pretest (diagnostik, bukan untuk nilai):<ol><li>Tinggi (>75%): Sudah mengenal konsep dasar deskripsi</li><li>Sedang (50-75%): Mengenal sebagian kosakata dasar</li><li>Rendah (25-50%): Mengenal sedikit kosakata</li><li>Sangat Rendah (<25%): Perlu bimbingan intensif</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
         <td></td>
@@ -194,12 +194,22 @@
         <td>Refleksi Siswa</td>
         <td><ol><li>Bagaimana perasaan kalian tentang bahasa Inggris hari ini?</li><li>Kata-kata bahasa Inggris apa yang sudah kalian ketahui?</li><li>Apa yang paling sulit dari soal pretest tadi?</li><li>Apa yang ingin kalian pelajari tentang bahasa Inggris?</li></ol></td>
     </tr>
-    <tr>
+    <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
-        <td><ol><li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X</li><li>Harmer, J. (2019). The Practice of English Language Teaching</li><li>Richards, J.C. (2020). Teaching English for Beginners</li><li>Nation, I.S.P. (2021). Learning Vocabulary in Another Language</li><li>Visual dictionaries for beginner English learners</li></ol></td>
+        <td></td>
     </tr>
     <tr>
+        <td></td>
+        <td colspan="2">
+            <ul style="font-weight:normal">
+                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X</li><li>Harmer, J. (2019). The Practice of English Language Teaching</li>
+                <li>Richards, J.C. (2020). Teaching English for Beginners</li>
+                <li>Nation, I.S.P. (2021). Learning Vocabulary in Another Language</li><li>Visual dictionaries for beginner English learners</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>
         <td></td>
