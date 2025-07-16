@@ -9,7 +9,7 @@
     </tr>
 </thead>
 <tbody>
-    <!-- KOMPONEN 1: INFORMASI UMUM -->
+
     <tr class="header">
         <td>1</td>
         <td>Informasi Umum</td>
@@ -61,7 +61,7 @@
         <td>4 (Presentasi dan Evaluasi Akhir)</td>
     </tr>
 
-    <!-- KOMPONEN 2: TUJUAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
@@ -93,7 +93,7 @@
         <td>Indoor (kelas), presentation setup dengan LCD, audience seating arrangement</td>
     </tr>
 
-    <!-- KOMPONEN 3: ALUR TUJUAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
@@ -105,7 +105,7 @@
         <td><ol><li>Bernalar Kritis: Mengevaluasi kemajuan pembelajaran dan memberikan feedback yang konstruktif</li><li>Kreatif: Menyajikan tulisan dengan cara yang menarik dan engaging</li><li>Mandiri: Percaya diri mempresentasikan hasil karya sendiri di depan kelas</li><li>Berkebinekaan Global: Menghargai keragaman ide dan perspektif dalam tulisan teman</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 4: MATERI AJAR, ALAT, DAN BAHAN -->
+
     <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat, dan Bahan</td>
@@ -122,7 +122,7 @@
         <td><ol><li>Podium atau area presentasi di depan kelas</li><li>Microphone (jika tersedia) untuk presentasi</li><li>Papan skor atau evaluation board</li><li>Kamera untuk dokumentasi (optional)</li><li>Timer untuk mengatur waktu presentasi</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 5: MODEL PEMBELAJARAN -->
+
     <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
@@ -134,7 +134,7 @@
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Model Performance-Based Learning</li><li>Pendekatan Komunikatif dengan fokus presentation skills</li><li>Teknik Show and Tell untuk sharing tulisan</li><li>Assessment autentik melalui portfolio dan performance</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 6: URUTAN KEGIATAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
@@ -161,7 +161,7 @@
         <td><ol><li>Announcement hasil posttest dan improvement</li><li>Awarding best presentation atau most improved writer</li><li>Closing remarks dan motivasi untuk terus berlatih</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 7: ASSESSMENT -->
+
     <tr class="header">
         <td>7</td>
         <td>Assessment</td>
@@ -193,7 +193,7 @@
         <td><ol><li>Sangat Baik (86-100): Presentasi confident, content clear, significant improvement</li><li>Baik (71-85): Presentasi baik, content organized, good improvement</li><li>Cukup (56-70): Presentasi cukup, content basic, some improvement</li><li>Kurang (<55): Presentasi perlu bimbingan, content unclear, minimal improvement</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 8: REFLEKSI GURU DAN SISWA -->
+
     <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
@@ -210,7 +210,7 @@
         <td><ol><li>Apa yang paling berkesan dari pembelajaran descriptive text ini?</li><li>Seberapa percaya diri sekarang dalam menulis dan mempresentasikan?</li><li>Skill apa yang paling berkembang selama 4 pertemuan ini?</li><li>Bagaimana rencana untuk terus mengembangkan kemampuan writing?</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 9: DAFTAR PUSTAKA -->
+
     <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
@@ -229,7 +229,7 @@
         </td>
     </tr>
 
-    <!-- KOMPONEN 10: PENGAYAAN DAN REMEDIAL -->
+
     <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>

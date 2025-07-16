@@ -9,7 +9,7 @@
     </tr>
 </thead>
 <tbody>
-    <!-- KOMPONEN 1: INFORMASI UMUM -->
+
     <tr class="header">
         <td>1</td>
         <td>Informasi Umum</td>
@@ -61,7 +61,7 @@
         <td>3 (Praktik Menulis Deskripsi Sederhana)</td>
     </tr>
 
-    <!-- KOMPONEN 2: TUJUAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
@@ -93,7 +93,7 @@
         <td>Indoor (kelas), menggunakan LCD / whiteboard, individual writing space</td>
     </tr>
 
-    <!-- KOMPONEN 3: ALUR TUJUAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
@@ -105,7 +105,7 @@
         <td><ol><li>Bernalar Kritis: Memilih kata dan kalimat yang tepat untuk menyampaikan deskripsi</li><li>Kreatif: Mengembangkan ide dan mengekspresikannya dalam bentuk tulisan</li><li>Mandiri: Berinisiatif menulis secara mandiri dengan percaya diri</li><li>Gotong Royong: Memberikan feedback konstruktif kepada teman untuk perbaikan tulisan</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 4: MATERI AJAR, ALAT, DAN BAHAN -->
+
     <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat, dan Bahan</td>
@@ -122,7 +122,7 @@
         <td><ol><li>Kertas folio bergaris untuk menulis</li><li>Papan tulis untuk brainstorming kata</li><li>Proyektor untuk menampilkan writing template</li><li>Timer untuk time management</li><li>Kamus mini untuk referensi siswa</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 5: MODEL PEMBELAJARAN -->
+
     <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
@@ -134,7 +134,7 @@
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Model Guided Writing (Writing Process Approach)</li><li>Pendekatan Komunikatif dengan fokus production</li><li>Teknik Think-Pair-Share untuk peer feedback</li><li>Individual writing dengan teacher scaffolding</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 6: URUTAN KEGIATAN PEMBELAJARAN -->
+
     <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
@@ -161,7 +161,7 @@
         <td><ol><li>Menyimpulkan langkah-langkah menulis deskripsi yang baik</li><li>Siswa menyerahkan draft tulisan untuk feedback dari guru</li><li>Preview: Pertemuan berikutnya akan fokus pada presentation</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 7: ASSESSMENT -->
+
     <tr class="header">
         <td>7</td>
         <td>Assessment</td>
@@ -193,7 +193,7 @@
         <td><ol><li>Sangat Baik (86-100): Struktur lengkap, grammar tepat, ide kreatif</li><li>Baik (71-85): Struktur jelas, grammar sebagian besar benar, ide relevan</li><li>Cukup (56-70): Struktur dasar ada, grammar sederhana, ide minimal</li><li>Kurang (<55): Struktur tidak jelas, banyak error, ide kurang berkembang</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 8: REFLEKSI GURU DAN SISWA -->
+
     <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
@@ -210,7 +210,7 @@
         <td><ol><li>Bagaimana perasaan setelah mencoba menulis deskripsi sendiri?</li><li>Bagian apa yang paling sulit dalam proses menulis tadi?</li><li>Apakah feedback dari teman membantu memperbaiki tulisan?</li><li>Apa yang ingin diperbaiki untuk tulisan berikutnya?</li></ol></td>
     </tr>
 
-    <!-- KOMPONEN 9: DAFTAR PUSTAKA -->
+
     <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
@@ -229,7 +229,7 @@
         </td>
     </tr>
 
-    <!-- KOMPONEN 10: PENGAYAAN DAN REMEDIAL -->
+
     <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>
