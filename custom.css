@@ -34,6 +34,10 @@ body {
   background-color: white;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+.markdown-section table tr:first-child.header td {
+  background: none;
+  color: var(--text-dark);
+}
 
 .markdown-section table tr.header td,
 .markdown-section table tr.header th {
