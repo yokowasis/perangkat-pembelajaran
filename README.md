@@ -49,6 +49,7 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 ### Kelas X
 
 - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md) - Pengenalan teks deskriptif untuk siswa pemula
+- [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md) - Struktur dan fitur kebahasaan teks deskriptif
 
 ### Kelas XII
 

@@ -9,7 +9,6 @@
     </tr>
 </thead>
 <tbody>
-    <!-- KOMPONEN 1: INFORMASI UMUM -->
     <tr class="header">
         <td>1</td>
         <td>Informasi Umum</td>
@@ -60,8 +59,6 @@
         <td>Pertemuan</td>
         <td>2 (Struktur dan Fitur Kebahasaan)</td>
     </tr>
-
-    <!-- KOMPONEN 2: TUJUAN PEMBELAJARAN -->
     <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
@@ -92,8 +89,6 @@
         <td>Lingkungan Belajar</td>
         <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
     </tr>
-
-    <!-- KOMPONEN 3: ALUR TUJUAN PEMBELAJARAN -->
     <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
@@ -104,8 +99,6 @@
         <td>Profil Pelajar Pancasila yang berkaitan</td>
         <td><ol><li>Bernalar Kritis: Menganalisis struktur dan fitur kebahasaan teks deskriptif secara sistematis</li><li>Kreatif: Menggunakan kreativitas dalam memilih kata sifat yang tepat untuk deskripsi</li><li>Mandiri: Mengembangkan kemampuan menganalisis teks secara mandiri</li><li>Gotong Royong: Berkolaborasi dalam aktivitas kelompok untuk menganalisis teks bersama</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 4: MATERI AJAR, ALAT, DAN BAHAN -->
     <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat, dan Bahan</td>
@@ -121,8 +114,6 @@
         <td>Fasilitas / Alat Bantu</td>
         <td><ol><li>Proyektor dan layar</li><li>Laptop/komputer</li><li>Papan tulis dan spidol warna</li><li>Kartu kata sifat (adjective cards)</li><li>Lembar kerja siswa (worksheet)</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 5: MODEL PEMBELAJARAN -->
     <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
@@ -133,8 +124,6 @@
         <td>Mode Pembelajaran</td>
         <td><ol><li>Pembelajaran Tatap Muka</li><li>Model Discovery Learning</li><li>Pendekatan Komunikatif (Communicative Approach)</li><li>Teknik Jigsaw untuk analisis teks</li><li>Pembelajaran Kolaboratif</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 6: URUTAN KEGIATAN PEMBELAJARAN -->
     <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
@@ -160,8 +149,6 @@
         <td>Penutup (10 menit)</td>
         <td><ol><li>Menyimpulkan materi tentang struktur dan fitur kebahasaan</li><li>Memberikan tugas untuk mencari contoh teks deskriptif</li><li>Preview materi pertemuan berikutnya</li><li>Doa penutup dan salam</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 7: ASSESSMENT -->
     <tr class="header">
         <td>7</td>
         <td>Assessment</td>
@@ -192,8 +179,6 @@
         <td>Kriteria Penilaian</td>
         <td><ol><li>Sangat Baik (86-100): Mengidentifikasi struktur dan fitur dengan sempurna</li><li>Baik (71-85): Mengidentifikasi sebagian besar struktur dan fitur dengan benar</li><li>Cukup (56-70): Mengidentifikasi struktur dasar dengan bantuan</li><li>Kurang (<55): Belum mampu mengidentifikasi struktur teks</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 8: REFLEKSI GURU DAN SISWA -->
     <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
@@ -209,8 +194,6 @@
         <td>Refleksi Siswa</td>
         <td><ol><li>Apa yang paling menarik dari mempelajari struktur teks hari ini?</li><li>Bagian mana dari analisis teks yang masih sulit dipahami?</li><li>Bagaimana perasaan setelah bekerja dalam kelompok?</li><li>Skill apa yang ingin dikembangkan di pertemuan berikutnya?</li></ol></td>
     </tr>
-
-    <!-- KOMPONEN 9: DAFTAR PUSTAKA -->
     <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
@@ -228,8 +211,6 @@
             </ul>
         </td>
     </tr>
-
-    <!-- KOMPONEN 10: PENGAYAAN DAN REMEDIAL -->
     <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>
@@ -247,3 +228,4 @@
     </tr>
 </tbody>
 </table>
+

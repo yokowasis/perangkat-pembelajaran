@@ -19,7 +19,6 @@
     </tr>
 </thead>
 <tbody>
-    <!-- KOMPONEN 1: INFORMASI UMUM -->
     <tr class="header">
         <td>1</td>
         <td>Informasi Umum</td>
@@ -70,7 +69,6 @@
         <td>Pertemuan</td>
         <td>[Nomor pertemuan dan deskripsi]</td>
     </tr>
-    <!-- KOMPONEN 2: TUJUAN PEMBELAJARAN -->
     <tr class="header">
         <td>2</td>
         <td>Tujuan Pembelajaran</td>
@@ -101,7 +99,6 @@
         <td>Lingkungan Belajar</td>
         <td>[Indoor/Outdoor, fasilitas yang digunakan]</td>
     </tr>
-    <!-- KOMPONEN 3: ALUR TUJUAN PEMBELAJARAN -->
     <tr class="header">
         <td>3</td>
         <td>Alur Tujuan Pembelajaran</td>
@@ -112,7 +109,6 @@
         <td>Profil Pelajar Pancasila yang berkaitan</td>
         <td><ol><li>[Dimensi 1: Deskripsi relevansi]</li><li>[Dimensi 2: Deskripsi relevansi]</li><li>[Dimensi 3: Deskripsi relevansi]</li><li>[Dimensi 4: Deskripsi relevansi]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 4: MATERI AJAR, ALAT, DAN BAHAN -->
     <tr class="header">
         <td>4</td>
         <td>Materi Ajar, Alat, dan Bahan</td>
@@ -128,7 +124,6 @@
         <td>Fasilitas / Alat Bantu</td>
         <td><ol><li>[Alat 1]</li><li>[Alat 2]</li><li>[Alat 3]</li><li>[Alat 4]</li><li>[Alat 5]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 5: MODEL PEMBELAJARAN -->
     <tr class="header">
         <td>5</td>
         <td>Model Pembelajaran</td>
@@ -139,7 +134,6 @@
         <td>Mode Pembelajaran</td>
         <td><ol><li>[Mode 1]</li><li>[Mode 2]</li><li>[Mode 3]</li><li>[Mode 4]</li><li>[Mode 5]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 6: URUTAN KEGIATAN PEMBELAJARAN -->
     <tr class="header">
         <td>6</td>
         <td>Urutan Kegiatan Pembelajaran</td>
@@ -165,7 +159,6 @@
         <td>Penutup ([X] menit)</td>
         <td><ol><li>[Kegiatan penutup 1]</li><li>[Kegiatan penutup 2]</li><li>[Kegiatan penutup 3]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 7: ASSESSMENT -->
     <tr class="header">
         <td>7</td>
         <td>Assessment</td>
@@ -196,7 +189,6 @@
         <td>Kriteria Penilaian</td>
         <td><ol><li>[Kriteria level 1]</li><li>[Kriteria level 2]</li><li>[Kriteria level 3]</li><li>[Kriteria level 4]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 8: REFLEKSI GURU DAN SISWA -->
     <tr class="header">
         <td>8</td>
         <td>Refleksi Guru dan Siswa</td>
@@ -212,7 +204,6 @@
         <td>Refleksi Siswa</td>
         <td><ol><li>[Pertanyaan refleksi siswa 1]</li><li>[Pertanyaan refleksi siswa 2]</li><li>[Pertanyaan refleksi siswa 3]</li><li>[Pertanyaan refleksi siswa 4]</li></ol></td>
     </tr>
-    <!-- KOMPONEN 9: DAFTAR PUSTAKA -->
     <tr class="header">
         <td>9</td>
         <td>Daftar Pustaka</td>
@@ -230,7 +221,6 @@
             </ul>
         </td>
     </tr>
-    <!-- KOMPONEN 10: PENGAYAAN DAN REMEDIAL -->
     <tr class="header">
         <td>10</td>
         <td>Pengayaan dan Remedial</td>
