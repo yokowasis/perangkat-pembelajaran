@@ -30,6 +30,16 @@
   - [🧠 Induksi & Deduksi Logika](tik/ix/induksi-deduksi-logika-ix.md)
   - [🤖 Latihan Berpikir Komputasional](tik/ix/berpikir-komputasional-latihan-ix.md)
   - [🎯 Latihan Simulasi & Optimisasi](tik/ix/simulasi-optimisasi-latihan-diskusi-ix.md)
+  - [⌨️ Input/Output Dasar](tik/ix/input-output-ix.md)
+  - [📋 Algoritma Sederhana - Pertemuan 1](tik/ix/algoritma-sederhana-1-ix.md)
+  - [📋 Algoritma Sederhana - Pertemuan 2](tik/ix/algoritma-sederhana-2-ix.md)
+  - [🔀 Struktur Percabangan](tik/ix/struktur-percabangan-ix.md)
+  - [🔄 Struktur Perulangan](tik/ix/struktur-perulangan-ix.md)
+  - [📊 Array Satu Dimensi](tik/ix/array-satu-dimensi-ix.md)
+  - [🔧 Subprogram (Fungsi/Prosedur)](tik/ix/subprogram-fungsi-ix.md)
+  - [🔁 Rekursi Dasar](tik/ix/rekursi-dasar-ix.md)
+  - [💻 Latihan Pemrograman - Pertemuan 1](tik/ix/latihan-pemrograman-1-ix.md)
+  - [💻 Latihan Pemrograman - Pertemuan 2](tik/ix/latihan-pemrograman-2-ix.md)
 
 - **📚 Kelas XII (Grade 12)**
 

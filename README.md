@@ -81,6 +81,19 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [🤖 Latihan Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/tik/ix/berpikir-komputasional-latihan-ix) - Latihan berpikir komputasional
 - [🎯 Latihan Simulasi & Optimisasi](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-optimisasi-latihan-diskusi-ix) - Latihan & diskusi soal simulasi/optimisasi
 
+#### 5. Dasar Pemrograman (10 JP)
+
+- [⌨️ Input/Output Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/input-output-ix) - Masukan/keluaran (input/output)
+- [📋 Algoritma Sederhana - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-1-ix) - Membaca dan memahami algoritma sederhana
+- [📋 Algoritma Sederhana - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-2-ix) - Merancang dan menulis algoritma sederhana
+- [🔀 Struktur Percabangan](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-percabangan-ix) - Struktur percabangan (if-else, elif)
+- [🔄 Struktur Perulangan](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-perulangan-ix) - Struktur perulangan (for, while)
+- [📊 Array Satu Dimensi](https://modul-belajar.code.app.web.id/#/tik/ix/array-satu-dimensi-ix) - Array (larik) satu dimensi
+- [🔧 Subprogram (Fungsi/Prosedur)](https://modul-belajar.code.app.web.id/#/tik/ix/subprogram-fungsi-ix) - Subprogram (fungsi/prosedur)
+- [🔁 Rekursi Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/rekursi-dasar-ix) - Rekursi dasar
+- [💻 Latihan Pemrograman - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-1-ix) - Latihan & diskusi soal pemrograman
+- [💻 Latihan Pemrograman - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-2-ix) - Sintesis dan evaluasi akhir
+
 ### Bahasa Inggris - Kelas X
 
 - [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x) - Pengenalan teks deskriptif untuk siswa pemula
