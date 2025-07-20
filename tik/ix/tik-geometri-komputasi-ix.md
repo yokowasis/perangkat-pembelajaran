@@ -17,27 +17,27 @@
     <tr>
         <td></td>
         <td>Nama Penyusun</td>
-        <td>Tim Pengembang Kurikulum TIK</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
     </tr>
     <tr>
         <td></td>
         <td>Nama Institusi</td>
-        <td>SMP Negeri</td>
+        <td>MTs Negeri 1 Kota Bima</td>
     </tr>
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2025</td>
+        <td>2024</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMP</td>
+        <td>MTs</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>IX (Sembilan)</td>
+        <td>IX</td>
     </tr>
     <tr>
         <td></td>
@@ -67,17 +67,21 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase D, peserta didik mampu memahami konsep dasar geometri komputasi dan aplikasinya dalam pemecahan masalah berbasis koordinat</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
+        <td>Pada akhir Fase D, peserta didik mampu menerapkan proses berpikir efektif dan efisien untuk menyelesaikan persoalan berlatar belakang informatika yang didasari data terstruktur, menentukan langkah-langkah untuk mengolah instruksi interaktif dan data yang dapat dijalankan oleh manusia atau mesin otomasi, dan memanfaatkan dengan optimal sekumpulan fasilitas yang tersedia, memanfaatkan data internet, serta mampu bersosialisasi dan berkolaborasi dengan baik, serta berkreasi dengan etis di dunia digital.</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td>
-            <ul>
-                <li>Sistem koordinat dan representasi titik</li>
-                <li>Operasi geometri dasar: jarak, sudut, area</li>
-                <li>Algoritma geometri sederhana</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -300,7 +304,7 @@
         <td>
             <ol>
                 <li>Apakah software interaktif membantu visualisasi konsep?</li>
-                <li>Bagaimana tingkat kesulitan materi untuk siswa SMP?</li>
+                <li>Bagaimana tingkat kesulitan materi untuk siswa MTs?</li>
                 <li>Metode mana yang paling efektif untuk mengajarkan algoritma?</li>
                 <li>Perlu penyesuaian apa dalam balance teori dan praktik?</li>
             </ol>
@@ -329,7 +333,7 @@
             <ul style="font-weight:normal">
                 <li>de Berg, Mark. (2008). Computational Geometry: Algorithms and Applications. Springer.</li>
                 <li>O'Rourke, Joseph. (1998). Computational Geometry in C. Cambridge University Press.</li>
-                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika SMP.</li>
+                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika MTs.</li>
                 <li>Computational Geometry Tutorial. (2024). GeeksforGeeks Educational Resources.</li>
                 <li>Interactive Geometry Software. (2024). GeoGebra Institute Resources.</li>
             </ul>

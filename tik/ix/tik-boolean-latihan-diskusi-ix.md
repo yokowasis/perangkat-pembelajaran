@@ -17,27 +17,27 @@
     <tr>
         <td></td>
         <td>Nama Penyusun</td>
-        <td>Tim Pengembang Kurikulum TIK</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
     </tr>
     <tr>
         <td></td>
         <td>Nama Institusi</td>
-        <td>SMP Negeri</td>
+        <td>MTs Negeri 1 Kota Bima</td>
     </tr>
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2025</td>
+        <td>2024</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMP</td>
+        <td>MTs</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>IX (Sembilan)</td>
+        <td>IX</td>
     </tr>
     <tr>
         <td></td>
@@ -67,17 +67,21 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase D, peserta didik mampu menyelesaikan permasalahan kompleks yang melibatkan aljabar Boolean dan operasi himpunan secara terintegrasi</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
+        <td>Pada akhir Fase D, peserta didik mampu menerapkan proses berpikir efektif dan efisien untuk menyelesaikan persoalan berlatar belakang informatika yang didasari data terstruktur, menentukan langkah-langkah untuk mengolah instruksi interaktif dan data yang dapat dijalankan oleh manusia atau mesin otomasi, dan memanfaatkan dengan optimal sekumpulan fasilitas yang tersedia, memanfaatkan data internet, serta mampu bersosialisasi dan berkolaborasi dengan baik, serta berkreasi dengan etis di dunia digital.</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td>
-            <ul>
-                <li>Penyelesaian soal kompleks aljabar Boolean</li>
-                <li>Integrasi konsep Boolean dan himpunan</li>
-                <li>Analisis dan evaluasi solusi</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -326,10 +330,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Olimpiade Sains Nasional Informatika. (2024). Kumpulan Soal OSN Informatika Tingkat SMP.</li>
+                <li>Olimpiade Sains Nasional Informatika. (2024). Kumpulan Soal OSN Informatika Tingkat MTs.</li>
                 <li>Competitive Programming Problems. (2024). Codeforces Educational Resources.</li>
                 <li>Boolean Algebra Problem Sets. (2024). Khan Academy Problem Bank.</li>
-                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika SMP.</li>
+                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika MTs.</li>
                 <li>Problem Solving Strategies in Computer Science. (2023). ACM Educational Resources.</li>
             </ul>
         </td>

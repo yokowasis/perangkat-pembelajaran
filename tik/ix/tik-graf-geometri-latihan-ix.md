@@ -17,27 +17,27 @@
     <tr>
         <td></td>
         <td>Nama Penyusun</td>
-        <td>Tim Pengembang Kurikulum TIK</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
     </tr>
     <tr>
         <td></td>
         <td>Nama Institusi</td>
-        <td>SMP Negeri</td>
+        <td>MTs Negeri 1 Kota Bima</td>
     </tr>
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2025</td>
+        <td>2024</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMP</td>
+        <td>MTs</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>IX (Sembilan)</td>
+        <td>IX</td>
     </tr>
     <tr>
         <td></td>
@@ -67,17 +67,21 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase D, peserta didik mampu mengintegrasikan konsep graf dan geometri komputasi untuk menyelesaikan masalah kompleks secara kolaboratif</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
+        <td>Pada akhir Fase D, peserta didik mampu menerapkan proses berpikir efektif dan efisien untuk menyelesaikan persoalan berlatar belakang informatika yang didasari data terstruktur, menentukan langkah-langkah untuk mengolah instruksi interaktif dan data yang dapat dijalankan oleh manusia atau mesin otomasi, dan memanfaatkan dengan optimal sekumpulan fasilitas yang tersedia, memanfaatkan data internet, serta mampu bersosialisasi dan berkolaborasi dengan baik, serta berkreasi dengan etis di dunia digital.</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td>
-            <ul>
-                <li>Sintesis konsep graf dan geometri komputasi</li>
-                <li>Problem solving dengan pendekatan multi-konsep</li>
-                <li>Evaluasi dan refleksi pembelajaran</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -299,7 +303,7 @@
         <td>
             <ol>
                 <li>Bagaimana efektivitas model rotasi masalah dengan tingkat berbeda?</li>
-                <li>Apakah integrasi graf-geometri terlalu menantang untuk tingkat SMP?</li>
+                <li>Apakah integrasi graf-geometri terlalu menantang untuk tingkat MTs?</li>
                 <li>Bagaimana kualitas kolaborasi siswa dalam problem solving?</li>
                 <li>Strategi mana yang perlu diperkuat untuk pembelajaran selanjutnya?</li>
             </ol>
@@ -328,7 +332,7 @@
             <ul style="font-weight:normal">
                 <li>Competitive Programming Problem Sets. (2024). Codeforces Educational Division.</li>
                 <li>Graph Theory and Computational Geometry Problems. (2024). AtCoder Beginner Contest.</li>
-                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika SMP.</li>
+                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika MTs.</li>
                 <li>Problem Solving Strategies in Mathematics and Computer Science. (2023). MAA Resources.</li>
                 <li>Collaborative Learning in STEM Education. (2024). Educational Research Journal.</li>
             </ul>

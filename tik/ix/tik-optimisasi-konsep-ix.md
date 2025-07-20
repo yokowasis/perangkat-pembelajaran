@@ -1,31 +1,104 @@
-# Konsep Optimisasi dalam Pemecahan Masalah
+# MODUL AJAR OPTIMISASI KONSEP PERTEMUAN 1 - KELAS IX
 
 <table>
-<thead><tr class="header"><th>No</th><th>Komponen</th><th>Deskripsi</th></tr></thead>
+<thead>
+    <tr class="header">
+        <th>No</th>
+        <th>Komponen</th>
+        <th>Deskripsi</th>
+    </tr>
+</thead>
 <tbody>
-<tr class="header"><td>1</td><td>Informasi Umum</td><td></td></tr>
-<tr><td></td><td>Mata Pelajaran</td><td>TIK (Teknologi Informasi dan Komunikasi)</td></tr>
-<tr><td></td><td>Kelas/Semester</td><td>IX / Ganjil</td></tr>
-<tr><td></td><td>Materi Pokok</td><td>Konsep Optimisasi dalam Pemecahan Masalah</td></tr>
-<tr><td></td><td>Alokasi Waktu</td><td>2 JP (2 x 40 menit)</td></tr>
-<tr class="header"><td>2</td><td>Kompetensi Inti</td><td></td></tr>
-<tr><td></td><td>KI 1</td><td>Menghayati dan mengamalkan ajaran agama yang dianutnya</td></tr>
-<tr><td></td><td>KI 2</td><td>Menunjukkan perilaku jujur, disiplin, tanggung jawab, peduli, santun, dan percaya diri</td></tr>
-<tr><td></td><td>KI 3</td><td>Memahami pengetahuan faktual, konseptual, dan prosedural berdasarkan rasa ingin tahu tentang teknologi</td></tr>
-<tr><td></td><td>KI 4</td><td>Mengolah, menalar, dan menyaji dalam ranah konkret dan abstrak terkait dengan teknologi</td></tr>
-<tr class="header"><td>3</td><td>Kompetensi Dasar</td><td></td></tr>
-<tr><td></td><td>3.5</td><td>Memahami konsep optimisasi dalam pemecahan masalah komputasi</td></tr>
-<tr><td></td><td>4.5</td><td>Menerapkan strategi optimisasi untuk menyelesaikan masalah secara efisien</td></tr>
-<tr class="header"><td>4</td><td>Indikator Pencapaian Kompetensi</td><td></td></tr>
-<tr><td></td><td>3.5.1</td><td>Menjelaskan pengertian optimisasi dan tujuannya dalam pemecahan masalah</td></tr>
-<tr><td></td><td>3.5.2</td><td>Mengidentifikasi kriteria optimisasi (maksimum, minimum, efisiensi)</td></tr>
-<tr><td></td><td>3.5.3</td><td>Menganalisis strategi optimisasi dalam algoritma sederhana</td></tr>
-<tr><td></td><td>4.5.1</td><td>Menerapkan strategi optimisasi pada masalah pencarian dan pengurutan</td></tr>
-<tr><td></td><td>4.5.2</td><td>Membandingkan efisiensi berbagai pendekatan pemecahan masalah</td></tr>
-<tr class="header"><td>5</td><td>Tujuan Pembelajaran</td><td></td></tr>
-<tr><td></td><td>Sikap</td><td>Siswa menunjukkan sikap teliti dan efisien dalam memecahkan masalah</td></tr>
-<tr><td></td><td>Pengetahuan</td><td>Siswa memahami konsep optimisasi, kriteria, dan strategi dalam pemecahan masalah</td></tr>
-<tr><td></td><td>Keterampilan</td><td>Siswa mampu menerapkan strategi optimisasi dan membandingkan efisiensi solusi</td></tr>
+    <tr class="header">
+        <td>1</td>
+        <td>Informasi Umum</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Nama Penyusun</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Nama Institusi</td>
+        <td>MTs Negeri 1 Kota Bima</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Tahun Penyusunan</td>
+        <td>2024</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jenjang Sekolah</td>
+        <td>MTs</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Kelas</td>
+        <td>IX</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mata Pelajaran</td>
+        <td>TIK (Teknologi Informasi dan Komunikasi)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Materi Pokok</td>
+        <td>Konsep Optimisasi dalam Pemecahan Masalah</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Alokasi Waktu</td>
+        <td>2 x 40 menit</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pertemuan</td>
+        <td>Pertemuan 1 - Pengenalan konsep optimisasi dalam problem solving</td>
+    </tr>
+    <tr class="header">
+        <td>2</td>
+        <td>Tujuan Pembelajaran</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fase Capaian Pembelajaran (CP)</td>
+        <td>Pada akhir Fase D, peserta didik mampu menerapkan proses berpikir efektif dan efisien untuk menyelesaikan persoalan berlatar belakang informatika yang didasari data terstruktur, menentukan langkah-langkah untuk mengolah instruksi interaktif dan data yang dapat dijalankan oleh manusia atau mesin otomasi, dan memanfaatkan dengan optimal sekumpulan fasilitas yang tersedia, memanfaatkan data internet, serta mampu bersosialisasi dan berkolaborasi dengan baik, serta berkreasi dengan etis di dunia digital.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Tujuan Pembelajaran Spesifik</td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menjelaskan pengertian optimisasi dan tujuannya dalam pemecahan masalah</li><li>Mengidentifikasi kriteria optimisasi (maksimum, minimum, efisiensi)</li><li>Menganalisis strategi optimisasi dalam algoritma sederhana</li><li>Menerapkan strategi optimisasi pada masalah pencarian dan pengurutan</li><li>Membandingkan efisiensi berbagai pendekatan pemecahan masalah</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Essential Questions</td>
+        <td><ol><li>Apa yang dimaksud dengan optimisasi dalam pemecahan masalah?</li><li>Bagaimana cara menentukan kriteria optimisasi yang tepat?</li><li>Strategi apa saja yang dapat digunakan untuk optimisasi?</li><li>Bagaimana cara membandingkan efisiensi berbagai solusi?</li><li>Kapan menggunakan greedy algorithm vs dynamic programming?</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lingkungan Belajar</td>
+        <td>Indoor - ruang kelas dengan fasilitas komputer dan diskusi kelompok</td>
+    </tr>
+    <tr class="header">
+        <td>3</td>
+        <td>Alur Tujuan Pembelajaran</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Profil Pelajar Pancasila yang berkaitan</td>
+        <td><ol><li>Bernalar Kritis: Menganalisis masalah dan memilih strategi optimisasi yang tepat</li><li>Kreatif: Mengembangkan pendekatan inovatif dalam optimisasi</li><li>Mandiri: Mengembangkan kemampuan problem solving optimal secara independen</li><li>Gotong Royong: Berkolaborasi dalam menganalisis dan membandingkan strategi</li></ol></td>
+    </tr>
 <tr class="header"><td>6</td><td>Materi Pembelajaran</td><td></td></tr>
 <tr><td></td><td>Pengertian Optimisasi</td><td>Proses mencari solusi terbaik dari sekumpulan alternatif berdasarkan kriteria tertentu</td></tr>
 <tr><td></td><td>Kriteria Optimisasi</td><td>Maksimum (keuntungan, nilai), minimum (waktu, biaya), dan efisiensi (resource, langkah)</td></tr>
@@ -42,7 +115,7 @@
 <tr class="header"><td>9</td><td>Media dan Sumber Belajar</td><td></td></tr>
 <tr><td></td><td>Media</td><td>Simulasi algoritma, flowchart optimisasi, worksheet perbandingan, dan visualisasi grafis</td></tr>
 <tr><td></td><td>Alat</td><td>Komputer/laptop, proyektor, kalkulator, stopwatch, dan alat tulis</td></tr>
-<tr><td></td><td>Sumber</td><td>Modul TIK SMP, buku algoritma, internet (situs pembelajaran optimisasi), jurnal sederhana</td></tr>
+<tr><td></td><td>Sumber</td><td>Modul TIK MTs, buku algoritma, internet (situs pembelajaran optimisasi), jurnal sederhana</td></tr>
 <tr class="header"><td>10</td><td>Penilaian</td><td></td></tr>
 <tr><td></td><td>Sikap</td><td>Observasi ketelitian dan persistence dalam mencari solusi optimal (jurnal sikap)</td></tr>
 <tr><td></td><td>Pengetahuan</td><td>Tes tertulis konsep optimisasi dan strategi (pilihan ganda dan studi kasus)</td></tr>

@@ -17,27 +17,27 @@
     <tr>
         <td></td>
         <td>Nama Penyusun</td>
-        <td>Tim Pengembang Kurikulum TIK</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
     </tr>
     <tr>
         <td></td>
         <td>Nama Institusi</td>
-        <td>SMP Negeri</td>
+        <td>MTs Negeri 1 Kota Bima</td>
     </tr>
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2025</td>
+        <td>2024</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMP</td>
+        <td>MTs</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>IX (Sembilan)</td>
+        <td>IX</td>
     </tr>
     <tr>
         <td></td>
@@ -67,17 +67,21 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase D, peserta didik mampu memahami konsep dasar teori graf sebagai fondasi pemecahan masalah dalam jaringan dan algoritma</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
+        <td>Pada akhir Fase D, peserta didik mampu menerapkan proses berpikir efektif dan efisien untuk menyelesaikan persoalan berlatar belakang informatika yang didasari data terstruktur, menentukan langkah-langkah untuk mengolah instruksi interaktif dan data yang dapat dijalankan oleh manusia atau mesin otomasi, dan memanfaatkan dengan optimal sekumpulan fasilitas yang tersedia, memanfaatkan data internet, serta mampu bersosialisasi dan berkolaborasi dengan baik, serta berkreasi dengan etis di dunia digital.</td>
+    <tr>
+        <td></td>
+        <td>Elemen Domain (CP)</td>
+        <td><ul><li>Berpikir Komputasional</li><li>Algoritma dan Pemrograman</li><li>Analisis Data dan Pemrograman</li></ul></td>
+    </tr>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td>
-            <ul>
-                <li>Pemahaman konsep simpul (vertex) dan sisi (edge)</li>
-                <li>Penguasaan konsep derajat simpul</li>
-                <li>Visualisasi dan representasi graf sederhana</li>
-            </ul>
         </td>
     </tr>
     <tr>
@@ -329,7 +333,7 @@
             <ul style="font-weight:normal">
                 <li>West, Douglas B. (2020). Introduction to Graph Theory. Pearson.</li>
                 <li>Rosen, Kenneth H. (2019). Discrete Mathematics and Its Applications. McGraw-Hill.</li>
-                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika SMP.</li>
+                <li>Kementerian Pendidikan dan Kebudayaan. (2022). Kurikulum Merdeka Mata Pelajaran Informatika MTs.</li>
                 <li>Graph Theory Tutorial. (2024). Khan Academy Educational Resources.</li>
                 <li>Introduction to Graphs and Networks. (2024). Wolfram MathWorld.</li>
             </ul>
