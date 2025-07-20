@@ -36,6 +36,12 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ## 🎓 Tingkat Kelas
 
+### Kelas IX (Grade 9) - TIK
+
+- **Focus**: Computational thinking, algoritma dasar, pemrograman fundamental
+- **Approach**: Hands-on practice, problem-based learning, project work
+- **Assessment**: Practical coding, theoretical understanding, portfolio evaluation
+
 ### Kelas X (Grade 10) - Fase E
 
 - **Focus**: Komunikasi dasar, teks sederhana, topik familiar
@@ -48,13 +54,24 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - **Approach**: Critical analysis, advanced language features
 - **Assessment**: Sophisticated evaluation methods
 
-### Kelas IX (Grade 9) - TIK
-
-- **Focus**: Computational thinking, algoritma dasar, pemrograman fundamental
-- **Approach**: Hands-on practice, problem-based learning, project work
-- **Assessment**: Practical coding, theoretical understanding, portfolio evaluation
-
 ## 📋 Modul yang Tersedia
+
+### TIK - Kelas IX
+
+- [💻 Aljabar Boolean - Pengantar Logika](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pengantar-ix) - Pengantar logika dan operasi dasar aljabar Boolean
+- [💻 Aljabar Boolean - Pemrograman](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pemrograman-ix) - Penerapan aljabar Boolean dalam pemrograman
+- [💻 Teori Himpunan & Aplikasi](https://modul-belajar.code.app.web.id/#/tik/ix/teori-himpunan-ix) - Operasi dasar himpunan dan aplikasinya
+- [💻 Latihan & Diskusi Soal](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-latihan-ix) - Latihan dan diskusi soal komprehensif
+- [📊 Graf - Konsep Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/graf-konsep-dasar-ix) - Konsep dasar graf: simpul, sisi, dan derajat
+- [📊 Graf - Jenis & Representasi](https://modul-belajar.code.app.web.id/#/tik/ix/graf-jenis-representasi-ix) - Jenis-jenis graf dan representasinya
+- [📊 Graf - Aplikasi Sehari-hari](https://modul-belajar.code.app.web.id/#/tik/ix/graf-aplikasi-sehari-hari-ix) - Penerapan graf dalam kehidupan sehari-hari
+- [🔺 Geometri Komputasi - Pengantar](https://modul-belajar.code.app.web.id/#/tik/ix/geometri-komputasi-pengantar-ix) - Pengantar geometri komputasi
+- [📊 Latihan Graf & Geometri](https://modul-belajar.code.app.web.id/#/tik/ix/graf-geometri-latihan-ix) - Latihan dan diskusi soal graf/geometri
+- [🔢 Kombinatorika - Permutasi & Kombinasi](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-permutasi-kombinasi-ix) - Permutasi dan kombinasi
+- [🔢 Kombinatorika - Pencacahan Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-pencacahan-dasar-ix) - Prinsip pencacahan dasar
+- [📈 Model Matematis Sederhana](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-model-matematis-ix) - Model matematis sederhana untuk pemecahan masalah
+- [📐 Deret Aritmetika & Aplikasi](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-deret-aritmetika-ix) - Deret aritmetika dan aplikasinya
+- [🔢 Latihan Kombinatorika](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-latihan-diskusi-ix) - Latihan dan diskusi soal kombinatorika
 
 ### Bahasa Inggris - Kelas X
 
@@ -70,52 +87,11 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📖 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting3) - Praktik menulis teks naratif kreatif
 - [📖 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting4) - Presentasi dan evaluasi akhir
 
-### TIK - Kelas IX (27 Modul)
-
-#### 🧠 Boolean & Set Theory (4 Modul)
-- [💻 Pengantar Logika & Aljabar Boolean](https://modul-belajar.code.app.web.id/#/tik/ix/tik-aljabar-boolean-pengantar-ix) - Konsep dasar logika Boolean dan aplikasinya
-- [💻 Penerapan Boolean dalam Pemrograman](https://modul-belajar.code.app.web.id/#/tik/ix/tik-aljabar-boolean-pemrograman-ix) - Implementasi logika Boolean dalam coding
-- [💻 Operasi Dasar Himpunan](https://modul-belajar.code.app.web.id/#/tik/ix/tik-himpunan-operasi-ix) - Union, intersection, complement dalam himpunan
-- [💻 Latihan & Diskusi Boolean](https://modul-belajar.code.app.web.id/#/tik/ix/tik-boolean-latihan-diskusi-ix) - Problem solving dengan logika Boolean
-
-#### 📊 Graph & Geometry (5 Modul)
-- [💻 Konsep Dasar Graf](https://modul-belajar.code.app.web.id/#/tik/ix/tik-graf-konsep-dasar-ix) - Vertex, edge, dan struktur graf
-- [💻 Jenis Graf & Representasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-graf-jenis-representasi-ix) - Directed/undirected, weighted graphs
-- [💻 Penerapan Graf dalam Kehidupan](https://modul-belajar.code.app.web.id/#/tik/ix/tik-graf-penerapan-kehidupan-ix) - Social networks, maps, dan aplikasi nyata
-- [💻 Geometri Komputasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-geometri-komputasi-ix) - Koordinat, transformasi, dan perhitungan geometris
-- [💻 Latihan Graf/Geometri](https://modul-belajar.code.app.web.id/#/tik/ix/tik-graf-geometri-latihan-ix) - Problem solving terpadu
-
-#### 🎲 Combinatorics (5 Modul)
-- [💻 Permutasi & Kombinasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-permutasi-kombinasi-ix) - Prinsip dasar counting dan arrangement
-- [💻 Prinsip Pencacahan](https://modul-belajar.code.app.web.id/#/tik/ix/tik-prinsip-pencacahan-ix) - Multiplication dan addition principles
-- [💻 Model Matematis](https://modul-belajar.code.app.web.id/#/tik/ix/tik-model-matematis-ix) - Pemodelan masalah dengan matematika diskrit
-- [💻 Deret Aritmetika](https://modul-belajar.code.app.web.id/#/tik/ix/tik-deret-aritmetika-ix) - Sequence, series, dan pola bilangan
-- [💻 Latihan Kombinatorika](https://modul-belajar.code.app.web.id/#/tik/ix/tik-kombinatorika-latihan-ix) - Applied combinatorics problem solving
-
-#### ⚡ Simulation & Optimization (5 Modul)
-- [💻 Pengantar Simulasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-simulasi-pengantar-ix) - Modeling systems dan predictive analysis
-- [💻 Konsep Optimisasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-optimisasi-konsep-ix) - Finding best solutions dengan constraints
-- [💻 Induksi dan Deduksi Logika](https://modul-belajar.code.app.web.id/#/tik/ix/tik-induksi-deduksi-ix) - Logical reasoning dan proof techniques
-- [💻 Latihan Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/tik/ix/tik-berpikir-komputasional-ix) - Decomposition, patterns, abstraction, algorithms
-- [💻 Latihan Simulasi/Optimisasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-simulasi-optimisasi-latihan-ix) - Hands-on problem solving
-
-#### 💾 Programming Basics (7 Modul)
-- [💻 Masukan/Keluaran (Input/Output)](https://modul-belajar.code.app.web.id/#/tik/ix/tik-input-output-ix) - Basic I/O operations dan user interaction
-- [💻 Membaca Algoritma Sederhana](https://modul-belajar.code.app.web.id/#/tik/ix/tik-algoritma-sederhana-ix) - Algorithm comprehension dan analysis
-- [💻 Struktur Percabangan & Perulangan](https://modul-belajar.code.app.web.id/#/tik/ix/tik-percabangan-perulangan-ix) - If-else, loops, dan control flow
-- [💻 Array (Larik) Satu Dimensi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-array-satu-dimensi-ix) - Data structures dan array manipulation
-- [💻 Subprogram (Fungsi/Prosedur)](https://modul-belajar.code.app.web.id/#/tik/ix/tik-subprogram-fungsi-ix) - Modular programming dan reusability
-- [💻 Rekursi Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/tik-rekursi-dasar-ix) - Recursive thinking dan implementation
-- [💻 Latihan Soal Pemrograman](https://modul-belajar.code.app.web.id/#/tik/ix/tik-pemrograman-latihan-ix) - Comprehensive coding practice
-
-#### 📝 Assessment (1 Modul)
-- [💻 Ulangan/Review/Simulasi](https://modul-belajar.code.app.web.id/#/tik/ix/tik-ulangan-review-ix) - Comprehensive evaluation dan portfolio assessment
-
 ## 👨‍🏫 Informasi Penyusun
 
 **Nama**: Wasis Haryo Sasoko, S.Pd., M.Kom.  
-**Institusi**: MAN 1 Kota Bima  
-**Tahun Penyusunan**: 2024
+**Institusi**: MTsN 1 Kota Bima  
+**Tahun Penyusunan**: 2025
 
 ## 🛠️ Untuk Developer
 
@@ -128,4 +104,3 @@ Modul ajar ini dibuat untuk kepentingan pendidikan dan dapat digunakan secara be
 ---
 
 _Dibuat dengan ❤️ untuk kemajuan pendidikan Indonesia_
-

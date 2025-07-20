@@ -27,27 +27,27 @@
     <tr>
         <td></td>
         <td>Nama Penyusun</td>
-        <td>[Nama Lengkap, Gelar]</td>
+        <td>Wasis Haryo Sasoko, S.Pd., M.Kom.</td>
     </tr>
     <tr>
         <td></td>
         <td>Nama Institusi</td>
-        <td>[Nama Sekolah/Institusi]</td>
+        <td>[MAN 1 Kota Bima / MTsN 1 Kota Bima]</td>
     </tr>
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>[Tahun]</td>
+        <td>2025</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>[SMA/SMK/MA]</td>
+        <td>[MA / MTs]</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>[X/XI/XII]</td>
+        <td>[IX/X/XI/XII]</td>
     </tr>
     <tr>
         <td></td>
@@ -270,4 +270,3 @@
 - Gunakan `<ol>` untuk numbered lists, `<ul>` untuk bullet points
 - Kolom pertama kosong untuk sub-komponen
 - Daftar pustaka menggunakan `colspan="2"` dan `style="font-weight:normal"`
-
