@@ -1,4 +1,4 @@
-# MODUL AJAR MEMBACA DAN MEMAHAMI ALGORITMA SEDERHANA PERTEMUAN 2 - KELAS IX
+# Dasar Pemrograman - Pertemuan 2
 
 <table>
 <thead>

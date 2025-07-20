@@ -1,4 +1,4 @@
-# MODUL AJAR LATIHAN & DISKUSI SOAL PEMROGRAMAN PERTEMUAN 2 - KELAS IX
+# Dasar Pemrograman - Pertemuan 10
 
 <table>
 <thead>

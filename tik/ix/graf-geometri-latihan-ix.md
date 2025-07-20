@@ -1,4 +1,4 @@
-# MODUL AJAR GRAF & GEOMETRI PERTEMUAN 5 - KELAS IX
+# Graf & Geometri - Pertemuan 5
 
 <table>
 <thead>

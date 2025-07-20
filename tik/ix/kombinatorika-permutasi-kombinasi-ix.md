@@ -1,4 +1,4 @@
-# MODUL AJAR KOMBINATORIKA & MODEL MATEMATIS PERTEMUAN 1 - KELAS IX
+# Kombinatorika & Model Matematis - Pertemuan 2
 
 <table>
 <thead>

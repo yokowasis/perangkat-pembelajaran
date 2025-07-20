@@ -1,4 +1,4 @@
-# MODUL AJAR INDUKSI DAN DEDUKSI LOGIKA - KELAS IX
+# Berpikir Komputasional - Pertemuan 3
 
 <table>
 <thead>

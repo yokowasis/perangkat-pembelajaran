@@ -1,4 +1,4 @@
-# MODUL AJAR ALJABAR BOOLEAN & TEORI HIMPUNAN PERTEMUAN 2 - KELAS IX
+# Aljabar Boolean & Himpunan - Pertemuan 2
 
 <table>
 <thead>

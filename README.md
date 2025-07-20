@@ -58,41 +58,49 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### TIK - Kelas IX
 
-- [💻 Aljabar Boolean - Pengantar Logika](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pengantar-ix) - Pengantar logika dan operasi dasar aljabar Boolean
-- [💻 Aljabar Boolean - Pemrograman](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pemrograman-ix) - Penerapan aljabar Boolean dalam pemrograman
-- [💻 Teori Himpunan & Aplikasi](https://modul-belajar.code.app.web.id/#/tik/ix/teori-himpunan-ix) - Operasi dasar himpunan dan aplikasinya
-- [💻 Latihan & Diskusi Soal](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-latihan-ix) - Latihan dan diskusi soal komprehensif
-- [📊 Graf - Konsep Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/graf-konsep-dasar-ix) - Konsep dasar graf: simpul, sisi, dan derajat
-- [📊 Graf - Jenis & Representasi](https://modul-belajar.code.app.web.id/#/tik/ix/graf-jenis-representasi-ix) - Jenis-jenis graf dan representasinya
-- [📊 Graf - Aplikasi Sehari-hari](https://modul-belajar.code.app.web.id/#/tik/ix/graf-aplikasi-sehari-hari-ix) - Penerapan graf dalam kehidupan sehari-hari
-- [🔺 Geometri Komputasi - Pengantar](https://modul-belajar.code.app.web.id/#/tik/ix/geometri-komputasi-pengantar-ix) - Pengantar geometri komputasi
-- [📊 Latihan Graf & Geometri](https://modul-belajar.code.app.web.id/#/tik/ix/graf-geometri-latihan-ix) - Latihan dan diskusi soal graf/geometri
-- [🔢 Kombinatorika - Permutasi & Kombinasi](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-permutasi-kombinasi-ix) - Permutasi dan kombinasi
-- [🔢 Kombinatorika - Pencacahan Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-pencacahan-dasar-ix) - Prinsip pencacahan dasar
-- [📈 Model Matematis Sederhana](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-model-matematis-ix) - Model matematis sederhana untuk pemecahan masalah
-- [📐 Deret Aritmetika & Aplikasi](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-deret-aritmetika-ix) - Deret aritmetika dan aplikasinya
-- [🔢 Latihan Kombinatorika](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-latihan-diskusi-ix) - Latihan dan diskusi soal kombinatorika
+#### 1. Aljabar Boolean & Himpunan (4 JP)
 
-#### 4. Simulasi, Optimisasi, Induksi/Deduksi Logika, Berpikir Komputasional (5 JP)
+- [💻 Aljabar Boolean & Himpunan - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pengantar-ix) - Pengantar logika dan operasi dasar aljabar Boolean
+- [💻 Aljabar Boolean & Himpunan - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-pemrograman-ix) - Penerapan aljabar Boolean dalam pemrograman
+- [💻 Aljabar Boolean & Himpunan - Pertemuan 3](https://modul-belajar.code.app.web.id/#/tik/ix/aljabar-boolean-latihan-ix) - Latihan dan diskusi soal komprehensif
+- [💻 Aljabar Boolean & Himpunan - Pertemuan 4](https://modul-belajar.code.app.web.id/#/tik/ix/teori-himpunan-ix) - Operasi dasar himpunan dan aplikasinya
 
-- [🎯 Simulasi - Pengantar & Contoh Kasus](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-pengantar-ix) - Pengantar simulasi dan contoh kasus sederhana
-- [⚡ Optimisasi dalam Pemecahan Masalah](https://modul-belajar.code.app.web.id/#/tik/ix/optimisasi-konsep-ix) - Konsep optimisasi dalam pemecahan masalah
-- [🧠 Induksi & Deduksi Logika](https://modul-belajar.code.app.web.id/#/tik/ix/induksi-deduksi-logika-ix) - Induksi dan deduksi logika
-- [🤖 Latihan Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/tik/ix/berpikir-komputasional-latihan-ix) - Latihan berpikir komputasional
-- [🎯 Latihan Simulasi & Optimisasi](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-optimisasi-latihan-diskusi-ix) - Latihan & diskusi soal simulasi/optimisasi
+#### 2. Graf & Geometri (5 JP)
+
+- [📊 Graf & Geometri - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/graf-konsep-dasar-ix) - Konsep dasar graf: simpul, sisi, dan derajat
+- [📊 Graf & Geometri - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/graf-jenis-representasi-ix) - Jenis-jenis graf dan representasinya
+- [📊 Graf & Geometri - Pertemuan 3](https://modul-belajar.code.app.web.id/#/tik/ix/graf-aplikasi-sehari-hari-ix) - Penerapan graf dalam kehidupan sehari-hari
+- [📊 Graf & Geometri - Pertemuan 4](https://modul-belajar.code.app.web.id/#/tik/ix/geometri-komputasi-pengantar-ix) - Pengantar geometri komputasi
+- [📊 Graf & Geometri - Pertemuan 5](https://modul-belajar.code.app.web.id/#/tik/ix/graf-geometri-latihan-ix) - Latihan dan diskusi soal graf/geometri
+
+#### 3. Kombinatorika & Model Matematis (5 JP)
+
+- [🔢 Kombinatorika & Model Matematis - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-pencacahan-dasar-ix) - Prinsip pencacahan dasar
+- [🔢 Kombinatorika & Model Matematis - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-permutasi-kombinasi-ix) - Permutasi dan kombinasi
+- [🔢 Kombinatorika & Model Matematis - Pertemuan 3](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-deret-aritmetika-ix) - Deret aritmetika dan aplikasinya
+- [🔢 Kombinatorika & Model Matematis - Pertemuan 4](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-model-matematis-ix) - Model matematis sederhana untuk pemecahan masalah
+- [🔢 Kombinatorika & Model Matematis - Pertemuan 5](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-latihan-diskusi-ix) - Latihan dan diskusi soal kombinatorika
+
+#### 4. Berpikir Komputasional (5 JP)
+
+- [🎯 Berpikir Komputasional - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-pengantar-ix) - Pengantar simulasi dan contoh kasus sederhana
+- [🎯 Berpikir Komputasional - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/optimisasi-konsep-ix) - Konsep optimisasi dalam pemecahan masalah
+- [🎯 Berpikir Komputasional - Pertemuan 3](https://modul-belajar.code.app.web.id/#/tik/ix/induksi-deduksi-logika-ix) - Induksi dan deduksi logika
+- [🎯 Berpikir Komputasional - Pertemuan 4](https://modul-belajar.code.app.web.id/#/tik/ix/berpikir-komputasional-latihan-ix) - Latihan berpikir komputasional
+- [🎯 Berpikir Komputasional - Pertemuan 5](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-optimisasi-latihan-diskusi-ix) - Latihan & diskusi soal simulasi/optimisasi
 
 #### 5. Dasar Pemrograman (10 JP)
 
-- [⌨️ Input/Output Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/input-output-ix) - Masukan/keluaran (input/output)
-- [📋 Algoritma Sederhana - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-1-ix) - Membaca dan memahami algoritma sederhana
-- [📋 Algoritma Sederhana - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-2-ix) - Merancang dan menulis algoritma sederhana
-- [🔀 Struktur Percabangan](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-percabangan-ix) - Struktur percabangan (if-else, elif)
-- [🔄 Struktur Perulangan](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-perulangan-ix) - Struktur perulangan (for, while)
-- [📊 Array Satu Dimensi](https://modul-belajar.code.app.web.id/#/tik/ix/array-satu-dimensi-ix) - Array (larik) satu dimensi
-- [🔧 Subprogram (Fungsi/Prosedur)](https://modul-belajar.code.app.web.id/#/tik/ix/subprogram-fungsi-ix) - Subprogram (fungsi/prosedur)
-- [🔁 Rekursi Dasar](https://modul-belajar.code.app.web.id/#/tik/ix/rekursi-dasar-ix) - Rekursi dasar
-- [💻 Latihan Pemrograman - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-1-ix) - Latihan & diskusi soal pemrograman
-- [💻 Latihan Pemrograman - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-2-ix) - Sintesis dan evaluasi akhir
+- [⌨️ Dasar Pemrograman - Pertemuan 1](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-1-ix) - Membaca dan memahami algoritma sederhana
+- [⌨️ Dasar Pemrograman - Pertemuan 2](https://modul-belajar.code.app.web.id/#/tik/ix/algoritma-sederhana-2-ix) - Merancang dan menulis algoritma sederhana
+- [⌨️ Dasar Pemrograman - Pertemuan 3](https://modul-belajar.code.app.web.id/#/tik/ix/input-output-ix) - Masukan/keluaran (input/output)
+- [⌨️ Dasar Pemrograman - Pertemuan 4](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-percabangan-ix) - Struktur percabangan (if-else, elif)
+- [⌨️ Dasar Pemrograman - Pertemuan 5](https://modul-belajar.code.app.web.id/#/tik/ix/struktur-perulangan-ix) - Struktur perulangan (for, while)
+- [⌨️ Dasar Pemrograman - Pertemuan 6](https://modul-belajar.code.app.web.id/#/tik/ix/array-satu-dimensi-ix) - Array (larik) satu dimensi
+- [⌨️ Dasar Pemrograman - Pertemuan 7](https://modul-belajar.code.app.web.id/#/tik/ix/subprogram-fungsi-ix) - Subprogram (fungsi/prosedur)
+- [⌨️ Dasar Pemrograman - Pertemuan 8](https://modul-belajar.code.app.web.id/#/tik/ix/rekursi-dasar-ix) - Rekursi dasar
+- [⌨️ Dasar Pemrograman - Pertemuan 9](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-1-ix) - Latihan & diskusi soal pemrograman
+- [⌨️ Dasar Pemrograman - Pertemuan 10](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-2-ix) - Sintesis dan evaluasi akhir
 
 ### Bahasa Inggris - Kelas X
 

@@ -1,4 +1,4 @@
-# MODUL AJAR GRAF & GEOMETRI PERTEMUAN 3 - KELAS IX
+# Graf & Geometri - Pertemuan 3
 
 <table>
 <thead>

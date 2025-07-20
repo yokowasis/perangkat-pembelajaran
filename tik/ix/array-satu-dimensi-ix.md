@@ -1,4 +1,4 @@
-# MODUL AJAR ARRAY (LARIK) SATU DIMENSI - KELAS IX
+# Dasar Pemrograman - Pertemuan 6
 
 <table>
 <thead>

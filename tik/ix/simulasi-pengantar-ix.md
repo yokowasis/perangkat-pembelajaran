@@ -1,4 +1,4 @@
-# MODUL AJAR PENGANTAR SIMULASI DAN CONTOH KASUS SEDERHANA - KELAS IX
+# Berpikir Komputasional - Pertemuan 1
 
 <table>
 <thead>

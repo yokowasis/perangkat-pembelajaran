@@ -1,4 +1,4 @@
-# MODUL AJAR KONSEP OPTIMISASI DALAM PEMECAHAN MASALAH - KELAS IX
+# Berpikir Komputasional - Pertemuan 2
 
 <table>
 <thead>
