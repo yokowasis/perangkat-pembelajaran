@@ -25,6 +25,11 @@
   - [📈 Model Matematis Sederhana](tik/ix/kombinatorika-model-matematis-ix.md)
   - [📐 Deret Aritmetika & Aplikasi](tik/ix/kombinatorika-deret-aritmetika-ix.md)
   - [🔢 Latihan Kombinatorika](tik/ix/kombinatorika-latihan-diskusi-ix.md)
+  - [🎯 Simulasi - Pengantar & Contoh Kasus](tik/ix/simulasi-pengantar-ix.md)
+  - [⚡ Optimisasi dalam Pemecahan Masalah](tik/ix/optimisasi-konsep-ix.md)
+  - [🧠 Induksi & Deduksi Logika](tik/ix/induksi-deduksi-logika-ix.md)
+  - [🤖 Latihan Berpikir Komputasional](tik/ix/berpikir-komputasional-latihan-ix.md)
+  - [🎯 Latihan Simulasi & Optimisasi](tik/ix/simulasi-optimisasi-latihan-diskusi-ix.md)
 
 - **📚 Kelas XII (Grade 12)**
 

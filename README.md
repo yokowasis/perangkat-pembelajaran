@@ -73,6 +73,14 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📐 Deret Aritmetika & Aplikasi](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-deret-aritmetika-ix) - Deret aritmetika dan aplikasinya
 - [🔢 Latihan Kombinatorika](https://modul-belajar.code.app.web.id/#/tik/ix/kombinatorika-latihan-diskusi-ix) - Latihan dan diskusi soal kombinatorika
 
+#### 4. Simulasi, Optimisasi, Induksi/Deduksi Logika, Berpikir Komputasional (5 JP)
+
+- [🎯 Simulasi - Pengantar & Contoh Kasus](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-pengantar-ix) - Pengantar simulasi dan contoh kasus sederhana
+- [⚡ Optimisasi dalam Pemecahan Masalah](https://modul-belajar.code.app.web.id/#/tik/ix/optimisasi-konsep-ix) - Konsep optimisasi dalam pemecahan masalah
+- [🧠 Induksi & Deduksi Logika](https://modul-belajar.code.app.web.id/#/tik/ix/induksi-deduksi-logika-ix) - Induksi dan deduksi logika
+- [🤖 Latihan Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/tik/ix/berpikir-komputasional-latihan-ix) - Latihan berpikir komputasional
+- [🎯 Latihan Simulasi & Optimisasi](https://modul-belajar.code.app.web.id/#/tik/ix/simulasi-optimisasi-latihan-diskusi-ix) - Latihan & diskusi soal simulasi/optimisasi
+
 ### Bahasa Inggris - Kelas X
 
 - [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x) - Pengenalan teks deskriptif untuk siswa pemula
