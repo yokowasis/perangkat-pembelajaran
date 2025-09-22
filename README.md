@@ -104,10 +104,22 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### Bahasa Inggris - Kelas X
 
+#### 1. Descriptive Text (4 JP)
+
 - [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x) - Pengenalan teks deskriptif untuk siswa pemula
 - [📖 Descriptive Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting2) - Struktur dan fitur kebahasaan teks deskriptif
 - [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting3) - Praktik menulis deskripsi sederhana
 - [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/descriptive-text-x-meeting4) - Presentasi dan evaluasi akhir
+
+#### 2. Recount Text (2 JP)
+
+- [📝 Recount Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x) - Pengenalan struktur, ciri-ciri, dan fungsi sosial recount text
+- [📝 Recount Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x-meeting2) - Praktik menulis dan mempresentasikan recount text
+
+#### 3. Procedure Text (2 JP)
+
+- [📋 Procedure Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x) - Pengenalan struktur, fitur kebahasaan, dan analisis procedure text
+- [📋 Procedure Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x-meeting2) - Praktik menulis dan demonstrasi procedure text
 
 ### Bahasa Inggris - Kelas XII
 
