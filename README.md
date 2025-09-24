@@ -115,12 +115,19 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 - [📝 Recount Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x) - Pengenalan struktur, ciri-ciri, dan fungsi sosial recount text
 - [📝 Recount Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x-meeting2) - Praktik menulis dan mempresentasikan recount text
-- [📄 LKPD - Recount Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd-recount-text-x) - Lembar Kerja Peserta Didik dengan 5 skill terintegrasi
 
 #### 3. Procedure Text (2 JP)
 
 - [📋 Procedure Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x) - Pengenalan struktur, fitur kebahasaan, dan analisis procedure text
 - [📋 Procedure Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x-meeting2) - Praktik menulis dan demonstrasi procedure text
+
+#### 4. LKPD (Lembar Kerja Peserta Didik) - Kelas X
+
+> **LKPD** adalah worksheet terintegrasi yang mencakup 5 keterampilan bahasa: Vocabulary, Listening, Speaking, Reading, dan Writing dengan sistem penilaian A-B-C-D untuk setiap skill.
+
+- [📄 LKPD - Descriptive Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-descriptive-text-x) - Worksheet 5 skill untuk topik descriptive text
+- [📄 LKPD - Recount Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-recount-text-x) - Worksheet 5 skill untuk topik recount text  
+- [📄 LKPD - Procedure Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x) - Worksheet 5 skill untuk topik procedure text
 
 ### Bahasa Inggris - Kelas XII
 

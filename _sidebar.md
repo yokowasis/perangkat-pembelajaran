@@ -10,9 +10,13 @@
   - [📖 Descriptive Text - Pertemuan 4](english/x/descriptive-text-x-meeting4.md)
   - [📝 Recount Text - Pertemuan 1](english/x/recount-text-x.md)
   - [📝 Recount Text - Pertemuan 2](english/x/recount-text-x-meeting2.md)
-  - [📄 LKPD - Recount Text](english/x/lkpd-recount-text-x.md)
   - [📋 Procedure Text - Pertemuan 1](english/x/procedure-text-x.md)
   - [📋 Procedure Text - Pertemuan 2](english/x/procedure-text-x-meeting2.md)
+  
+  **📝 LKPD Grade X**
+  - [📄 LKPD - Descriptive Text](english/x/lkpd/lkpd-descriptive-text-x.md)
+  - [📄 LKPD - Recount Text](english/x/lkpd/lkpd-recount-text-x.md)
+  - [📄 LKPD - Procedure Text](english/x/lkpd/lkpd-procedure-text-x.md)
 
 - **📚 Kelas IX (Grade 9)**
 
