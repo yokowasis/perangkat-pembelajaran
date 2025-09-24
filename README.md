@@ -115,6 +115,7 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 - [📝 Recount Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x) - Pengenalan struktur, ciri-ciri, dan fungsi sosial recount text
 - [📝 Recount Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/recount-text-x-meeting2) - Praktik menulis dan mempresentasikan recount text
+- [📄 LKPD - Recount Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd-recount-text-x) - Lembar Kerja Peserta Didik dengan 5 skill terintegrasi
 
 #### 3. Procedure Text (2 JP)
 

@@ -10,6 +10,7 @@
   - [📖 Descriptive Text - Pertemuan 4](english/x/descriptive-text-x-meeting4.md)
   - [📝 Recount Text - Pertemuan 1](english/x/recount-text-x.md)
   - [📝 Recount Text - Pertemuan 2](english/x/recount-text-x-meeting2.md)
+  - [📄 LKPD - Recount Text](english/x/lkpd-recount-text-x.md)
   - [📋 Procedure Text - Pertemuan 1](english/x/procedure-text-x.md)
   - [📋 Procedure Text - Pertemuan 2](english/x/procedure-text-x-meeting2.md)
 

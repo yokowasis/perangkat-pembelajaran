@@ -29,9 +29,25 @@ curl http://localhost:3000/_sidebar.md
 
 ### Core Files
 - **Core files**: `index.html` (Docsify config), `custom.css` (styling), `_sidebar.md` (navigation)
-- **Template**: `template.md` - Standard Kurikulum Merdeka lesson module template
+- **Templates**: 
+  - `template.md` - Standard Kurikulum Merdeka lesson module template
+  - `template-lkpd.md` - LKPD (Lembar Kerja Peserta Didik) template for English modules
+
+### LKPD Modules
+- **LKPD files**: `/english/{grade}/lkpd-{topic}-{grade}.md`
+  - Examples: `lkpd-descriptive-text-x.md`, `lkpd-narrative-text-xii.md`
+  - Purpose: Student worksheets with integrated 4-skills practice and assessment
+- **LKPD structure**: Based on `template-lkpd.md` with 5 main skill areas:
+  - **Vocabulary**: New words with memorization assessment
+  - **Listening**: Audio texts/conversations with comprehension tasks
+  - **Speaking**: Dialogue practice with pronunciation/fluency assessment
+  - **Reading**: Texts with comprehension questions (main idea, inference, details)
+  - **Writing**: Sentence completion, construction, text production
+- **Assessment rubric**: A-B-C-D scale for each skill area
 
 ## Content Guidelines
+
+### Lesson Modules
 - **HTML Tables in Markdown**: Use proper HTML table structure, NO empty lines within tables
 - **Table Format**: 
   ```html
@@ -49,6 +65,18 @@ curl http://localhost:3000/_sidebar.md
   - **English Grade XII**: More English-heavy, advanced academic language
   - **TIK Grade IX**: Indonesian instructions with technical terminology, computational thinking focus
 - **Learning progression**: Series should follow logical sequence (intro → analysis → practice → assessment)
+
+### LKPD Guidelines
+- **Header section**: Always include school name (MAN 1 Kota Bima), student name field, class field, topic
+- **5 Skills Structure**: Each LKPD must contain all five skill areas in order:
+  1. **Vocabulary**: Target words with clear assessment criteria (word count)
+  2. **Listening**: Audio materials with specific assessment types (fill blanks, information extraction)
+  3. **Speaking**: Dialogue/conversation practice with assessment focus (pronunciation, fluency)
+  4. **Reading**: Comprehension texts with assessment targets (main idea, conclusion, details)
+  5. **Writing**: Progressive activities with assessment criteria (grammar, coherence)
+- **Assessment Integration**: Each skill section must include specific **Assessment** description
+- **Grading Rubric**: Standard A-B-C-D scale table for all five skills at the end
+- **Content Alignment**: LKPD content should complement the corresponding lesson module topics
 
 ## Lesson Module Series Structure
 
@@ -85,6 +113,8 @@ When adding new modules, update both:
   - Proper heading hierarchy (h1 for title, table structure for content)
 
 ## Quality Checklist
+
+### Lesson Modules
 Before finalizing any lesson module:
 - [ ] All 10 components filled completely
 - [ ] HTML table has no empty lines or comments
@@ -92,6 +122,16 @@ Before finalizing any lesson module:
 - [ ] Learning objectives align with Capaian Pembelajaran (CP)
 - [ ] Assessment methods clearly defined
 - [ ] Profil Pelajar Pancasila integration included
+
+### LKPD Modules
+Before finalizing any LKPD:
+- [ ] Header section complete (school, student field, class field, topic)
+- [ ] All 5 skill areas present and filled (Vocabulary, Listening, Speaking, Reading, Writing)
+- [ ] Each skill section includes specific assessment criteria
+- [ ] Assessment rubric table included with A-B-C-D scale
+- [ ] Content aligns with corresponding lesson module
+- [ ] Navigation updated in both sidebar and README
+- [ ] No empty markdown table cells in grading rubric
 
 ## Deployment
 ```bash
@@ -106,7 +146,11 @@ english/
 │   ├── descriptive-text-x.md (Meeting 1)
 │   ├── descriptive-text-x-meeting2.md (Meeting 2) 
 │   ├── descriptive-text-x-meeting3.md (Meeting 3)
-│   └── descriptive-text-x-meeting4.md (Meeting 4)
+│   ├── descriptive-text-x-meeting4.md (Meeting 4)
+│   ├── procedure-text-x.md (Meeting 1)
+│   ├── procedure-text-x-meeting2.md (Meeting 2)
+│   ├── recount-text-x.md (Meeting 1)
+│   └── recount-text-x-meeting2.md (Meeting 2)
 └── xii/
     ├── narative-text-xii.md (Meeting 1)
     ├── narrative-text-xii-meeting2.md (Meeting 2)
@@ -165,3 +209,49 @@ tik/
 3. **Programming Fundamentals** (algorithms, data structures, control flow)
 4. **Application & Synthesis** (real-world problem solving, project-based learning)
 
+## LKPD Template Structure
+
+### Header Requirements
+```markdown
+# LKPD Bahasa Inggris
+
+**Nama Sekolah** : MAN 1 Kota Bima  
+**Nama Siswa** :  
+**Kelas** :  
+**Pokok Bahasan** : [Topic Name]
+```
+
+### Five Skills Sections
+Each LKPD must follow this exact structure:
+
+1. **Vocabulary Section**
+   - New vocabulary words with definitions
+   - **Assessment**: Word count/memorization targets
+
+2. **Listening Section**
+   - Audio materials, conversations, or listening texts
+   - **Assessment**: Fill in blanks, information extraction
+
+3. **Speaking Section** 
+   - Dialogue practice, conversation activities
+   - **Assessment**: Pronunciation, fluency evaluation
+
+4. **Reading Section**
+   - Reading texts with comprehension questions
+   - **Assessment**: Main idea, conclusions, detail extraction
+
+5. **Writing Section**
+   - Sentence completion, construction, text production
+   - **Assessment**: Grammar accuracy, coherence
+
+### Assessment Rubric
+Must include standard grading table:
+```markdown
+| Features   | A   | B   | C   | D   |
+| ---------- | --- | --- | --- | --- |
+| Vocabulary |     |     |     |     |
+| Listening  |     |     |     |     |
+| Speaking   |     |     |     |     |
+| Reading    |     |     |     |     |
+| Writing    |     |     |     |     |
+```
