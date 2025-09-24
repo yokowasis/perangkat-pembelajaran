@@ -68,13 +68,6 @@ body,
   vertical-align: top;
 }
 
-.markdown-section table td:first-child,
-.markdown-section table td:nth-child(2) {
-  font-weight: bold;
-  color: var(--text-dark);
-  white-space: nowrap;
-}
-
 .markdown-section table td:first-child {
   width: 60px;
   text-align: center;

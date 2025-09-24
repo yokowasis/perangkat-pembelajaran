@@ -245,13 +245,20 @@ Each LKPD must follow this exact structure:
    - **Assessment**: Grammar accuracy, coherence
 
 ### Assessment Rubric
-Must include standard grading table:
+Must include detailed grading table with specific criteria:
 ```markdown
-| Features   | A   | B   | C   | D   |
-| ---------- | --- | --- | --- | --- |
-| Vocabulary |     |     |     |     |
-| Listening  |     |     |     |     |
-| Speaking   |     |     |     |     |
-| Reading    |     |     |     |     |
-| Writing    |     |     |     |     |
+| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+|----------|------------|-----------|-----------|-----------|
+| **Vocabulary** | [Specific criteria for excellent performance with exact targets] | [Good performance criteria with clear expectations] | [Basic performance criteria with minimum standards] | [Limited performance criteria with support needed] |
+| **Listening** | [Specific listening comprehension targets and accuracy rates] | [Good listening skills with minor errors] | [Basic listening understanding] | [Limited listening with significant support] |
+| **Speaking** | [Excellent pronunciation, fluency, and language use criteria] | [Good speaking skills with minor issues] | [Basic speaking ability] | [Limited speaking requiring assistance] |
+| **Reading** | [Perfect comprehension, text analysis, and inference skills] | [Good reading comprehension and analysis] | [Basic reading understanding] | [Limited reading comprehension] |
+| **Writing** | [Excellent grammar, structure, vocabulary, and coherence] | [Good writing with minor grammatical errors] | [Basic writing with acceptable structure] | [Limited writing needing significant improvement] |
 ```
+
+**Rubric Requirements:**
+- Each cell must contain specific, measurable criteria
+- Include exact numbers/percentages where applicable (e.g., "answers 8/10 questions correctly")
+- Describe observable behaviors and skills
+- Align with assessment tasks in each skill section
+- Use action verbs and concrete descriptors

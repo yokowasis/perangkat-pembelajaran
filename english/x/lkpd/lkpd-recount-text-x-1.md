@@ -162,12 +162,12 @@ e. First, we walked around and enjoyed the fresh air.
 
 ---
 
-## LEMBAR PENILAIAN
+## ASSESSMENT RUBRIC
 
-| Features   | A   | B   | C   | D   |
-| ---------- | --- | --- | --- | --- |
-| Vocabulary |     |     |     |     |
-| Listening  |     |     |     |     |
-| Speaking   |     |     |     |     |
-| Reading    |     |     |     |     |
-| Writing    |     |     |     |     |
+| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+|----------|------------|-----------|-----------|-----------|
+| **Vocabulary** | Memorizes and uses 16/16 recount vocabulary words correctly with excellent understanding of meaning and context | Memorizes and uses 13-15/16 words correctly with good understanding of meaning and context | Memorizes and uses 10-12/16 words correctly with basic understanding of meaning | Memorizes and uses 8-9/16 words correctly with limited understanding |
+| **Listening** | Fills in all 6 blanks correctly and extracts 5 main events in perfect chronological sequence | Fills in 5/6 blanks correctly and extracts 4-5 main events in mostly correct sequence | Fills in 4/6 blanks correctly and extracts 3-4 main events with some sequence errors | Fills in 3/6 blanks correctly and extracts 2-3 main events with significant sequence confusion |
+| **Speaking** | Demonstrates excellent pronunciation, fluent conversation flow, and perfect use of past tense in recount dialogue | Demonstrates good pronunciation, smooth conversation with minor hesitations, and mostly correct past tense usage | Demonstrates acceptable pronunciation, understandable conversation with some hesitations, and basic past tense usage | Demonstrates limited pronunciation clarity, halting conversation, and frequent past tense errors |
+| **Reading** | Answers all 10 comprehension questions correctly, identifies text structure perfectly, and finds 10+ past tense verbs accurately | Answers 8-9/10 questions correctly, identifies most text structure elements, and finds 8-9 past tense verbs | Answers 6-7/10 questions correctly, identifies basic text structure, and finds 6-7 past tense verbs | Answers 5-6/10 questions correctly, shows limited text structure understanding, and finds 4-5 past tense verbs |
+| **Writing** | Writes grammatically perfect recount text (80-100 words) with excellent structure, perfect chronological sequence, and sophisticated vocabulary | Writes mostly correct recount text with good structure, clear chronological sequence, and appropriate vocabulary | Writes acceptable recount text with basic structure, understandable sequence, and simple vocabulary | Writes simple recount text with minimal structure, some sequence confusion, and limited vocabulary |
