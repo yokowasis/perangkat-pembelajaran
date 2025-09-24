@@ -20,7 +20,14 @@
 /* Custom font */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
+  font-size: 0.8em;
+}
+
+body,
+.markdown-section ol,
+.markdown-section p,
+.markdown-section ul {
+  line-height: 1.3em;
 }
 
 /* ==========================================
@@ -71,10 +78,6 @@ body {
 .markdown-section table td:first-child {
   width: 60px;
   text-align: center;
-}
-
-.markdown-section table td:nth-child(2) {
-  width: 200px;
 }
 
 .markdown-section table tr:hover {
