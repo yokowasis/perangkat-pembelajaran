@@ -13,33 +13,34 @@
 
 ### **Advanced Recount Vocabulary**
 
-| English | Indonesian | Example |
-|---------|------------|---------|
-| Eventually | Akhirnya | Eventually, we reached the summit |
-| Meanwhile | Sementara itu | Meanwhile, my sister was cooking |
-| Suddenly | Tiba-tiba | Suddenly, it started to rain |
-| Immediately | Segera | I immediately called for help |
-| Unfortunately | Sayangnya | Unfortunately, we missed the bus |
-| Fortunately | Untungnya | Fortunately, the weather was perfect |
-| Previously | Sebelumnya | Previously, I had never been there |
-| Afterwards | Setelah itu | Afterwards, we went home |
-| Initially | Pada awalnya | Initially, I was nervous |
-| Subsequently | Selanjutnya | Subsequently, we visited the museum |
-| Memorable | Berkesan | It was a memorable experience |
-| Exhausted | Kelelahan | We were exhausted after hiking |
-| Thrilled | Sangat senang | I was thrilled to meet her |
-| Disappointed | Kecewa | He was disappointed with the result |
-| Amazed | Terkagum | We were amazed by the view |
-| Relieved | Lega | I felt relieved after the exam |
-| Embarrassed | Malu | She was embarrassed by her mistake |
-| Overwhelmed | Kewalahan | I was overwhelmed by the support |
-| Fascinated | Terpesona | We were fascinated by the story |
-| Accomplished | Merasa berhasil | I felt accomplished after finishing |
+| English       | Indonesian      | Example                              |
+| ------------- | --------------- | ------------------------------------ |
+| Eventually    | Akhirnya        | Eventually, we reached the summit    |
+| Meanwhile     | Sementara itu   | Meanwhile, my sister was cooking     |
+| Suddenly      | Tiba-tiba       | Suddenly, it started to rain         |
+| Immediately   | Segera          | I immediately called for help        |
+| Unfortunately | Sayangnya       | Unfortunately, we missed the bus     |
+| Fortunately   | Untungnya       | Fortunately, the weather was perfect |
+| Previously    | Sebelumnya      | Previously, I had never been there   |
+| Afterwards    | Setelah itu     | Afterwards, we went home             |
+| Initially     | Pada awalnya    | Initially, I was nervous             |
+| Subsequently  | Selanjutnya     | Subsequently, we visited the museum  |
+| Memorable     | Berkesan        | It was a memorable experience        |
+| Exhausted     | Kelelahan       | We were exhausted after hiking       |
+| Thrilled      | Sangat senang   | I was thrilled to meet her           |
+| Disappointed  | Kecewa          | He was disappointed with the result  |
+| Amazed        | Terkagum        | We were amazed by the view           |
+| Relieved      | Lega            | I felt relieved after the exam       |
+| Embarrassed   | Malu            | She was embarrassed by her mistake   |
+| Overwhelmed   | Kewalahan       | I was overwhelmed by the support     |
+| Fascinated    | Terpesona       | We were fascinated by the story      |
+| Accomplished  | Merasa berhasil | I felt accomplished after finishing  |
 
 ### **Vocabulary Exercise**
+
 Complete the recount with appropriate vocabulary words:
 
-Last weekend, I had a _______ experience climbing Mount Bromo. _______, I was nervous about the challenge, but _______ I decided to go anyway. We started early in the morning, and _______, the weather was perfect. _______, we reached the base camp where we rested. The climb was difficult and I felt _______ halfway up. _______, we made it to the top and I was _______ by the sunrise view. I felt truly _______ when we completed the journey.
+Last weekend, I had a **\_\_\_** experience climbing Mount Bromo. **\_\_\_**, I was nervous about the challenge, but **\_\_\_** I decided to go anyway. We started early in the morning, and **\_\_\_**, the weather was perfect. **\_\_\_**, we reached the base camp where we rested. The climb was difficult and I felt **\_\_\_** halfway up. **\_\_\_**, we made it to the top and I was **\_\_\_** by the sunrise view. I felt truly **\_\_\_** when we completed the journey.
 
 **Assessment**: Students must memorize and correctly use 16 out of 20 advanced vocabulary words (80% accuracy).
 
@@ -50,6 +51,7 @@ Last weekend, I had a _______ experience climbing Mount Bromo. _______, I was ne
 **Target**: Understand detailed recount narratives with multiple events
 
 ### **Listening Activity 1: Sequence the Events**
+
 Listen to a recount about a school trip. Number the events in the correct order:
 
 ( ) We visited the traditional market
@@ -62,6 +64,7 @@ Listen to a recount about a school trip. Number the events in the correct order:
 ( ) We learned to make batik
 
 ### **Listening Activity 2: Listen for Details**
+
 Listen to the recount and answer the questions:
 
 **A Cooking Disaster**
@@ -74,20 +77,22 @@ Listen to the recount and answer the questions:
 6. What lesson did the speaker learn?
 
 ### **Listening Activity 3: Note-Taking**
+
 Listen to a personal recount and complete the information:
 
-**Topic**: _____________
+**Topic**: **\*\***\_**\*\***
 
-**When**: _____________  
-**Where**: _____________  
-**Who was involved**: _____________  
-**What happened**: 
-- First: _____________
-- Then: _____________  
-- After that: _____________
-- Finally: _____________
+**When**: **\*\***\_**\*\***  
+**Where**: **\*\***\_**\*\***  
+**Who was involved**: **\*\***\_**\*\***  
+**What happened**:
 
-**Speaker's feelings**: _____________
+- First: **\*\***\_**\*\***
+- Then: **\*\***\_**\*\***
+- After that: **\*\***\_**\*\***
+- Finally: **\*\***\_**\*\***
+
+**Speaker's feelings**: **\*\***\_**\*\***
 
 **Assessment**: Students must accurately identify and sequence 6 out of 8 events from complex recount narratives.
 
@@ -98,20 +103,24 @@ Listen to a personal recount and complete the information:
 **Target**: Tell engaging personal recounts with appropriate expressions and emotions
 
 ### **Speaking Activity 1: Personal Experience Sharing**
+
 Tell a 3-minute recount about one of these experiences:
+
 1. Your most embarrassing moment
 2. A time when you helped someone
-3. Your biggest achievement  
+3. Your biggest achievement
 4. A moment when you were really scared
 5. Your funniest family story
 
 **Include:**
+
 - Clear time sequence
 - Your emotions throughout
 - Interesting details
 - A conclusion about what you learned
 
 ### **Speaking Activity 2: Chain Story**
+
 Work in groups of 4. Each student continues the recount where the previous student stopped:
 
 **Starter**: "Last summer, my family and I decided to go camping..."
@@ -122,9 +131,11 @@ Student 3: Continue for 1 minute
 Student 4: Conclude the story
 
 ### **Speaking Activity 3: Interview and Retell**
+
 Partner A interviews Partner B about a memorable experience. Then Partner A retells Partner B's story to the class.
 
 **Interview Questions:**
+
 - When did this happen?
 - Where were you?
 - Who was with you?
@@ -154,6 +165,7 @@ However, my teacher, Mrs. Sari, welcomed me warmly and introduced me to the clas
 By the end of the day, I had made three new friends and felt much more confident. Looking back now, I realize that this experience taught me that new beginnings, although scary, often lead to wonderful opportunities.
 
 **Analysis Questions:**
+
 1. What is the main event this recount focuses on?
 2. Trace the writer's emotional journey throughout the day.
 3. Identify five time connectives used in the text.
@@ -176,6 +188,7 @@ When we finally arrived at Taman Mini at 3 PM, we found that most of the outdoor
 Surprisingly, we ended up having a wonderful time together, and this chaotic day became one of our most memorable family stories that we still laugh about today.
 
 **Comprehension Questions:**
+
 1. List all the problems that occurred on this day.
 2. How did the family solve each problem?
 3. What was the unexpected positive outcome?
@@ -191,23 +204,28 @@ Surprisingly, we ended up having a wonderful time together, and this chaotic day
 **Target**: Write engaging recount texts with advanced narrative techniques
 
 ### **Writing Activity 1: Detailed Event Recount**
+
 Write a detailed recount (120-150 words) about a special celebration or festival you attended. Include:
 
 **Structure:**
+
 - **Orientation**: When, where, who, what occasion
-- **Events**: What happened (in chronological order)  
+- **Events**: What happened (in chronological order)
 - **Re-orientation**: Your feelings and reflection
 
 **Language Features to Use:**
+
 - Past tense verbs
 - Time connectives (initially, subsequently, meanwhile, eventually)
 - Emotional expressions
 - Descriptive details
 
 ### **Writing Activity 2: Problem-Solution Recount**
+
 Write about a time when you faced a problem and how you solved it (150-180 words).
 
 **Guidelines:**
+
 - Describe the problem clearly
 - Explain the steps you took to solve it
 - Include your emotions throughout the process
@@ -215,6 +233,7 @@ Write about a time when you faced a problem and how you solved it (150-180 words
 - Use varied sentence structures
 
 **Topics:**
+
 - Getting lost in a new place
 - Dealing with a difficult assignment
 - Resolving a conflict with a friend
@@ -222,9 +241,11 @@ Write about a time when you faced a problem and how you solved it (150-180 words
 - Learning a new skill
 
 ### **Writing Activity 3: Creative Recount**
+
 Choose one of these creative prompts and write an engaging recount (180-200 words):
 
 **Prompts:**
+
 1. "The day I met my hero"
 2. "My most unusual birthday"
 3. "When technology failed me"
@@ -232,6 +253,7 @@ Choose one of these creative prompts and write an engaging recount (180-200 word
 5. "The best advice I ever received"
 
 **Advanced Writing Techniques:**
+
 - Start with an engaging hook
 - Use dialogue to make it more interesting
 - Include sensory details
@@ -245,15 +267,11 @@ Choose one of these creative prompts and write an engaging recount (180-200 word
 
 ## **ASSESSMENT RUBRIC**
 
-| Features   | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
-|------------|------------|-----------|-----------|-----------|
-| **Vocabulary** | Uses 20/20 advanced words accurately with sophisticated understanding of time expressions and emotions | Uses 16-19/20 words accurately with good understanding of sequence and emotion words | Uses 13-15/20 words accurately with fair understanding of basic recount vocabulary | Uses 10-12/20 words with basic understanding and some confusion |
-| **Listening** | Demonstrates excellent comprehension of complex recounts, sequences 8/8 events accurately with full understanding | Demonstrates good comprehension, sequences 6-7/8 events accurately | Demonstrates basic comprehension, sequences 5-6/8 events with some accuracy | Demonstrates limited comprehension, sequences 3-4/8 events with support |
-| **Speaking** | Tells engaging, well-structured recounts using sophisticated language, excellent fluency, and compelling delivery | Tells clear, organized recounts using appropriate language and good fluency | Tells understandable recounts using basic language with adequate organization | Tells simple recounts with limited language but shows clear effort |
-| **Reading** | Demonstrates superior analytical skills, identifies all narrative techniques and understands complex implied meanings | Demonstrates good analytical skills, identifies most techniques with sound interpretation | Demonstrates basic analytical skills, identifies some techniques with simple understanding | Demonstrates limited analytical skills, identifies few techniques with support |
-| **Writing** | Produces sophisticated recount writing with advanced narrative techniques, varied structures, and excellent organization | Produces good recount writing with clear structure, appropriate techniques, and good organization | Produces acceptable recount writing with basic structure and simple techniques | Produces simple recount writing with limited techniques but clear chronological order |
+| Features       | A (90-100)                                                                                                               | B (80-89)                                                                                         | C (70-79)                                                                                  | D (60-69)                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| **Vocabulary** | Uses 20/20 advanced words accurately with sophisticated understanding of time expressions and emotions                   | Uses 16-19/20 words accurately with good understanding of sequence and emotion words              | Uses 13-15/20 words accurately with fair understanding of basic recount vocabulary         | Uses 10-12/20 words with basic understanding and some confusion                       |
+| **Listening**  | Demonstrates excellent comprehension of complex recounts, sequences 8/8 events accurately with full understanding        | Demonstrates good comprehension, sequences 6-7/8 events accurately                                | Demonstrates basic comprehension, sequences 5-6/8 events with some accuracy                | Demonstrates limited comprehension, sequences 3-4/8 events with support               |
+| **Speaking**   | Tells engaging, well-structured recounts using sophisticated language, excellent fluency, and compelling delivery        | Tells clear, organized recounts using appropriate language and good fluency                       | Tells understandable recounts using basic language with adequate organization              | Tells simple recounts with limited language but shows clear effort                    |
+| **Reading**    | Demonstrates superior analytical skills, identifies all narrative techniques and understands complex implied meanings    | Demonstrates good analytical skills, identifies most techniques with sound interpretation         | Demonstrates basic analytical skills, identifies some techniques with simple understanding | Demonstrates limited analytical skills, identifies few techniques with support        |
+| **Writing**    | Produces sophisticated recount writing with advanced narrative techniques, varied structures, and excellent organization | Produces good recount writing with clear structure, appropriate techniques, and good organization | Produces acceptable recount writing with basic structure and simple techniques             | Produces simple recount writing with limited techniques but clear chronological order |
 
----
-
-**Teacher's Notes:** 
-This advanced LKPD builds on basic recount skills from LKPD 1, focusing on more sophisticated narrative techniques, complex time expressions, and emotional language. Students practice analyzing longer texts, telling more engaging personal stories, and writing with advanced narrative techniques. Use this after students have mastered basic recount structure and simple past tense.
