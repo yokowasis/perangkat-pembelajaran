@@ -123,11 +123,19 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 #### 4. LKPD (Lembar Kerja Peserta Didik) - Kelas X
 
-> **LKPD** adalah worksheet terintegrasi yang mencakup 5 keterampilan bahasa: Vocabulary, Listening, Speaking, Reading, dan Writing dengan sistem penilaian A-B-C-D untuk setiap skill.
+> **LKPD** adalah worksheet terintegrasi yang mencakup 5 keterampilan bahasa: Vocabulary, Listening, Speaking, Reading, dan Writing dengan sistem penilaian A-B-C-D untuk setiap skill. Setiap topik memiliki 2 LKPD: Level 1 (basic/introductory) dan Level 2 (advanced/sophisticated).
 
-- [📄 LKPD - Descriptive Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-descriptive-text-x) - Worksheet 5 skill untuk topik descriptive text
-- [📄 LKPD - Recount Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-recount-text-x) - Worksheet 5 skill untuk topik recount text  
-- [📄 LKPD - Procedure Text](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x) - Worksheet 5 skill untuk topik procedure text
+**Descriptive Text:**
+- [📄 LKPD - Descriptive Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-descriptive-text-x-1) - Basic descriptive writing dengan vocabulary dasar
+- [📄 LKPD - Descriptive Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-descriptive-text-x-2) - Advanced descriptive writing dengan literary analysis
+
+**Recount Text:**
+- [📄 LKPD - Recount Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-recount-text-x-1) - Basic personal recount dengan simple past tense
+- [📄 LKPD - Recount Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-recount-text-x-2) - Advanced recount dengan narrative techniques
+
+**Procedure Text:**
+- [📄 LKPD - Procedure Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-1) - Basic instructions dengan simple imperative verbs
+- [📄 LKPD - Procedure Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-2) - Advanced technical procedures dengan complex instructions
 
 ### Bahasa Inggris - Kelas XII
 
