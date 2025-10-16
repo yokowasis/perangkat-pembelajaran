@@ -24,6 +24,17 @@ body {
 }
 
 body,
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section strong,
+.markdown-section em,
+.anchor span {
+  color: #000;
+}
+
+body,
 .markdown-section ol,
 .markdown-section p,
 .markdown-section ul {
