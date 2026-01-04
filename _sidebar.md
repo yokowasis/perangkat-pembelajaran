@@ -12,6 +12,14 @@
   - [📝 Recount Text - Pertemuan 2](english/x/recount-text-x-meeting2.md)
   - [📋 Procedure Text - Pertemuan 1](english/x/procedure-text-x.md)
   - [📋 Procedure Text - Pertemuan 2](english/x/procedure-text-x-meeting2.md)
+  - [📊 Analytical Exposition - Pertemuan 1](english/x/analytical-exposition-x.md)
+  - [📊 Analytical Exposition - Pertemuan 2](english/x/analytical-exposition-x-meeting2.md)
+  - [📊 Analytical Exposition - Pertemuan 3](english/x/analytical-exposition-x-meeting3.md)
+  - [📊 Analytical Exposition - Pertemuan 4](english/x/analytical-exposition-x-meeting4.md)
+  - [📚 Narrative Text - Pertemuan 1](english/x/narrative-text-x.md)
+  - [📚 Narrative Text - Pertemuan 2](english/x/narrative-text-x-meeting2.md)
+  - [📚 Narrative Text - Pertemuan 3](english/x/narrative-text-x-meeting3.md)
+  - [📚 Narrative Text - Pertemuan 4](english/x/narrative-text-x-meeting4.md)
   
   **📝 LKPD Grade X**
   - [📄 LKPD - Descriptive Text 1](english/x/lkpd/lkpd-descriptive-text-x-1.md)
@@ -20,6 +28,10 @@
   - [📄 LKPD - Recount Text 2](english/x/lkpd/lkpd-recount-text-x-2.md)
   - [📄 LKPD - Procedure Text 1](english/x/lkpd/lkpd-procedure-text-x-1.md)
   - [📄 LKPD - Procedure Text 2](english/x/lkpd/lkpd-procedure-text-x-2.md)
+  - [📄 LKPD - Analytical Exposition 1](english/x/lkpd/lkpd-analytical-exposition-x-1.md)
+  - [📄 LKPD - Analytical Exposition 2](english/x/lkpd/lkpd-analytical-exposition-x-2.md)
+  - [📄 LKPD - Narrative Text 1](english/x/lkpd/lkpd-narrative-text-x-1.md)
+  - [📄 LKPD - Narrative Text 2](english/x/lkpd/lkpd-narrative-text-x-2.md)
 
 - **📚 Kelas IX (Grade 9)**
 

@@ -121,7 +121,21 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📋 Procedure Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x) - Pengenalan struktur, fitur kebahasaan, dan analisis procedure text
 - [📋 Procedure Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x-meeting2) - Praktik menulis dan demonstrasi procedure text
 
-#### 4. LKPD (Lembar Kerja Peserta Didik) - Kelas X
+#### 3. Analytical Exposition (4 JP)
+
+- [📊 Analytical Exposition - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x) - Pengenalan konsep dan fungsi sosial analytical exposition
+- [📊 Analytical Exposition - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting2) - Struktur dan fitur kebahasaan analytical exposition
+- [📊 Analytical Exposition - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting3) - Praktik aplikasi dan menulis analytical exposition
+- [📊 Analytical Exposition - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting4) - Presentasi dan evaluasi akhir
+
+#### 4. Narrative Text (4 JP)
+
+- [📚 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/narrative-text-x) - Pengenalan dasar storytelling dan unsur cerita
+- [📚 Narrative Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/narrative-text-x-meeting2) - Analisis struktur dan fitur kebahasaan narrative
+- [📚 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/narrative-text-x-meeting3) - Praktik menulis kreatif dan storytelling
+- [📚 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/narrative-text-x-meeting4) - Presentasi dan assessment akhir
+
+#### 5. LKPD (Lembar Kerja Peserta Didik) - Kelas X
 
 > **LKPD** adalah worksheet terintegrasi yang mencakup 5 keterampilan bahasa: Vocabulary, Listening, Speaking, Reading, dan Writing dengan sistem penilaian A-B-C-D untuk setiap skill. Setiap topik memiliki 2 LKPD: Level 1 (basic/introductory) dan Level 2 (advanced/sophisticated).
 
@@ -136,6 +150,14 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 **Procedure Text:**
 - [📄 LKPD - Procedure Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-1) - Basic instructions dengan simple imperative verbs
 - [📄 LKPD - Procedure Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-2) - Advanced technical procedures dengan complex instructions
+
+**Analytical Exposition:**
+- [📄 LKPD - Analytical Exposition 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-analytical-exposition-x-1) - Basic argumentative writing dengan opinion expressions
+- [📄 LKPD - Analytical Exposition 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-analytical-exposition-x-2) - Advanced argumentation dengan sophisticated academic language
+
+**Narrative Text:**
+- [📄 LKPD - Narrative Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-narrative-text-x-1) - Basic storytelling dengan simple past tense dan story elements
+- [📄 LKPD - Narrative Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-narrative-text-x-2) - Advanced narrative techniques dengan literary analysis
 
 ### Bahasa Inggris - Kelas XII
 
