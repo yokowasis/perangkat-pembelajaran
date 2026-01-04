@@ -102,6 +102,16 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [⌨️ Dasar Pemrograman - Pertemuan 9](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-1-ix) - Latihan & diskusi soal pemrograman
 - [⌨️ Dasar Pemrograman - Pertemuan 10](https://modul-belajar.code.app.web.id/#/tik/ix/latihan-pemrograman-2-ix) - Sintesis dan evaluasi akhir
 
+#### 6. LKPD (Lembar Kerja Peserta Didik) - Kelas IX TIK
+
+> **LKPD TIK** adalah worksheet komprehensif yang mengintegrasikan 5 aspek berpikir komputasional: Konsep Dasar, Analisis Logika, Pemecahan Masalah, Implementasi Digital, dan Aplikasi Praktis dengan sistem penilaian A-B-C-D untuk setiap aspek. Setiap topik memiliki 1 LKPD yang mencakup semua kompetensi dalam materi tersebut.
+
+- [📄 LKPD - Aljabar Boolean & Himpunan](https://modul-belajar.code.app.web.id/#/tik/ix/lkpd/lkpd-aljabar-boolean-himpunan-ix) - Logika Boolean, tabel kebenaran, operasi himpunan, dan aplikasi sistem digital
+- [📄 LKPD - Graf & Geometri](https://modul-belajar.code.app.web.id/#/tik/ix/lkpd/lkpd-graf-geometri-ix) - Teori graf, representasi data, geometri komputasi, dan algoritma pathfinding
+- [📄 LKPD - Kombinatorika & Model Matematis](https://modul-belajar.code.app.web.id/#/tik/ix/lkpd/lkpd-kombinatorika-model-matematis-ix) - Pencacahan, permutasi/kombinasi, probabilitas, dan modeling matematis
+- [📄 LKPD - Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/tik/ix/lkpd/lkpd-berpikir-komputasional-ix) - Decomposition, pattern recognition, abstraction, algorithmic thinking, dan simulation
+- [📄 LKPD - Dasar Pemrograman](https://modul-belajar.code.app.web.id/#/tik/ix/lkpd/lkpd-dasar-pemrograman-ix) - Algoritma, flowchart, pseudocode, struktur data, dan pemrograman prosedural
+
 ### Bahasa Inggris - Kelas X
 
 #### 1. Descriptive Text (4 JP)

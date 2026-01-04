@@ -64,6 +64,13 @@
   - [⌨️ Dasar Pemrograman - Pertemuan 8](tik/ix/rekursi-dasar-ix.md)
   - [⌨️ Dasar Pemrograman - Pertemuan 9](tik/ix/latihan-pemrograman-1-ix.md)
   - [⌨️ Dasar Pemrograman - Pertemuan 10](tik/ix/latihan-pemrograman-2-ix.md)
+  
+  **📝 LKPD Grade IX**
+  - [📄 LKPD - Aljabar Boolean & Himpunan](tik/ix/lkpd/lkpd-aljabar-boolean-himpunan-ix.md)
+  - [📄 LKPD - Graf & Geometri](tik/ix/lkpd/lkpd-graf-geometri-ix.md)
+  - [📄 LKPD - Kombinatorika & Model Matematis](tik/ix/lkpd/lkpd-kombinatorika-model-matematis-ix.md)
+  - [📄 LKPD - Berpikir Komputasional](tik/ix/lkpd/lkpd-berpikir-komputasional-ix.md)
+  - [📄 LKPD - Dasar Pemrograman](tik/ix/lkpd/lkpd-dasar-pemrograman-ix.md)
 
 - **📚 Kelas XII (Grade 12)**
 
