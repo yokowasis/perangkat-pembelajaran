@@ -114,55 +114,57 @@ SELESAI
 
 **Materi:** Kemampuan menganalisis masalah kompleks dan memecahnya menjadi bagian-bagian yang lebih kecil (dekomposisi).
 
-#### **CONTOH TERSTRUKTUR: Dekomposisi Masalah "Membuat Website Sekolah"**
+#### **CONTOH TERSTRUKTUR: Dekomposisi Masalah "Mengorganisir Acara Perpisahan Kelas XII"**
 
 **Langkah 1:** Identifikasi masalah utama
-- **Masalah besar:** "Sekolah butuh website untuk informasi dan komunikasi dengan siswa/orang tua"
+- **Masalah besar:** "Kelas XI harus mengorganisir acara perpisahan untuk kakak kelas XII yang berkesan dan sukses"
 
 **Langkah 2:** Pecah menjadi kategori utama (Level 1)
-1. **Perencanaan dan Desain**
-2. **Pengembangan Konten**  
-3. **Pemrograman dan Teknologi**
-4. **Testing dan Maintenance**
+1. **Perencanaan Acara**
+2. **Persiapan Tempat dan Dekorasi**  
+3. **Program dan Hiburan**
+4. **Konsumsi dan Logistik**
 
 **Langkah 3:** Pecah tiap kategori menjadi sub-tugas (Level 2)
 
-**1. Perencanaan dan Desain:**
-   - 1.1 Survey kebutuhan (siswa, guru, orang tua)
-   - 1.2 Buat wireframe/sketsa layout
-   - 1.3 Pilih warna dan tema sekolah
-   - 1.4 Tentukan menu dan navigasi
+**1. Perencanaan Acara:**
+   - 1.1 Bentuk panitia dan bagi tugas (ketua, sekretaris, bendahara, seksi-seksi)
+   - 1.2 Tentukan tanggal, waktu, dan durasi acara
+   - 1.3 Buat anggaran dan cari sumber dana (iuran, sponsor)
+   - 1.4 Minta izin ke sekolah dan koordinasi dengan guru
 
-**2. Pengembangan Konten:**
-   - 2.1 Tulis profil sekolah
-   - 2.2 Kumpulkan foto kegiatan
-   - 2.3 Buat jadwal pelajaran
-   - 2.4 Siapkan informasi kontak
+**2. Persiapan Tempat dan Dekorasi:**
+   - 2.1 Pilih dan booking tempat (aula, kelas, lapangan)
+   - 2.2 Buat konsep tema dekorasi
+   - 2.3 Beli bahan dekorasi (balon, spanduk, bunga)
+   - 2.4 Pasang dekorasi sehari sebelum acara
 
-**3. Pemrograman dan Teknologi:**
-   - 3.1 Pilih platform (WordPress, HTML, dll)
-   - 3.2 Beli domain dan hosting
-   - 3.3 Install dan setup platform
-   - 3.4 Coding fitur khusus jika diperlukan
+**3. Program dan Hiburan:**
+   - 3.1 Buat rundown acara (pembukaan, sambutan, hiburan, penutupan)
+   - 3.2 Cari MC dan siapkan naskah
+   - 3.3 Koordinasi penampilan (band sekolah, tari, drama)
+   - 3.4 Siapkan kenang-kenangan (plakat, foto bersama)
 
-**4. Testing dan Maintenance:**
-   - 4.1 Test di berbagai perangkat (desktop, mobile)
-   - 4.2 Test speed loading website
-   - 4.3 Buat jadwal update konten
-   - 4.4 Setup backup otomatis
+**4. Konsumsi dan Logistik:**
+   - 4.1 Hitung jumlah peserta (siswa XII, guru, tamu)
+   - 4.2 Pesan snack dan minuman
+   - 4.3 Siapkan sound system dan peralatan
+   - 4.4 Atur jadwal cleanup setelah acara
 
 **Langkah 4:** Identifikasi Dependencies (Ketergantungan)
-- 1.1 harus selesai dulu sebelum 1.2 (survey dulu baru buat desain)
-- 2.1-2.4 bisa dikerjakan bersamaan (parallel)
-- 3.2 harus selesai sebelum 3.3 (beli hosting dulu baru install)
-- Semua Level 1&2 harus selesai sebelum Level 4 (testing)
+- 1.1 harus selesai dulu sebelum semua tugas lain (bentuk panitia dulu)
+- 1.2 dan 1.4 harus selesai sebelum 2.1 (tentukan jadwal dan izin dulu baru booking tempat)
+- 1.3 harus selesai sebelum 2.3 dan 4.2 (anggaran jelas dulu baru belanja)
+- 2.4, 3.4, dan 4.3 dilakukan sehari sebelum acara
+- 4.4 dilakukan setelah acara selesai
 
 **Langkah 5:** Estimasi Waktu
-- Total project: 4-6 minggu
+- Total persiapan: 3-4 minggu
 - Perencanaan: 1 minggu  
-- Konten: 2 minggu (parallel dengan teknologi)
-- Teknologi: 2 minggu
-- Testing: 1 minggu
+- Persiapan tempat dan program: 2 minggu (parallel)
+- Eksekusi (pasang dekorasi, setup): 1 hari
+- Acara: 3-4 jam
+- Cleanup: 2 jam
 
 **Aktivitas:**
 1. **Studi Kasus:** "Merencanakan acara sekolah"
