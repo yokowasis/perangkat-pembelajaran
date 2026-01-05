@@ -4,6 +4,7 @@
 
 - **📚 Kelas X (Grade 10)**
 
+  **📝 Bahasa Inggris - Kelas X**
   - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md)
   - [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md)
   - [📖 Descriptive Text - Pertemuan 3](english/x/descriptive-text-x-meeting3.md)
@@ -21,7 +22,18 @@
   - [📚 Narrative Text - Pertemuan 3](english/x/narrative-text-x-meeting3.md)
   - [📚 Narrative Text - Pertemuan 4](english/x/narrative-text-x-meeting4.md)
   
-  **📝 LKPD Grade X**
+  **🤖 KKA (Koding dan Kecerdasan Artifisial) - Kelas X**
+  - [🧠 Berpikir Komputasional - Pertemuan 1](kka/x/berpikir-komputasional-x.md)
+  - [🧠 Berpikir Komputasional - Pertemuan 2](kka/x/berpikir-komputasional-x-meeting2.md)
+  - [🧠 Berpikir Komputasional - Pertemuan 3](kka/x/berpikir-komputasional-x-meeting3.md)
+  - [🧠 Berpikir Komputasional - Pertemuan 4](kka/x/berpikir-komputasional-x-meeting4.md)
+  - [🤖 Kecerdasan Artifisial - Pertemuan 1](kka/x/kecerdasan-artifisial-x.md)
+  - [🤖 Kecerdasan Artifisial - Pertemuan 2](kka/x/kecerdasan-artifisial-x-meeting2.md)
+  - [🤖 Kecerdasan Artifisial - Pertemuan 3](kka/x/kecerdasan-artifisial-x-meeting3.md)
+  - [🤖 Kecerdasan Artifisial - Pertemuan 4](kka/x/kecerdasan-artifisial-x-meeting4.md)
+  - [✨ Prompt Engineering & AI Generatif - Pertemuan 1](kka/x/prompt-engineering-ai-generatif-x.md)
+  
+  **📝 LKPD Grade X - Bahasa Inggris**
   - [📄 LKPD - Descriptive Text 1](english/x/lkpd/lkpd-descriptive-text-x-1.md)
   - [📄 LKPD - Descriptive Text 2](english/x/lkpd/lkpd-descriptive-text-x-2.md)
   - [📄 LKPD - Recount Text 1](english/x/lkpd/lkpd-recount-text-x-1.md)
@@ -32,6 +44,11 @@
   - [📄 LKPD - Analytical Exposition 2](english/x/lkpd/lkpd-analytical-exposition-x-2.md)
   - [📄 LKPD - Narrative Text 1](english/x/lkpd/lkpd-narrative-text-x-1.md)
   - [📄 LKPD - Narrative Text 2](english/x/lkpd/lkpd-narrative-text-x-2.md)
+  
+  **📝 LKPD Grade X - KKA**
+  - [📄 LKPD - Berpikir Komputasional](kka/x/lkpd/lkpd-berpikir-komputasional-x.md)
+  - [📄 LKPD - Kecerdasan Artifisial](kka/x/lkpd/lkpd-kecerdasan-artifisial-x.md)
+  - [📄 LKPD - Prompt Engineering & AI Generatif](kka/x/lkpd/lkpd-prompt-engineering-ai-generatif-x.md)
 
 - **📚 Kelas IX (Grade 9)**
 

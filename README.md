@@ -44,9 +44,15 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### Kelas X (Grade 10) - Fase E
 
+**Bahasa Inggris:**
 - **Focus**: Komunikasi dasar, teks sederhana, topik familiar
 - **Approach**: Mixed language instruction, visual learning, TPR methods
 - **Assessment**: Pretest untuk diagnostic, formative assessment
+
+**KKA (Koding dan Kecerdasan Artifisial):**
+- **Focus**: Computational thinking, AI literacy, prompt engineering
+- **Approach**: Hands-on AI experimentation, problem-based learning, ethical technology use
+- **Assessment**: Project-based evaluation, practical AI tool usage, ethical reasoning
 
 ### Kelas XII (Grade 12) - Fase F
 
@@ -168,6 +174,34 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 **Narrative Text:**
 - [📄 LKPD - Narrative Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-narrative-text-x-1) - Basic storytelling dengan simple past tense dan story elements
 - [📄 LKPD - Narrative Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-narrative-text-x-2) - Advanced narrative techniques dengan literary analysis
+
+### KKA (Koding dan Kecerdasan Artifisial) - Kelas X
+
+#### 1. Berpikir Komputasional (4 JP)
+
+- [🧠 Berpikir Komputasional - Pertemuan 1](https://modul-belajar.code.app.web.id/#/kka/x/berpikir-komputasional-x) - Pengenalan computational thinking dan dekomposisi masalah
+- [🧠 Berpikir Komputasional - Pertemuan 2](https://modul-belajar.code.app.web.id/#/kka/x/berpikir-komputasional-x-meeting2) - Pattern recognition dan abstraksi dalam problem solving
+- [🧠 Berpikir Komputasional - Pertemuan 3](https://modul-belajar.code.app.web.id/#/kka/x/berpikir-komputasional-x-meeting3) - Algorithm design dan implementasi praktis
+- [🧠 Berpikir Komputasional - Pertemuan 4](https://modul-belajar.code.app.web.id/#/kka/x/berpikir-komputasional-x-meeting4) - Aplikasi dalam AI dan evaluasi komprehensif
+
+#### 2. Kecerdasan Artifisial (4 JP)
+
+- [🤖 Kecerdasan Artifisial - Pertemuan 1](https://modul-belajar.code.app.web.id/#/kka/x/kecerdasan-artifisial-x) - Pengenalan AI, sejarah, dan aplikasi sehari-hari
+- [🤖 Kecerdasan Artifisial - Pertemuan 2](https://modul-belajar.code.app.web.id/#/kka/x/kecerdasan-artifisial-x-meeting2) - Pattern recognition dalam citra, suara, dan teks
+- [🤖 Kecerdasan Artifisial - Pertemuan 3](https://modul-belajar.code.app.web.id/#/kka/x/kecerdasan-artifisial-x-meeting3) - Profesi dan karir di bidang AI
+- [🤖 Kecerdasan Artifisial - Pertemuan 4](https://modul-belajar.code.app.web.id/#/kka/x/kecerdasan-artifisial-x-meeting4) - Etika dan penggunaan AI yang bertanggung jawab
+
+#### 3. Prompt Engineering & AI Generatif (4 JP)
+
+- [✨ Prompt Engineering & AI Generatif - Pertemuan 1](https://modul-belajar.code.app.web.id/#/kka/x/prompt-engineering-ai-generatif-x) - Pengenalan prompt engineering dan teknik dasar
+
+#### 4. LKPD (Lembar Kerja Peserta Didik) - Kelas X KKA
+
+> **LKPD KKA** adalah worksheet komprehensif yang mengintegrasikan 5 aspek keterampilan computational thinking dan AI literacy: Konsep Dasar, Analisis Logika, Pemecahan Masalah, Implementasi Digital, dan Aplikasi Praktis dengan sistem penilaian A-B-C-D untuk setiap aspek.
+
+- [📄 LKPD - Berpikir Komputasional](https://modul-belajar.code.app.web.id/#/kka/x/lkpd/lkpd-berpikir-komputasional-x) - Dekomposisi, pattern recognition, abstraksi, dan algoritma
+- [📄 LKPD - Kecerdasan Artifisial](https://modul-belajar.code.app.web.id/#/kka/x/lkpd/lkpd-kecerdasan-artifisial-x) - Konsep AI, pattern recognition, aplikasi, dan etika
+- [📄 LKPD - Prompt Engineering & AI Generatif](https://modul-belajar.code.app.web.id/#/kka/x/lkpd/lkpd-prompt-engineering-ai-generatif-x) - Teknik prompting, optimisasi, dan evaluasi konten AI
 
 ### Bahasa Inggris - Kelas XII
 
