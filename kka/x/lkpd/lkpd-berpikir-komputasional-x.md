@@ -21,7 +21,7 @@
 
 ### Empat Pilar Computational Thinking
 
-#### 1. **Decomposition (Dekomposisi) - Memecah Masalah**
+#### 1. **Dekomposisi (Decomposition) - Memecah Masalah**
 **Definisi:** Memecah masalah besar dan kompleks menjadi bagian-bagian kecil yang lebih mudah diselesaikan.
 
 **Contoh konkret:** Menyiapkan sarapan untuk keluarga
@@ -38,7 +38,7 @@
 
 **Mengapa penting?** Masalah besar terasa menakutkan, tapi kalau dipecah jadi kecil-kecil, jadi lebih mudah dan tidak overwhelming.
 
-#### 2. **Pattern Recognition (Pengenalan Pola) - Menemukan Kesamaan**
+#### 2. **Pengenalan Pola (Pattern Recognition) - Menemukan Kesamaan**
 **Definisi:** Mengidentifikasi kesamaan, pola, atau trend dalam masalah yang berbeda sehingga bisa menggunakan solusi yang sama.
 
 **Contoh konkret:** Pola dalam kegiatan sekolah
@@ -48,7 +48,7 @@
 
 **Kegunaan:** Setelah mengenali pola, kita bisa memprediksi dan bersiap. Misalnya, kalau tau pola ujian, bisa menyiapkan jadwal belajar yang tepat.
 
-#### 3. **Abstraction (Abstraksi) - Fokus pada Hal Penting**
+#### 3. **Abstraksi (Abstraction) - Fokus pada Hal Penting**
 **Definisi:** Menyaring informasi untuk fokus hanya pada detail yang penting dan mengabaikan yang tidak relevan.
 
 **Contoh konkret:** Sistem peminjaman buku perpustakaan
@@ -65,7 +65,7 @@
 
 **Mengapa penting?** Dengan fokus pada hal penting saja, kita bisa membuat solusi yang lebih sederhana dan efisien.
 
-#### 4. **Algorithm Design (Perancangan Algoritma) - Membuat Langkah-Langkah**
+#### 4. **Perancangan Algoritma (Algorithm Design) - Membuat Langkah-Langkah**
 **Definisi:** Menyusun urutan langkah-langkah yang jelas dan logis untuk menyelesaikan masalah.
 
 **Contoh konkret:** Algoritma mencari buku di perpustakaan
@@ -86,13 +86,13 @@ MULAI
 SELESAI
 ```
 
-### Mengapa CT Penting di Era Digital?
+### Mengapa Berpikir Komputasional Penting di Era Digital?
 
-1. **Problem Solving yang Efisien:** Membantu menyelesaikan masalah dengan cara yang sistematis
+1. **Pemecahan Masalah yang Efisien:** Membantu menyelesaikan masalah dengan cara yang sistematis
 2. **Komunikasi yang Jelas:** Bisa menjelaskan proses kepada orang lain dengan mudah
 3. **Adaptasi Teknologi:** Memahami cara kerja teknologi di sekitar kita
 4. **Inovasi:** Dasar untuk menciptakan solusi-solusi baru
-5. **Kolaborasi:** Bekerja sama dengan orang lain menggunakan framework yang sama
+5. **Kolaborasi:** Bekerja sama dengan orang lain menggunakan kerangka kerja yang sama
 
 ---
 
@@ -255,7 +255,7 @@ SISTEM PINJAM BUKU = {
    - Buat abstract model dari "Sistem peminjaman buku perpustakaan"
    - Identifikasi informasi essential vs non-essential
 
-**Assessment:** Kemampuan mengenali pola dan melakukan abstraction yang tepat (3/4 pola teridentifikasi benar, abstraction model logis)
+**Assessment:** Kemampuan mengenali pola dan melakukan abstraksi yang tepat (3/4 pola teridentifikasi benar, model abstraksi logis)
 
 ### Implementasi Digital (Digital Implementation)
 
@@ -402,7 +402,7 @@ SELESAI
    - Test algoritma dengan berbagai input
    - Identifikasi edge cases dan perbaikan yang diperlukan
 
-**Assessment:** Kualitas algoritma (logis, komprehensif, dapat diimplementasikan) dan kemampuan testing (flowchart/pseudocode benar, testing scenarios adequate)
+**Assessment:** Kualitas algoritma (logis, komprehensif, dapat diimplementasikan) dan kemampuan pengujian (flowchart/pseudocode benar, skenario pengujian memadai)
 
 ### Aplikasi Praktis (Practical Application)
 

@@ -11,141 +11,141 @@
 
 ### Apa itu Prompt Engineering?
 
-**Prompt Engineering** adalah seni dan sains dalam merancang instruksi (prompts) yang efektif untuk berkomunikasi dengan AI generatif agar menghasilkan output yang diinginkan.
+**Prompt Engineering** adalah seni dan sains dalam merancang instruksi (prompt) yang efektif untuk berkomunikasi dengan AI generatif agar menghasilkan keluaran yang diinginkan.
 
 **Analogi sederhana:** Bayangkan AI seperti asisten yang sangat pintar tapi literal:
-- **Bad prompt:** "Buatkan sesuatu" → Asisten bingung, hasil random
-- **Good prompt:** "Buatkan essay 300 kata tentang dampak social media pada remaja, gunakan 3 contoh konkret, tone formal tapi mudah dipahami" → Hasil sesuai ekspektasi
+- **Prompt buruk:** "Buatkan sesuatu" → Asisten bingung, hasil acak
+- **Prompt baik:** "Buatkan esai 300 kata tentang dampak media sosial pada remaja, gunakan 3 contoh konkret, nada formal tapi mudah dipahami" → Hasil sesuai ekspektasi
 
 ### Mengapa Prompt Engineering Penting?
 
-#### **1. AI ≠ Mind Reader**
+#### **1. AI ≠ Pembaca Pikiran**
 AI generatif seperti ChatGPT, Gemini, atau Claude sangat powerful, tapi mereka:
-- **Tidak bisa baca pikiran** - hanya respond terhadap apa yang kamu tulis
-- **Sangat literal** - interpret kata-kata persis seperti yang ditulis  
-- **Context-dependent** - output quality tergantung input quality
+- **Tidak bisa membaca pikiran** - hanya merespons terhadap apa yang kamu tulis
+- **Sangat literal** - menginterpretasi kata-kata persis seperti yang ditulis  
+- **Bergantung konteks** - kualitas keluaran tergantung kualitas masukan
 
-#### **2. Garbage In, Garbage Out**
+#### **2. Masukan Buruk, Keluaran Buruk**
 **Contoh perbandingan:**
 
-| Poor Prompt | AI Output | Good Prompt | AI Output |
+| Prompt Buruk | Keluaran AI | Prompt Baik | Keluaran AI |
 |-------------|-----------|-------------|-----------|
-| "Tulis tentang sekolah" | Essay generik 100 kata tentang pentingnya pendidikan | "Tulis artikel 500 kata tentang inovasi pembelajaran hybrid di era post-pandemi. Sertakan 2 studi kasus sekolah Indonesia, 3 tantangan utama, dan rekomendasi implementasi. Target audience: kepala sekolah dan guru." | Artikel detail, specific, actionable dengan struktur jelas |
+| "Tulis tentang sekolah" | Esai generik 100 kata tentang pentingnya pendidikan | "Tulis artikel 500 kata tentang inovasi pembelajaran hybrid di era pasca-pandemi. Sertakan 2 studi kasus sekolah Indonesia, 3 tantangan utama, dan rekomendasi implementasi. Target audiens: kepala sekolah dan guru." | Artikel detail, spesifik, dapat ditindaklanjuti dengan struktur jelas |
 
-#### **3. ROI (Return on Investment) dari Good Prompts**
-- **Time savings:** Good prompt = hasil langsung pakai vs revisi berkali-kali
-- **Quality output:** Specific instructions = output lebih relevant dan useful
-- **Consistency:** Template prompts = hasil consistent across different tasks
+#### **3. Return on Investment dari Prompt Baik**
+- **Penghematan waktu:** Prompt baik = hasil langsung pakai vs revisi berkali-kali
+- **Kualitas keluaran:** Instruksi spesifik = keluaran lebih relevan dan berguna
+- **Konsistensi:** Template prompt = hasil konsisten di berbagai tugas
 
-### Anatomi Good Prompt: Framework CLEAR
+### Anatomi Prompt Baik: Kerangka Kerja CLEAR
 
 #### **C - Context (Konteks)**
-Berikan background information yang relevan.
+Berikan informasi latar belakang yang relevan.
 
 **Contoh:**
 ❌ "Buatkan presentasi tentang AI"
 ✅ "Saya siswa SMA yang akan presentasi tentang AI di depan kelas untuk tugas Informatika"
 
 #### **L - Length (Panjang)**
-Specify panjang output yang diinginkan.
+Tentukan panjang keluaran yang diinginkan.
 
 **Contoh:**
 ❌ "Jelaskan fotosintesis"  
 ✅ "Jelaskan fotosintesis dalam 200 kata, level SMP kelas 8"
 
 #### **E - Examples (Contoh)**
-Berikan contoh format atau style yang diinginkan.
+Berikan contoh format atau gaya yang diinginkan.
 
 **Contoh:**
-❌ "Buatkan quiz"
-✅ "Buatkan quiz 10 soal multiple choice tentang sejarah kemerdekaan Indonesia. Format: Pertanyaan → 4 pilihan (A,B,C,D) → Jawaban benar → Penjelasan singkat."
+❌ "Buatkan kuis"
+✅ "Buatkan kuis 10 soal pilihan ganda tentang sejarah kemerdekaan Indonesia. Format: Pertanyaan → 4 pilihan (A,B,C,D) → Jawaban benar → Penjelasan singkat."
 
 #### **A - Audience (Target)**  
-Tentukan siapa yang akan baca/gunakan output.
+Tentukan siapa yang akan membaca/menggunakan keluaran.
 
 **Contoh:**
 ❌ "Explain machine learning"
-✅ "Explain machine learning to high school students who have never heard the term before, using everyday analogies"
+✅ "Jelaskan machine learning untuk siswa SMA yang belum pernah mendengar istilah ini, gunakan analogi sehari-hari"
 
 #### **R - Role (Peran)**
-Minta AI assume specific role atau expertise.
+Minta AI mengasumsikan peran atau keahlian spesifik.
 
 **Contoh:**
 ❌ "Bagaimana cara belajar efektif?"
-✅ "Sebagai education consultant dengan 10 tahun pengalaman, berikan strategi belajar efektif untuk siswa SMA yang sulit fokus. Include scientific evidence dan practical tips."
+✅ "Sebagai konsultan pendidikan dengan 10 tahun pengalaman, berikan strategi belajar efektif untuk siswa SMA yang sulit fokus. Sertakan bukti ilmiah dan tips praktis."
 
-### Jenis-jenis Prompting Techniques
+### Jenis-jenis Teknik Prompting
 
 #### **1. Zero-Shot Prompting**
-**Definisi:** Minta AI lakukan task tanpa memberikan contoh
-**Kapan digunakan:** Task yang straightforward, AI sudah familiar dengan format
+**Definisi:** Minta AI lakukan tugas tanpa memberikan contoh
+**Kapan digunakan:** Tugas yang sederhana, AI sudah familiar dengan format
 
 **Contoh:**
 ```
-Translate ke bahasa Inggris: "Saya suka belajar matematika"
+Terjemahkan ke bahasa Inggris: "Saya suka belajar matematika"
 ```
 
 #### **2. Few-Shot Prompting** 
-**Definisi:** Berikan 2-3 contoh sebelum minta AI lakukan task
-**Kapan digunakan:** Format specific, style tertentu, consistency penting
+**Definisi:** Berikan 2-3 contoh sebelum minta AI lakukan tugas
+**Kapan digunakan:** Format spesifik, gaya tertentu, konsistensi penting
 
 **Contoh:**
 ```
-Convert statements jadi pertanyaan:
-Statement: "Jakarta adalah ibu kota Indonesia"
-Question: "Apa ibu kota Indonesia?"
+Ubah pernyataan jadi pertanyaan:
+Pernyataan: "Jakarta adalah ibu kota Indonesia"
+Pertanyaan: "Apa ibu kota Indonesia?"
 
-Statement: "Photosynthesis terjadi di daun"  
-Question: "Dimana photosynthesis terjadi?"
+Pernyataan: "Fotosintesis terjadi di daun"  
+Pertanyaan: "Dimana fotosintesis terjadi?"
 
-Statement: "Python adalah bahasa pemrograman"
-Question:
+Pernyataan: "Python adalah bahasa pemrograman"
+Pertanyaan:
 ```
 
 #### **3. Chain-of-Thought (CoT)**
-**Definisi:** Minta AI show step-by-step reasoning process
-**Kapan digunakan:** Problem solving, complex analysis, math problems
+**Definisi:** Minta AI tunjukkan proses penalaran langkah demi langkah
+**Kapan digunakan:** Pemecahan masalah, analisis kompleks, soal matematika
 
 **Contoh:**
 ```
-Solve this step-by-step dengan explanation:
-Jika harga apel Rp 5000/kg dan jeruk Rp 3000/kg, berapa total cost untuk 2kg apel dan 3kg jeruk?
+Selesaikan ini langkah demi langkah dengan penjelasan:
+Jika harga apel Rp 5000/kg dan jeruk Rp 3000/kg, berapa total biaya untuk 2kg apel dan 3kg jeruk?
 
-Step 1: [AI akan breakdown calculation]
-Step 2: [AI akan show working]
-Final answer: [AI akan give final result]
+Langkah 1: [AI akan jabarkan perhitungan]
+Langkah 2: [AI akan tunjukkan cara kerja]
+Jawaban akhir: [AI akan berikan hasil final]
 ```
 
 #### **4. Role-Based Prompting**
-**Definisi:** AI assume specific persona/profession
-**Kapan digunakan:** Need specific expertise, particular perspective, creative scenarios
+**Definisi:** AI mengasumsikan persona/profesi spesifik
+**Kapan digunakan:** Butuh keahlian spesifik, perspektif tertentu, skenario kreatif
 
 **Contoh:**
 ```
-You are a experienced high school biology teacher. Explain DNA replication to students who are struggling with the concept. Use analogies they can relate to and check for understanding with questions.
+Kamu adalah guru biologi SMA yang berpengalaman. Jelaskan replikasi DNA kepada siswa yang kesulitan memahami konsep. Gunakan analogi yang bisa mereka pahami dan berikan pertanyaan untuk memeriksa pemahaman.
 ```
 
-### Common Prompt Failures & Solutions
+### Kegagalan Prompt Umum & Solusi
 
-#### **❌ Failure 1: Vague Instructions**
-**Bad:** "Make this better"
-**Why it fails:** AI doesn't know what "better" means
-**Fix:** "Improve this essay by: 1) Adding topic sentences to each paragraph, 2) Including specific examples, 3) Strengthening the conclusion with a call to action"
+#### **❌ Kegagalan 1: Instruksi Samar**
+**Buruk:** "Buat ini lebih baik"
+**Mengapa gagal:** AI tidak tahu apa arti "lebih baik"
+**Perbaikan:** "Tingkatkan esai ini dengan: 1) Menambahkan kalimat topik di setiap paragraf, 2) Menyertakan contoh spesifik, 3) Memperkuat kesimpulan dengan ajakan bertindak"
 
-#### **❌ Failure 2: Multiple Tasks in One Prompt**
-**Bad:** "Translate this to English, summarize it, and write a response"
-**Why it fails:** AI tries to do everything, quality suffers
-**Fix:** Break into 3 separate prompts, use output dari prompt 1 sebagai input untuk prompt 2
+#### **❌ Kegagalan 2: Beberapa Tugas dalam Satu Prompt**
+**Buruk:** "Terjemahkan ini ke bahasa Inggris, ringkas, dan tulis tanggapan"
+**Mengapa gagal:** AI mencoba melakukan semuanya, kualitas menurun
+**Perbaikan:** Pecah menjadi 3 prompt terpisah, gunakan keluaran dari prompt 1 sebagai masukan untuk prompt 2
 
-#### **❌ Failure 3: Ambiguous Constraints**
-**Bad:** "Write a short essay"
-**Why it fails:** "Short" bisa mean 100 words atau 500 words  
-**Fix:** "Write a 250-word essay (±50 words)"
+#### **❌ Kegagalan 3: Batasan Ambigu**
+**Buruk:** "Tulis esai pendek"
+**Mengapa gagal:** "Pendek" bisa berarti 100 kata atau 500 kata  
+**Perbaikan:** "Tulis esai 250 kata (±50 kata)"
 
-#### **❌ Failure 4: Missing Context**
-**Bad:** "Fix this code" [paste code]
-**Why it fails:** AI doesn't know apa error-nya atau intended behavior
-**Fix:** "This Python function should calculate compound interest but returns wrong values. Error message: [paste error]. Expected behavior: input principal=1000, rate=0.05, time=2 should return 1102.50"
+#### **❌ Kegagalan 4: Konteks yang Hilang**
+**Buruk:** "Perbaiki kode ini" [tempel kode]
+**Mengapa gagal:** AI tidak tahu apa errornya atau perilaku yang diinginkan
+**Perbaikan:** "Fungsi Python ini seharusnya menghitung bunga majemuk tapi mengembalikan nilai yang salah. Pesan error: [tempel error]. Perilaku yang diharapkan: input pokok=1000, suku bunga=0,05, waktu=2 seharusnya mengembalikan 1102,50"
 
 ---
 
@@ -155,110 +155,110 @@ You are a experienced high school biology teacher. Explain DNA replication to st
 
 **Materi:** Konsep dasar prompt engineering, prinsip-prinsip effective prompting, dan anatomy of good prompts.
 
-#### **CONTOH TRANSFORMASI: Poor → Excellent Prompts**
+#### **CONTOH TRANSFORMASI: Prompt Buruk → Prompt Unggul**
 
-##### **Pair 1: Essay Writing Request**
+##### **Pasangan 1: Permintaan Menulis Esai**
 
-**❌ Poor Prompt:**
+**❌ Prompt Buruk:**
 ```
-"Tulis essay tentang global warming"
+"Tulis esai tentang pemanasan global"
 ```
 
-**✅ Excellent Prompt:**
+**✅ Prompt Unggul:**
 ```
-"Tulis essay persuasif 400 kata tentang dampak global warming terhadap Indonesia. 
-Target audience: siswa SMA. 
-Structure: 
-1) Hook opening dengan statistik mengejutkan
-2) 3 dampak utama (rise sea level, extreme weather, agriculture impact) 
+"Tulis esai persuasif 400 kata tentang dampak pemanasan global terhadap Indonesia. 
+Target audiens: siswa SMA. 
+Struktur: 
+1) Pembukaan menarik dengan statistik mengejutkan
+2) 3 dampak utama (kenaikan muka laut, cuaca ekstrem, dampak pertanian) 
 3) 2 solusi praktis yang bisa dilakukan remaja
-4) Call-to-action conclusion
-Tone: serius tapi tidak menakutkan, include hope dan empowerment."
+4) Kesimpulan ajakan bertindak
+Nada: serius tapi tidak menakutkan, sertakan harapan dan pemberdayaan."
 ```
 
-**Mengapa Excellent Prompt Lebih Baik:**
-- ✅ **Specific topic:** Global warming → dampak pada Indonesia
-- ✅ **Clear length:** 400 kata (measureable)
-- ✅ **Defined audience:** Siswa SMA (appropriate language level)
-- ✅ **Detailed structure:** 4-part outline eliminates guesswork
-- ✅ **Tone guidance:** Serious but hopeful (emotional direction)
+**Mengapa Prompt Unggul Lebih Baik:**
+- ✅ **Topik spesifik:** Pemanasan global → dampak pada Indonesia
+- ✅ **Panjang jelas:** 400 kata (dapat diukur)
+- ✅ **Audiens terdefinisi:** Siswa SMA (level bahasa yang sesuai)
+- ✅ **Struktur detail:** Outline 4 bagian menghilangkan tebakan
+- ✅ **Panduan nada:** Serius tapi penuh harapan (arah emosional)
 
-##### **Pair 2: Study Material Creation**
+##### **Pasangan 2: Pembuatan Materi Belajar**
 
-**❌ Poor Prompt:**
+**❌ Prompt Buruk:**
 ```
 "Bikin soal matematika"
 ```
 
-**✅ Excellent Prompt:**  
+**✅ Prompt Unggul:**  
 ```
 "Buat 5 soal cerita matematika untuk siswa kelas 8 tentang persamaan linear satu variabel.
 Format setiap soal:
-- Cerita kontekstual (uang jajan, age problems, shopping)
-- Tingkat kesulitan: medium (butuh 2-3 langkah solving)
-- Include: soal, langkah penyelesaian, jawaban final
+- Cerita kontekstual (uang jajan, masalah umur, belanja)
+- Tingkat kesulitan: sedang (butuh 2-3 langkah penyelesaian)
+- Sertakan: soal, langkah penyelesaian, jawaban final
 - Hindari: angka terlalu besar atau pecahan rumit
-Contoh level kesulitan yang diinginkan: 'Umur Ani 3 tahun lebih tua dari Budi. Jumlah umur mereka 25 tahun. Berapa umur masing-masing?'"
+Contoh tingkat kesulitan yang diinginkan: 'Umur Ani 3 tahun lebih tua dari Budi. Jumlah umur mereka 25 tahun. Berapa umur masing-masing?'"
 ```
 
-**Mengapa Excellent Prompt Lebih Baik:**
-- ✅ **Specific quantity:** 5 soal (clear deliverable)
-- ✅ **Grade level:** Kelas 8 (appropriate difficulty)
-- ✅ **Topic focus:** Linear equations (specific math concept)
-- ✅ **Format template:** Consistent structure untuk each problem
-- ✅ **Difficulty calibration:** Example provided untuk reference
-- ✅ **Content guidance:** Relatable scenarios, manageable numbers
+**Mengapa Prompt Unggul Lebih Baik:**
+- ✅ **Kuantitas spesifik:** 5 soal (deliverable yang jelas)
+- ✅ **Level kelas:** Kelas 8 (kesulitan yang sesuai)
+- ✅ **Fokus topik:** Persamaan linear (konsep matematika spesifik)
+- ✅ **Template format:** Struktur konsisten untuk setiap soal
+- ✅ **Kalibrasi kesulitan:** Contoh diberikan untuk referensi
+- ✅ **Panduan konten:** Skenario yang relatable, angka yang dapat dikelola
 
-##### **Pair 3: Code Help Request**
+##### **Pasangan 3: Permintaan Bantuan Kode**
 
-**❌ Poor Prompt:**
+**❌ Prompt Buruk:**
 ```
-"Help me with Python"
-```
-
-**✅ Excellent Prompt:**
-```
-"Saya belajar Python dasar, butuh help dengan function yang convert temperature Celsius ke Fahrenheit. 
-Current code saya:
-[paste code here]
-Problem: Function runs tapi hasil selalu wrong (contoh: input 0°C return 0°F instead of 32°F)
-Please:
-1) Identify error dalam code saya
-2) Provide corrected version dengan explanation
-3) Add example usage dengan 3 test cases
-4) Explain formula conversion untuk understanding
-Experience level: 2 minggu belajar Python, familiar dengan basic syntax."
+"Bantu saya dengan Python"
 ```
 
-**Mengapa Excellent Prompt Lebih Baik:**
-- ✅ **Context provided:** Learning level dan current situation
-- ✅ **Specific problem:** Temperature conversion dengan exact error
-- ✅ **Code included:** AI bisa see actual issue
-- ✅ **Clear requests:** 4 numbered deliverables  
-- ✅ **Learning focus:** Not just fix, but understanding
+**✅ Prompt Unggul:**
+```
+"Saya belajar Python dasar, butuh bantuan dengan fungsi yang mengonversi suhu Celsius ke Fahrenheit. 
+Kode saya saat ini:
+[tempel kode di sini]
+Masalah: Fungsi berjalan tapi hasil selalu salah (contoh: input 0°C mengembalikan 0°F bukannya 32°F)
+Tolong:
+1) Identifikasi error dalam kode saya
+2) Berikan versi yang diperbaiki dengan penjelasan
+3) Tambahkan contoh penggunaan dengan 3 test case
+4) Jelaskan rumus konversi untuk pemahaman
+Level pengalaman: 2 minggu belajar Python, familiar dengan sintaks dasar."
+```
+
+**Mengapa Prompt Unggul Lebih Baik:**
+- ✅ **Konteks disediakan:** Level pembelajaran dan situasi saat ini
+- ✅ **Masalah spesifik:** Konversi suhu dengan error yang tepat
+- ✅ **Kode disertakan:** AI bisa melihat masalah sebenarnya
+- ✅ **Permintaan jelas:** 4 deliverable bernomor  
+- ✅ **Fokus pembelajaran:** Bukan hanya perbaikan, tapi pemahaman
 
 #### **Template untuk Aktivitas Siswa:**
 
-**Basic Prompt Construction Framework:**
+**Kerangka Kerja Konstruksi Prompt Dasar:**
 ```
-[CONTEXT: Siapa saya, apa situasi saya]
-[TASK: Apa yang saya mau AI lakukan] 
-[SPECIFICATIONS: Detail requirements (length, format, style)]
-[CONSTRAINTS: Apa yang harus dihindari atau included]
-[OUTPUT FORMAT: Bagaimana saya mau hasil disajikan]
+[KONTEKS: Siapa saya, apa situasi saya]
+[TUGAS: Apa yang saya ingin AI lakukan] 
+[SPESIFIKASI: Detail persyaratan (panjang, format, gaya)]
+[BATASAN: Apa yang harus dihindari atau disertakan]
+[FORMAT KELUARAN: Bagaimana saya ingin hasil disajikan]
 ```
 
 **Aktivitas:**
-1. **Prompt Analysis:**
-   - Bandingkan 3 pasang prompts (poor vs excellent) dan identifikasi perbedaannya
+1. **Analisis Prompt:**
+   - Bandingkan 3 pasang prompt (buruk vs unggul) dan identifikasi perbedaannya
    - Jelaskan mengapa satu prompt lebih efektif dari yang lain
-2. **Basic Prompt Construction:**
-   - Buat prompts untuk 3 tugas berbeda: text generation, problem solving, creative writing
-   - Apply principles: clarity, specificity, context, constraints
-3. **Prompt Anatomy Exercise:**
-   - Break down effective prompt menjadi components: context, instruction, format, examples
+2. **Konstruksi Prompt Dasar:**
+   - Buat prompt untuk 3 tugas berbeda: pembuatan teks, pemecahan masalah, penulisan kreatif
+   - Terapkan prinsip: kejelasan, spesifisitas, konteks, batasan
+3. **Latihan Anatomi Prompt:**
+   - Pecah prompt efektif menjadi komponen: konteks, instruksi, format, contoh
 
-**Assessment:** Kemampuan mengidentifikasi good vs bad prompts dan understanding of prompt components (3/3 prompt comparisons correct, prompt construction follows principles)
+**Assessment:** Kemampuan mengidentifikasi prompt baik vs buruk dan pemahaman komponen prompt (3/3 perbandingan prompt benar, konstruksi prompt mengikuti prinsip)
 
 ### Teknik Prompting Lanjutan (Advanced Prompting Techniques)
 

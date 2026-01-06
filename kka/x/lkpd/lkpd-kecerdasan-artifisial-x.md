@@ -66,16 +66,16 @@
 
 **Cara kerja ML:**
 
-1. **Input Data:** Ribuan contoh (foto kucing, email spam, dll)
-2. **Learning Process:** Algoritma mencari pola dalam data
-3. **Model Creation:** Membuat "aturan" berdasarkan pola yang ditemukan
-4. **Prediction:** Menggunakan aturan untuk data baru
+1. **Data Input:** Ribuan contoh (foto kucing, email spam, dll)
+2. **Proses Pembelajaran:** Algoritma mencari pola dalam data
+3. **Pembuatan Model:** Membuat "aturan" berdasarkan pola yang ditemukan
+4. **Prediksi:** Menggunakan aturan untuk data baru
 
 **Contoh ML:**
 
 - **Rekomendasi YouTube:** Belajar dari video yang kamu tonton
-- **Email spam filter:** Belajar dari email yang ditandai spam
-- **Price prediction:** Belajar dari harga rumah sebelumnya
+- **Filter email spam:** Belajar dari email yang ditandai spam
+- **Prediksi harga:** Belajar dari harga rumah sebelumnya
 
 #### **Deep Learning (DL) - Subset ML**
 
@@ -90,10 +90,10 @@
 
 **Contoh Deep Learning:**
 
-- **Face recognition** di foto (Instagram, Facebook)
-- **Voice assistant** (Google Assistant, Alexa)
-- **Language translation** (Google Translate)
-- **Image generation** (AI art, DALL-E)
+- **Pengenalan wajah** di foto (Instagram, Facebook)
+- **Asisten suara** (Google Assistant, Alexa)
+- **Terjemahan bahasa** (Google Translate)
+- **Pembuatan gambar** (AI art, DALL-E)
 
 ### AI dalam Kehidupan Sehari-hari
 
@@ -115,33 +115,33 @@
 - **Maps:** Google Maps prediksi traffic dan rute tercepat
 - **Payment:** Deteksi fraud dalam transaksi kartu kredit
 
-#### **🎵 Entertainment:**
+#### **🎵 Hiburan:**
 
-- **Spotify:** Discover Weekly playlist yang cocok dengan selera musik
-- **TikTok:** Algorithm yang menampilkan video sesuai interest
-- **Gaming:** NPC (Non-Player Character) yang cerdas dalam game
+- **Spotify:** Daftar putar Discover Weekly yang cocok dengan selera musik
+- **TikTok:** Algoritme yang menampilkan video sesuai minat
+- **Gaming:** NPC (Non-Player Character) yang cerdas dalam permainan
 
 ### Jenis-jenis AI Berdasarkan Kemampuan
 
-#### **1. Narrow AI (Weak AI) - Yang Ada Sekarang**
+#### **1. AI Sempit (Narrow AI/Weak AI) - Yang Ada Sekarang**
 
 - **Definisi:** AI yang pandai dalam satu tugas spesifik saja
 - **Contoh:**
-  - Chess AI hanya bisa main catur, tidak bisa masak
-  - Google Translate hanya bisa translate, tidak bisa main musik
-  - Face recognition hanya bisa kenali wajah, tidak bisa drive mobil
+  - AI catur hanya bisa main catur, tidak bisa masak
+  - Google Translate hanya bisa menerjemahkan, tidak bisa memutar musik
+  - Pengenalan wajah hanya bisa mengenali wajah, tidak bisa mengendarai mobil
 
-#### **2. General AI (Strong AI) - Masih Mimpi**
+#### **2. AI Umum (General AI/Strong AI) - Masih Mimpi**
 
-- **Definisi:** AI yang bisa melakukan semua tugas cognitive seperti manusia
-- **Status:** Belum ada, masih penelitian
-- **Tantangan:** Butuh common sense, creativity, emotional intelligence
+- **Definisi:** AI yang bisa melakukan semua tugas kognitif seperti manusia
+- **Status:** Belum ada, masih dalam tahap penelitian
+- **Tantangan:** Membutuhkan akal sehat, kreativitas, kecerdasan emosional
 
-#### **3. Super AI - Science Fiction**
+#### **3. Super AI - Fiksi Ilmiah**
 
 - **Definisi:** AI yang lebih cerdas dari manusia dalam semua aspek
 - **Status:** Masih teori, mungkin puluhan tahun lagi
-- **Implikasi:** Bisa mengubah peradaban manusia drastis
+- **Implikasi:** Bisa mengubah peradaban manusia secara drastis
 
 ---
 
@@ -167,26 +167,26 @@ Mari kita analisis bagaimana AI bekerja di aplikasi yang familiar:
 
 **Smart Reply:**
 
-- **Jenis:** Narrow AI (Natural Language Processing)
-- **Cara kerja:** AI baca pesan masuk → analisis context → sarankan reply yang sesuai
-- **ML Component:** Belajar dari jutaan conversation patterns
-- **Tidak bisa:** Memahami sarcasm atau context yang sangat personal
+- **Jenis:** AI Sempit (Natural Language Processing)
+- **Cara kerja:** AI membaca pesan masuk → analisis konteks → sarankan balasan yang sesuai
+- **Komponen ML:** Belajar dari jutaan pola percakapan
+- **Tidak bisa:** Memahami sarkasme atau konteks yang sangat personal
 
-**Voice to Text:**
+**Suara ke Teks:**
 
 - **Jenis:** Deep Learning (Speech Recognition)
-- **Cara kerja:** Audio waves → pattern recognition → convert to words
-- **Learning:** Trained dari jutaan hours audio recordings
-- **Limitation:** Struggle dengan accent kuat atau background noise
+- **Cara kerja:** Gelombang audio → pengenalan pola → konversi ke kata
+- **Pembelajaran:** Dilatih dari jutaan jam rekaman audio
+- **Keterbatasan:** Kesulitan dengan aksen kuat atau noise latar belakang
 
-##### **3. Timeline Evolution WhatsApp + AI:**
+##### **3. Timeline Evolusi WhatsApp + AI:**
 
-- **2009:** WhatsApp launch - hanya text messaging
-- **2013:** Voice messages - belum ada AI
-- **2016:** Smart reply mulai testing - AI basic
-- **2018:** Voice to text - deep learning integration
-- **2020:** Advanced spam detection - machine learning upgrade
-- **2024:** Meta AI integration - generative AI features
+- **2009:** Peluncuran WhatsApp - hanya pesan teks
+- **2013:** Pesan suara - belum ada AI
+- **2016:** Balasan cerdas mulai diuji - AI dasar
+- **2018:** Suara ke teks - integrasi deep learning
+- **2020:** Deteksi spam tingkat lanjut - peningkatan machine learning
+- **2024:** Integrasi Meta AI - fitur AI generatif
 
 **Aktivitas:**
 
@@ -212,68 +212,68 @@ Mari kita analisis bagaimana AI bekerja di aplikasi yang familiar:
   - Junk food: 20 foto (burger, pizza, gorengan, soda)
 - **Quality check:** Pastikan foto jelas, lighting baik, objek utama terlihat
 
-**Langkah 2: Training dengan Google Teachable Machine**
+**Langkah 2: Pelatihan dengan Google Teachable Machine**
 
 1. **Buka:** teachablemachine.withgoogle.com
 2. **Pilih:** "Image Project"
-3. **Create Classes:**
-   - Class 1: "Healthy Food"
-   - Class 2: "Junk Food"
-4. **Upload Photos:** Drag & drop 20 foto per class
-5. **Train Model:** Klik "Train Model" - tunggu 2-3 menit
+3. **Buat Kelas:**
+   - Kelas 1: "Makanan Sehat"
+   - Kelas 2: "Junk Food"
+4. **Unggah Foto:** Drag & drop 20 foto per kelas
+5. **Latih Model:** Klik "Train Model" - tunggu 2-3 menit
 
-**Langkah 3: Testing dan Dokumentasi**
-**Test dengan 10 gambar baru (5 healthy, 5 junk):**
+**Langkah 3: Pengujian dan Dokumentasi**
+**Uji dengan 10 gambar baru (5 sehat, 5 junk):**
 
-| Test Image    | Actual  | AI Prediction | Confidence | Correct? |
-| ------------- | ------- | ------------- | ---------- | -------- |
-| Apple         | Healthy | Healthy       | 94%        | ✓        |
-| Pizza slice   | Junk    | Junk          | 87%        | ✓        |
-| Grilled fish  | Healthy | Healthy       | 76%        | ✓        |
-| French fries  | Junk    | Junk          | 91%        | ✓        |
-| Smoothie bowl | Healthy | Junk          | 68%        | ✗        |
+| Gambar Uji     | Aktual  | Prediksi AI | Keyakinan | Benar? |
+| ------------- | ------- | ----------- | --------- | ------ |
+| Apel          | Sehat   | Sehat       | 94%       | ✓      |
+| Potongan pizza| Junk    | Junk        | 87%       | ✓      |
+| Ikan bakar    | Sehat   | Sehat       | 76%       | ✓      |
+| Kentang goreng| Junk    | Junk        | 91%       | ✓      |
+| Smoothie bowl | Sehat   | Junk        | 68%       | ✗      |
 
-**Hasil:** Accuracy = 8/10 = 80%
+**Hasil:** Akurasi = 8/10 = 80%
 
 **Langkah 4: Analisis Faktor yang Mempengaruhi Akurasi**
 
 **Faktor Positif (meningkatkan akurasi):**
 
-- **Contrast yang jelas:** Apel vs pizza mudah dibedakan
-- **Typical appearance:** Foto yang representatif category-nya
-- **Good lighting:** Foto terang dan jelas
-- **Focused object:** Makanan jadi fokus utama foto
+- **Kontras yang jelas:** Apel vs pizza mudah dibedakan
+- **Tampilan khas:** Foto yang mewakili kategorinya
+- **Pencahayaan baik:** Foto terang dan jelas
+- **Objek fokus:** Makanan jadi fokus utama foto
 
 **Faktor Negatif (menurunkan akurasi):**
 
-- **Border cases:** Smoothie bowl bisa terlihat seperti dessert
-- **Mixed ingredients:** Salad dengan dressing bisa confusing
-- **Unusual presentation:** Healthy food yang di-present seperti junk food
-- **Background noise:** Terlalu banyak objek lain dalam foto
+- **Kasus batas:** Smoothie bowl bisa terlihat seperti makanan penutup
+- **Bahan campuran:** Salad dengan dressing bisa membingungkan
+- **Presentasi tidak biasa:** Makanan sehat yang dipresentasikan seperti junk food
+- **Gangguan latar:** Terlalu banyak objek lain dalam foto
 
 #### **CONTOH: Speech Recognition Experiment**
 
-##### **Testing Voice Assistant dengan Variasi Input**
+##### **Pengujian Voice Assistant dengan Variasi Input**
 
-**Setup:** Test Google Assistant dengan 5 perintah yang sama tapi kondisi berbeda:
+**Setup:** Uji Google Assistant dengan 5 perintah yang sama tapi kondisi berbeda:
 
 **Perintah:** "Set alarm for 7 AM tomorrow"
 
-| Kondisi                  | Environment    | Result                                   | Success Rate |
-| ------------------------ | -------------- | ---------------------------------------- | ------------ |
-| Normal voice, quiet room | Library        | Perfect recognition                      | 100%         |
-| Whisper, quiet room      | Bedroom malam  | Partial recognition "Set alarm for 70 M" | 0%           |
-| Normal voice, noisy      | Kantin sekolah | "Set alarm for 7 AM tomorrow"            | 100%         |
-| Fast speech, quiet       | Normal room    | "Set alarm 7AM"                          | 80%          |
-| Accent kuat, quiet       | Normal room    | "Set alarm for 70 M tomorrow"            | 20%          |
+| Kondisi                    | Lingkungan     | Hasil                                    | Tingkat Keberhasilan |
+| -------------------------- | -------------- | ---------------------------------------- | -------------------- |
+| Suara normal, ruang sepi   | Perpustakaan   | Pengenalan sempurna                      | 100%                 |
+| Berbisik, ruang sepi       | Kamar malam    | Pengenalan parsial "Set alarm for 70 M" | 0%                   |
+| Suara normal, bising       | Kantin sekolah | "Set alarm for 7 AM tomorrow"           | 100%                 |
+| Bicara cepat, sepi         | Ruang normal   | "Set alarm 7AM"                         | 80%                  |
+| Aksen kuat, sepi           | Ruang normal   | "Set alarm for 70 M tomorrow"           | 20%                  |
 
-**Analysis Pattern Recognition Factors:**
+**Analisis Faktor Pengenalan Pola:**
 
-- **Volume level:** Too quiet = poor recognition
-- **Background noise:** Modern AI handles moderate noise well
-- **Speech speed:** Fast speech loses some words
-- **Accent/pronunciation:** Biggest challenge for current AI
-- **Context understanding:** AI good at filling gaps when context clear
+- **Level volume:** Terlalu pelan = pengenalan buruk
+- **Noise latar belakang:** AI modern menangani noise sedang dengan baik
+- **Kecepatan bicara:** Bicara cepat kehilangan beberapa kata
+- **Aksen/pelafalan:** Tantangan terbesar untuk AI saat ini
+- **Pemahaman konteks:** AI baik mengisi kekosongan ketika konteks jelas
 
 **Aktivitas:**
 
@@ -286,7 +286,7 @@ Mari kita analisis bagaimana AI bekerja di aplikasi yang familiar:
    - Bandingkan akurasi dengan accent/dialek yang berbeda
    - Dokumentasikan hasil dan analisis limitasi
 
-**Assessment:** Kemampuan training AI model sederhana dan analisis hasil pattern recognition (model trained successfully, accuracy analysis thoughtful)
+**Assessment:** Kemampuan melatih model AI sederhana dan analisis hasil pengenalan pola (model berhasil dilatih, analisis akurasi yang mendalam)
 
 ### Analisis Aplikasi (Application Analysis)
 
@@ -294,47 +294,47 @@ Mari kita analisis bagaimana AI bekerja di aplikasi yang familiar:
 
 #### **CONTOH COMPREHENSIVE: AI dalam Industri Pendidikan**
 
-##### **Case Study: Transformasi Digital Learning di Masa Pandemi**
+##### **Studi Kasus: Transformasi Pembelajaran Digital di Masa Pandemi**
 
 **Latar Belakang:**
-Pandemi COVID-19 memaksa sistem pendidikan beralih ke digital. AI menjadi kunci untuk membuat online learning lebih efektif.
+Pandemi COVID-19 memaksa sistem pendidikan beralih ke digital. AI menjadi kunci untuk membuat pembelajaran online lebih efektif.
 
 ##### **5 Aplikasi AI dalam Pendidikan:**
 
-**1. Adaptive Learning Systems**
+**1. Sistem Pembelajaran Adaptif**
 
 - **Contoh:** Khan Academy, Duolingo
-- **Cara kerja:** AI analisis kemampuan siswa → adjust tingkat kesulitan → personalized learning path
-- **Benefits:** Setiap siswa belajar sesuai pace-nya, tidak ada yang tertinggal
-- **Challenges:** Butuh data banyak, privacy concerns
+- **Cara kerja:** AI analisis kemampuan siswa → sesuaikan tingkat kesulitan → jalur pembelajaran personal
+- **Manfaat:** Setiap siswa belajar sesuai kecepatannya, tidak ada yang tertinggal
+- **Tantangan:** Butuh data banyak, masalah privasi
 
-**2. Automated Essay Scoring**
+**2. Penilaian Esai Otomatis**
 
 - **Contoh:** Grammarly, WriteLab
-- **Cara kerja:** NLP analysis grammar, structure, content → berikan score & feedback
-- **Benefits:** Feedback instant, konsisten, guru focus ke teaching
-- **Challenges:** Sulit evaluate creativity, cultural context
+- **Cara kerja:** Analisis NLP untuk tata bahasa, struktur, konten → berikan skor & umpan balik
+- **Manfaat:** Umpan balik instan, konsisten, guru fokus ke pengajaran
+- **Tantangan:** Sulit mengevaluasi kreativitas, konteks budaya
 
-**3. Intelligent Tutoring Systems**
+**3. Sistem Tutor Cerdas**
 
 - **Contoh:** Carnegie Learning, ALEKS
-- **Cara kerja:** AI tutor yang available 24/7, answer questions, explain concepts
-- **Benefits:** One-on-one attention for every student, unlimited patience
-- **Challenges:** Lack emotional intelligence, can't replace human connection
+- **Cara kerja:** Tutor AI yang tersedia 24/7, menjawab pertanyaan, menjelaskan konsep
+- **Manfaat:** Perhatian satu-satu untuk setiap siswa, kesabaran unlimited
+- **Tantangan:** Kurang kecerdasan emosional, tidak bisa menggantikan koneksi manusia
 
-**4. Predictive Analytics**
+**4. Analitik Prediktif**
 
-- **Contoh:** Early warning systems untuk dropout risk
-- **Cara kerja:** Analyze attendance, grades, behavior → predict students at risk
-- **Benefits:** Intervention sebelum terlambat, resource allocation efficient
-- **Challenges:** Risk of self-fulfilling prophecy, bias in data
+- **Contoh:** Sistem peringatan dini untuk risiko putus sekolah
+- **Cara kerja:** Analisis kehadiran, nilai, perilaku → prediksi siswa berisiko
+- **Manfaat:** Intervensi sebelum terlambat, alokasi sumber daya efisien
+- **Tantangan:** Risiko ramalan yang memenuhi dirinya sendiri, bias dalam data
 
-**5. Language Learning AI**
+**5. AI Pembelajaran Bahasa**
 
-- **Contoh:** Babbel, Rosetta Stone AI features
-- **Cara kerja:** Speech recognition, pronunciation correction, conversation practice
-- **Benefits:** Practice speaking tanpa embarrassment, available anytime
-- **Challenges:** Limited cultural context, formulaic conversations
+- **Contoh:** Babbel, fitur AI Rosetta Stone
+- **Cara kerja:** Pengenalan suara, koreksi pelafalan, latihan percakapan
+- **Manfaat:** Latihan bicara tanpa rasa malu, tersedia kapan saja
+- **Tantangan:** Konteks budaya terbatas, percakapan formulaik
 
 ##### **Deep Dive: Job Role - Educational Data Scientist**
 
