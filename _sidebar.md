@@ -5,6 +5,7 @@
 - **📚 Kelas X (Grade 10)**
 
   **📝 Bahasa Inggris - Kelas X**
+  - [📊 Analisis CP (Capaian Pembelajaran)](english/x/ANALISIS-CP.md)
   - [📋 ATP (Alur Tujuan Pembelajaran)](english/x/ATP.md)
   - [📅 Program Tahunan](english/x/PROGRAM-TAHUNAN.md)
   - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md)

@@ -122,6 +122,7 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 #### 0. Perangkat Perencanaan Pembelajaran
 
+- [📊 Analisis CP - Capaian Pembelajaran Bahasa Inggris Kelas X](https://modul-belajar.code.app.web.id/#/english/x/ANALISIS-CP) - Analisis komprehensif Capaian Pembelajaran Fase E yang menjembatani CP ke Tujuan Pembelajaran dan ATP, mencakup rasional, tujuan, karakteristik mata pelajaran, dan pemetaan kompetensi per elemen
 - [📋 ATP - Alur Tujuan Pembelajaran Bahasa Inggris Kelas X](https://modul-belajar.code.app.web.id/#/english/x/ATP) - Pemetaan lengkap Capaian Pembelajaran, Tujuan Pembelajaran, dan Alur Tujuan Pembelajaran untuk seluruh materi Bahasa Inggris Kelas X (Fase E)
 - [📅 Program Tahunan Bahasa Inggris Kelas X](https://modul-belajar.code.app.web.id/#/english/x/PROGRAM-TAHUNAN) - Rencana distribusi materi pembelajaran per semester dengan alokasi waktu (JP) untuk Semester Ganjil dan Genap
 
