@@ -8,6 +8,7 @@
   - [📊 Analisis CP (Capaian Pembelajaran)](english/x/ANALISIS-CP.md)
   - [📋 ATP (Alur Tujuan Pembelajaran)](english/x/ATP.md)
   - [📅 Program Tahunan](english/x/PROGRAM-TAHUNAN.md)
+  - [📆 Agenda Harian](english/x/AGENDA-HARIAN.md)
   - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md)
   - [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md)
   - [📖 Descriptive Text - Pertemuan 3](english/x/descriptive-text-x-meeting3.md)
