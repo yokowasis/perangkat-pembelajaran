@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengembangkan argumen logis dengan evidence yang kuat dan relevan</li><li>Kreatif: Menggunakan kreativitas dalam menyajikan ide dan argumen dengan cara yang menarik</li><li>Mandiri: Mengembangkan kemampuan menulis secara independen dengan confidence</li><li>Gotong Royong: Bekerja sama dalam peer review dan memberikan feedback yang membangun</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Pembuatan blog atau column writing untuk website sekolah dimana siswa secara rutin menulis analytical exposition tentang isu-isu terkini untuk mempraktikkan persuasive writing dalam platform digital dan membangun portfolio</li><li>Partisipasi dalam letter to the editor campaign dimana siswa menulis surat pembaca berbahasa Inggris tentang isu lokal untuk dikirim ke koran atau media online, mengaplikasikan kemampuan argumentative writing dalam konteks nyata</li><li>Proyek pembuatan infographic atau poster campaign berbahasa Inggris tentang isu sosial (anti-bullying, healthy lifestyle) dengan thesis dan supporting arguments, menggabungkan visual literacy dengan persuasive text</li><li>Writing marathon atau intensive writing session dimana siswa berlatih menulis multiple analytical exposition essays dalam waktu terbatas untuk meningkatkan fluency dan confidence dalam academic writing</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

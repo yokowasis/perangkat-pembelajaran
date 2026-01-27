@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Kreatif: Mengungkapkan pengalaman pribadi dengan cara yang menarik dan orisinal dalam bentuk tulisan</li><li>Mandiri: Menulis recount text secara independen dengan menggunakan struktur dan fitur kebahasaan yang tepat</li><li>Percaya Diri: Mempresentasikan recount text di depan kelas dengan sikap yang positif</li><li>Gotong Royong: Memberikan feedback konstruktif dan saling membantu dalam proses revisi</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Pembuatan blog atau video blog (vlog) pribadi berbahasa Inggris di luar jam pelajaran dimana siswa secara rutin mengunggah recount text tentang kegiatan mereka sehari-hari atau weekend activities untuk memperdalam kemampuan writing dan presentation</li><li>Partisipasi dalam English writing competition atau lomba menulis pengalaman berbahasa Inggris tingkat sekolah/daerah untuk mengasah kemampuan menulis recount text dengan standar yang lebih tinggi</li><li>Peer tutoring program: Siswa yang sudah mahir menulis recount text menjadi tutor sebaya di English corner atau study group untuk membantu teman-teman yang masih kesulitan, memperkuat pemahaman melalui mengajar</li><li>Proyek penerbitan buku kumpulan pengalaman siswa: Kolaborasi menulis dan mengedit recount texts dari berbagai siswa untuk dikompilasi menjadi anthology "Our Stories" sebagai kenang-kenangan kelas dan portfolio pembelajaran</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

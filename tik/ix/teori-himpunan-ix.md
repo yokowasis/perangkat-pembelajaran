@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis operasi himpunan dan mengevaluasi hubungan antar himpunan</li><li>Kreatif: Merancang diagram Venn untuk memvisualisasikan masalah kompleks</li><li>Mandiri: Menyelesaikan soal himpunan secara independen</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah aplikasi himpunan</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Mathematical modeling workshop dimana siswa menggunakan set theory untuk memodel real-world situations (student clubs membership, product categories, database relationships) dan create Venn diagrams untuk visual analysis</li><li>Database design project dimana siswa apply set operations dalam merancang relational databases, understanding bagaimana JOIN operations relate to set intersections dan unions dalam practical SQL contexts</li><li>Data analysis club dimana siswa menggunakan set theory concepts untuk analyze datasets, categorize information, dan identify patterns menggunakan set operations untuk hands-on data science exposure</li><li>Matematika diskrit competition atau problem-solving sessions dimana siswa tackle complex set theory problems untuk develop advanced analytical skills dan prepare untuk higher mathematics</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

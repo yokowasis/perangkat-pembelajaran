@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengintegrasikan simulasi, optimisasi, dan CT untuk memecahkan masalah kompleks dengan pendekatan yang sistematis</li><li>Gotong Royong: Berkolaborasi dalam diskusi kelompok dan memberikan peer feedback yang konstruktif</li><li>Berkebinekaan Global: Menghargai berbagai pendekatan pemecahan masalah dan perspektif yang berbeda</li><li>Mandiri: Mengembangkan kemampuan evaluasi diri dan refleksi terhadap proses pembelajaran</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Capstone Project: Proyek integratif menggabungkan simulation, optimization, dan computational thinking untuk menyelesaikan masalah sekolah atau komunitas</li><li>Symposium Mini: Presentasi dan diskusi kelompok tentang berbagai pendekatan pemecahan masalah kompleks</li><li>Peer Review Session: Sesi feedback konstruktif untuk proyek teman sebaya</li><li>Reflective Portfolio: Membuat dokumentasi lengkap learning journey dengan analisis reflektif dan transfer learning plan</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

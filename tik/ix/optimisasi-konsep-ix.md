@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis berbagai alternatif solusi dan mengevaluasi kriteria untuk menemukan yang optimal</li><li>Kreatif: Mencari solusi inovatif dan pendekatan yang tidak konvensional dalam optimisasi</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah optimisasi kompleks secara berkelompok</li><li>Mandiri: Mengembangkan kemampuan pengambilan keputusan yang sistematis dan bertanggung jawab</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Optimization Challenge: Kompetisi menyelesaikan masalah optimisasi (bin packing, knapsack problem, scheduling)</li><li>Business Case Study: Menganalisis kasus bisnis nyata yang memerlukan decision optimization</li><li>Workshop Spreadsheet Advanced: Menggunakan Solver di Excel/Google Sheets untuk optimization problems</li><li>Game-based Learning: Menggunakan game strategy (Resource Management Games) untuk belajar konsep optimisasi</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

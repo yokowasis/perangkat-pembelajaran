@@ -30,13 +30,13 @@ Di era globalisasi dan perkembangan teknologi yang pesat, kemampuan berbahasa In
 
 Pembelajaran Bahasa Inggris di jenjang SMA/MA Kelas X (Fase E) dirancang untuk mengembangkan kompetensi komunikatif peserta didik dalam empat keterampilan berbahasa: **menyimak (listening)**, **berbicara (speaking)**, **membaca (reading)**, dan **menulis (writing)**. Melalui pembelajaran berbasis teks, peserta didik diharapkan dapat memahami dan memproduksi berbagai jenis teks sesuai dengan tujuan komunikasi dan konteks sosialnya.
 
-Profil Pelajar Pancasila yang diharapkan dimiliki pada setiap peserta didik Indonesia, perlu diperkuat melalui pendidikan Bahasa Inggris. Pembelajaran Bahasa Inggris dapat mengembangkan sikap bernalar kritis, kreatif, mandiri, dan gotong royong dalam konteks komunikasi global.
+Kompetensi dan karakter yang diharapkan dimiliki pada setiap peserta didik Indonesia, perlu diperkuat melalui pendidikan Bahasa Inggris yang diperkaya dengan kegiatan kokurikuler. Pembelajaran Bahasa Inggris dapat mengembangkan sikap bernalar kritis, kreatif, mandiri, dan gotong royong dalam konteks komunikasi global melalui pengalaman praktis di luar jam pelajaran inti.
 
 ---
 
 ## C. Tujuan Mata Pelajaran Bahasa Inggris
 
-Pelajaran Bahasa Inggris merupakan sarana yang strategis dalam mengembangkan profil pelajar Pancasila. Dalam kegiatan pembelajaran Bahasa Inggris, peserta didik akan mempelajari berbagai jenis teks, budaya, dan konteks komunikasi yang berbeda. Proses ini merupakan media pembelajaran yang sangat strategis dalam membangun karakter dan kompetensi abad 21.
+Pelajaran Bahasa Inggris merupakan sarana yang strategis dalam mengembangkan kompetensi dan karakter peserta didik melalui kegiatan kokurikuler yang bermakna. Dalam kegiatan pembelajaran Bahasa Inggris, peserta didik akan mempelajari berbagai jenis teks, budaya, dan konteks komunikasi yang berbeda. Proses ini merupakan media pembelajaran yang sangat strategis dalam membangun karakter dan kompetensi abad 21.
 
 Melalui pembelajaran Bahasa Inggris, diharapkan peserta didik mampu:
 
@@ -52,7 +52,7 @@ Melalui pembelajaran Bahasa Inggris, diharapkan peserta didik mampu:
 
 6. **Mempersiapkan diri untuk pendidikan lanjut dan dunia kerja** dengan penguasaan Bahasa Inggris yang memadai untuk komunikasi akademis dan profesional.
 
-Dengan mempelajari Bahasa Inggris secara terpadu, peserta didik mengembangkan dirinya sesuai dengan profil pelajar Pancasila dan dapat berperan aktif dalam komunitas global dengan tetap menjaga jati diri sebagai bangsa Indonesia.
+Dengan mempelajari Bahasa Inggris secara terpadu yang diperkaya dengan kegiatan kokurikuler, peserta didik mengembangkan kompetensi dan karakternya secara optimal, serta dapat berperan aktif dalam komunitas global dengan tetap menjaga jati diri sebagai bangsa Indonesia.
 
 ---
 
@@ -75,8 +75,8 @@ Pembelajaran mengintegrasikan listening, speaking, reading, dan writing dalam ak
 ### 4. Diferensiasi Pembelajaran
 Pembelajaran mempertimbangkan keberagaman kemampuan peserta didik melalui program remedial, pengayaan, dan LKPD dengan level berbeda (basic dan advanced).
 
-### 5. Pengembangan Profil Pelajar Pancasila
-Pembelajaran Bahasa Inggris mengintegrasikan nilai-nilai Pancasila: beriman dan bertakwa, bernalar kritis, kreatif, mandiri, bergotong royong, dan berkebinekaan global.
+### 5. Pengembangan Kompetensi Melalui Kegiatan Kokurikuler
+Pembelajaran Bahasa Inggris diperkaya dengan kegiatan kokurikuler yang dirancang untuk memperdalam pemahaman materi melalui pengalaman praktis, kontekstual, dan bermakna di luar jam pelajaran inti, dengan mengintegrasikan nilai-nilai: beriman dan bertakwa, bernalar kritis, kreatif, mandiri, bergotong royong, dan berkebinekaan global.
 
 ---
 
@@ -306,7 +306,7 @@ ATP tersebut mencakup:
 - Mengurutkan TP secara kronologis dari sederhana ke kompleks
 - Menentukan alokasi waktu untuk setiap TP
 - Menentukan materi pokok dan indikator ketercapaian
-- Mengintegrasikan Profil Pelajar Pancasila dalam ATP
+- Mengintegrasikan kegiatan kokurikuler yang bermakna dalam ATP
 
 **Langkah 4: Validasi dan Revisi**
 - Memvalidasi ATP dengan mengacu pada CP dan karakteristik peserta didik
@@ -314,18 +314,18 @@ ATP tersebut mencakup:
 
 ---
 
-## J. Integrasi Profil Pelajar Pancasila
+## J. Integrasi Kegiatan Kokurikuler
 
-Pembelajaran Bahasa Inggris Kelas X mengintegrasikan Profil Pelajar Pancasila dalam setiap kegiatan pembelajaran:
+Pembelajaran Bahasa Inggris Kelas X diperkaya dengan kegiatan kokurikuler yang dirancang untuk memperdalam pemahaman materi melalui pengalaman praktis di luar jam pelajaran inti:
 
-| Dimensi Profil Pelajar Pancasila | Implementasi dalam Pembelajaran Bahasa Inggris |
+| Dimensi Pengembangan Kompetensi | Implementasi Kegiatan Kokurikuler dalam Pembelajaran Bahasa Inggris |
 |-----------------------------------|-----------------------------------------------|
-| **Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia** | Menggunakan bahasa yang santun dan menghargai dalam komunikasi; mempelajari nilai moral dari teks narrative |
-| **Berkebinekaan Global** | Memahami dan menghargai keberagaman budaya melalui teks bahasa Inggris; bersikap terbuka terhadap budaya global |
-| **Bergotong Royong** | Bekerja sama dalam pair work, group discussion, dan project-based learning |
-| **Mandiri** | Mengerjakan LKPD secara mandiri; melakukan self-assessment dan refleksi pembelajaran |
-| **Bernalar Kritis** | Menganalisis struktur teks; membedakan fakta dan opini; mengevaluasi argumen dalam analytical exposition |
-| **Kreatif** | Menulis teks kreatif (descriptive, narrative); membuat project (poster, demonstration, storytelling) |
+| **Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia** | Kunjungan ke tempat ibadah berbagai agama untuk mempelajari deskripsi dalam bahasa Inggris; menggunakan bahasa yang santun dalam komunikasi; mempelajari nilai moral dari teks narrative |
+| **Berkebinekaan Global** | Kunjungan ke museum budaya atau cultural center; menghadiri festival budaya; exchange program dengan siswa dari sekolah lain; memahami dan menghargai keberagaman budaya melalui exposure langsung |
+| **Bergotong Royong** | English club activities; group project di luar jam pelajaran; peer tutoring program; collaborative writing untuk publikasi sekolah |
+| **Mandiri** | Proyek mandiri seperti blog writing, vlog creation; partisipasi dalam lomba menulis/speaking; self-directed learning melalui English corner |
+| **Bernalar Kritis** | Partisipasi dalam debate club; workshop analisis berita; kunjungan ke media massa untuk belajar editorial writing; diskusi panel dengan narasumber |
+| **Kreatif** | Creative writing club; storytelling competition; drama club; pembuatan konten digital (video tutorial, podcast); literary magazine publication |
 
 ---
 
@@ -336,7 +336,7 @@ Analisis Capaian Pembelajaran (CP) ini merupakan langkah awal yang penting dalam
 1. **Tujuan Pembelajaran (TP)** yang spesifik dan terukur untuk setiap jenis teks
 2. **Alur Tujuan Pembelajaran (ATP)** yang menggambarkan urutan pembelajaran secara kronologis
 3. **Indikator Ketercapaian** yang jelas untuk setiap tujuan pembelajaran
-4. **Integrasi Profil Pelajar Pancasila** dalam setiap aktivitas pembelajaran
+4. **Integrasi kegiatan kokurikuler yang bermakna** untuk memperdalam pemahaman materi
 
 Dokumen ini menjadi jembatan antara Capaian Pembelajaran yang bersifat umum dengan Alur Tujuan Pembelajaran (ATP) yang lebih operasional, dan selanjutnya akan diturunkan menjadi Modul Ajar yang siap diimplementasikan di kelas.
 

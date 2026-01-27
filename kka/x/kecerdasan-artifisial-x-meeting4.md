@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis ethical dilemmas dan membuat informed decisions tentang AI usage</li><li>Kreatif: Mengeksplorasi innovative solutions untuk ethical AI challenges</li><li>Mandiri: Mengembangkan personal ethical framework untuk responsible AI usage</li><li>Gotong Royong: Berkolaborasi dalam addressing societal challenges yang dibawa oleh AI technology</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Partisipasi dalam AI ethics symposium atau seminar tentang responsible AI usage, bias detection, privacy concerns, dan societal impact untuk memperdalam ethical awareness dan critical discourse</li><li>Community outreach project tentang AI awareness dimana siswa mengedukasi masyarakat tentang AI technology, benefits, risks, dan ethical considerations, mengaplikasikan knowledge untuk public good</li><li>AI policy debate atau mock UN session dimana siswa mendiskusikan dan propose regulations untuk ethical AI development dan usage, melatih policy thinking dan collaborative problem-solving</li><li>Kolaborasi dengan NGO atau research institute untuk menganalisis real-world AI ethical dilemmas (bias dalam recruitment AI, facial recognition privacy, etc.) dan propose solutions untuk societal challenges</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

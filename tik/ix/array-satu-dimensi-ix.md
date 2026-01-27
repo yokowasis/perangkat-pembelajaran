@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis cara paling efisien untuk organize dan access data</li><li>Kreatif: Merancang solusi inovatif menggunakan list untuk berbagai aplikasi</li><li>Mandiri: Mengembangkan program data processing secara independen</li><li>Gotong Royong: Berkolaborasi dalam debugging dan optimizing list operations</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Data Processing Workshop: Praktik mengolah data real (nilai siswa, survei) menggunakan list operations</li><li>Competitive Programming: Mengikuti kontes online yang fokus pada array manipulation problems</li><li>Proyek Mini: Membuat aplikasi sederhana seperti grade calculator atau inventory system dengan list</li><li>Peer Code Review: Sesi review code array operations untuk belajar best practices dan optimization</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Memilih kata dan kalimat yang tepat untuk menyampaikan deskripsi</li><li>Kreatif: Mengembangkan ide dan mengekspresikannya dalam bentuk tulisan</li><li>Mandiri: Berinisiatif menulis secara mandiri dengan percaya diri</li><li>Gotong Royong: Memberikan feedback konstruktif kepada teman untuk perbaikan tulisan</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td>Kegiatan kokurikuler untuk praktik menulis deskripsi:<ol><li>Writing club: pertemuan rutin untuk sharing hasil tulisan deskriptif dan peer review</li><li>Proyek menulis untuk majalah dinding sekolah dengan tema "My Favorite Corner in School"</li><li>Kunjungan ke pasar tradisional untuk menulis deskripsi makanan dan suasana dalam bahasa Inggris</li><li>Kegiatan membuat buku kecil berisi deskripsi anggota keluarga dengan foto untuk dipamerkan</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

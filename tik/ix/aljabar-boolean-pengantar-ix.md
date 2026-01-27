@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis pernyataan logika dan mengevaluasi nilai kebenarannya</li><li>Kreatif: Menciptakan contoh aplikasi logika Boolean dalam konteks kehidupan sehari-hari</li><li>Mandiri: Mengerjakan latihan operasi Boolean secara independen</li><li>Gotong Royong: Bekerja sama dalam diskusi kelompok untuk memecahkan masalah logika</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Klub logika dan matematika dimana siswa berlatih menganalisis pernyataan logika dan operasi Boolean melalui puzzles dan logical reasoning games untuk memperdalam pemahaman konsep dasar</li><li>Workshop digital circuit simulation menggunakan software seperti Logisim untuk memvisualisasikan bagaimana operasi Boolean diimplementasikan dalam hardware, menghubungkan teori dengan aplikasi praktis</li><li>Kompetisi pemecahan soal logika atau Boolean algebra challenges untuk mengasah kemampuan analytical thinking dan problem-solving dalam konteks kompetitif</li><li>Proyek penelitian mini tentang aplikasi Boolean logic dalam kehidupan sehari-hari (search engines, database queries, traffic lights) dengan presentasi findings untuk memperkaya contextual understanding</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis cara kerja AI pattern recognition dan mengevaluasi akurasi serta limitasinya</li><li>Kreatif: Mengeksplorasi creative applications dari AI pattern recognition dalam art, music, dan content creation</li><li>Mandiri: Mengembangkan kemampuan bereksperimen dengan AI tools secara independent</li><li>Gotong Royong: Berkolaborasi dalam testing AI tools dan sharing findings dengan peers</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Hands-on workshop dengan AI creative tools (DALL-E, Midjourney, Stable Diffusion) untuk eksplorasi practical applications dalam art generation, poster design, atau content creation, memperdalam understanding of pattern recognition</li><li>AI art exhibition project dimana siswa membuat karya seni menggunakan AI generators dan mengadakan pameran untuk komunitas sekolah, menggabungkan technology dengan creative expression</li><li>Kompetisi atau hackathon menggunakan AI tools untuk menyelesaikan creative challenges (design poster, create music, generate stories), mempraktikkan AI pattern recognition dalam competitive environment</li><li>Kunjungan ke creative agency atau design studio yang menggunakan AI tools dalam workflow mereka untuk melihat bagaimana professionals integrate AI dalam creative processes</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

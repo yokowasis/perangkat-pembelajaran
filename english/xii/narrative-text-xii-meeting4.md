@@ -76,8 +76,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Gotong Royong: Berkolaborasi dalam peer review dan saling memberikan dukungan konstruktif</li><li>Bernalar Kritis: Mengevaluasi karya sendiri dan orang lain dengan objektif dan evidence-based</li><li>Kreatif: Menggunakan teknik presentasi yang inovatif untuk storytelling performance</li><li>Berkebinekaan Global: Menghargai keragaman ide dan perspektif dalam karya naratif teman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Literary festival atau storytelling gala dimana siswa mempresentasikan narrative texts mereka dalam format professional showcase dengan authentic audience (komunitas sekolah, orang tua, undangan khusus), memberikan real-world presentation experience</li><li>Multimedia storytelling project dimana siswa mengadaptasi narrative texts mereka ke berbagai format (podcast with sound effects, digital storytelling video, interactive web story) untuk eksplorasi multimodal narrative presentation</li><li>Community storytelling outreach program dimana siswa perform narrative texts untuk audience di luar sekolah (panti asuhan, rumah sakit, community center) untuk mengaplikasikan storytelling skills dalam community service context</li><li>Cultural exchange storytelling session dengan sekolah partner atau international students dimana siswa berbagi dan perform narrative texts dari berbagai budaya, memperkaya intercultural communication dan global citizenship</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

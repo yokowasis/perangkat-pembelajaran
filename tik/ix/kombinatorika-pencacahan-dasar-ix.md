@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah pencacahan dan memilih strategi yang tepat</li><li>Kreatif: Merancang diagram pohon dan visualisasi untuk masalah kompleks</li><li>Mandiri: Menyelesaikan masalah pencacahan secara sistematis</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah pencacahan yang menantang</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Klub Matematika: Mengikuti sesi pemecahan masalah pencacahan dengan soal-soal olimpiade tingkat dasar</li><li>Workshop Visualisasi Data: Belajar membuat diagram pohon interaktif menggunakan tools seperti draw.io atau Canva</li><li>Kompetisi Problem Solving: Mengikuti lomba matematika yang melibatkan strategi pencacahan dalam skenario nyata</li><li>Proyek Kolaboratif: Membuat video tutorial tentang teknik pencacahan untuk siswa kelas bawah</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

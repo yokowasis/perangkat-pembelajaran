@@ -14,7 +14,7 @@ Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggri
 
 - Menyediakan panduan pembelajaran terstruktur untuk guru Bahasa Inggris dan TIK
 - Memfasilitasi implementasi Kurikulum Merdeka di sekolah
-- Mengembangkan Profil Pelajar Pancasila melalui pembelajaran bahasa dan teknologi
+- Mengembangkan kompetensi dan karakter siswa melalui pembelajaran bahasa dan teknologi yang diperkaya dengan kegiatan kokurikuler
 - Memberikan variasi metode dan strategi pembelajaran yang inovatif
 
 ## 📚 Struktur Modul
@@ -25,7 +25,7 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 | --- | ---------------------------- | ------------------------------------------------------- |
 | 1   | **Informasi Umum**           | Identitas modul, alokasi waktu, dll                     |
 | 2   | **Tujuan Pembelajaran**      | CP, elemen domain, tujuan spesifik, essential questions |
-| 3   | **Alur Tujuan Pembelajaran** | Profil Pelajar Pancasila yang dikembangkan              |
+| 3   | **Alur Tujuan Pembelajaran** | Kegiatan kokurikuler yang terintegrasi                  |
 | 4   | **Materi Ajar & Bahan**      | Sumber pembelajaran dan alat bantu                      |
 | 5   | **Model Pembelajaran**       | Metode dan pendekatan yang digunakan                    |
 | 6   | **Urutan Kegiatan**          | Langkah-langkah pembelajaran detail                     |

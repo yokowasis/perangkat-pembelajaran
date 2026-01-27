@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur dan fitur kebahasaan teks deskriptif secara sistematis</li><li>Kreatif: Menggunakan kreativitas dalam memilih kata sifat yang tepat untuk deskripsi</li><li>Mandiri: Mengembangkan kemampuan menganalisis teks secara mandiri</li><li>Gotong Royong: Berkolaborasi dalam aktivitas kelompok untuk menganalisis teks bersama</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td>Kegiatan kokurikuler untuk memperdalam materi struktur dan fitur kebahasaan:<ol><li>Workshop analisis teks dengan menggunakan artikel dari majalah sekolah berbahasa Inggris</li><li>Membuat mind map adjectives untuk berbagai kategori objek (orang, tempat, benda)</li><li>Kegiatan kunjungan ke museum untuk mengidentifikasi dan mendeskripsikan benda-benda bersejarah</li><li>Proyek membuat poster deskriptif tentang tokoh inspiratif sekolah dengan struktur teks yang lengkap</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

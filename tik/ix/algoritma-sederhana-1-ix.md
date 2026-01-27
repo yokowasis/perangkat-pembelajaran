@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis langkah-langkah algoritma dan memahami logika di balik setiap instruksi</li><li>Mandiri: Mengembangkan kemampuan membaca dan memahami algoritma secara independen</li><li>Kreatif: Mencari cara alternative untuk menjelaskan dan memvisualisasikan algoritma</li><li>Gotong Royong: Berkolaborasi dalam menganalisis dan mendiskusikan algoritma bersama teman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Klub Algoritma: Sesi rutin membaca dan menganalisis algoritma dari berbagai sumber (buku, online platform)</li><li>Workshop Flowchart: Praktik membuat flowchart menggunakan tools digital seperti Lucidchart atau draw.io</li><li>Kompetisi Problem Reading: Lomba membaca dan menjelaskan algoritma dengan cepat dan akurat</li><li>Peer Teaching: Siswa bergantian menjelaskan algoritma sederhana kepada teman sebaya untuk memperdalam pemahaman</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

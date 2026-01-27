@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengembangkan kemampuan menganalisis dan memecahkan masalah secara sistematis</li><li>Kreatif: Mendorong inovasi dalam pendekatan pemecahan masalah</li><li>Mandiri: Mengembangkan kemampuan belajar dan memecahkan masalah secara independen</li><li>Gotong Royong: Bekerja sama dalam tim untuk menyelesaikan tantangan computational thinking</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Coding club atau programming workshop di luar jam pelajaran dimana siswa berlatih menyelesaikan computational challenges dan algorithmic problems melalui hands-on practice dengan berbagai platform (CodeCombat, Scratch, Python)</li><li>Partisipasi dalam coding competition atau olympiad (OSN Informatika, hackathon lokal) untuk mengaplikasikan computational thinking skills dalam competitive problem-solving environment</li><li>Kunjungan ke tech company atau software house untuk mengobservasi bagaimana professionals menggunakan computational thinking dalam real-world software development dan problem-solving</li><li>Project-based learning dimana siswa mengidentifikasi masalah di lingkungan sekolah atau komunitas dan merancang computational solutions (apps, simulations, automated systems) untuk mempraktikkan end-to-end problem-solving</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis bagaimana graf diterapkan dalam berbagai teknologi</li><li>Kreatif: Mengidentifikasi potensi aplikasi graf baru dalam kehidupan sehari-hari</li><li>Mandiri: Melakukan eksplorasi mandiri tentang penggunaan graf dalam teknologi</li><li>Gotong Royong: Berkolaborasi dalam menganalisis studi kasus aplikasi graf</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Case study analysis sessions dimana siswa investigate real-world applications of graph theory (Google Maps routing, social network analysis, recommendation systems) untuk understand practical implementations</li><li>Proyek mapping dan optimization dimana siswa create route optimization solutions untuk school environment atau local community using graph algorithms, applying theory ke practical problem-solving</li><li>Kunjungan ke technology companies atau startups yang menggunakan graph databases (Neo4j) atau network analysis tools untuk exposure terhadap industry practices</li><li>Hackathon atau project competition dimana siswa develop applications yang utilize graph structures (social network analyzer, route planner, network visualizer) untuk hands-on development experience</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

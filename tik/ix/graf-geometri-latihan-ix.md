@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah kompleks dan mengevaluasi berbagai solusi alternatif</li><li>Kreatif: Mengembangkan pendekatan inovatif dalam pemecahan masalah graf dan geometri</li><li>Mandiri: Menunjukkan kemandirian dalam menyelesaikan tantangan akademik yang kompleks</li><li>Gotong Royong: Berkolaborasi dalam diskusi dan saling membantu pemahaman konsep</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Problem-solving intensive sessions dimana siswa tackle complex graph dan geometry problems untuk build mastery dan develop advanced analytical skills melalui challenging exercises</li><li>Peer tutoring program dimana advanced students help struggling peers dengan graph dan geometry concepts, reinforcing understanding through teaching dan collaborative learning</li><li>Competition preparation workshop untuk OSN Informatika atau programming olympiads yang frequently feature graph algorithms dan geometric problems, developing competitive problem-solving skills</li><li>Project showcase dimana siswa present solutions to graph/geometry problems or applications they've developed, demonstrating learning dan receiving feedback dari peers dan mentors</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

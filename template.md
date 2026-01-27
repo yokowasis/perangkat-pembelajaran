@@ -106,8 +106,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>[Dimensi 1: Deskripsi relevansi]</li><li>[Dimensi 2: Deskripsi relevansi]</li><li>[Dimensi 3: Deskripsi relevansi]</li><li>[Dimensi 4: Deskripsi relevansi]</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>[Kegiatan kokurikuler 1: Deskripsi aktivitas di luar jam pelajaran yang memperdalam materi]</li><li>[Kegiatan kokurikuler 2: Field trip/kunjungan yang relevan dengan topik]</li><li>[Kegiatan kokurikuler 3: Workshop/klub/kompetisi yang memperkaya pembelajaran]</li><li>[Kegiatan kokurikuler 4: Proyek praktis yang mengaplikasikan materi dalam konteks nyata]</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

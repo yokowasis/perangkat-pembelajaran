@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur dan fungsi sosial teks prosedur secara sistematis</li><li>Mandiri: Mengikuti instruksi dan petunjuk secara independen dengan pemahaman yang tepat</li><li>Kreatif: Memahami berbagai cara penyampaian instruksi yang efektif dan menarik</li><li>Gotong Royong: Berkolaborasi dalam aktivitas praktik mengikuti prosedur bersama kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke dapur sekolah atau catering lokal untuk mengobservasi proses pembuatan makanan tradisional, kemudian menulis procedure text dalam bahasa Inggris tentang resep yang diamati untuk memperkaya pemahaman tentang instructional texts dalam konteks nyata</li><li>Workshop praktik membuat kerajinan tangan (DIY crafts) dengan instruksi berbahasa Inggris, dimana siswa mengikuti procedure text untuk membuat produk seperti origami, macrame, atau recycled crafts, memperdalam pemahaman tentang following instructions</li><li>Proyek pembuatan tutorial manual: Siswa membuat manual instruksi berbahasa Inggris untuk mengoperasikan peralatan sekolah (LCD projector, lab equipment) atau game tradisional untuk digunakan oleh siswa lain, mengaplikasikan kemampuan menulis procedure text</li><li>English cooking club atau science experiment club dimana siswa mengikuti procedure texts berbahasa Inggris untuk melakukan eksperimen atau memasak makanan sederhana, mempraktikkan kemampuan reading comprehension dalam konteks hands-on activities</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

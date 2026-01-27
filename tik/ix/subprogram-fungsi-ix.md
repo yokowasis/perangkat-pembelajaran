@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis cara terbaik untuk organize dan structure code</li><li>Kreatif: Merancang functions yang elegant dan reusable untuk berbagai applications</li><li>Mandiri: Mengembangkan modular programs secara independen</li><li>Gotong Royong: Berkolaborasi dalam creating dan testing functions sebagai team</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Library Development: Proyek membuat library functions sendiri yang dapat digunakan untuk berbagai aplikasi</li><li>Clean Code Workshop: Pelatihan menulis functions yang modular, readable, dan well-documented</li><li>GitHub Collaboration: Belajar menggunakan version control dan berkontribusi pada function library bersama</li><li>Function Design Challenge: Kompetisi merancang functions yang paling elegant dan reusable</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

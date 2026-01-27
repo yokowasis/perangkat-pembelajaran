@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengembangkan kemampuan merancang solusi sistematis dan logis</li><li>Kreatif: Menciptakan algoritma inovatif untuk masalah-masalah unik</li><li>Mandiri: Mengembangkan kemampuan problem-solving secara independen dengan algorithmic thinking</li><li>Gotong Royong: Berkolaborasi dalam merancang dan mengevaluasi algoritma kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Algorithm design workshop dimana siswa merancang algorithms untuk menyelesaikan practical problems (route optimization, task scheduling, resource allocation) dan testing efficiency dengan different approaches</li><li>Flowchart competition atau algorithm visualization project dimana siswa create visual representations dari complex algorithms dan explain logic kepada audience, melatih algorithmic communication skills</li><li>Robotics club atau IoT project dimana siswa program physical devices menggunakan algorithmic thinking, connecting computational concepts dengan tangible real-world applications</li><li>Mentorship dengan software engineers atau competitive programmers yang berbagi advanced algorithm design techniques dan problem-solving strategies untuk deeper learning beyond classroom</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Kreatif: Merancang dan menulis prosedur dengan cara yang jelas, menarik, dan mudah dipahami</li><li>Mandiri: Menulis procedure text secara independen dengan menggunakan struktur dan fitur kebahasaan yang tepat</li><li>Percaya Diri: Mendemonstrasikan prosedur di depan kelas dengan sikap yang positif dan komunikatif</li><li>Gotong Royong: Memberikan feedback konstruktif dan saling membantu dalam proses peer review</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Pembuatan video tutorial berbahasa Inggris untuk channel YouTube sekolah atau media sosial, dimana siswa merekam diri mereka sendiri mendemonstrasikan prosedur sederhana (membuat makanan, game, crafts) untuk memperdalam kemampuan speaking dan presentation dalam konteks digital</li><li>Partisipasi dalam "English demonstration day" atau science fair dimana siswa mempresentasikan eksperimen atau demonstrasi dengan procedure text berbahasa Inggris sebagai panduan, mengasah kemampuan public speaking dan technical English</li><li>Proyek community service: Membuat instructional posters atau pamphlets berbahasa Inggris tentang prosedur keselamatan, kebersihan, atau cara menggunakan fasilitas umum untuk dipasang di sekolah atau lingkungan sekitar, mengaplikasikan writing skills untuk kepentingan praktis</li><li>Workshop peer teaching dimana siswa mengajarkan keterampilan praktis (mengikat dasi, first aid, origami) kepada siswa lain menggunakan procedure text berbahasa Inggris yang mereka tulis sendiri, memperkuat pemahaman melalui teaching dan demonstration</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

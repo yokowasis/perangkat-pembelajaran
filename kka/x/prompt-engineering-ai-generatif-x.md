@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis dan mengoptimalkan prompt untuk hasil yang lebih baik</li><li>Kreatif: Mengeksplorasi teknik prompt inovatif untuk berbagai creative applications</li><li>Mandiri: Mengembangkan kemampuan prompt engineering secara independen</li><li>Gotong Royong: Berkolaborasi dalam testing dan sharing effective prompting strategies</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>AI generative tools workshop series dimana siswa intensive practice dengan berbagai AI platforms (ChatGPT, Claude, Midjourney, GitHub Copilot) untuk develop expertise dalam prompt engineering across different use cases</li><li>Prompt engineering competition atau hackathon dimana siswa compete untuk create most effective prompts untuk specific challenges (content generation, problem-solving, creative tasks), demonstrating prompt optimization skills</li><li>Content creation project menggunakan AI assistants dimana siswa produce high-quality outputs (articles, presentations, code, designs) through effective prompting, building practical portfolio of AI-assisted work</li><li>Workshop dengan content creators, developers, atau designers yang menggunakan AI generative tools dalam professional work untuk learn best practices dan advanced prompting techniques dari practitioners</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

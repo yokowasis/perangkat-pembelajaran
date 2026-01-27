@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis kondisi dan membuat logical decisions dalam program</li><li>Kreatif: Merancang solusi inovatif menggunakan struktur percabangan untuk berbagai skenario</li><li>Mandiri: Mengembangkan program decision-making secara independen</li><li>Gotong Royong: Berkolaborasi dalam debugging dan testing program bersama teman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Logic Challenge: Kompetisi menyelesaikan puzzle logic dan decision tree problems</li><li>Debugging Workshop: Sesi intensif menemukan dan memperbaiki logical errors dalam conditional statements</li><li>Real-world Applications: Kunjungan ke lab robotika/IoT untuk melihat aplikasi conditional logic dalam hardware</li><li>Pair Programming: Kolaborasi berpasangan dalam membuat program decision-making yang kompleks</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

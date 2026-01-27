@@ -121,7 +121,7 @@ Before finalizing any lesson module:
 - [ ] Navigation updated in both sidebar and README
 - [ ] Learning objectives align with Capaian Pembelajaran (CP)
 - [ ] Assessment methods clearly defined
-- [ ] Profil Pelajar Pancasila integration included
+- [ ] Kegiatan Kokurikuler integration included
 
 ### LKPD Modules
 Before finalizing any LKPD:

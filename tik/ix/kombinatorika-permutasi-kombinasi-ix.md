@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis perbedaan antara permutasi dan kombinasi dalam berbagai konteks</li><li>Kreatif: Menciptakan contoh aplikasi permutasi dan kombinasi dalam kehidupan sehari-hari</li><li>Mandiri: Menyelesaikan soal permutasi dan kombinasi secara independen</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah kombinatorika secara kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Lab Kriptografi Sederhana: Workshop membuat dan memecahkan kode rahasia menggunakan konsep permutasi</li><li>Kunjungan Industri: Berkunjung ke perusahaan teknologi untuk melihat aplikasi kombinatorika dalam password security</li><li>Kompetisi Online: Mengikuti platform seperti Brilliant.org untuk menyelesaikan tantangan permutasi dan kombinasi</li><li>Proyek Kelompok: Merancang aplikasi sederhana (menggunakan Scratch/App Inventor) yang mendemonstrasikan perbedaan permutasi dan kombinasi</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

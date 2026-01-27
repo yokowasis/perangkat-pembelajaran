@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengevaluasi dan merefleksikan effective problem-solving strategies</li><li>Kreatif: Mempresentasikan innovative solutions dan future applications</li><li>Mandiri: Demonstrasi independent learning dan self-assessment skills</li><li>Gotong Royong: Memberikan constructive feedback dan support kepada peers dalam presentations</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Project showcase atau tech fair dimana siswa present computational thinking projects kepada wider audience (parents, community members, industry professionals) untuk mendapatkan feedback dan recognition</li><li>Peer teaching session dimana siswa yang sudah mahir menjadi tutor untuk adik kelas atau peers, mengajarkan computational thinking concepts untuk memperdalam understanding through teaching</li><li>Documentation dan portfolio building workshop dimana siswa compile computational thinking projects dalam professional portfolio format (GitHub, personal website) untuk future academic atau career opportunities</li><li>Reflection dan goal-setting session dengan career counselor atau tech mentor untuk identify next steps dalam computational thinking journey dan plan continued learning pathways</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

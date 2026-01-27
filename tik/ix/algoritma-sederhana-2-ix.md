@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah secara sistematis dan merancang solusi yang logis</li><li>Kreatif: Mengembangkan pendekatan inovatif dalam merancang algoritma untuk masalah yang diberikan</li><li>Mandiri: Mengembangkan kemampuan problem solving secara independen melalui algoritma</li><li>Gotong Royong: Berkolaborasi dalam merancang dan mengevaluasi algoritma bersama kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Hackathon Mini: Kompetisi merancang algoritma untuk menyelesaikan masalah real-world dalam waktu terbatas</li><li>Proyek Kolaboratif: Merancang bank soal algoritma beserta solusinya untuk siswa lain</li><li>Workshop Pseudocode: Pelatihan intensif menulis pseudocode yang clean dan readable dengan mentor senior</li><li>Algorithm Design Sprint: Latihan intensif decomposition dan problem-solving dengan berbagai studi kasus</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah kompleks dan mengevaluasi berbagai solusi alternatif</li><li>Kreatif: Mengembangkan pendekatan inovatif dalam pemecahan masalah</li><li>Mandiri: Menunjukkan kemandirian dalam menyelesaikan tantangan akademik</li><li>Gotong Royong: Berkolaborasi dalam diskusi dan saling membantu pemahaman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Problem-solving marathon dimana siswa menyelesaikan series of increasingly complex Boolean algebra problems dalam limited time untuk build fluency dan speed in logical reasoning</li><li>Peer tutoring program dimana siswa yang sudah mahir membantu teman yang masih kesulitan dengan konsep Boolean logic, memperdalam pemahaman melalui mengajar dan collaborative problem-solving</li><li>Online logic competition atau Olympiad preparation dimana siswa practice advanced Boolean problems dan discrete mathematics challenges untuk higher-level critical thinking development</li><li>Proyek aplikasi praktis dimana siswa merancang dan implement simple logic circuits atau decision support systems menggunakan Boolean algebra sebagai foundation, demonstrating real-world applications</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

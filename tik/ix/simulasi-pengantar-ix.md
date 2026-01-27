@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis fenomena nyata dan membuat prediksi berdasarkan model simulasi</li><li>Kreatif: Merancang dan mengembangkan model simulasi sederhana untuk menyelesaikan masalah</li><li>Mandiri: Melakukan eksperimen simulasi secara independen dan mengevaluasi hasilnya</li><li>Gotong Royong: Berkolaborasi dalam merancang dan mendiskusikan hasil simulasi kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Simulation Lab: Praktik menggunakan software simulasi (NetLogo, PhET, GeoGebra) untuk model sederhana</li><li>Kunjungan Industri: Berkunjung ke lembaga penelitian atau laboratorium yang menggunakan simulasi komputer</li><li>Proyek Modeling: Membuat model simulasi sederhana untuk fenomena sekolah (antrian kantin, traffic simulation)</li><li>Science Fair Participation: Mempresentasikan hasil simulasi dalam kompetisi atau pameran sains</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

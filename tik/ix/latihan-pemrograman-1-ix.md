@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah complex dan memilih approach yang most appropriate</li><li>Gotong Royong: Berkolaborasi dalam code review, debugging, dan knowledge sharing</li><li>Berkebinekaan Global: Menghargai different programming styles dan approaches from peers</li><li>Mandiri: Mengembangkan problem-solving skills yang dapat diterapkan pada new challenges</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Code Review Session: Sesi berkelompok untuk review, critique, dan improve code quality bersama</li><li>Hackathon Internal: Kompetisi 2-3 jam menyelesaikan programming challenges yang terintegrasi</li><li>Mentorship Program: Siswa senior membimbing junior dalam debugging dan problem-solving techniques</li><li>Online Judge Practice: Latihan submit program ke platform online judge seperti TOKI Training atau TLX</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

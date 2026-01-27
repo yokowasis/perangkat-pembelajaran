@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur dan bahasa cerita dengan sistematis dan logis</li><li>Kreatif: Memahami cara penulis menggunakan bahasa untuk menciptakan efek tertentu</li><li>Mandiri: Mengembangkan kemampuan untuk menganalisis teks secara independen</li><li>Gotong Royong: Bekerja sama dalam menganalisis teks dan saling membantu pemahaman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>English literature circle dimana siswa membaca dan mendiskusikan short stories atau novel chapters berbahasa Inggris secara mendalam, menganalisis language features seperti descriptive language, dialogue, dan action verbs dalam konteks nyata</li><li>Proyek comparative analysis: Membandingkan versi berbeda dari cerita yang sama (misalnya Cinderella dari berbagai budaya) untuk menganalisis bagaimana language features digunakan untuk efek yang berbeda, memperdalam text analysis skills</li><li>Creative writing workshop dengan fokus pada language features dimana siswa bereksperimen dengan descriptive language, past tense variations, dan dialogue writing untuk menciptakan efek tertentu dalam cerita</li><li>Participatory storytelling session dimana siswa menganalisis storytelling performance (podcast, audiobook, drama) untuk memahami bagaimana language features berkontribusi pada atmosphere dan emotional impact cerita</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

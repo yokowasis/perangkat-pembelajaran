@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur dan fungsi sosial teks recount secara sistematis</li><li>Kreatif: Mengungkapkan pengalaman pribadi dengan cara yang menarik dan terstruktur</li><li>Mandiri: Mengidentifikasi ciri-ciri kebahasaan recount text secara independen</li><li>Gotong Royong: Berkolaborasi dalam diskusi kelompok untuk memahami teks recount</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke museum sejarah atau galeri foto lokal untuk mengobservasi cara menceritakan kembali peristiwa masa lalu melalui exhibit captions dan deskripsi, kemudian membuat recount text tentang pengalaman kunjungan tersebut</li><li>Proyek wawancara pengalaman hidup: Mewawancarai tokoh masyarakat atau guru tentang pengalaman bersejarah mereka, merekam, dan menuliskannya dalam bentuk recount text untuk dipublikasikan di majalah dinding sekolah</li><li>English club "Story Sharing Session" di luar jam pelajaran dimana siswa berbagi pengalaman pribadi mereka dalam bahasa Inggris secara lisan, kemudian menuliskan recount text berdasarkan cerita yang dibagikan</li><li>Proyek dokumentasi kegiatan sekolah: Mengikuti dan mendokumentasikan acara sekolah (outing, field trip, lomba) dan membuat recount text berbahasa Inggris sebagai laporan kegiatan untuk website atau sosial media sekolah</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

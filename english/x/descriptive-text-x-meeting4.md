@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengevaluasi kemajuan pembelajaran dan memberikan feedback yang konstruktif</li><li>Kreatif: Menyajikan tulisan dengan cara yang menarik dan engaging</li><li>Mandiri: Percaya diri mempresentasikan hasil karya sendiri di depan kelas</li><li>Berkebinekaan Global: Menghargai keragaman ide dan perspektif dalam tulisan teman</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td>Kegiatan kokurikuler untuk presentasi dan evaluasi:<ol><li>English Day Presentation: siswa mempresentasikan karya descriptive text di acara English Day sekolah</li><li>Membuat video presentasi deskripsi tempat favorit untuk diunggah ke channel YouTube kelas</li><li>Kegiatan gallery walk dengan memajang hasil tulisan di koridor sekolah untuk dibaca siswa lain</li><li>Kompetisi "Best Descriptive Text" dengan juri dari guru bahasa Inggris dan siswa kelas atas</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

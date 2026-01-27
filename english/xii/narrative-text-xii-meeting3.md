@@ -76,8 +76,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Kreatif: Mengembangkan ide original dan mengekspresikannya dalam bentuk narrative writing</li><li>Bernalar Kritis: Mengorganisir ide secara logis dan menggunakan bukti untuk mendukung narasi</li><li>Mandiri: Mengambil inisiatif dalam proses writing dan bertanggung jawab atas kualitas karya</li><li>Gotong Royong: Berkolaborasi dalam peer review dan memberikan feedback konstruktif</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Partisipasi dalam advanced creative writing competition atau lomba menulis cerita bahasa Inggris tingkat regional/nasional untuk mengasah kemampuan narrative writing di level kompetitif dan mendapatkan recognition</li><li>Literary magazine atau online publication project dimana siswa menulis, mengedit, dan mempublikasikan narrative texts dalam format profesional (digital magazine, anthology, website) untuk mendapatkan authentic publishing experience</li><li>Writers' workshop atau creative writing retreat dimana siswa intensive writing sessions dengan mentorship dari penulis berpengalaman, mengembangkan narrative writing skills melalui immersive experience</li><li>Mentorship program dengan penulis lokal atau mahasiswa sastra dimana siswa mendapatkan one-on-one guidance untuk mengembangkan narrative writing project, memperdalam craft melalui personalized feedback dan revision</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

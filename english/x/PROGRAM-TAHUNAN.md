@@ -165,7 +165,7 @@ Setiap materi mencakup:
 2. **Alokasi Waktu** bersifat fleksibel dan dapat disesuaikan dengan kalender akademik sekolah dan kondisi pembelajaran
 3. **Pendekatan Pembelajaran**: Communicative Language Teaching (CLT) dengan penekanan pada student-centered learning
 4. **Media Pembelajaran**: Multimedia, authentic materials, digital resources, dan realia
-5. **Profil Pelajar Pancasila**: Terintegrasi dalam setiap kegiatan pembelajaran (bernalar kritis, kreatif, mandiri, gotong royong)
+5. **Kegiatan Kokurikuler**: Terintegrasi untuk memperdalam pemahaman materi melalui pengalaman praktis di luar jam pelajaran (field trips, workshops, competitions, clubs)
 6. **Diferensiasi**: Program remedial dan pengayaan untuk mengakomodasi keberagaman kemampuan siswa
 7. **LKPD**: Setiap materi memiliki 2 level LKPD (Basic dan Advanced) untuk diferensiasi pembelajaran
 8. **English Movie**: Dipilih film yang sesuai dengan usia siswa, edukatif, dan memiliki nilai moral positif

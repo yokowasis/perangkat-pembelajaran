@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis karakteristik berbagai jenis graf dan memilih representasi yang tepat</li><li>Kreatif: Merancang representasi graf yang efisien untuk masalah spesifik</li><li>Mandiri: Mengembangkan kemampuan membuat matriks dan list adjacency secara independen</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah representasi graf yang kompleks</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Coding workshop dimana siswa implement berbagai graph representations (adjacency matrix, adjacency list) dalam Python atau C++, practicing hands-on data structure implementation</li><li>Performance analysis project dimana siswa compare efficiency of different graph representations untuk various operations (search, traversal, edge checking), developing algorithmic analysis skills</li><li>Competitive programming practice dengan graph problems dari platform seperti Codeforces atau HackerRank untuk build fluency dalam working with graph data structures</li><li>Mentorship dengan mahasiswa computer science atau software engineers yang share advanced graph algorithms dan industry applications untuk deeper technical exposure</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

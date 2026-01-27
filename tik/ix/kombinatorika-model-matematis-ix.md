@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah nyata dan mengabstraksi menjadi model matematis</li><li>Kreatif: Merancang model matematis sederhana untuk berbagai situasi</li><li>Mandiri: Mengembangkan kemampuan pemodelan dan problem solving secara independen</li><li>Gotong Royong: Berkolaborasi dalam membuat dan menguji model matematis</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Proyek STEM: Membuat model matematis sederhana untuk menghitung biaya transportasi sekolah atau kantin</li><li>Workshop Data Analysis: Menggunakan Google Sheets/Excel untuk membuat grafik dan model prediksi sederhana</li><li>Kunjungan PLN/PDAM: Observasi sistem perhitungan tagihan listrik/air dan membuat model matematis dari data yang diperoleh</li><li>Kompetisi Modeling: Mengikuti lomba pemodelan matematis tingkat sekolah/regional dengan studi kasus nyata</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

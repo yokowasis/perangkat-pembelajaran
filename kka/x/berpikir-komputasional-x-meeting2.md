@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengembangkan kemampuan menganalisis pola dan melakukan abstraksi logis</li><li>Kreatif: Menemukan pola-pola unik dan solusi inovatif melalui abstraction</li><li>Mandiri: Mengembangkan kemampuan mengenali pola secara independen</li><li>Gotong Royong: Bekerja sama dalam mengidentifikasi pola kompleks secara kolaboratif</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Pattern recognition workshop dengan real-world datasets dimana siswa menganalisis data patterns dalam berbagai konteks (weather data, traffic patterns, social media trends) untuk memperdalam abstraction skills</li><li>Game design project menggunakan visual programming tools dimana siswa mengidentifikasi patterns dalam game mechanics dan abstract them into reusable components, mempraktikkan decomposition dan abstraction</li><li>Data visualization competition dimana siswa menggunakan pattern recognition untuk menemukan insights dalam datasets dan present findings secara visual, menggabungkan analytical dengan creative skills</li><li>Visit ke data analytics company atau research lab untuk melihat bagaimana data scientists menggunakan pattern recognition dan abstraction dalam professional data analysis work</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

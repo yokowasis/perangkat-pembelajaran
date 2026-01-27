@@ -76,8 +76,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur dan makna teks naratif dengan logis dan sistematis</li><li>Kreatif: Menyusun teks naratif yang orisinal dan inovatif dengan imajinasi</li><li>Berkebinekaan Global: Memahami nilai budaya dalam cerita dari berbagai negara dan menghargai perbedaan</li><li>Mandiri: Mengembangkan kemampuan belajar bahasa Inggris secara konsisten dan bertanggung jawab</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke perpustakaan universitas atau toko buku besar untuk mengeksplorasi koleksi advanced literature dan contemporary novels, membaca dan menganalisis narrative texts dengan tema global untuk memperdalam literary appreciation</li><li>Menghadiri seminar atau workshop tentang creative writing dan storytelling dengan penulis profesional atau akademisi sastra untuk mendapatkan exposure terhadap craft of narrative writing di level advanced</li><li>Partisipasi dalam book club atau literature circle berbahasa Inggris di luar jam pelajaran dimana siswa membaca dan mendiskusikan novel chapters atau short stories dengan analisis mendalam tentang struktur narrative dan themes</li><li>Kunjungan ke teater atau pertunjukan drama berbahasa Inggris untuk mengobservasi bagaimana narrative structure diterapkan dalam performance arts, menganalisis plot development dan characterization dalam konteks live performance</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

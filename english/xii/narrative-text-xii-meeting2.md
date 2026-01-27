@@ -76,8 +76,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis fitur kebahasaan dan teknik naratif dengan pendekatan analitis yang sistematis</li><li>Kreatif: Mengevaluasi dan mengapresiasi kreativitas dalam penggunaan bahasa dan literary devices</li><li>Berkebinekaan Global: Memahami universal themes dalam narrative texts dari berbagai budaya</li><li>Mandiri: Mengembangkan kemampuan analisis teks secara independen dengan critical thinking</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Advanced literature analysis workshop dimana siswa menganalisis narrative texts dari penulis terkenal (contemporary dan classic) dengan fokus pada advanced language features seperti symbolism, imagery, dan figurative language untuk memperdalam literary analysis skills</li><li>Comparative literature study: Menganalisis bagaimana berbagai penulis dari budaya berbeda menggunakan narrative techniques dan language features untuk efek yang berbeda, memperkaya understanding of cross-cultural storytelling</li><li>Film adaptation analysis session dimana siswa membandingkan novel/short story dengan adaptasi filmnya, menganalisis bagaimana narrative language features ditransformasi ke visual medium, memperdalam pemahaman tentang multimodal storytelling</li><li>Online literary journal atau blog reading project dimana siswa mengeksplorasi contemporary narrative writing di platform digital, menganalisis language features dalam modern storytelling formats seperti flash fiction dan creative nonfiction</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis pesan moral dan nilai-nilai dalam cerita dengan logis</li><li>Kreatif: Menggunakan imajinasi untuk memahami dan mengapresiasi cerita</li><li>Berkebinekaan Global: Memahami dan menghargai cerita dari berbagai budaya dan tradisi</li><li>Beriman dan Bertakwa: Menemukan nilai-nilai spiritual dan moral dalam cerita</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke perpustakaan daerah atau toko buku untuk mengeksplorasi koleksi short stories dan folktales dari berbagai budaya, membaca dan mendiskusikan pesan moral dalam cerita untuk memperkaya literary appreciation</li><li>English storytelling club dimana siswa berbagi cerita rakyat dari daerah masing-masing yang diterjemahkan ke bahasa Inggris, mempraktikkan oral storytelling skills dan melestarikan budaya lokal</li><li>Film viewing dan analysis session untuk menganalisis struktur narrative dalam film pendek berbahasa Inggris, mengidentifikasi plot elements (orientation, complication, resolution) dan character development</li><li>Workshop dengan storyteller atau penulis lokal yang berbagi pengalaman tentang craft of storytelling dan teknik mengembangkan plot yang menarik, memberikan insight dari praktisi tentang creative writing</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

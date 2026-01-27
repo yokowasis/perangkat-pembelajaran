@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mempertahankan argumen dengan logika yang kuat dan merespons pertanyaan secara rasional</li><li>Kreatif: Menyajikan ide dan argumen dengan cara yang menarik dan inovatif dalam presentasi</li><li>Mandiri: Menunjukkan confidence dalam mempresentasikan hasil karya dan menerima feedback</li><li>Gotong Royong: Memberikan appreciation dan feedback konstruktif untuk kemajuan bersama</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>English symposium atau seminar presentation dimana siswa mempresentasikan analytical exposition essay mereka dalam format akademik dengan Q&A session, memperdalam kemampuan public speaking dan defending arguments</li><li>Mock TED Talk session dimana siswa menyampaikan persuasive speech berdasarkan analytical exposition mereka dengan time limit dan professional presentation standards, melatih confidence dan delivery skills</li><li>Proyek publikasi kumpulan essay "Student Voices" sebagai anthology essay siswa tentang isu-isu kontemporer untuk disebarkan ke perpustakaan sekolah dan komunitas, memberikan authentic purpose untuk writing</li><li>Kunjungan ke universitas atau seminar akademik untuk mengobservasi bagaimana mahasiswa dan akademisi mempresentasikan research papers dan argumentative essays, memberikan exposure kepada academic discourse di level yang lebih tinggi</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

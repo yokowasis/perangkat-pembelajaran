@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur argumen dan mengevaluasi kekuatan thesis statement dengan logis</li><li>Kreatif: Mengembangkan cara-cara inovatif dalam menyusun argumen yang meyakinkan</li><li>Mandiri: Membangun kemampuan untuk menyusun outline dan mengorganisir ide secara sistematis</li><li>Gotong Royong: Bekerja sama dalam menganalisis teks dan memberikan feedback konstruktif</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Proyek research mini tentang isu lokal (sampah plastik, traffic, pendidikan) dimana siswa mengumpulkan data dan evidence untuk mendukung thesis statement mereka, memperdalam kemampuan research skills dan academic writing</li><li>English essay writing competition atau lomba menulis opini berbahasa Inggris tingkat sekolah/daerah untuk mengasah kemampuan analytical exposition writing dengan standar kompetitif</li><li>Workshop argumentasi dengan narasumber (akademisi, jurnalis, aktivis) yang berbagi pengalaman tentang cara menyusun argumen yang kuat dan persuasif, memperkaya perspektif siswa tentang effective argumentation</li><li>Peer review dan editing workshop dimana siswa saling memberikan feedback konstruktif tentang struktur argumen, thesis statement, dan penggunaan evidence dalam tulisan teman, memperdalam pemahaman melalui collaborative learning</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

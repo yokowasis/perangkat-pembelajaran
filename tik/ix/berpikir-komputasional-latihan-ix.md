@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menerapkan framework sistematis untuk memecahkan masalah kompleks dengan metodis</li><li>Kreatif: Mengembangkan solusi inovatif melalui abstraksi dan generalisasi pola</li><li>Mandiri: Menggunakan strategi berpikir komputasional secara independen dalam berbagai konteks</li><li>Gotong Royong: Berkolaborasi dalam tim untuk menyelesaikan proyek menggunakan pendekatan CT</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>CT Challenge: Kompetisi menyelesaikan masalah kompleks menggunakan 4 pilar computational thinking (decomposition, pattern recognition, abstraction, algorithms)</li><li>Real-world Problem Solving: Proyek kelompok menerapkan CT framework untuk masalah sekolah atau komunitas</li><li>Workshop Unplugged: Aktivitas computational thinking tanpa komputer (sorting networks, binary numbers)</li><li>Bebras Challenge: Mengikuti kompetisi Bebras Computational Thinking Challenge tingkat internasional</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

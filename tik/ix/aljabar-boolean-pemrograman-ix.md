@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis logika dalam algoritma dan mengevaluasi kebenaran kondisi</li><li>Kreatif: Merancang solusi program menggunakan logika Boolean yang efektif</li><li>Mandiri: Mengembangkan program sederhana secara independen</li><li>Gotong Royong: Berkolaborasi dalam debugging dan pengembangan program</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Coding club session dimana siswa mempraktikkan implementasi Boolean logic dalam program Python atau Scratch, membuat decision-making programs menggunakan if-else statements dan logical operators</li><li>Hackathon atau programming challenge dimana siswa develop simple programs yang extensively menggunakan Boolean expressions untuk menyelesaikan practical problems (quiz games, calculator dengan validation, simple AI decision trees)</li><li>Peer code review workshop dimana siswa saling menganalisis logic dalam kode teman, identifying bugs dan suggesting improvements dalam penggunaan Boolean operators untuk memperdalam understanding through teaching</li><li>Kunjungan ke software house atau IT company untuk mengobservasi bagaimana professional programmers menggunakan Boolean logic dalam real-world software development dan debugging processes</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

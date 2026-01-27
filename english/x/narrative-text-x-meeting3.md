@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Kreatif: Mengembangkan imajinasi dan kreativitas dalam menulis cerita original</li><li>Mandiri: Membangun confidence dalam mengekspresikan ide melalui tulisan</li><li>Gotong Royong: Saling membantu dan memberikan feedback konstruktif dalam peer review</li><li>Bernalar Kritis: Mengorganisir ide secara logis dan koheren dalam struktur cerita</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Creative writing club dimana siswa secara rutin menulis short stories berbahasa Inggris dan berbagi dalam writing group untuk mendapatkan feedback, membangun writing habit dan creative confidence</li><li>Partisipasi dalam short story writing competition atau lomba menulis cerita tingkat sekolah/daerah untuk mengaplikasikan kemampuan narrative writing dalam konteks kompetitif dan mendapatkan recognition</li><li>Proyek penerbitan literary magazine atau zine sekolah yang memuat karya creative writing siswa (stories, poetry, comics) untuk memberikan platform publikasi dan authentic audience</li><li>Digital storytelling project dimana siswa menulis narrative text dan mengubahnya menjadi digital format (illustrated story, comic strip, animated video) menggunakan aplikasi digital, menggabungkan traditional writing dengan technology</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

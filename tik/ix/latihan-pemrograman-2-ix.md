@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengevaluasi programming journey dan identify growth areas</li><li>Kreatif: Mengembangkan original project yang showcase creativity dan technical skills</li><li>Mandiri: Mengambil ownership atas learning process dan plan future development</li><li>Gotong Royong: Sharing knowledge dan supporting peers dalam programming community</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Final Project Exhibition: Showcase portfolio programming project kepada komunitas sekolah dan orang tua</li><li>Tech Talk: Siswa berbagi pengalaman learning journey dan present final projects mereka</li><li>Portfolio Development Workshop: Membuat dokumentasi GitHub dan personal coding portfolio</li><li>Community Service: Mengajar dasar-dasar programming kepada siswa kelas bawah atau komunitas lokal</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

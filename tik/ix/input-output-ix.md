@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis kebutuhan input/output untuk merancang program yang efektif</li><li>Kreatif: Merancang interface sederhana yang menarik dan mudah dipahami pengguna</li><li>Mandiri: Mengembangkan program sederhana secara independen dengan input/output yang tepat</li><li>Gotong Royong: Berkolaborasi dalam testing program dan memberikan feedback untuk perbaikan</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Klub Coding: Sesi praktik rutin membuat program interaktif sederhana dengan input/output yang menarik</li><li>UI/UX Workshop: Belajar prinsip-prinsip dasar user interface design untuk program console</li><li>Code Testing Party: Sesi testing program secara berkelompok dengan berbagai input edge cases</li><li>Project Showcase: Membuat dan mempresentasikan program sederhana dengan interface yang user-friendly</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

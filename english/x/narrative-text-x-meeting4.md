@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Kreatif: Menampilkan storytelling dengan kreativitas dalam expression dan delivery</li><li>Mandiri: Menunjukkan confidence dalam mempresentasikan karya pribadi</li><li>Gotong Royong: Memberikan support dan appreciation untuk presentasi teman</li><li>Berkebinekaan Global: Menghargai diversity dalam creative expression dan storytelling styles</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Storytelling festival atau story slam event dimana siswa mempresentasikan narrative text mereka secara oral dengan expression, gesture, dan voice modulation, melatih performance skills dan stage presence</li><li>Readers theater atau dramatic reading session dimana siswa mengadaptasi narrative text menjadi script dan memperformkannya dengan pembagian peran, menggabungkan storytelling dengan drama</li><li>Podcast recording project dimana siswa merekam diri mereka membacakan atau menceritakan narrative text dengan sound effects dan background music untuk dipublikasikan di platform audio sekolah</li><li>Kunjungan ke teater lokal atau cultural center untuk menonton storytelling performance atau drama adaptasi dari literary works, memberikan exposure kepada professional storytelling dan performance techniques</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

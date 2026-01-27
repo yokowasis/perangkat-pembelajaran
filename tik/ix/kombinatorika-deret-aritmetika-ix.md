@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis pola dalam deret aritmetika dan mengaplikasikan rumus yang tepat</li><li>Kreatif: Menciptakan contoh aplikasi deret aritmetika dalam berbagai konteks</li><li>Mandiri: Menyelesaikan masalah deret aritmetika secara sistematis</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah aplikatif deret aritmetika</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan Bank/Koperasi: Observasi langsung sistem cicilan dan tabungan berkala untuk memahami aplikasi deret aritmetika dalam keuangan</li><li>Workshop Spreadsheet: Praktik membuat model perhitungan deret aritmetika menggunakan Microsoft Excel atau Google Sheets</li><li>Proyek Riset Kecil: Menganalisis pertumbuhan populasi atau data time-series sederhana menggunakan konsep deret aritmetika</li><li>Klub Coding: Implementasi algoritma deret aritmetika dalam program Python sederhana (loop dan array)</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

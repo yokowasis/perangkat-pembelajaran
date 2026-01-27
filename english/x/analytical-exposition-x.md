@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis informasi dan mengembangkan kemampuan berpikir logis dalam menyampaikan argumen</li><li>Kreatif: Mengembangkan ide dan pendapat pribadi terhadap isu-isu aktual dengan cara yang inovatif</li><li>Mandiri: Membangun keberanian untuk menyampaikan pendapat dan mempertahankan argumen secara independen</li><li>Berkebinekaan Global: Menghargai perbedaan pendapat dan memahami perspektif yang beragam</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke kantor surat kabar lokal atau studio radio untuk mengobservasi bagaimana jurnalis menyusun artikel opini dan editorial berbasis argumen, memperkaya pemahaman tentang persuasive writing dalam konteks media massa</li><li>Partisipasi dalam English debate club atau diskusi panel dimana siswa berlatih menyampaikan argumen logis tentang isu-isu kontemporer (lingkungan, teknologi, pendidikan) untuk memperdalam kemampuan berpikir kritis dan argumentasi</li><li>Proyek analisis editorial: Mengumpulkan dan menganalisis editorial dari koran berbahasa Inggris (online/cetak) untuk mengidentifikasi thesis statement, argumen, dan evidence, mempraktikkan kemampuan critical reading dan text analysis</li><li>Workshop public speaking dan argumentation dimana siswa belajar teknik menyampaikan pendapat secara persuasif dengan structure yang jelas, memperkuat kemampuan oral presentation skills dalam konteks argumentative discourse</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

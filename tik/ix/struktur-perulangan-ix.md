@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis kapan dan bagaimana menggunakan perulangan secara efisien</li><li>Kreatif: Merancang pattern dan solusi inovatif menggunakan nested loops</li><li>Mandiri: Mengembangkan program dengan perulangan secara independen</li><li>Gotong Royong: Berkolaborasi dalam debugging infinite loops dan optimization</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Pattern Making Contest: Kompetisi membuat pattern visual yang menarik menggunakan nested loops</li><li>Algorithm Optimization: Workshop menganalisis time complexity dan optimasi loop efficiency</li><li>Code Golf Challenge: Kompetisi menulis program loop paling efisien dengan kode paling minimal</li><li>Online Coding Platform: Latihan di platform seperti HackerRank atau Codewars untuk loop problems</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

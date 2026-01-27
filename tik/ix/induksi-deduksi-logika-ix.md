@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menggunakan penalaran induktif dan deduktif untuk memecahkan masalah dan membuat prediksi yang valid</li><li>Mandiri: Mengembangkan kemampuan berpikir logis secara independen dan sistematis</li><li>Kreatif: Mencari pola dan hubungan yang tidak terlihat jelas dalam data atau informasi</li><li>Berkebinekaan Global: Menghargai berbagai pendekatan penalaran dari budaya dan tradisi yang berbeda</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Logic Puzzle Workshop: Menyelesaikan puzzle logika seperti Sudoku, logic grid, dan detective problems</li><li>Debate Club: Latihan membuat argumen yang valid menggunakan penalaran deduktif yang benar</li><li>Data Analysis Project: Menganalisis dataset sederhana untuk menemukan pola menggunakan penalaran induktif</li><li>Kunjungan ke Lab AI/Machine Learning: Observasi bagaimana sistem menggunakan inductive reasoning untuk pattern recognition</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

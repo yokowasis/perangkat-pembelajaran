@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah yang dapat diselesaikan dengan pendekatan self-referential</li><li>Kreatif: Merancang elegant solutions menggunakan recursive thinking</li><li>Mandiri: Mengembangkan recursive algorithms secara independen</li><li>Gotong Royong: Berkolaborasi dalam debugging dan optimizing recursive functions</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Mathematical Puzzle Club: Menyelesaikan puzzle matematis (Tower of Hanoi, fractal) menggunakan recursive thinking</li><li>Algorithm Analysis Workshop: Membandingkan recursive vs iterative solutions untuk berbagai masalah</li><li>Visualization Project: Membuat visualisasi recursive functions menggunakan tools seperti Python Tutor</li><li>Advanced Coding Challenge: Mengikuti platform seperti Project Euler untuk masalah yang cocok dengan rekursi</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis struktur graf dan hubungan antar elemen</li><li>Kreatif: Menciptakan representasi graf untuk masalah yang berbeda</li><li>Mandiri: Menyelesaikan latihan identifikasi elemen graf secara independen</li><li>Gotong Royong: Berkolaborasi dalam memecahkan masalah graf secara kelompok</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Workshop visualisasi graf menggunakan tools seperti GraphOnline atau Gephi untuk eksplorasi hands-on dalam membuat dan menganalisis berbagai jenis graf, memperdalam pemahaman struktur data graf</li><li>Proyek analisis network sederhana dimana siswa memodelkan situasi nyata (friendship networks, transportation routes) menggunakan graph theory, mengaplikasikan konsep dalam konteks praktis</li><li>Klub matematika diskrit yang fokus pada graph theory problems dan puzzles (Seven Bridges of Königsberg, graph coloring) untuk develop problem-solving skills dalam mathematical context</li><li>Field trip ke traffic management center atau network operations center untuk melihat bagaimana graph algorithms digunakan dalam real-world applications seperti routing dan network optimization</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

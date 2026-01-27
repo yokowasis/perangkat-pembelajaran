@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis career requirements dan membuat informed decisions tentang future pathways</li><li>Kreatif: Mengeksplorasi innovative career possibilities dan entrepreneurial opportunities dalam AI</li><li>Mandiri: Mengembangkan self-directed learning plans dan taking ownership of career preparation</li><li>Gotong Royong: Berkolaborasi dalam career exploration dan sharing insights dengan peers</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Kunjungan ke universitas atau vocational school yang menawarkan AI-related programs untuk career exploration, menghadiri open classes atau workshop untuk mendapatkan insight tentang higher education pathways</li><li>Career talk series dengan AI professionals (data scientists, ML engineers, AI researchers) yang berbagi career journeys dan practical advice tentang entering AI field, memberikan real-world career perspectives</li><li>Mentorship program dengan mahasiswa atau young professionals di bidang AI untuk guidance tentang skill development, portfolio building, dan career planning dalam AI industry</li><li>Partisipasi dalam AI career fair atau tech expo dimana siswa networking dengan companies, learning tentang job opportunities, dan understanding industry requirements untuk future career planning</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

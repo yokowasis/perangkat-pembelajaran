@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Mengamati dan menganalisis objek di sekitar dengan logis untuk dideskripsikan</li><li>Kreatif: Menggunakan imajinasi dalam mendeskripsikan objek dengan kata-kata sederhana</li><li>Mandiri: Berani mencoba menggunakan bahasa Inggris meskipun kosakata masih terbatas</li><li>Gotong Royong: Bekerja sama dalam aktivitas kelompok untuk saling membantu memahami materi</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td>Kegiatan kokurikuler untuk memperdalam materi descriptive text:<ol><li>Membuat album foto keluarga dengan deskripsi dalam bahasa Inggris untuk dipresentasikan di kelas</li><li>Mengunjungi perpustakaan sekolah untuk membaca buku descriptive texts dan membuat catatan</li><li>Proyek deskripsi lingkungan sekolah: siswa mendeskripsikan ruang kelas, kantin, atau taman sekolah</li><li>Kegiatan field trip ke tempat wisata lokal untuk menulis deskripsi tempat bersejarah</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

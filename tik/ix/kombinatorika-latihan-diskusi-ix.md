@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis masalah kompleks dan mengevaluasi berbagai strategi penyelesaian</li><li>Kreatif: Mengembangkan pendekatan inovatif dalam pemecahan masalah kombinatorika</li><li>Mandiri: Menunjukkan kemandirian dalam menyelesaikan tantangan matematika yang kompleks</li><li>Gotong Royong: Berkolaborasi dalam diskusi dan saling membantu pemahaman konsep terintegrasi</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Seminar Mini: Presentasi kelompok tentang aplikasi kombinatorika dalam berbagai bidang (teknologi, ekonomi, sains)</li><li>Peer Tutoring: Sesi bimbingan belajar antar teman sebaya untuk saling memperkuat pemahaman materi kombinatorika</li><li>Olimpiade Persiapan: Latihan intensif soal-soal olimpiade matematika yang melibatkan kombinatorika terintegrasi</li><li>Proyek Dokumentasi: Membuat e-book atau blog berisi rangkuman materi, soal, dan pembahasan kombinatorika untuk referensi siswa lain</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>

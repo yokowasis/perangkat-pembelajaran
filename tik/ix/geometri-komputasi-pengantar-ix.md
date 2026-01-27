@@ -96,8 +96,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Profil Pelajar Pancasila yang berkaitan</td>
-        <td><ol><li>Bernalar Kritis: Menganalisis hubungan antara konsep geometri dan implementasi komputasi</li><li>Kreatif: Mengeksplorasi potensi aplikasi geometri komputasi dalam berbagai bidang</li><li>Mandiri: Melakukan eksperimen sederhana dengan konsep geometri komputasi</li><li>Gotong Royong: Berkolaborasi dalam menganalisis aplikasi geometri komputasi</li></ol></td>
+        <td>Kegiatan Kokurikuler</td>
+        <td><ol><li>Computer graphics workshop dimana siswa explore computational geometry dalam creating 2D graphics menggunakan tools seperti Processing atau p5.js, understanding geometric algorithms through visual programming</li><li>Game development club yang focus pada collision detection dan geometric calculations dalam game engines, applying computational geometry concepts dalam interactive applications</li><li>Robotics atau Arduino project dimana siswa implement geometric calculations untuk robot navigation dan obstacle avoidance, connecting theory dengan physical computing</li><li>Visit ke animation studio, game development company, atau GIS (Geographic Information System) office untuk see professional applications of computational geometry dalam industry</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
