@@ -120,9 +120,10 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 ### Bahasa Inggris - Kelas X
 
-#### 0. ATP (Alur Tujuan Pembelajaran)
+#### 0. Perangkat Perencanaan Pembelajaran
 
 - [📋 ATP - Alur Tujuan Pembelajaran Bahasa Inggris Kelas X](https://modul-belajar.code.app.web.id/#/english/x/ATP) - Pemetaan lengkap Capaian Pembelajaran, Tujuan Pembelajaran, dan Alur Tujuan Pembelajaran untuk seluruh materi Bahasa Inggris Kelas X (Fase E)
+- [📅 Program Tahunan Bahasa Inggris Kelas X](https://modul-belajar.code.app.web.id/#/english/x/PROGRAM-TAHUNAN) - Rencana distribusi materi pembelajaran per semester dengan alokasi waktu (JP) untuk Semester Ganjil dan Genap
 
 #### 1. Descriptive Text (4 JP)
 

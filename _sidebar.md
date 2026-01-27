@@ -6,6 +6,7 @@
 
   **📝 Bahasa Inggris - Kelas X**
   - [📋 ATP (Alur Tujuan Pembelajaran)](english/x/ATP.md)
+  - [📅 Program Tahunan](english/x/PROGRAM-TAHUNAN.md)
   - [📖 Descriptive Text - Pertemuan 1](english/x/descriptive-text-x.md)
   - [📖 Descriptive Text - Pertemuan 2](english/x/descriptive-text-x-meeting2.md)
   - [📖 Descriptive Text - Pertemuan 3](english/x/descriptive-text-x-meeting3.md)
