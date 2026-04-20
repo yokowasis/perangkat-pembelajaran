@@ -1,6 +1,7 @@
 # AGENTS.md - Coding Agent Guidelines
 
 ## Build/Development Commands
+
 ```bash
 # Serve locally for development
 docsify serve . --port 3000
@@ -15,25 +16,38 @@ curl http://localhost:3000/_sidebar.md
 ## File Structure & Naming
 
 ### English Modules
-- **Lesson modules**: `/english/{grade}/{topic}-{grade}-meeting{N}.md` 
+
+- **Lesson modules**: `/english/{grade}/{topic}-{grade}-meeting{N}.md`
   - Examples: `descriptive-text-x.md`, `descriptive-text-x-meeting2.md`
   - Series naming: `descriptive-text-x-meeting3.md`, `descriptive-text-x-meeting4.md`
 - **Grade levels**: `x` (Grade 10), `xii` (Grade 12)
 
-### TIK Modules  
+### TIK Modules
+
 - **Lesson modules**: `/tik/{grade}/{topic-keywords}-{grade}.md`
   - Examples: `aljabar-boolean-pengantar-ix.md`, `graf-konsep-dasar-ix.md`
   - Naming convention: descriptive keywords + grade level
 - **Grade levels**: `ix` (Grade 9)
 - **Module titles**: Follow format `{Topic} - Pertemuan {N}` in h1 header
 
+### KKA Modules (Koding dan Kecerdasan Artifisial)
+
+- **Lesson modules**: `/kka/{grade}/{topic-keywords}-{grade}.md` and `/kka/{grade}/{topic-keywords}-{grade}-meeting{N}.md`
+  - Examples: `berpikir-komputasional-x.md`, `kecerdasan-artifisial-x-meeting2.md`
+- **LKPD files**: `/kka/{grade}/lkpd/lkpd-{topic}-{grade}.md`
+  - Examples: `lkpd-berpikir-komputasional-x.md`, `lkpd-kecerdasan-artifisial-x.md`
+- **Grade levels**: `x` (Grade 10)
+- **Language**: Indonesian instructions with AI/computing terminology
+
 ### Core Files
+
 - **Core files**: `index.html` (Docsify config), `custom.css` (styling), `_sidebar.md` (navigation)
-- **Templates**: 
+- **Templates**:
   - `template.md` - Standard Kurikulum Merdeka lesson module template
   - `template-lkpd.md` - LKPD (Lembar Kerja Peserta Didik) template for English modules
 
 ### LKPD Modules
+
 - **LKPD files**: `/english/{grade}/lkpd-{topic}-{grade}.md`
   - Examples: `lkpd-descriptive-text-x.md`, `lkpd-narrative-text-xii.md`
   - Purpose: Student worksheets with integrated 4-skills practice and assessment
@@ -48,25 +62,42 @@ curl http://localhost:3000/_sidebar.md
 ## Content Guidelines
 
 ### Lesson Modules
+
 - **HTML Tables in Markdown**: Use proper HTML table structure, NO empty lines within tables
-- **Table Format**: 
+- **Table Format**:
   ```html
   <table>
-  <thead><tr class="header"><th>No</th><th>Komponen</th><th>Deskripsi</th></tr></thead>
-  <tbody>
-  <tr class="header"><td>1</td><td>Component</td><td></td></tr>
-  <tr><td></td><td>Sub-component</td><td>Content</td></tr>
-  </tbody>
+    <thead>
+      <tr class="header">
+        <th>No</th>
+        <th>Komponen</th>
+        <th>Deskripsi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="header">
+        <td>1</td>
+        <td>Component</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Sub-component</td>
+        <td>Content</td>
+      </tr>
+    </tbody>
   </table>
   ```
 - **Required structure**: 10 numbered components per lesson module (Kurikulum Merdeka standard)
-- **Language mix**: 
+- **Language mix**:
   - **English Grade X**: Indonesian instructions + English content/questions
   - **English Grade XII**: More English-heavy, advanced academic language
   - **TIK Grade IX**: Indonesian instructions with technical terminology, computational thinking focus
+  - **KKA Grade X**: Indonesian instructions with AI/computing terminology, Python/AI tool focus
 - **Learning progression**: Series should follow logical sequence (intro → analysis → practice → assessment)
 
 ### LKPD Guidelines
+
 - **Header section**: Always include school name (MAN 1 Kota Bima), student name field, class field, topic
 - **5 Skills Structure**: Each LKPD must contain all five skill areas in order:
   1. **Vocabulary**: Target words with clear assessment criteria (word count)
@@ -81,32 +112,49 @@ curl http://localhost:3000/_sidebar.md
 ## Lesson Module Series Structure
 
 ### English Modules
+
 Each topic should have 4 meetings following this progression:
+
 1. **Meeting 1**: Introduction, diagnostic assessment, basic concepts
-2. **Meeting 2**: Structure analysis, language features, deeper understanding  
+2. **Meeting 2**: Structure analysis, language features, deeper understanding
 3. **Meeting 3**: Practical application, writing/production activities
 4. **Meeting 4**: Presentation, evaluation, summative assessment
 
-### TIK Modules  
+### KKA Modules
+
+Each topic should have 4 meetings following a similar progression to English modules:
+
+1. **Meeting 1**: Concept introduction, basic understanding
+2. **Meeting 2**: Deeper exploration, hands-on activity
+3. **Meeting 3**: Application, practice tasks
+4. **Meeting 4**: Assessment, reflection, synthesis
+
+### TIK Modules
+
 Topics can have 4-10 meetings depending on complexity:
+
 - **4 JP Topics**: Aljabar Boolean & Himpunan (4 meetings)
 - **5 JP Topics**: Graf & Geometri, Kombinatorika & Model Matematis, Berpikir Komputasional (5 meetings each)
 - **10 JP Topics**: Dasar Pemrograman (10 meetings)
 
 **General TIK progression**:
+
 1. **Early meetings**: Concept introduction, theoretical foundations
 2. **Middle meetings**: Practical application, hands-on activities
 3. **Later meetings**: Problem-solving, synthesis, assessment
 
 ## Navigation Updates
+
 When adding new modules, update both:
+
 - `_sidebar.md` - Add navigation links
 - `README.md` - Update module listings with descriptions
 
 ## Code Style
+
 - **CSS**: Use CSS variables in `:root`, BEM-like naming for components
 - **HTML**: Semantic structure, proper meta tags, CDN links for Docsify plugins
-- **Markdown**: 
+- **Markdown**:
   - NO HTML comments in final files
   - NO empty lines within HTML tables
   - Consistent table formatting with `class="header"` for main components
@@ -115,7 +163,9 @@ When adding new modules, update both:
 ## Quality Checklist
 
 ### Lesson Modules
+
 Before finalizing any lesson module:
+
 - [ ] All 10 components filled completely
 - [ ] HTML table has no empty lines or comments
 - [ ] Navigation updated in both sidebar and README
@@ -124,7 +174,9 @@ Before finalizing any lesson module:
 - [ ] Kegiatan Kokurikuler integration included
 
 ### LKPD Modules
+
 Before finalizing any LKPD:
+
 - [ ] Header section complete (school, student field, class field, topic)
 - [ ] All 5 skill areas present and filled (Vocabulary, Listening, Speaking, Reading, Writing)
 - [ ] Each skill section includes specific assessment criteria
@@ -134,28 +186,33 @@ Before finalizing any LKPD:
 - [ ] No empty markdown table cells in grading rubric
 
 ## Deployment
+
 ```bash
 git add . && git commit -m "Description" && git push origin main
 # Auto-deploys to https://modul-belajar.code.app.web.id/ via GitHub Pages
 ```
 
 ## Current Module Structure
+
 ```
 english/
 ├── x/
-│   ├── descriptive-text-x.md (Meeting 1)
-│   ├── descriptive-text-x-meeting2.md (Meeting 2) 
-│   ├── descriptive-text-x-meeting3.md (Meeting 3)
-│   ├── descriptive-text-x-meeting4.md (Meeting 4)
-│   ├── procedure-text-x.md (Meeting 1)
-│   ├── procedure-text-x-meeting2.md (Meeting 2)
-│   ├── recount-text-x.md (Meeting 1)
-│   └── recount-text-x-meeting2.md (Meeting 2)
+│   ├── descriptive-text-x.md (Meeting 1) ... meeting4.md
+│   ├── recount-text-x.md (Meeting 1), meeting2.md
+│   ├── procedure-text-x.md (Meeting 1), meeting2.md
+│   ├── analytical-exposition-x.md (Meeting 1) ... meeting4.md
+│   ├── narrative-text-x.md (Meeting 1) ... meeting4.md
+│   ├── ANALISIS-CP.md, ATP.md, PROGRAM-TAHUNAN.md, AGENDA-HARIAN.md
+│   └── lkpd/ (lkpd-{topic}-x-{N}.md files)
 └── xii/
-    ├── narative-text-xii.md (Meeting 1)
-    ├── narrative-text-xii-meeting2.md (Meeting 2)
-    ├── narrative-text-xii-meeting3.md (Meeting 3)
-    └── narrative-text-xii-meeting4.md (Meeting 4)
+    └── narrative-text-xii.md (Meeting 1) ... meeting4.md
+
+kka/
+└── x/
+    ├── berpikir-komputasional-x.md (Meeting 1) ... meeting4.md
+    ├── kecerdasan-artifisial-x.md (Meeting 1) ... meeting4.md
+    ├── prompt-engineering-ai-generatif-x.md (Meeting 1)
+    └── lkpd/ (lkpd-{topic}-x.md files)
 
 tik/
 └── ix/
@@ -195,15 +252,25 @@ tik/
         └── latihan-pemrograman-2-ix.md (Pertemuan 10)
 ```
 
+## KKA Curriculum Overview
+
+### Grade X - Topics and modules
+
+- **Berpikir Komputasional** (4 meetings): Problem decomposition, algorithmic thinking
+- **Kecerdasan Artifisial** (4 meetings): AI concepts, machine learning basics, ethics
+- **Prompt Engineering & AI Generatif** (1+ meetings): Using generative AI tools responsibly
+
 ## TIK Curriculum Overview
 
 ### Grade IX - Total: 29 modules (30 JP)
+
 - **Focus**: Computational thinking foundations, discrete mathematics, basic programming
 - **Approach**: Progressive difficulty from theoretical concepts to practical implementation
 - **Assessment**: Mix of theoretical understanding, practical application, and problem-solving
 - **Technology**: Python-based programming with emphasis on algorithm design
 
 ### Key TIK Learning Progressions:
+
 1. **Mathematical Foundations** (Boolean algebra, graph theory, combinatorics)
 2. **Computational Thinking** (problem decomposition, pattern recognition, abstraction)
 3. **Programming Fundamentals** (algorithms, data structures, control flow)
@@ -212,6 +279,7 @@ tik/
 ## LKPD Template Structure
 
 ### Header Requirements
+
 ```markdown
 # LKPD Bahasa Inggris
 
@@ -222,6 +290,7 @@ tik/
 ```
 
 ### Five Skills Sections
+
 Each LKPD must follow this exact structure:
 
 1. **Vocabulary Section**
@@ -232,7 +301,7 @@ Each LKPD must follow this exact structure:
    - Audio materials, conversations, or listening texts
    - **Assessment**: Fill in blanks, information extraction
 
-3. **Speaking Section** 
+3. **Speaking Section**
    - Dialogue practice, conversation activities
    - **Assessment**: Pronunciation, fluency evaluation
 
@@ -245,18 +314,21 @@ Each LKPD must follow this exact structure:
    - **Assessment**: Grammar accuracy, coherence
 
 ### Assessment Rubric
+
 Must include detailed grading table with specific criteria:
+
 ```markdown
-| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
-|----------|------------|-----------|-----------|-----------|
+| Features       | A (90-100)                                                       | B (80-89)                                           | C (70-79)                                           | D (60-69)                                          |
+| -------------- | ---------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
 | **Vocabulary** | [Specific criteria for excellent performance with exact targets] | [Good performance criteria with clear expectations] | [Basic performance criteria with minimum standards] | [Limited performance criteria with support needed] |
-| **Listening** | [Specific listening comprehension targets and accuracy rates] | [Good listening skills with minor errors] | [Basic listening understanding] | [Limited listening with significant support] |
-| **Speaking** | [Excellent pronunciation, fluency, and language use criteria] | [Good speaking skills with minor issues] | [Basic speaking ability] | [Limited speaking requiring assistance] |
-| **Reading** | [Perfect comprehension, text analysis, and inference skills] | [Good reading comprehension and analysis] | [Basic reading understanding] | [Limited reading comprehension] |
-| **Writing** | [Excellent grammar, structure, vocabulary, and coherence] | [Good writing with minor grammatical errors] | [Basic writing with acceptable structure] | [Limited writing needing significant improvement] |
+| **Listening**  | [Specific listening comprehension targets and accuracy rates]    | [Good listening skills with minor errors]           | [Basic listening understanding]                     | [Limited listening with significant support]       |
+| **Speaking**   | [Excellent pronunciation, fluency, and language use criteria]    | [Good speaking skills with minor issues]            | [Basic speaking ability]                            | [Limited speaking requiring assistance]            |
+| **Reading**    | [Perfect comprehension, text analysis, and inference skills]     | [Good reading comprehension and analysis]           | [Basic reading understanding]                       | [Limited reading comprehension]                    |
+| **Writing**    | [Excellent grammar, structure, vocabulary, and coherence]        | [Good writing with minor grammatical errors]        | [Basic writing with acceptable structure]           | [Limited writing needing significant improvement]  |
 ```
 
 **Rubric Requirements:**
+
 - Each cell must contain specific, measurable criteria
 - Include exact numbers/percentages where applicable (e.g., "answers 8/10 questions correctly")
 - Describe observable behaviors and skills
