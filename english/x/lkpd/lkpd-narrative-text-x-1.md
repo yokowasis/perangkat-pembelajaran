@@ -30,20 +30,23 @@ Learn these essential storytelling words:
 
 **Story:** Listen to "The Ant and the Grasshopper"
 
+[The Ant and the Grasshopper](../../../docs/test.mp3 ":include :type=audio")
+
 > **Narrator:** "Once upon a time, there lived an ant and a grasshopper in a field. The ant worked hard every day collecting food for winter. The grasshopper played and sang all day long."
-> 
+>
 > **Grasshopper:** "Why do you work so hard, little ant? Come and play with me!"
-> 
+>
 > **Ant:** "I need to prepare food for winter. You should do the same."
-> 
+>
 > **Narrator:** "When winter came, the ant had plenty of food. The grasshopper was hungry and cold. He learned that hard work is important."
 
 **Questions:**
-1. Who are the main characters in this story? ___________________
-2. What did the ant do every day? _____________________________
-3. What did the grasshopper do instead of working? ______________
-4. What happened when winter came? ___________________________
-5. What is the moral of this story? ____________________________
+
+1. Who are the main characters in this story? **\*\*\*\***\_\_\_**\*\*\*\***
+2. What did the ant do every day? **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+3. What did the grasshopper do instead of working? **\*\***\_\_**\*\***
+4. What happened when winter came? \***\*\*\*\*\*\*\***\_\_\_\***\*\*\*\*\*\*\***
+5. What is the moral of this story? \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
 
 **Assessment** : Answer 4 out of 5 questions correctly about story elements and moral
 
@@ -54,6 +57,7 @@ Learn these essential storytelling words:
 **Your Task:** Retell the story of "The Tortoise and the Hare" using these key phrases:
 
 **Story Structure Phrases:**
+
 - "Once upon a time..."
 - "One day..."
 - "Suddenly..."
@@ -61,12 +65,14 @@ Learn these essential storytelling words:
 - "The moral of the story is..."
 
 **Practice Steps:**
+
 1. Tell your partner the story using simple past tense
 2. Include the main characters, setting, problem, and solution
 3. Use expression and gestures to make it interesting
 4. End with the moral lesson
 
 **Key Points to Include:**
+
 - Tortoise and hare decide to race
 - Hare runs fast but becomes overconfident
 - Hare takes a nap during the race
@@ -92,12 +98,13 @@ A few days later, hunters caught the lion in a net. The lion roared for help. Th
 "Thank you, little friend," said the lion. "I learned that even small friends can be great helpers."
 
 **Questions:**
-1. Where was the lion sleeping? _________________________________
-2. What woke the lion up? ____________________________________
-3. What did the mouse promise to do? ____________________________
-4. How did the lion get trapped? ________________________________
-5. How did the mouse help the lion? _____________________________
-6. What lesson did the lion learn? ______________________________
+
+1. Where was the lion sleeping? **\*\***\*\*\*\***\*\***\_**\*\***\*\*\*\***\*\***
+2. What woke the lion up? **\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***
+3. What did the mouse promise to do? \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
+4. How did the lion get trapped? **\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***
+5. How did the mouse help the lion? **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+6. What lesson did the lion learn? **\*\***\*\***\*\***\_\_**\*\***\*\***\*\***
 
 **Assessment** : Identify main story elements and answer 5 out of 6 comprehension questions correctly
 
@@ -107,24 +114,27 @@ A few days later, hunters caught the lion in a net. The lion roared for help. Th
 
 Complete these story starters with your own ideas:
 
-1. Once upon a time, there was a kind princess who ________________
-_____________________________________________________________
+1. Once upon a time, there was a kind princess who **\*\***\_\_\_\_**\*\***
 
-2. Long ago, in a small village, lived a poor farmer who ____________
-_____________________________________________________________
+---
 
-3. One sunny morning, a little boy found a magic lamp that __________
-_____________________________________________________________
+2. Long ago, in a small village, lived a poor farmer who \***\*\_\_\_\_\*\***
+
+---
+
+3. One sunny morning, a little boy found a magic lamp that \***\*\_\_\*\***
+
+---
 
 **Task 2: Story sequencing**
 
 Put these sentences in the correct order (1-5):
 
-___ Finally, the three little pigs lived safely in the brick house.
-___ Once upon a time, there were three little pigs who left home.
-___ The big bad wolf blew down the houses made of straw and sticks.
-___ Each pig built a house: one of straw, one of sticks, and one of bricks.
-___ The wolf could not blow down the brick house.
+**_ Finally, the three little pigs lived safely in the brick house.
+_** Once upon a time, there were three little pigs who left home.
+**_ The big bad wolf blew down the houses made of straw and sticks.
+_** Each pig built a house: one of straw, one of sticks, and one of bricks.
+\_\_\_ The wolf could not blow down the brick house.
 
 **Task 3: Write a simple story (60-80 words)**
 
@@ -142,10 +152,10 @@ Use these words: once upon a time, suddenly, finally, the moral is
 
 ## LEMBAR PENILAIAN
 
-| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
-|----------|------------|-----------|-----------|-----------|
-| **Vocabulary** | Memorizes and uses 9-10 words perfectly in meaningful sentences with correct pronunciation | Memorizes and uses 7-8 words correctly in sentences with minor pronunciation errors | Memorizes and uses 6-7 words in basic sentences with some pronunciation issues | Memorizes fewer than 6 words with significant pronunciation and usage errors |
-| **Listening** | Answers all 5 questions correctly, demonstrates excellent story comprehension and identifies moral clearly | Answers 4 questions correctly, shows good understanding of main story elements | Answers 3 questions correctly, understands basic story information | Answers fewer than 3 questions correctly, shows limited story comprehension |
-| **Speaking** | Retells complete story with perfect sequence, excellent past tense usage, engaging expression and clear pronunciation | Retells story with good sequence, mostly correct past tense, good expression and pronunciation | Retells basic story with acceptable sequence, some past tense errors, adequate expression | Struggles to retell story completely, many past tense errors, unclear pronunciation |
-| **Reading** | Identifies all story elements perfectly, answers all comprehension questions correctly with detailed understanding | Identifies most story elements, answers 5 questions correctly with good understanding | Identifies basic story elements, answers 3-4 questions correctly with adequate understanding | Struggles to identify story elements, answers fewer than 3 questions correctly |
-| **Writing** | Excellent story structure with creative ideas, perfect past tense usage, clear moral lesson, error-free grammar | Good story structure with interesting ideas, mostly correct past tense, appropriate moral, minor grammar errors | Basic story structure with simple ideas, some past tense errors, basic moral, acceptable grammar | Incomplete story structure, many past tense errors, unclear moral, poor grammar |
+| Features       | A (90-100)                                                                                                            | B (80-89)                                                                                                       | C (70-79)                                                                                        | D (60-69)                                                                           |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| **Vocabulary** | Memorizes and uses 9-10 words perfectly in meaningful sentences with correct pronunciation                            | Memorizes and uses 7-8 words correctly in sentences with minor pronunciation errors                             | Memorizes and uses 6-7 words in basic sentences with some pronunciation issues                   | Memorizes fewer than 6 words with significant pronunciation and usage errors        |
+| **Listening**  | Answers all 5 questions correctly, demonstrates excellent story comprehension and identifies moral clearly            | Answers 4 questions correctly, shows good understanding of main story elements                                  | Answers 3 questions correctly, understands basic story information                               | Answers fewer than 3 questions correctly, shows limited story comprehension         |
+| **Speaking**   | Retells complete story with perfect sequence, excellent past tense usage, engaging expression and clear pronunciation | Retells story with good sequence, mostly correct past tense, good expression and pronunciation                  | Retells basic story with acceptable sequence, some past tense errors, adequate expression        | Struggles to retell story completely, many past tense errors, unclear pronunciation |
+| **Reading**    | Identifies all story elements perfectly, answers all comprehension questions correctly with detailed understanding    | Identifies most story elements, answers 5 questions correctly with good understanding                           | Identifies basic story elements, answers 3-4 questions correctly with adequate understanding     | Struggles to identify story elements, answers fewer than 3 questions correctly      |
+| **Writing**    | Excellent story structure with creative ideas, perfect past tense usage, clear moral lesson, error-free grammar       | Good story structure with interesting ideas, mostly correct past tense, appropriate moral, minor grammar errors | Basic story structure with simple ideas, some past tense errors, basic moral, acceptable grammar | Incomplete story structure, many past tense errors, unclear moral, poor grammar     |
