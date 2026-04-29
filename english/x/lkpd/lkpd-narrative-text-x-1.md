@@ -50,6 +50,25 @@ Learn these essential storytelling words:
 
 **Assessment** : Answer 4 out of 5 questions correctly about story elements and moral
 
+**Story:** Listen to "The Lost Cat"
+
+[The Lost Cat](../../../docs/The%20Lost%20Cat.mp3 ":include :type=audio")
+
+**Questions:**
+
+1. When did Lina find the cat?
+2. Where was the cat when Lina first saw it?
+3. What sound did Lina hear?
+4. How did the cat look when Lina found it?
+5. What did Lina give the cat at home?
+6. What did the cat do after it felt comfortable?
+7. What did Lina make to find the cat’s owner?
+8. How long had the cat been missing?
+9. Who came to Lina’s house?
+10. Why did Lina feel both sad and happy at the end of the story?
+
+**Assessment** : Answer the questions correctly about story elements and moral
+
 ### Speaking
 
 **Retelling Activity:** Practice telling a simple story
