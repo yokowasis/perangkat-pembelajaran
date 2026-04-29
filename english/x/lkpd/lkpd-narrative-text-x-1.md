@@ -30,7 +30,7 @@ Learn these essential storytelling words:
 
 **Story:** Listen to "The Ant and the Grasshopper"
 
-[The Ant and the Grasshopper](../../../docs/test.mp3 ":include :type=audio")
+[The Ant and the Grasshopper](../../../docs/The%20Ant%20and%20the%20Grasshopper.mp3 ":include :type=audio")
 
 > **Narrator:** "Once upon a time, there lived an ant and a grasshopper in a field. The ant worked hard every day collecting food for winter. The grasshopper played and sang all day long."
 >
