@@ -93,6 +93,17 @@
   - [📄 LKPD - Berpikir Komputasional](tik/ix/lkpd/lkpd-berpikir-komputasional-ix.md)
   - [📄 LKPD - Dasar Pemrograman](tik/ix/lkpd/lkpd-dasar-pemrograman-ix.md)
 
+- **📚 Kelas XI Tingkat Lanjut (Grade 11)**
+
+  **📝 Bahasa Inggris - Kelas XI TL**
+  - [📖 Descriptive Text - Pertemuan 1](english/xi-tl/descriptive-text-xi-tl-meeting1.md)
+  - [📖 Descriptive Text - Pertemuan 2](english/xi-tl/descriptive-text-xi-tl-meeting2.md)
+  - [📖 Descriptive Text - Pertemuan 3](english/xi-tl/descriptive-text-xi-tl-meeting3.md)
+  - [📖 Descriptive Text - Pertemuan 4](english/xi-tl/descriptive-text-xi-tl-meeting4.md)
+
+  **📝 LKPD Grade XI TL - Bahasa Inggris**
+  - [📄 LKPD - Descriptive Text](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl.md)
+
 - **📚 Kelas XII (Grade 12)**
 
   - [📖 Narrative Text - Pertemuan 1](english/xii/narative-text-xii.md)

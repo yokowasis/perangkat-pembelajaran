@@ -210,6 +210,18 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📄 LKPD - Kecerdasan Artifisial](https://modul-belajar.code.app.web.id/#/kka/x/lkpd/lkpd-kecerdasan-artifisial-x) - Konsep AI, pattern recognition, aplikasi, dan etika
 - [📄 LKPD - Prompt Engineering & AI Generatif](https://modul-belajar.code.app.web.id/#/kka/x/lkpd/lkpd-prompt-engineering-ai-generatif-x) - Teknik prompting, optimisasi, dan evaluasi konten AI
 
+### Bahasa Inggris - Kelas XI Tingkat Lanjut
+
+#### 1. Descriptive Text (Focus on People and Places)
+
+- [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting1) - Pengenalan teks deskriptif untuk orang dan tempat
+- [📖 Descriptive Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting2) - Struktur dan fitur kebahasaan
+- [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting3) - Praktik menulis draf dan peer review
+- [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting4) - Presentasi lisan dan pameran karya
+
+#### LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
+- [📄 LKPD - Descriptive Text](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl) - Latihan komprehensif terintegrasi nilai Kurikulum Berbasis Cinta (KBC)
+
 ### Bahasa Inggris - Kelas XII
 
 - [📖 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xii/narative-text-xii) - Pengenalan struktur dan unsur teks naratif
