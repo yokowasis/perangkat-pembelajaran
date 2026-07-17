@@ -216,12 +216,19 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 
 - [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting1) - Pengenalan teks deskriptif untuk orang dan tempat
 - [📖 Descriptive Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting2) - Struktur dan fitur kebahasaan
-- [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting3) - Praktik menulis draf dan peer review
+- [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting3) - Praktik menulis terpandu (PjBL)
 - [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting4) - Presentasi lisan dan pameran karya
+
+- [📝 Recount Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting1) - Pengenalan (Personal Experiences / Historical Events)
+- [📝 Recount Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting2) - Struktur teks dan ciri kebahasaan
+- [📝 Recount Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting3) - Praktik menulis draf dan evaluasi sebaya
+- [📝 Recount Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting4) - Unjuk karya (Digital Diary / Vlog)
 
 #### LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
 - [📄 LKPD - Descriptive Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1) - Latihan dasar terintegrasi nilai KBC
 - [📄 LKPD - Descriptive Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2) - Latihan lanjutan (Literary Analysis & Higher Order Thinking) terintegrasi nilai KBC
+- [📄 LKPD - Recount Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-1) - Latihan recount dasar (Personal Experiences)
+- [📄 LKPD - Recount Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-2) - Latihan recount lanjutan (Historical Events)
 
 ### Bahasa Inggris - Kelas XII
 
