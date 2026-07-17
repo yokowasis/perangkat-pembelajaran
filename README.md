@@ -224,11 +224,25 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📝 Recount Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting3) - Praktik menulis draf dan evaluasi sebaya
 - [📝 Recount Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting4) - Unjuk karya (Digital Diary / Vlog)
 
+- [📚 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting1) - Pengenalan (Fables/Fairytales)
+- [📚 Narrative Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting2) - Struktur teks dan ciri kebahasaan (Direct/Indirect Speech)
+- [📚 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting3) - Praktik menyusun alternate ending
+- [📚 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting4) - Presentasi lisan (Storytelling & Comic Strip)
+
+- [📋 Procedure Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting1) - Pengenalan teks instruksional (Tips for well-being)
+- [📋 Procedure Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting2) - Struktur teks dan kalimat imperatif
+- [📋 Procedure Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting3) - Praktik merancang infografis/naskah video
+- [📋 Procedure Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting4) - Unjuk karya presentasi tutorial
+
 #### LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
 - [📄 LKPD - Descriptive Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1) - Latihan dasar terintegrasi nilai KBC
 - [📄 LKPD - Descriptive Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2) - Latihan lanjutan (Literary Analysis & Higher Order Thinking) terintegrasi nilai KBC
 - [📄 LKPD - Recount Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-1) - Latihan recount dasar (Personal Experiences)
 - [📄 LKPD - Recount Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-2) - Latihan recount lanjutan (Historical Events)
+- [📄 LKPD - Narrative Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-1) - Latihan naratif dasar (Fables & Moral Values)
+- [📄 LKPD - Narrative Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-2) - Latihan naratif lanjutan (Alternate Endings & Direct Speech)
+- [📄 LKPD - Procedure Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-1) - Latihan instruksional dasar (Manuals/Recipes)
+- [📄 LKPD - Procedure Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-2) - Latihan prosedur lanjutan (Tips for Well-being)
 
 ### Bahasa Inggris - Kelas XII
 

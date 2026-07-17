@@ -104,12 +104,24 @@
   - [📝 Recount Text - Pertemuan 2](english/xi-tl/recount-text-xi-tl-meeting2.md)
   - [📝 Recount Text - Pertemuan 3](english/xi-tl/recount-text-xi-tl-meeting3.md)
   - [📝 Recount Text - Pertemuan 4](english/xi-tl/recount-text-xi-tl-meeting4.md)
+  - [📚 Narrative Text - Pertemuan 1](english/xi-tl/narrative-text-xi-tl-meeting1.md)
+  - [📚 Narrative Text - Pertemuan 2](english/xi-tl/narrative-text-xi-tl-meeting2.md)
+  - [📚 Narrative Text - Pertemuan 3](english/xi-tl/narrative-text-xi-tl-meeting3.md)
+  - [📚 Narrative Text - Pertemuan 4](english/xi-tl/narrative-text-xi-tl-meeting4.md)
+  - [📋 Procedure Text - Pertemuan 1](english/xi-tl/procedure-text-xi-tl-meeting1.md)
+  - [📋 Procedure Text - Pertemuan 2](english/xi-tl/procedure-text-xi-tl-meeting2.md)
+  - [📋 Procedure Text - Pertemuan 3](english/xi-tl/procedure-text-xi-tl-meeting3.md)
+  - [📋 Procedure Text - Pertemuan 4](english/xi-tl/procedure-text-xi-tl-meeting4.md)
 
   **📝 LKPD Grade XI TL - Bahasa Inggris**
   - [📄 LKPD - Descriptive Text 1](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1.md)
   - [📄 LKPD - Descriptive Text 2](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2.md)
   - [📄 LKPD - Recount Text 1](english/xi-tl/lkpd/lkpd-recount-text-xi-tl-1.md)
   - [📄 LKPD - Recount Text 2](english/xi-tl/lkpd/lkpd-recount-text-xi-tl-2.md)
+  - [📄 LKPD - Narrative Text 1](english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-1.md)
+  - [📄 LKPD - Narrative Text 2](english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-2.md)
+  - [📄 LKPD - Procedure Text 1](english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-1.md)
+  - [📄 LKPD - Procedure Text 2](english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-2.md)
 
 - **📚 Kelas XII (Grade 12)**
 
