@@ -102,7 +102,8 @@
   - [📖 Descriptive Text - Pertemuan 4](english/xi-tl/descriptive-text-xi-tl-meeting4.md)
 
   **📝 LKPD Grade XI TL - Bahasa Inggris**
-  - [📄 LKPD - Descriptive Text](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl.md)
+  - [📄 LKPD - Descriptive Text 1](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1.md)
+  - [📄 LKPD - Descriptive Text 2](english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2.md)
 
 - **📚 Kelas XII (Grade 12)**
 

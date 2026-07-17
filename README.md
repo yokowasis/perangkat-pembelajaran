@@ -220,7 +220,8 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting4) - Presentasi lisan dan pameran karya
 
 #### LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
-- [📄 LKPD - Descriptive Text](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl) - Latihan komprehensif terintegrasi nilai Kurikulum Berbasis Cinta (KBC)
+- [📄 LKPD - Descriptive Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1) - Latihan dasar terintegrasi nilai KBC
+- [📄 LKPD - Descriptive Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2) - Latihan lanjutan (Literary Analysis & Higher Order Thinking) terintegrasi nilai KBC
 
 ### Bahasa Inggris - Kelas XII
 
