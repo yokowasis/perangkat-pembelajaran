@@ -5,7 +5,7 @@
 **Kelas** :  
 **Pokok Bahasan** : Descriptive Text (People and Places)
 
-*Nilai Kurikulum Berbasis Cinta (KBC): Cinta Lingkungan, Cinta Diri, dan Cinta Sesama*
+_Nilai Kurikulum Berbasis Cinta (KBC): Cinta Lingkungan, Cinta Diri, dan Cinta Sesama_
 
 ---
 
@@ -14,6 +14,7 @@
 **Objective:** To learn new adjectives to describe people's character and the beauty of nature, appreciating God's creations.
 
 Read the following adjectives carefully. They are used to describe positive traits and beautiful places.
+
 - **Breathtaking**: extremely beautiful or amazing (Sangat indah/memukau)
 - **Pristine**: in its original condition; unspoiled (Asri/alami)
 - **Compassionate**: feeling or showing sympathy and concern for others (Penuh kasih sayang)
@@ -31,6 +32,8 @@ Read the following adjectives carefully. They are used to describe positive trai
 
 **Instructions:**
 Listen to the audio (provided by the teacher) about "Raja Ampat, The Pristine Paradise". Fill in the blanks below!
+
+[Raja Ampat](../../../docs/raja_ampat.mp3 ":include :type=audio")
 
 1. Raja Ampat is located in ___________ Papua.
 2. The word 'Ampat' means ___________ because there are four major islands.
@@ -71,6 +74,7 @@ Read the text below and answer the questions.
 Ki Hajar Dewantara is a prominent figure in Indonesian education. He was a courageous and compassionate leader who dedicated his life to educating the nation. Physically, he was often seen wearing traditional Javanese attire and glasses, showing his humble personality. He believed that education should liberate people and build good character. His famous motto, "Tut Wuri Handayani" (from behind, a teacher must give encouragement), is still used today. He inspires us to love seeking knowledge (Cinta Ilmu) and to care for our society.
 
 **Questions:**
+
 1. What is the main idea of the text?
 2. Mention two adjectives used to describe Ki Hajar Dewantara's character!
 3. How did he show his humble personality physically?
@@ -87,6 +91,7 @@ Ki Hajar Dewantara is a prominent figure in Indonesian education. He was a coura
 
 **Instructions:**
 Think of a person you admire in your family/school, or a beautiful natural spot in your hometown. Write a short descriptive text (2 paragraphs).
+
 - **Paragraph 1 (Identification)**: Introduce the person/place.
 - **Paragraph 2 (Description)**: Describe their physical appearance, qualities, or the scenery. Include a sentence about why we should appreciate them (Cinta Diri dan Sesama or Cinta Lingkungan).
 
@@ -96,10 +101,10 @@ Think of a person you admire in your family/school, or a beautiful natural spot 
 
 ## Assessment Rubric
 
-| Features       | A (90-100)                                                       | B (80-89)                                           | C (70-79)                                           | D (60-69)                                          |
-| -------------- | ---------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
-| **Vocabulary** | Uses all 5 target words correctly in highly meaningful sentences.| Uses 4 target words correctly in good sentences.    | Uses 3 target words correctly in basic sentences.   | Uses fewer than 3 words correctly, needs support.  |
-| **Listening**  | Extracts 100% of missing information accurately.                 | Extracts 80% of information with minor spelling errors.| Extracts 60% of information correctly.              | Extracts less than 50%, requiring significant help.|
-| **Speaking**   | Excellent pronunciation, fluid delivery, and expressive tone.    | Good pronunciation and fluency with minor pauses.   | Basic pronunciation, understandable but hesitant.   | Limited fluency, heavy hesitation, unclear words.  |
-| **Reading**    | Perfect comprehension, accurate inference of character traits.   | Good comprehension, answers most questions correctly.| Basic understanding, answers literal questions only.| Limited comprehension, struggles to find answers.  |
-| **Writing**    | Excellent structure, flawless Simple Present, rich adjectives.   | Good structure, minor grammar errors, good adjectives.| Basic structure, noticeable grammar issues.         | Poor structure, frequent errors impeding meaning.  |
+| Features       | A (90-100)                                                        | B (80-89)                                               | C (70-79)                                            | D (60-69)                                           |
+| -------------- | ----------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- |
+| **Vocabulary** | Uses all 5 target words correctly in highly meaningful sentences. | Uses 4 target words correctly in good sentences.        | Uses 3 target words correctly in basic sentences.    | Uses fewer than 3 words correctly, needs support.   |
+| **Listening**  | Extracts 100% of missing information accurately.                  | Extracts 80% of information with minor spelling errors. | Extracts 60% of information correctly.               | Extracts less than 50%, requiring significant help. |
+| **Speaking**   | Excellent pronunciation, fluid delivery, and expressive tone.     | Good pronunciation and fluency with minor pauses.       | Basic pronunciation, understandable but hesitant.    | Limited fluency, heavy hesitation, unclear words.   |
+| **Reading**    | Perfect comprehension, accurate inference of character traits.    | Good comprehension, answers most questions correctly.   | Basic understanding, answers literal questions only. | Limited comprehension, struggles to find answers.   |
+| **Writing**    | Excellent structure, flawless Simple Present, rich adjectives.    | Good structure, minor grammar errors, good adjectives.  | Basic structure, noticeable grammar issues.          | Poor structure, frequent errors impeding meaning.   |

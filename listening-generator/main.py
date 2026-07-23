@@ -32,7 +32,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--rate",
         default=DEFAULT_RATE,
-        help='Speech rate, e.g. "+10%" or "-10%"',
+        help='Speech rate, e.g. "+10%%" or "-10%%"',
     )
     parser.add_argument(
         "--pitch",
@@ -42,7 +42,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--volume",
         default=DEFAULT_VOLUME,
-        help='Volume, e.g. "+0%" or "+20%"',
+        help='Volume, e.g. "+0%%" or "+20%%"',
     )
     return parser.parse_args()
 
