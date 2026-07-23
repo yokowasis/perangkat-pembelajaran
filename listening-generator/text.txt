@@ -1,0 +1,5 @@
+Story: Listen to "The Ant and the Grasshopper"
+Narrator: "Once upon a time, there lived an ant and a grasshopper in a field. The ant worked hard every day collecting food for winter. The grasshopper played and sang all day long."
+Grasshopper: "Why do you work so hard, little ant? Come and play with me!"
+Ant: "I need to prepare food for winter. You should do the same."
+Narrator: "When winter came, the ant had plenty of food. The grasshopper was hungry and cold. He learned that hard work is important."
