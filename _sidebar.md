@@ -130,6 +130,13 @@
   - [📖 Narrative Text - Pertemuan 3](english/xii/narrative-text-xii-meeting3.md)
   - [📖 Narrative Text - Pertemuan 4](english/xii/narrative-text-xii-meeting4.md)
 
+- **🏆 OSN Informatika (Olimpiade Sains Nasional)**
+
+  - [📊 Rangkuman & Pemetaan OSN-P (2023 - 2025)](osn/propinsi/ANALISIS_SOAL_OSNP.md)
+  - [📑 Analisis Soal OSN-P 2023](osn/propinsi/2023/ANALISIS_SOAL_2023.md)
+  - [📑 Analisis Soal OSN-P 2024](osn/propinsi/2024/ANALISIS_SOAL_2024.md)
+  - [📑 Analisis Soal OSN-P 2025](osn/propinsi/2025/ANALISIS_SOAL_2025.md)
+
 - **📞 Kontak**
   - Penyusun: Wasis Haryo Sasoko, S.Pd., M.Kom.
   - Institusi: MAN 1 Kota Bima

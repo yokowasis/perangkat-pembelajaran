@@ -1,6 +1,6 @@
-# Perangkat Pembelajaran - Bahasa Inggris & TIK
+# Perangkat Pembelajaran - Bahasa Inggris, TIK & OSN Informatika
 
-> Modul Ajar Kurikulum Merdeka untuk Mata Pelajaran Bahasa Inggris dan TIK
+> Modul Ajar Kurikulum Merdeka untuk Mata Pelajaran Bahasa Inggris, TIK, serta Pembahasan OSN Informatika
 
 ## 🌐 Homepage
 
@@ -8,7 +8,7 @@
 
 ## 📖 Tentang Proyek Ini
 
-Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggris dan TIK yang disusun berdasarkan **Kurikulum Merdeka**. Setiap modul dirancang untuk memfasilitasi pembelajaran yang efektif dan sesuai dengan Capaian Pembelajaran (CP) yang telah ditetapkan.
+Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggris dan TIK yang disusun berdasarkan **Kurikulum Merdeka**, serta materi persediaan & analisis soal **Olimpiade Sains Nasional (OSN) Informatika**. Setiap modul dirancang untuk memfasilitasi pembelajaran yang efektif dan sesuai dengan Capaian Pembelajaran (CP) yang telah ditetapkan.
 
 ## 🎯 Tujuan
 
@@ -59,6 +59,12 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - **Focus**: Komunikasi lanjutan, teks kompleks, tujuan akademik
 - **Approach**: Critical analysis, advanced language features
 - **Assessment**: Sophisticated evaluation methods
+
+### OSN Informatika (Olimpiade Sains Nasional)
+
+- **Focus**: Algoritma Lanjutan, Teori Graf & DSU, Dynamic Programming, Parametric Search, Teori Bilangan, Pembahasan Soal OSN-P 2023–2025
+- **Approach**: Problem-based learning, competitive programming analysis, C++ implementation, fast I/O optimization
+- **Assessment**: Analisis kompleksitas (waktu & memori), penyelesaian kasus uji, pembuktian kebenaran logika
 
 ## 📋 Modul yang Tersedia
 
@@ -250,6 +256,24 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - [📖 Narrative Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting2) - Analisis fitur kebahasaan dan teknik naratif
 - [📖 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting3) - Praktik menulis teks naratif kreatif
 - [📖 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xii/narrative-text-xii-meeting4) - Presentasi dan evaluasi akhir
+
+### 🏆 OSN Informatika (Olimpiade Sains Nasional - Tingkat Provinsi)
+
+#### 1. Rangkuman & Pemetaan Materi OSN-P (2023 - 2025)
+
+- [📊 Rangkuman & Pemetaan Soal OSN-P (2023 - 2025)](https://modul-belajar.code.app.web.id/#/osn/propinsi/ANALISIS_SOAL_OSNP) - Laporan pemetaan topik utama (Greedy, Graph/DSU, Binary Search on Answer, Prefix Sum, Dynamic Programming, Teori Bilangan), kompleksitas, dan strategi penyelesaian komprehensif.
+
+#### 2. Analisis & Pembahasan Soal OSN-P 2023
+
+- [📑 Analisis & Pembahasan OSN-P 2023](https://modul-belajar.code.app.web.id/#/osn/propinsi/2023/ANALISIS_SOAL_2023) - Pembahasan lengkap 5 soal OSN-P 2023 (Menjual Kentang, Masa Pertumbuhan, Pembangkit Listrik, Mengumpulkan Artefak, Membeli Oleh-Oleh) beserta kode solusi C++.
+
+#### 3. Analisis & Pembahasan Soal OSN-P 2024
+
+- [📑 Analisis & Pembahasan OSN-P 2024](https://modul-belajar.code.app.web.id/#/osn/propinsi/2024/ANALISIS_SOAL_2024) - Pembahasan lengkap 6 soal OSN-P 2024 (String Cantik OSN, Berbagi Banyak Candil, Tebas Tebang Pohon, Kalkulator Pengubah Basis, Gosip Gulali, Maju Tak Papan) beserta kode solusi C++.
+
+#### 4. Analisis & Pembahasan Soal OSN-P 2025
+
+- [📑 Analisis & Pembahasan OSN-P 2025](https://modul-belajar.code.app.web.id/#/osn/propinsi/2025/ANALISIS_SOAL_2025) - Pembahasan lengkap 6 soal OSN-P 2025 (String Cantik OSN-P, Gudang Penyimpanan Kardus, Balada Kemasan Telur, Telur Kemasan Balado, Tebas Tebang Bambu, Kandang Ayam Kandang Bebek) beserta kode solusi C++.
 
 ## 👨‍🏫 Informasi Penyusun
 

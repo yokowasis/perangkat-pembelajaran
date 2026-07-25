@@ -8,19 +8,19 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 | No | Judul / Pokok Bahasan | Topik Utamanya | File Penyelesaian |
 | :-: | :--- | :--- | :--- |
-| **1** | Studi Kasus A: String Cantik OSN | *String Processing, Subsequence Pattern Matching* | [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/1.cpp) |
-| **2** | Studi Kasus B: Berbagi Banyak Candil | *Number Theory, Divisor Enumeration* | [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/2.cpp) |
-| **3** | Studi Kasus C: Tebas Tebang Pohon | *Binary Search on Answer, Parametric Search* | [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/3.cpp) |
-| **4** | Studi Kasus D: Kalkulator Pengubah Basis | *Dynamic Programming, String Partitioning* | [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/4.cpp) |
-| **5** | Studi Kasus E: Gosip Gulali | *Graph DFS, Connected Components, Median* | [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/5.cpp) |
-| **6** | Studi Kasus F: Maju Tak Papan | *Combinatorics, Arithmetic Progression* | [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/6.cpp) |
+| **1** | Studi Kasus A: String Cantik OSN | *String Processing, Subsequence Pattern Matching* | [1.cpp](1.cpp) |
+| **2** | Studi Kasus B: Berbagi Banyak Candil | *Number Theory, Divisor Enumeration* | [2.cpp](2.cpp) |
+| **3** | Studi Kasus C: Tebas Tebang Pohon | *Binary Search on Answer, Parametric Search* | [3.cpp](3.cpp) |
+| **4** | Studi Kasus D: Kalkulator Pengubah Basis | *Dynamic Programming, String Partitioning* | [4.cpp](4.cpp) |
+| **5** | Studi Kasus E: Gosip Gulali | *Graph DFS, Connected Components, Median* | [5.cpp](5.cpp) |
+| **6** | Studi Kasus F: Maju Tak Papan | *Combinatorics, Arithmetic Progression* | [6.cpp](6.cpp) |
 
 ---
 
 ## Bedah Soal Detail & Deskripsi Asli
 
 ### Soal 1: Studi Kasus A: String Cantik OSN
-* **File Solusi**: [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/1.cpp)
+* **File Solusi**: [1.cpp](1.cpp)
 * **Topik/Istilah Teknis**: *String Processing, Subsequence Pattern Matching, Brute Force*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -45,7 +45,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 2: Studi Kasus B: Berbagi Banyak Candil
-* **File Solusi**: [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/2.cpp)
+* **File Solusi**: [2.cpp](2.cpp)
 * **Topik/Istilah Teknis**: *Number Theory, Divisor Enumeration, Modular Arithmetic*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -66,7 +66,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 3: Studi Kasus C: Tebas Tebang Pohon
-* **File Solusi**: [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/3.cpp)
+* **File Solusi**: [3.cpp](3.cpp)
 * **Topik/Istilah Teknis**: *Binary Search on Answer, Parametric Search, Monotonic Function*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -88,7 +88,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 4: Studi Kasus D: Kalkulator Pengubah Basis
-* **File Solusi**: [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/4.cpp)
+* **File Solusi**: [4.cpp](4.cpp)
 * **Topik/Istilah Teknis**: *Dynamic Programming, String Partitioning, Modular Arithmetic*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -111,7 +111,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 5: Studi Kasus E: Gosip Gulali
-* **File Solusi**: [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/5.cpp)
+* **File Solusi**: [5.cpp](5.cpp)
 * **Topik/Istilah Teknis**: *Graph DFS, Connected Components, Median, Binary Search*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -134,7 +134,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 6: Studi Kasus F: Maju Tak Papan
-* **File Solusi**: [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/6.cpp)
+* **File Solusi**: [6.cpp](6.cpp)
 * **Topik/Istilah Teknis**: *Combinatorics, Arithmetic Progression, Closed-Form Formula*.
 
 #### Teks Deskripsi Soal (dari PDF):

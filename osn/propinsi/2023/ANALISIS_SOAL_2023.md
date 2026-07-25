@@ -8,11 +8,11 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 |  No   | Judul / Pokok Bahasan    | Topik Utamanya                            | File Penyelesaian                                                      |
 | :---: | :----------------------- | :---------------------------------------- | :--------------------------------------------------------------------- |
-| **1** | B1. Menjual Kentang      | _Greedy Algorithm, Array Sorting_         | [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/1.cpp) |
-| **2** | B2. Masa Pertumbuhan     | _Greedy Sweep, Interval Coverage_         | [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/2.cpp) |
-| **3** | B3. Pembangkit Listrik   | _Graph, Disjoint Set Union (DSU), Greedy_ | [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/3.cpp) |
-| **4** | B4. Mengumpulkan Artefak | _Prefix Sum, Binary Search_               | [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/4.cpp) |
-| **5** | B5. Membeli Oleh-Oleh    | _Tree Dynamic Programming (Tree DP)_      | [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/5.cpp) |
+| **1** | B1. Menjual Kentang      | _Greedy Algorithm, Array Sorting_         | [1.cpp](1.cpp) |
+| **2** | B2. Masa Pertumbuhan     | _Greedy Sweep, Interval Coverage_         | [2.cpp](2.cpp) |
+| **3** | B3. Pembangkit Listrik   | _Graph, Disjoint Set Union (DSU), Greedy_ | [3.cpp](3.cpp) |
+| **4** | B4. Mengumpulkan Artefak | _Prefix Sum, Binary Search_               | [4.cpp](4.cpp) |
+| **5** | B5. Membeli Oleh-Oleh    | _Tree Dynamic Programming (Tree DP)_      | [5.cpp](5.cpp) |
 
 ---
 
@@ -20,7 +20,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ### Soal 1: B1. Menjual Kentang
 
-- **File Solusi**: [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/1.cpp)
+- **File Solusi**: [1.cpp](1.cpp)
 - **Topik/Istilah Teknis**: _Greedy Algorithm, Array Sorting, Arithmetic Mean_.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -51,7 +51,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ### Soal 2: B2. Masa Pertumbuhan
 
-- **File Solusi**: [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/2.cpp)
+- **File Solusi**: [2.cpp](2.cpp)
 - **Topik/Istilah Teknis**: _Greedy Sweep, Interval Coverage_.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -79,7 +79,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ### Soal 3: B3. Pembangkit Listrik
 
-- **File Solusi**: [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/3.cpp)
+- **File Solusi**: [3.cpp](3.cpp)
 - **Topik/Istilah Teknis**: _Graph, Disjoint Set Union (DSU), Connected Components, Greedy_.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -106,7 +106,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ### Soal 4: B4. Mengumpulkan Artefak
 
-- **File Solusi**: [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/4.cpp)
+- **File Solusi**: [4.cpp](4.cpp)
 - **Topik/Istilah Teknis**: _Prefix Sum, Binary Search (`lower_bound` / `upper_bound`)_.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -134,7 +134,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ### Soal 5: B5. Membeli Oleh-Oleh
 
-- **File Solusi**: [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2023/5.cpp)
+- **File Solusi**: [5.cpp](5.cpp)
 - **Topik/Istilah Teknis**: _Tree Dynamic Programming (Tree DP), Memoization_.
 
 #### Teks Deskripsi Soal (dari PDF):

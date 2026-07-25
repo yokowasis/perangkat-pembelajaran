@@ -8,19 +8,19 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 | No | Judul / Pokok Bahasan | Topik Utamanya | File Penyelesaian |
 | :-: | :--- | :--- | :--- |
-| **1** | Studi Kasus A: String Cantik OSN-P | *String Processing, Prefix/Suffix Counting* | [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/1.cpp) |
-| **2** | Studi Kasus B: Gudang Penyimpanan Kardus | *Binary Search on Answer, Parametric Search* | [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/2.cpp) |
-| **3** | Studi Kasus C: Balada Kemasan Telur | *Number Theory, Prime Factorization* | [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/3.cpp) |
-| **4** | Studi Kasus D: Telur Kemasan Balado | *Greedy Algorithm, Segment Grouping* | [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/4.cpp) |
-| **5** | Studi Kasus E: Tebas Tebang Bambu | *Dynamic Programming, Priority Queue* | [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/5.cpp) |
-| **6** | Studi Kasus F: Kandang Ayam Kandang Bebek | *Grid Dynamic Programming, Grid Pathfinding* | [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/6.cpp) |
+| **1** | Studi Kasus A: String Cantik OSN-P | *String Processing, Prefix/Suffix Counting* | [1.cpp](1.cpp) |
+| **2** | Studi Kasus B: Gudang Penyimpanan Kardus | *Binary Search on Answer, Parametric Search* | [2.cpp](2.cpp) |
+| **3** | Studi Kasus C: Balada Kemasan Telur | *Number Theory, Prime Factorization* | [3.cpp](3.cpp) |
+| **4** | Studi Kasus D: Telur Kemasan Balado | *Greedy Algorithm, Segment Grouping* | [4.cpp](4.cpp) |
+| **5** | Studi Kasus E: Tebas Tebang Bambu | *Dynamic Programming, Priority Queue* | [5.cpp](5.cpp) |
+| **6** | Studi Kasus F: Kandang Ayam Kandang Bebek | *Grid Dynamic Programming, Grid Pathfinding* | [6.cpp](6.cpp) |
 
 ---
 
 ## Bedah Soal Detail & Deskripsi Asli
 
 ### Soal 1: Studi Kasus A: String Cantik OSN-P
-* **File Solusi**: [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/1.cpp)
+* **File Solusi**: [1.cpp](1.cpp)
 * **Topik/Istilah Teknis**: *String Processing, Prefix/Suffix Counting, Single Pass Sweep*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -44,7 +44,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 2: Studi Kasus B: Gudang Penyimpanan Kardus
-* **File Solusi**: [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/2.cpp)
+* **File Solusi**: [2.cpp](2.cpp)
 * **Topik/Istilah Teknis**: *Binary Search on Answer, Parametric Search, Grid Packing*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -65,7 +65,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 3: Studi Kasus C: Balada Kemasan Telur
-* **File Solusi**: [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/3.cpp)
+* **File Solusi**: [3.cpp](3.cpp)
 * **Topik/Istilah Teknis**: *Number Theory, Prime Factorization, Trial Division*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -87,7 +87,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 4: Studi Kasus D: Telur Kemasan Balado
-* **File Solusi**: [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/4.cpp)
+* **File Solusi**: [4.cpp](4.cpp)
 * **Topik/Istilah Teknis**: *Greedy Algorithm, Segment Grouping, Array Sorting*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -110,7 +110,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 5: Studi Kasus E: Tebas Tebang Bambu
-* **File Solusi**: [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/5.cpp)
+* **File Solusi**: [5.cpp](5.cpp)
 * **Topik/Istilah Teknis**: *Dynamic Programming, Priority Queue, Sliding Window*.
 
 #### Teks Deskripsi Soal (dari PDF):
@@ -132,7 +132,7 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 ---
 
 ### Soal 6: Studi Kasus F: Kandang Ayam Kandang Bebek
-* **File Solusi**: [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2025/6.cpp)
+* **File Solusi**: [6.cpp](6.cpp)
 * **Topik/Istilah Teknis**: *Grid Dynamic Programming, Grid Pathfinding*.
 
 #### Teks Deskripsi Soal (dari PDF):
