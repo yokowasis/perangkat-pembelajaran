@@ -6,13 +6,13 @@ Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penje
 
 ## Ringkasan Pemetaan Materi (2023)
 
-|  No   | Judul / Pokok Bahasan    | Topik Utamanya                            | File Penyelesaian                                                      |
-| :---: | :----------------------- | :---------------------------------------- | :--------------------------------------------------------------------- |
-| **1** | B1. Menjual Kentang      | _Greedy Algorithm, Array Sorting_         | [1.cpp](1.cpp) |
-| **2** | B2. Masa Pertumbuhan     | _Greedy Sweep, Interval Coverage_         | [2.cpp](2.cpp) |
-| **3** | B3. Pembangkit Listrik   | _Graph, Disjoint Set Union (DSU), Greedy_ | [3.cpp](3.cpp) |
-| **4** | B4. Mengumpulkan Artefak | _Prefix Sum, Binary Search_               | [4.cpp](4.cpp) |
-| **5** | B5. Membeli Oleh-Oleh    | _Tree Dynamic Programming (Tree DP)_      | [5.cpp](5.cpp) |
+|  No   | Judul / Pokok Bahasan    | Topik Utamanya                            | File Penyelesaian |
+| :---: | :----------------------- | :---------------------------------------- | :---------------- |
+| **1** | B1. Menjual Kentang      | _Greedy Algorithm, Array Sorting_         | [1.cpp](1.cpp)    |
+| **2** | B2. Masa Pertumbuhan     | _Greedy Sweep, Interval Coverage_         | [2.cpp](2.cpp)    |
+| **3** | B3. Pembangkit Listrik   | _Graph, Disjoint Set Union (DSU), Greedy_ | [3.cpp](3.cpp)    |
+| **4** | B4. Mengumpulkan Artefak | _Prefix Sum, Binary Search_               | [4.cpp](4.cpp)    |
+| **5** | B5. Membeli Oleh-Oleh    | _Tree Dynamic Programming (Tree DP)_      | [5.cpp](5.cpp)    |
 
 ---
 
