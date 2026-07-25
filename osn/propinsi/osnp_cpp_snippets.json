@@ -1,0 +1,157 @@
+{
+  "OSN C++ Fast I/O Boilerplate": {
+    "prefix": "osn-fast-io",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "#define int long long",
+      "",
+      "signed main() {",
+      "    ios::sync_with_stdio(false);",
+      "    cin.tie(nullptr);",
+      "",
+      "    $0",
+      "",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Template dasar C++ dengan Fast I/O dan long long macro untuk OSN-P."
+  },
+  "Disjoint Set Union (DSU)": {
+    "prefix": "osn-dsu",
+    "body": [
+      "struct DSU {",
+      "    vector<int> parent, sz;",
+      "    DSU(int n) {",
+      "        parent.resize(n);",
+      "        sz.assign(n, 1);",
+      "        for (int i = 0; i < n; i++) parent[i] = i;",
+      "    }",
+      "    int find(int x) {",
+      "        if (parent[x] == x) return x;",
+      "        return parent[x] = find(parent[x]);",
+      "    }",
+      "    void unite(int a, int b) {",
+      "        a = find(a);",
+      "        b = find(b);",
+      "        if (a == b) return;",
+      "        if (sz[a] < sz[b]) swap(a, b);",
+      "        parent[b] = a;",
+      "        sz[a] += sz[b];",
+      "    }",
+      "};"
+    ],
+    "description": "Template Disjoint Set Union (Union-Find) dengan Path Compression & Union by Size."
+  },
+  "Binary Search on Answer (Parametric Search)": {
+    "prefix": "osn-binsearch-ans",
+    "body": [
+      "bool check(int mid, const vector<int>& arr, int target) {",
+      "    // TODO: Implementasi logika validasi untuk nilai mid",
+      "    return true;",
+      "}",
+      "",
+      "int binarySearchAnswer(int minVal, int maxVal, const vector<int>& arr, int target) {",
+      "    int low = minVal, high = maxVal, ans = minVal;",
+      "    while (low <= high) {",
+      "        int mid = low + (high - low) / 2;",
+      "        if (check(mid, arr, target)) {",
+      "            ans = mid;",
+      "            high = mid - 1; // atau low = mid + 1 tergantung monotonicity",
+      "        } else {",
+      "            low = mid + 1;  // atau high = mid - 1",
+      "        }",
+      "    }",
+      "    return ans;",
+      "}"
+    ],
+    "description": "Template Pencarian Biner pada Jawaban (Parametric Search) untuk OSN-P."
+  },
+  "Faktorisasi Prima O(sqrt(N))": {
+    "prefix": "osn-prime-factors",
+    "body": [
+      "vector<pair<int, int>> getPrimeFactors(int n) {",
+      "    vector<pair<int, int>> factors;",
+      "    int x = n;",
+      "    for (int p = 2; p * p <= x; p++) {",
+      "        if (x % p == 0) {",
+      "            int count = 0;",
+      "            while (x % p == 0) {",
+      "                count++;",
+      "                x /= p;",
+      "            }",
+      "            factors.push_back({p, count});",
+      "        }",
+      "    }",
+      "    if (x > 1) {",
+      "        factors.push_back({x, 1});",
+      "    }",
+      "    return factors;",
+      "}"
+    ],
+    "description": "Template Faktorisasi Prima O(sqrt(N)) menghasilkan pasangan {faktor_prima, eksponen}."
+  },
+  "Graph DFS & Connected Components": {
+    "prefix": "osn-graph-components",
+    "body": [
+      "void dfs(int u, const vector<vector<int>>& adj, vector<bool>& visited, vector<int>& comp) {",
+      "    visited[u] = true;",
+      "    comp.push_back(u);",
+      "    for (int v : adj[u]) {",
+      "        if (!visited[v]) {",
+      "            dfs(v, adj, visited, comp);",
+      "        }",
+      "    }",
+      "}",
+      "",
+      "vector<vector<int>> getConnectedComponents(int n, const vector<vector<int>>& adj) {",
+      "    vector<vector<int>> components;",
+      "    vector<bool> visited(n, false);",
+      "    for (int i = 0; i < n; i++) {",
+      "        if (!visited[i]) {",
+      "            vector<int> comp;",
+      "            dfs(i, adj, visited, comp);",
+      "            components.push_back(comp);",
+      "        }",
+      "    }",
+      "    return components;",
+      "}"
+    ],
+    "description": "Template DFS untuk menemukan seluruh Komponen Terhubung (Connected Components) pada Graf."
+  },
+  "Prefix Sum 1D": {
+    "prefix": "osn-prefix-sum",
+    "body": [
+      "vector<int> buildPrefixSum(const vector<int>& a) {",
+      "    int n = a.size();",
+      "    vector<int> pref(n + 1, 0);",
+      "    for (int i = 0; i < n; i++) {",
+      "        pref[i + 1] = pref[i] + a[i];",
+      "    }",
+      "    return pref;",
+      "}",
+      "",
+      "// Query range sum [L, R] 0-indexed:",
+      "// int sum = pref[R + 1] - pref[L];"
+    ],
+    "description": "Template Prefix Sum 1D untuk query jumlah range dalam O(1)."
+  },
+  "Grid State Dynamic Programming": {
+    "prefix": "osn-grid-dp",
+    "body": [
+      "const int INF = 1e18;",
+      "vector<vector<int>> dp(2, vector<int>(n, INF));",
+      "",
+      "// State Awal",
+      "dp[0][0] = cost[0][0];",
+      "dp[1][0] = cost[1][0];",
+      "",
+      "for (int i = 1; i < n; i++) {",
+      "    dp[0][i] = min(dp[0][i-1] + cost[0][i], dp[1][i-1] + cost[1][i] + cost[0][i]);",
+      "    dp[1][i] = min(dp[1][i-1] + cost[1][i], dp[0][i-1] + cost[0][i] + cost[1][i]);",
+      "}"
+    ],
+    "description": "Template Dynamic Programming Lintasan Grid 2xN dengan State Transition."
+  }
+}
