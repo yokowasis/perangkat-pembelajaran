@@ -357,3 +357,75 @@ Ensure that learning objectives and activities naturally integrate one or more o
 - **Learning Objectives**: Always include at least one objective related to a Panca Cinta value (e.g., "Menunjukkan rasa syukur atas keindahan alam...").
 - **Activities**: Add reflection sessions, collaborative tasks, and empathy-building exercises.
 - **LKPD**: Frame writing/speaking prompts around KBC themes (e.g., describing a place with an emphasis on preserving its beauty - Cinta Lingkungan).
+
+## OSN-P Analysis & Snippets
+
+### Directory Structure
+
+```
+osn/
+└── propinsi/
+    ├── ANALISIS_SOAL_OSNP.md      # Master analysis with difficulty ranking (1-10 scale)
+    ├── PANDUAN_SNIPPETS_OSNP.md   # Snippet usage guide with conceptual explanations
+    ├── osnp_cpp_snippets.json     # VSCode snippets (19 total)
+    ├── 2023/
+    │   ├── OSNP2023.pdf
+    │   ├── ANALISIS_SOAL_2023.md
+    │   └── 1.cpp ... 5.cpp        # Solution files
+    ├── 2024/
+    │   ├── OSNP2024.pdf
+    │   ├── ANALISIS_SOAL_2024.md
+    │   └── 1.cpp ... 6.cpp
+    └── 2025/
+        ├── OSNP2025.pdf
+        ├── ANALISIS_SOAL_2025.md
+        └── 1.cpp ... 6.cpp
+```
+
+### Adding New OSN-P Years
+
+When adding a new year (e.g., `2026/`), follow this checklist:
+
+**1. Create the year directory:**
+```
+osn/propinsi/{YYYY}/
+```
+
+**2. Add required files per directory:**
+- `OSNP{YYYY}.pdf` — Original problem PDF
+- `ANALISIS_SOAL_{YYYY}.md` — Detailed analysis markdown
+- `{N}.cpp` — Solution files for each problem (numbered sequentially)
+
+**3. Update `ANALISIS_SOAL_OSNP.md` (master file):**
+- Add new year to the Ringkasan Pemetaan Materi table
+- Add new section `## Analisis Detail & Soal Tahun {YYYY}`
+- Each soal entry must follow this format:
+  ```markdown
+  ### Soal {N}: {Kode}. {Judul}
+  - **File Solusi**: [{YYYY}/{N}.cpp]({YYYY}/{N}.cpp)
+  - **Topik/Istilah Teknis**: _Topic, Keywords_.
+  - **Tingkat Kesulitan**: {X}/10
+  - **Deskripsi Soal (PDF)**: Brief description.
+  - **Logika Penyelesaian**: Algorithm approach.
+  - **Kompleksitas**: Waktu $O(...)$, Memori $O(...)$.
+  ```
+- Update the Peringkat Soal table — insert new soal(s) at the correct rank position
+- Update the Distribusi table
+- Update the Strategi Pengerjaan section if needed
+
+**4. Difficulty scale calibration (1-10):**
+- **1-2**: Single concept, trivial implementation, O(N) or O(1). Example: 2025#2 Gudang Kardus.
+- **3-4**: Single algorithm, straightforward. Example: 2024#1 String Cantik, 2023#2 Masa Pertumbuhan.
+- **5-6**: Standard algorithm, multi-step but each step is familiar. Example: 2024#3 Tebas Pohon, 2025#3 Balada Telur.
+- **7-8**: Multi-concept, requires combining 2+ techniques. Example: 2024#4 Kalkulator, 2023#3 Pembangkit Listrik.
+- **9-10**: Advanced technique, hard to derive, very few students solve. Example: 2025#5 Tebas Bambu, 2023#5 Oleh-Oleh.
+
+**5. If new patterns emerge, update:**
+- `osnp_cpp_snippets.json` — Add new snippet if a new algorithm pattern appears
+- `PANDUAN_SNIPPETS_OSNP.md` — Add explanation section for the new snippet
+- `AGENTS.md` — Update this section if calibration rules change
+
+**6. Complexity notation:**
+- Use LaTeX math notation: `$O(N \log N)$`, `$O(\sqrt{N})$`, `$O(V + E)$`
+- Always specify both Waktu and Memori
+- Use `\alpha(N)` for inverse Ackermann (DSU)
