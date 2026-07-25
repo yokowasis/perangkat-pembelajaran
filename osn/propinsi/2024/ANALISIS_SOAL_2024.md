@@ -1,111 +1,154 @@
 # Laporan Analisis Soal OSN-P Informatika 2024
 
-Dokumen ini berisi analisis detail dan penjelasan penyelesaian untuk seluruh soal OSN-P Informatika tahun **2024** (Soal 1 s.d. Soal 6). Penjelasan dibuat sederhana untuk tingkat SMA/pemula dengan tetap mempertahankan istilah teknis kompetitif.
+Dokumen ini berisi deskripsi teks soal asli dari PDF, analisis detail, dan penjelasan penyelesaian untuk seluruh soal OSN-P Informatika tahun **2024** (Soal 1 s.d. Soal 6). Penjelasan dibuat sederhana untuk tingkat SMA/pemula dengan tetap mempertahankan istilah teknis kompetitif.
 
 ---
 
 ## Ringkasan Pemetaan Materi (2024)
 
-| No | Nama / Pokok Bahasan | Topik Utamanya | File Penyelesaian |
+| No | Judul / Pokok Bahasan | Topik Utamanya | File Penyelesaian |
 | :-: | :--- | :--- | :--- |
-| **1** | Subsequence Terpanjang Pola OSN | *String Processing, Subsequence Pattern Matching* | [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/1.cpp) |
-| **2** | Pembagian Permen & Sisa Bagi | *Number Theory, Divisor Enumeration* | [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/2.cpp) |
-| **3** | Pemotongan Pagar / Pohon | *Binary Search on Answer, Parametric Search* | [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/3.cpp) |
-| **4** | Pembagian String Digit ke Basis B | *Dynamic Programming, String Partitioning* | [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/4.cpp) |
-| **5** | Komunitas Bebek & Jenis Permen | *Graph DFS, Connected Components, Median* | [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/5.cpp) |
-| **6** | Perhitungan Pola Grid Matriks | *Combinatorics, Arithmetic Progression* | [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/6.cpp) |
+| **1** | Studi Kasus A: String Cantik OSN | *String Processing, Subsequence Pattern Matching* | [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/1.cpp) |
+| **2** | Studi Kasus B: Berbagi Banyak Candil | *Number Theory, Divisor Enumeration* | [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/2.cpp) |
+| **3** | Studi Kasus C: Tebas Tebang Pohon | *Binary Search on Answer, Parametric Search* | [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/3.cpp) |
+| **4** | Studi Kasus D: Kalkulator Pengubah Basis | *Dynamic Programming, String Partitioning* | [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/4.cpp) |
+| **5** | Studi Kasus E: Gosip Gulali | *Graph DFS, Connected Components, Median* | [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/5.cpp) |
+| **6** | Studi Kasus F: Maju Tak Papan | *Combinatorics, Arithmetic Progression* | [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/6.cpp) |
 
 ---
 
-## Bedah Soal Detail
+## Bedah Soal Detail & Deskripsi Asli
 
-### Soal 1: Subsequence Kata "OSN"
+### Soal 1: Studi Kasus A: String Cantik OSN
 * **File Solusi**: [1.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/1.cpp)
 * **Topik/Istilah Teknis**: *String Processing, Subsequence Pattern Matching, Brute Force*.
-* **Jalan Cerita**: Diberikan sebuah kata/string $S$. Kita ingin membentuk rantai kata berulang dari variasi 3 huruf "OSN" (misalnya "OSNOSN...", "SONSON...", dsb.) yang diambil dari karakter-karakter $S$ tanpa mengubah urutannya (*subsequence*).
-* **Inti Masalah**: Menentukan panjang *subsequence* terpanjang (minimal panjang 3) yang cocok dengan salah satu dari 6 variasi susunan "OSN".
+
+#### Teks Deskripsi Soal (dari PDF):
+> Sebuah string dikatakan **string cantik OSN** jika dan hanya jika memenuhi 2 persyaratan:
+> 1. Memiliki panjang minimal 3 huruf.
+> 2. Setiap 3 huruf yang berurutan harus terdiri dari tepat 1 huruf ‘O’, 1 huruf ‘S’, dan 1 huruf ‘N’.  
+> Pak Dengklek memiliki string awal $S$. Pak Dengklek boleh menghapus beberapa huruf (mungkin 0) dari $S$ dan mempertahankan urutan huruf sisanya (*subsequence*).  
+> **Format Masukan**: Baris tunggal berisi string $S$.  
+> **Format Keluaran**: Panjang string cantik OSN terpanjang yang mungkin. Jika tidak mungkin, keluarkan `-1`.  
+> **Batasan**: $1 \le |S| \le 100.000$; $S$ hanya terdiri dari huruf kapital 'A'-'Z'.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: Kita diberi string $S$. Kita ingin mengambil *subsequence* terpanjang yang susunan 3 hurufnya berulang secara cantik dari kombinasi huruf "O", "S", "N".
+* **Inti Masalah**: Mencari panjang *subsequence* berulang terpanjang dari 6 pola permutasi valid ("OSN", "ONS", "SNO", "SON", "NOS", "NSO").
 * **Logika Penyelesaian**:
-  1. Tentukan 6 variasi pola 3 huruf yang valid: `"OSN"`, `"ONS"`, `"SNO"`, `"SON"`, `"NOS"`, `"NSO"`.
-  2. Untuk setiap variasi pola:
-     - Lakukan pemindaian dari awal hingga akhir string $S$.
-     - Cari karakter yang sesuai dengan urutan pola saat ini. Jika cocok, maju ke karakter pola berikutnya secara berulang (siklik $0 \to 1 \to 2 \to 0$).
-  3. Hitung panjang karakter yang berhasil dicocokkan.
-  4. Ambil nilai panjang maksimum di antara ke-6 variasi tersebut. Jika tidak ada yang mencapai panjang $\ge 3$, hasilnya `-1`.
+  1. Daftar 6 variasi pola 3 huruf yang sah.
+  2. Untuk tiap pola, telusuri string $S$ dari kiri ke kanan.
+  3. Cocokkan karakter secara berurutan dengan pola siklik ($0 \to 1 \to 2 \to 0$).
+  4. Ambil maksimum panjang hasil pencocokan dari ke-6 pola tersebut. Jika panjang $< 3$, cetak `-1`.
 * **Kompleksitas**: Waktu $O(|S|)$, Memori $O(1)$.
 
 ---
 
-### Soal 2: Pembagian Permen & Sisa Bagi
+### Soal 2: Studi Kasus B: Berbagi Banyak Candil
 * **File Solusi**: [2.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/2.cpp)
 * **Topik/Istilah Teknis**: *Number Theory, Divisor Enumeration, Modular Arithmetic*.
-* **Jalan Cerita**: Seseorang memiliki $C$ buah permen dan ingin mengelompokkannya ke dalam bungkus berisi $X$ permen. Setelah dibungkus, tersisa $D$ permen ($C \pmod X = D$). Diketahui ukuran bungkus $X$ tidak boleh melebihi kapasitas $B$ ($X \le B$) dan ukuran bungkus harus lebih besar dari sisanya ($X > D$).
-* **Inti Masalah**: Menghitung berapa banyak nilai ukuran bungkus $X$ yang mungkin.
+
+#### Teks Deskripsi Soal (dari PDF):
+> Pak Dengklek memiliki antara $1$ hingga $B$ ekor bebek. Pak Dengklek membeli $C$ butir candil untuk dibagikan sama rata ke semua bebeknya sebanyak mungkin. Sisa candil yang tidak terbagi dimakan oleh Pak Dengklek sendiri sebanyak $D$ butir.  
+> **Format Masukan**: Baris berisi tiga bilangan $B, C, D$.  
+> **Format Keluaran**: Banyaknya kemungkinan jumlah bebek yang mungkin milik Pak Dengklek.  
+> **Batasan**: $1 \le B, C \le 10^{12}$; $0 \le D \le C$.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: Pak Dengklek membagi $C$ candil ke $X$ bebek ($1 \le X \le B$). Sisa candil yang dimakan Pak Dengklek adalah $D$ ($C \pmod X = D$).
+* **Inti Masalah**: Mencari banyaknya nilai $X$ ($D < X \le B$) yang merupakan pembagi dari $(C - D)$.
 * **Logika Penyelesaian**:
-  1. Persamaan $C \pmod X = D$ berarti $(C - D)$ habis dibagi oleh $X$. Jadi, $X$ adalah faktor/pembagi dari $(C - D)$.
-  2. Kasus Khusus: Jika $C == D$, maka $(C - D) = 0$. Semua nilai $X > D$ hingga $B$ memenuhi. Jawabannya adalah $\max(0, B - D)$.
-  3. Kasus Umum ($C > D$): Cari semua faktor dari bilangan $(C - D)$ dengan melakukan loop $i = 1 \dots \sqrt{C - D}$.
-  4. Untuk setiap pasangan faktor $i$ dan $(C - D)/i$, periksa apakah nilainya berada di rentang $D < X \le B$. Jika ya, tambahkan ke hitungan.
+  1. Jika $C == D$, $(C - D) = 0$. Jawabannya adalah $\max(0, B - D)$.
+  2. Jika $C > D$, cari semua faktor dari $(C - D)$ sampai $\sqrt{C - D}$.
+  3. Untuk setiap faktor $i$ dan $(C - D)/i$, hitung berapa banyak yang memenuhi $D < X \le B$.
 * **Kompleksitas**: Waktu $O(\sqrt{C - D})$, Memori $O(1)$.
 
 ---
 
-### Soal 3: Pemotongan Pagar / Pohon
+### Soal 3: Studi Kasus C: Tebas Tebang Pohon
 * **File Solusi**: [3.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/3.cpp)
 * **Topik/Istilah Teknis**: *Binary Search on Answer, Parametric Search, Monotonic Function*.
-* **Jalan Cerita**: Terdapat barisan pohon dengan tinggi berbeda-beda. Kita ingin memotong bagian atas semua pohon pada ketinggian $H$. Bagian pohon di atas ketinggian $H$ akan diambil untuk dijadikan kayu pagar.
-* **Inti Masalah**: Mencari ketinggian potong $H$ tertinggi sehingga total panjang kayu yang didapatkan setidaknya memenuhi target tinggi pagar $T$.
+
+#### Teks Deskripsi Soal (dari PDF):
+> Terdapat $N$ pohon dengan tinggi $A_i$. Pak Dengklek memilih batas ketinggian $X$. Pohon dengan tinggi $> X$ dipotong bagian atasnya sehingga tingginya menjadi $X$. Panjang potongan yang didapat adalah $A_i - X$. Pak Dengklek membutuhkan total panjang potongan pohon setidaknya sebesar $M$.  
+> Pak Dengklek ingin memilih batas $X$ setinggi mungkin agar pohon-pohon tetap menjulang tinggi.  
+> **Format Masukan**: Baris 1: $N, M$. Baris 2: $N$ bilangan $A_i$.  
+> **Format Keluaran**: Batas ketinggian maksimum $X$ yang paling tinggi. Jika tidak mungkin, keluarkan `-1`.  
+> **Batasan**: $1 \le N \le 100.000$; $1 \le M \le 10^{12}$; $1 \le A_i \le 1.000.000$.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: Kita menebang bagian atas pohon pada ketinggian $X$. Total kayu yang didapat harus $\ge M$. Kita ingin $X$ setinggi mungkin.
+* **Inti Masalah**: Menemukan $X$ terbesar menggunakan **Binary Search on Answer**.
 * **Logika Penyelesaian**:
-  1. Fungsi `jumlah_pagar(H)` menghitung total kayu yang diperoleh jika dipotong pada ketinggian $H$: $\sum \max(0, \text{pohon}[i] - H)$.
-  2. Fungsi ini bersifat **monoton turun**: semakin tinggi $H$, semakin sedikit kayu yang kita dapatkan. Ini memenuhi syarat penggunaan **Binary Search on Answer**.
-  3. Lakukan Pencarian Biner (*Binary Search*) pada rentang ketinggian $[0, \text{tinggi\_maksimum}]$:
-     - Ambil `mid = (left + right) / 2`.
-     - Jika hasil kayu pada `mid` cukup untuk memenuhi target, coba cari batas yang lebih tinggi (`left = mid + 1`).
-     - Jika kayu kurang, turunkan batas potong (`right = mid - 1`).
-* **Kompleksitas**: Waktu $O(N \log (\max H))$, Memori $O(N)$.
+  1. Buat fungsi `jumlah_pagar(X)`: menghitung total kayu jika dipotong pada $X$.
+  2. Karena fungsi bersifat monoton turun, gunakan Binary Search pada $X \in [0, \max(A)]$.
+  3. Jika kayu yang didapat pada `mid` $\ge M$, simpan `mid` dan coba tingkatkan batas potong (`left = mid + 1`).
+* **Kompleksitas**: Waktu $O(N \log (\max A))$, Memori $O(N)$.
 
 ---
 
-### Soal 4: Pembagian String Digit ke Basis B
+### Soal 4: Studi Kasus D: Kalkulator Pengubah Basis
 * **File Solusi**: [4.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/4.cpp)
-* **Topik/Istilah Teknis**: *Dynamic Programming (DP), String Partitioning, Modular Arithmetic*.
-* **Jalan Cerita**: Diberikan sebuah string angka $Y$ dan sebuah basis bilangan $B$. Kita ingin memotong string $Y$ menjadi kumpulan angka-angka kecil sedemikian rupa sehingga setiap angka hasil potongan bernilai **kurang dari** $B$.
-* **Inti Masalah**: Menghitung berapa banyak cara pemotongan string yang sah modulo $10^9 + 7$.
+* **Topik/Istilah Teknis**: *Dynamic Programming, String Partitioning, Modular Arithmetic*.
+
+#### Teks Deskripsi Soal (dari PDF):
+> Pak Dengklek mengubah bilangan basis 10 ke basis $B$. Namun kalkulator tidak dapat menampilkan digit di atas '9', melainkan menuliskan nilai desimalnya tanpa *leading zeroes* (misal digit 10 ditulis "10", digit 15 ditulis "15"). Hasil tampilan kalkulator berupa string $Y$.  
+> Hitung banyaknya bilangan awal $X$ berbeda yang akan menghasilkan string $Y$ ketika diubah ke basis $B$, modulo $1.000.000.007$.  
+> **Format Masukan**: Baris 1: Basis $B$. Baris 2: String $Y$.  
+> **Format Keluaran**: Banyaknya $X$ berbeda modulo $1.000.000.007$.  
+> **Batasan**: $2 \le B \le 1.000.000$; $1 \le |Y| \le 100.000$.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: String $Y$ adalah gabungan potongan digit-digit dalam basis $B$. Kita ingin memotong string $Y$ menjadi kumpulan bilangan yang masing-masing nilainya $< B$.
+* **Inti Masalah**: Menghitung berapa banyak pemotongan string yang valid dengan **Dynamic Programming**.
 * **Logika Penyelesaian**:
-  1. Definisikan `dp[i]`: banyaknya cara memotong sub-string dari indeks $i$ sampai akhir string.
-  2. Base Case: `dp[n] = 1` (string kosong dianggap 1 cara sah).
-  3. Iterasi mundur dari $i = n-1$ turun ke $0$:
-     - Jika $Y[i] == '0'$, angka berawalan nol melanjut ke `dp[i] = dp[i+1]`.
-     - Jika $Y[i] \neq '0'$, bentuk nilai angka secara bertahap $val = val \times 10 + (Y[j] - '0')$ untuk $j = i \dots n-1$.
-     - Selama $val < B$, tambahkan kombinasi `dp[j+1]` ke `dp[i]`. Jika $val \ge B$, hentikan loop $j$ karena angka sudah terlalu besar.
+  1. `dp[i]` = banyak cara memotong substring $Y[i \dots n-1]$.
+  2. Iterasi dari $i = n-1$ mundur ke 0.
+  3. Jika $Y[i] == '0'$, `dp[i] = dp[i+1]`.
+  4. Jika $Y[i] \neq '0'$, susun nilai angka $val$. Selama $val < B$, tambahkan `dp[j+1]` ke `dp[i]`.
 * **Kompleksitas**: Waktu $O(N \log_{10} B)$, Memori $O(N)$.
 
 ---
 
-### Soal 5: Komunitas Bebek & Jenis Permen
+### Soal 5: Studi Kasus E: Gosip Gulali
 * **File Solusi**: [5.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/5.cpp)
-* **Topik/Istilah Teknis**: *Graph DFS, Connected Components, Median, Binary Search (`lower_bound`)*.
-* **Jalan Cerita**: Sekelompok bebek menyukai tingkat kemanisan permen tertentu. Beberapa bebek saling bergosip (berhubungan dalam graf). Bebek yang saling bergosip harus diberi jenis permen yang sama. Di toko tersedia berbagai jenis permen dengan tingkat kemanisan tertentu. Tingkat "ketidakpuasan" bebek adalah selisih antara kemanisan permen yang ia dapatkan dengan kemanisan yang ia sukai.
-* **Inti Masalah**: Memilih jenis permen dari toko untuk setiap kelompok gosip agar total ketidakpuasan seluruh bebek seminimal mungkin.
+* **Topik/Istilah Teknis**: *Graph DFS, Connected Components, Median, Binary Search*.
+
+#### Teks Deskripsi Soal (dari PDF):
+> Terdapat $N$ bebek dengan tingkat kemanisan favorit $B_i$ dan $M$ jenis gulali di toko dengan tingkat kemanisan $G_j$. Terdapat $K$ hubungan gosip antar bebek. Bebek yang saling bergosip (langsung/tidak langsung) harus mendapatkan jenis gulali yang **sama**.  
+> Ketidakpuasan bebek dengan favorit $X$ yang mendapat gulali $Y$ adalah $|X - Y|$. Cari total rasa ketidakpuasan minimum untuk semua bebek.  
+> **Format Masukan**: Baris 1: $N, M, K$. Baris 2: $N$ bilangan $B_i$. Baris 3: $M$ bilangan $G_j$. $K$ baris berikutnya: pasangan bebek $P_i, Q_i$.  
+> **Format Keluaran**: Total ketidakpuasan terkecil.  
+> **Batasan**: $1 \le N, M \le 100.000$; $0 \le K \le 100.000$; $1 \le B_i, G_j \le 10^9$.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: Bebek yang bergosip membentuk kelompok terhubung dan harus mendapat gulali jenis sama dari toko. Ketidakpuasan adalah selisih favorit dengan gulali toko.
+* **Inti Masalah**: Mengelompokkan bebek dengan DFS, mencari **Median** favorit kelompok, lalu mencari gulali toko paling dekat dengan median tersebut.
 * **Logika Penyelesaian**:
-  1. Gunakan algoritma **DFS (Depth-First Search)** pada graf untuk memisahkan bebek-bebek ke dalam kelompok-kelompok terhubung (*Connected Components*).
-  2. Untuk setiap kelompok bebek:
-     - Kumpulkan nilai kemanisan yang disukai oleh bebek-bebek di kelompok tersebut.
-     - Secara matematis, nilai yang meminimalkan total selisih mutlak $\sum |x_i - k|$ adalah nilai **Median** (nilai tengah) dari kelompok tersebut.
-     - Cari permen di toko yang nilainya paling mendekati Median tersebut menggunakan **Binary Search** (`lower_bound`).
-     - Hitung total ketidakpuasan kelompok dengan permen terpilih tersebut.
-  3. Jumlahkan ketidakpuasan minimum dari semua kelompok.
+  1. Temukan seluruh komponen terhubung pada graf menggunakan **DFS**.
+  2. Untuk setiap kelompok, hitung **Median** dari nilai favorit $B_i$ bebek-bebek di dalamnya.
+  3. Cari gulali toko $G_j$ yang nilainya paling mendekati Median menggunakan `lower_bound`.
+  4. Hitung total selisih $|B_i - G_{\text{pilihan}}|$ untuk seluruh kelompok.
 * **Kompleksitas**: Waktu $O(V + E + N \log N + M \log M)$, Memori $O(V + E)$.
 
 ---
 
-### Soal 6: Perhitungan Pola Grid Matriks
+### Soal 6: Studi Kasus F: Maju Tak Papan
 * **File Solusi**: [6.cpp](file:///d:/git/perangkat-pembelajaran/osn/propinsi/2024/6.cpp)
 * **Topik/Istilah Teknis**: *Combinatorics, Arithmetic Progression, Closed-Form Formula*.
-* **Jalan Cerita**: Perhitungan matematis mengenai pasangan elemen pada matriks berukuran $N \times M$.
-* **Inti Masalah**: Menghitung hasil rumus kombinatorika matriks secara efisien tanpa melakukan simulasi perulangan bertingkat.
+
+#### Teks Deskripsi Soal (dari PDF):
+> Papan berukuran $N$ baris dan $M$ kolom diisi angka $1$ hingga $N \times M$. Robot bebek mulai di $(1,1)$ dan berjalan ke petak kanan atau bawah yang memiliki angka lebih besar, hingga sampai di $(N,M)$.  
+> Tentukan jumlah angka-angka pada petak yang dikunjungi robot sekecil mungkin jika papan diisi secara optimal.  
+> **Format Masukan**: Baris berisi $N, M$.  
+> **Format Keluaran**: Jumlah angka terkecil yang mungkin.  
+> **Batasan**: $1 \le N, M \le 1000$.
+
+#### Analisis & Pembahasan:
+* **Jalan Cerita**: Mengatur pengisian angka pada grid $N \times M$ agar rute perjalanan robot menghasilkan jumlah angka minimum.
+* **Inti Masalah**: Perhitungan formula matematika tertutup (*closed-form*).
 * **Logika Penyelesaian**:
-  1. Pastikan $N \le M$. Jika $N > M$, tukar nilai $N$ dan $M$.
-  2. Gunakan rumus matematika tertutup (*closed-form*):
+  1. Pastikan $N \le M$ (jika $N > M$, tukar nilai $N$ dan $M$).
+  2. Gunakan rumus langsung $O(1)$:
      $$\text{Hasil} = \frac{M + M^2}{2} + (M + N) \times (N - 1)$$
-  3. Solusi ini langsung menghasilkan jawaban dalam 1 langkah perhitungan matematis.
 * **Kompleksitas**: Waktu $O(1)$, Memori $O(1)$.
