@@ -153,5 +153,220 @@
       "}"
     ],
     "description": "Template Dynamic Programming Lintasan Grid 2xN dengan State Transition."
+  },
+  "Sieve of Eratosthenes (Bilangan Prima)": {
+    "prefix": "osn-sieve",
+    "body": [
+      "const int MAXN = 1e6 + 5;",
+      "vector<bool> isPrime(MAXN, true);",
+      "vector<int> primes;",
+      "",
+      "void sieve() {",
+      "    isPrime[0] = isPrime[1] = false;",
+      "    for (int i = 2; i < MAXN; i++) {",
+      "        if (isPrime[i]) {",
+      "            primes.push_back(i);",
+      "            for (int j = i * 2; j < MAXN; j += i) {",
+      "                isPrime[j] = false;",
+      "            }",
+      "        }",
+      "    }",
+      "}"
+    ],
+    "description": "Sieve of Eratosthenes O(N log log N) untuk generate bilangan prima sampai MAXN."
+  },
+  "Modular Arithmetic (Fast Pow & nCr)": {
+    "prefix": "osn-modular",
+    "body": [
+      "const int MOD = 1e9 + 7;",
+      "",
+      "int modPow(int a, int b) {",
+      "    int res = 1;",
+      "    while (b) {",
+      "        if (b & 1) res = (1LL * res * a) % MOD;",
+      "        a = (1LL * a * a) % MOD;",
+      "        b >>= 1;",
+      "    }",
+      "    return res;",
+      "}",
+      "",
+      "int modInv(int x) { return modPow(x, MOD - 2); }",
+      "",
+      "vector<int> fact(MAXN), invFact(MAXN);",
+      "void precomputeFactorials(int n) {",
+      "    fact[0] = 1;",
+      "    for (int i = 1; i <= n; i++) fact[i] = (1LL * fact[i - 1] * i) % MOD;",
+      "    invFact[n] = modInv(fact[n]);",
+      "    for (int i = n - 1; i >= 0; i--) invFact[i] = (1LL * invFact[i + 1] * (i + 1)) % MOD;",
+      "}",
+      "",
+      "int nCr(int n, int r) {",
+      "    if (r < 0 || r > n) return 0;",
+      "    return (1LL * fact[n] * invFact[r] % MOD) * invFact[n - r] % MOD;",
+      "}"
+    ],
+    "description": "Modular exponentiation, invers, dan kombinasi nCr modulo 1e9+7."
+  },
+  "GCD & LCM": {
+    "prefix": "osn-gcd-lcm",
+    "body": [
+      "int gcd(int a, int b) {",
+      "    return b == 0 ? a : gcd(b, a % b);",
+      "}",
+      "",
+      "int lcm(int a, int b) {",
+      "    return a / gcd(a, b) * b;",
+      "}"
+    ],
+    "description": "Fungsi GCD (Euclidean) dan LCM untuk OSN-P."
+  },
+  "BFS (Shortest Path Unweighted Graph)": {
+    "prefix": "osn-bfs",
+    "body": [
+      "vector<int> bfs(int start, int n, const vector<vector<int>>& adj) {",
+      "    vector<int> dist(n, -1);",
+      "    queue<int> q;",
+      "    dist[start] = 0;",
+      "    q.push(start);",
+      "    while (!q.empty()) {",
+      "        int u = q.front(); q.pop();",
+      "        for (int v : adj[u]) {",
+      "            if (dist[v] == -1) {",
+      "                dist[v] = dist[u] + 1;",
+      "                q.push(v);",
+      "            }",
+      "        }",
+      "    }",
+      "    return dist;",
+      "}"
+    ],
+    "description": "BFS untuk shortest path pada graf tidak berbobot (unweighted graph)."
+  },
+  "Flood Fill (Grid DFS)": {
+    "prefix": "osn-flood-fill",
+    "body": [
+      "const int dx[] = {0, 0, 1, -1};",
+      "const int dy[] = {1, -1, 0, 0};",
+      "",
+      "void floodFill(int x, int y, vector<vector<char>>& grid, vector<vector<bool>>& vis) {",
+      "    int n = grid.size(), m = grid[0].size();",
+      "    vis[x][y] = true;",
+      "    for (int d = 0; d < 4; d++) {",
+      "        int nx = x + dx[d], ny = y + dy[d];",
+      "        if (nx >= 0 && nx < n && ny >= 0 && ny < m && !vis[nx][ny] && grid[nx][ny] == grid[x][y]) {",
+      "            floodFill(nx, ny, grid, vis);",
+      "        }",
+      "    }",
+      "}"
+    ],
+    "description": "Flood Fill (DFS) pada grid 2D untuk menghitung region/komponen terhubung."
+  },
+  "Topological Sort (Kahn's Algorithm)": {
+    "prefix": "osn-toposort",
+    "body": [
+      "vector<int> topologicalSort(int n, const vector<vector<int>>& adj) {",
+      "    vector<int> indeg(n, 0);",
+      "    for (int u = 0; u < n; u++)",
+      "        for (int v : adj[u]) indeg[v]++;",
+      "    queue<int> q;",
+      "    for (int i = 0; i < n; i++)",
+      "        if (indeg[i] == 0) q.push(i);",
+      "    vector<int> order;",
+      "    while (!q.empty()) {",
+      "        int u = q.front(); q.pop();",
+      "        order.push_back(u);",
+      "        for (int v : adj[u]) {",
+      "            if (--indeg[v] == 0) q.push(v);",
+      "        }",
+      "    }",
+      "    return order; // size < n berarti ada cycle",
+      "}"
+    ],
+    "description": "Topological Sort pada DAG menggunakan Kahn's Algorithm (BFS indegree)."
+  },
+  "Knapsack 0/1 DP": {
+    "prefix": "osn-knapsack",
+    "body": [
+      "// dp[i][w] = max value dengan i item pertama dan kapasitas w",
+      "vector<int> dp(W + 1, 0);",
+      "for (int i = 0; i < N; i++) {",
+      "    int weight = wt[i], value = val[i];",
+      "    for (int w = W; w >= weight; w--) {",
+      "        dp[w] = max(dp[w], dp[w - weight] + value);",
+      "    }",
+      "}",
+      "// Jawaban: dp[W]"
+    ],
+    "description": "Template DP 0/1 Knapsack 1D optimized O(N*W)."
+  },
+  "Two Pointers / Sliding Window": {
+    "prefix": "osn-two-pointers",
+    "body": [
+      "// Mencari subarray terpanjang dengan sum <= K",
+      "int l = 0, sum = 0, ans = 0;",
+      "for (int r = 0; r < n; r++) {",
+      "    sum += a[r];",
+      "    while (l <= r && sum > K) {",
+      "        sum -= a[l];",
+      "        l++;",
+      "    }",
+      "    ans = max(ans, r - l + 1);",
+      "}"
+    ],
+    "description": "Template Two Pointers / Sliding Window untuk subarray dengan constraint."
+  },
+  "Fenwick Tree (Binary Indexed Tree)": {
+    "prefix": "osn-fenwick",
+    "body": [
+      "struct Fenwick {",
+      "    vector<int> bit;",
+      "    int n;",
+      "    Fenwick(int n) : n(n) { bit.assign(n + 1, 0); }",
+      "    void add(int idx, int delta) {",
+      "        for (++idx; idx <= n; idx += idx & -idx) bit[idx] += delta;",
+      "    }",
+      "    int sum(int idx) {",
+      "        int res = 0;",
+      "        for (++idx; idx > 0; idx -= idx & -idx) res += bit[idx];",
+      "        return res;",
+      "    }",
+      "    int rangeSum(int l, int r) { return sum(r) - sum(l - 1); }",
+      "};"
+    ],
+    "description": "Fenwick Tree (BIT) untuk point update dan prefix sum query O(log N)."
+  },
+  "Subset Generation (Bitmask)": {
+    "prefix": "osn-bitmask",
+    "body": [
+      "// Iterasi semua subset dari N elemen (2^N)",
+      "for (int mask = 0; mask < (1 << N); mask++) {",
+      "    for (int i = 0; i < N; i++) {",
+      "        if (mask & (1 << i)) {",
+      "            // elemen ke-i termasuk dalam subset",
+      "        }",
+      "    }",
+      "}",
+      "",
+      "// Iterasi semua submask dari mask tertentu",
+      "for (int sub = mask; sub; sub = (sub - 1) & mask) {",
+      "    // sub adalah submask dari mask",
+      "}"
+    ],
+    "description": "Template iterasi subset dan submask menggunakan bitmask."
+  },
+  "Longest Increasing Subsequence (LIS) O(N log N)": {
+    "prefix": "osn-lis",
+    "body": [
+      "int lis(const vector<int>& a) {",
+      "    vector<int> tail;",
+      "    for (int x : a) {",
+      "        auto it = lower_bound(tail.begin(), tail.end(), x);",
+      "        if (it == tail.end()) tail.push_back(x);",
+      "        else *it = x;",
+      "    }",
+      "    return tail.size();",
+      "}"
+    ],
+    "description": "Longest Increasing Subsequence O(N log N) dengan binary search + greedy."
   }
 }
