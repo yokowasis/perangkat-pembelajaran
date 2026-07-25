@@ -368,5 +368,20 @@
       "}"
     ],
     "description": "Longest Increasing Subsequence O(N log N) dengan binary search + greedy."
+  },
+  "Subsequence Counting (Single Pass Sweep)": {
+    "prefix": "osn-subsequence-count",
+    "body": [
+      "// Menghitung kemunculan subsequence 3-karakter dalam string",
+      "// Contoh: subsequence \"OSN\" dalam string S",
+      "int count1 = 0, count2 = 0, ans = 0;",
+      "for (char c : S) {",
+      "    if (c == 'O') count1++;",
+      "    else if (c == 'S') count2 += count1;",
+      "    else if (c == 'N') ans += count2;",
+      "}",
+      "// ans = banyaknya subsequence \"OSN\""
+    ],
+    "description": "Counting subsequence 3-karakter dalam string O(N) dengan single pass sweep."
   }
 }
