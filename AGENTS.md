@@ -157,7 +157,7 @@ When creating listening exercises in LKPDs, generate natural English speech audi
 ### Generate Audio
 
 ```bash
-uv run --directory listening-generator main.py --input <text-file.txt> --output ../docs/<filename>.mp3
+uv run --directory listening-generator main.py --input <text-file.txt> --output ../docs/<filename>.mp3 --rate "-20%"
 ```
 
 ### Embed in Markdown
