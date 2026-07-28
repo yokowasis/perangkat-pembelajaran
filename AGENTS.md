@@ -150,6 +150,37 @@ When adding new modules, update both:
 - `_sidebar.md` - Add navigation links
 - `README.md` - Update module listings with descriptions
 
+## Audio Embedding in LKPDs
+
+When creating listening exercises in LKPDs, generate natural English speech audio using the TTS tool and embed it in the markdown.
+
+### Generate Audio
+
+```bash
+uv run --directory listening-generator main.py --input <text-file.txt> --output ../docs/<filename>.mp3
+```
+
+### Embed in Markdown
+
+Use the Docsify `:include :type=audio` plugin with a relative path from the LKPD file to the `docs/` directory:
+
+```markdown
+[Label](../../../docs/filename.mp3 ":include :type=audio")
+```
+
+**Path examples:**
+
+- From `english/x/lkpd/lkpd-descriptive-text-x-1.md` → `../../../docs/filename.mp3`
+- From `english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1.md` → `../../../docs/filename.mp3`
+
+### Placement
+
+Place the audio embed right after the Listening section header/instructions and before the first listening activity.
+
+### Listening Script Convention
+
+Create a `.txt` file in `listening-generator/` containing the full narration. Speak each exercise clearly, numbering each item. For fill-in-the-blank exercises, read the completed sentence so students can fill the missing words.
+
 ## Code Style
 
 - **CSS**: Use CSS variables in `:root`, BEM-like naming for components
@@ -340,20 +371,24 @@ Must include detailed grading table with specific criteria:
 When creating any lesson modules or LKPDs, you must integrate the principles of **Kurikulum Berbasis Cinta (KBC)**. KBC emphasizes character building, experiential learning, and socio-emotional development.
 
 ### Panca Cinta (5 Core Love Topics)
+
 Ensure that learning objectives and activities naturally integrate one or more of the following "Panca Cinta":
+
 1. **Cinta Allah dan Rasul-Nya**: e.g., expressing gratitude, admiring creation, embodying prophetic traits (honesty, compassion).
 2. **Cinta Ilmu**: e.g., diligence in learning, critical thinking, maintaining good adab towards teachers and knowledge.
-3. **Cinta Lingkungan**: e.g., keeping environments clean (*thaharah*), saving energy, avoiding destructive behavior (*fasad*).
+3. **Cinta Lingkungan**: e.g., keeping environments clean (_thaharah_), saving energy, avoiding destructive behavior (_fasad_).
 4. **Cinta Diri dan Sesama**: e.g., self-compassion, anti-bullying, tolerance, empathy, teamwork, avoiding bad morals (fitnah, namimah).
 5. **Cinta Tanah Air**: e.g., celebrating diversity, nationalism, unity.
 
 ### Methodological Approach
+
 - Use **Experiential Learning** and **Project-Based Learning** where possible.
 - Design activities that allow students to physically/emotionally experience the topic.
 - Use compassionate language in instructions. Avoid fear-based discipline or purely formalistic approaches.
 - Assessments should value the process and character development, not just cognitive output.
 
 ### Application in Modules
+
 - **Learning Objectives**: Always include at least one objective related to a Panca Cinta value (e.g., "Menunjukkan rasa syukur atas keindahan alam...").
 - **Activities**: Add reflection sessions, collaborative tasks, and empathy-building exercises.
 - **LKPD**: Frame writing/speaking prompts around KBC themes (e.g., describing a place with an emphasis on preserving its beauty - Cinta Lingkungan).
