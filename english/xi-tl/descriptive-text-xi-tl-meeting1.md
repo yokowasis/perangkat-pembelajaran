@@ -26,8 +26,8 @@
     </tr>
     <tr>
       <td></td>
-      <td>Profil Pelajar Pancasila & Nilai KBC (Kurikulum Berbasis Cinta)</td>
-      <td>- <strong>Berakhlak Mulia (Cinta Allah dan Rasul-Nya)</strong>: Menunjukkan rasa syukur atas ciptaan Allah dengan mengagumi keindahan tempat dan keunikan manusia.<br>- <strong>Bernalar Kritis (Cinta Ilmu)</strong>: Menganalisis teks deskripsi secara teliti.<br>- <strong>Peduli Lingkungan (Cinta Lingkungan)</strong>: Menyadari pentingnya menjaga kebersihan dan kelestarian tempat yang dideskripsikan.<br>- <strong>Gotong Royong (Cinta Diri dan Sesama)</strong>: Bekerja sama dalam kelompok dengan sikap empati dan toleransi.</td>
+      <td>Nilai KBC (Kurikulum Berbasis Cinta)</td>
+      <td>- <strong>Cinta Allah dan Rasul-Nya</strong>: Menunjukkan rasa syukur atas ciptaan Allah dengan mengagumi keindahan tempat dan keunikan manusia.<br>- <strong>Cinta Ilmu</strong>: Menganalisis teks deskripsi dengan tekun dan penuh kesadaran.<br>- <strong>Cinta Lingkungan</strong>: Menyadari pentingnya menjaga kebersihan dan kelestarian tempat yang dideskripsikan.<br>- <strong>Cinta Diri dan Sesama</strong>: Bekerja sama dalam kelompok dengan sikap empati dan toleransi.</td>
     </tr>
     <tr>
       <td></td>
@@ -52,7 +52,7 @@
     <tr>
       <td></td>
       <td>Tujuan</td>
-      <td>- Peserta didik mampu mengidentifikasi tujuan komunikasi (social function) dari teks deskripsi terkait orang dan tempat.<br>- Peserta didik mampu mengekspresikan kekaguman dan rasa syukur atas ciptaan Allah (Cinta Lingkungan & Sesama) saat mendeskripsikan objek.</td>
+      <td>- Peserta didik mampu mengidentifikasi tujuan komunikasi (social function) dari teks deskripsi terkait orang dan tempat.<br>- Peserta didik mampu mengekspresikan kekaguman dan rasa syukur atas ciptaan Allah (Cinta Allah dan Rasul-Nya) saat mendeskripsikan objek.</td>
     </tr>
     <tr class="header">
       <td>3</td>
@@ -62,7 +62,7 @@
     <tr>
       <td></td>
       <td>Pemahaman</td>
-      <td>Mendeskripsikan seseorang atau tempat bukan sekadar menyebutkan ciri fisik, melainkan bentuk apresiasi dan kasih sayang kita terhadap keunikan setiap ciptaan (Cinta Diri dan Sesama & Cinta Lingkungan).</td>
+      <td>Mendeskripsikan seseorang atau tempat bukan sekadar menyebutkan ciri fisik, melainkan bentuk apresiasi dan kasih sayang kita terhadap keunikan setiap ciptaan — wujud nyata Cinta Diri dan Sesama serta Cinta Lingkungan.</td>
     </tr>
     <tr class="header">
       <td>4</td>

@@ -26,8 +26,8 @@
     </tr>
     <tr>
       <td></td>
-      <td>Profil Pelajar Pancasila & Nilai KBC (Kurikulum Berbasis Cinta)</td>
-      <td>- <strong>Percaya Diri (Cinta Diri)</strong>: Mampu mempresentasikan hasil karya di depan kelas tanpa merasa rendah diri.<br>- <strong>Menghargai (Cinta Sesama)</strong>: Mendengarkan teman yang sedang presentasi dengan penuh perhatian.<br>- <strong>Cinta Lingkungan & Tanah Air</strong>: Pesan presentasi menggugah kesadaran audiens untuk peduli.</td>
+      <td>Nilai KBC (Kurikulum Berbasis Cinta)</td>
+      <td>- <strong>Cinta Diri dan Sesama</strong>: Mampu mempresentasikan hasil karya di depan kelas dengan percaya diri, serta mendengarkan teman yang sedang presentasi dengan penuh perhatian dan menghargai.<br>- <strong>Cinta Lingkungan dan Cinta Tanah Air</strong>: Pesan presentasi menggugah kesadaran audiens untuk peduli terhadap alam dan kebanggaan nasional.</td>
     </tr>
     <tr>
       <td></td>
@@ -62,7 +62,7 @@
     <tr>
       <td></td>
       <td>Pemahaman</td>
-      <td>Kemampuan berbicara di depan umum (*public speaking*) yang didasari rasa cinta akan memancarkan energi positif dan menginspirasi pendengarnya (Cinta Ilmu & Sesama).</td>
+      <td>Kemampuan berbicara di depan umum (<em>public speaking</em>) yang didasari rasa cinta akan memancarkan energi positif dan menginspirasi pendengarnya — wujud nyata Cinta Ilmu dan Cinta Diri dan Sesama.</td>
     </tr>
     <tr class="header">
       <td>4</td>
@@ -147,7 +147,7 @@
     <tr>
       <td></td>
       <td>Bahan Bacaan</td>
-      <td>-</td>
+      <td>Rubrik Penilaian Produk (teks, struktur, kosakata) dan Rubrik Penilaian Presentasi Lisan (kelancaran, kepercayaan diri, adab).</td>
     </tr>
     <tr>
       <td></td>

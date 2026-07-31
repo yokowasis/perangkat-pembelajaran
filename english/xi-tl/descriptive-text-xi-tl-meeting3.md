@@ -26,8 +26,8 @@
     </tr>
     <tr>
       <td></td>
-      <td>Profil Pelajar Pancasila & Nilai KBC (Kurikulum Berbasis Cinta)</td>
-      <td>- <strong>Kreatif (Cinta Ilmu)</strong>: Menghasilkan gagasan orisinal dalam menyusun teks deskripsi.<br>- <strong>Bergotong Royong (Cinta Diri dan Sesama)</strong>: Saling memberi masukan konstruktif terhadap draf tulisan teman (Peer Review).<br>- <strong>Cinta Lingkungan & Tanah Air</strong>: Memilih objek lokal yang menumbuhkan kebanggaan nasional atau pelestarian alam.</td>
+      <td>Nilai KBC (Kurikulum Berbasis Cinta)</td>
+      <td>- <strong>Cinta Ilmu</strong>: Menghasilkan gagasan orisinal dalam menyusun teks deskripsi dengan penuh kreativitas.<br>- <strong>Cinta Diri dan Sesama</strong>: Saling memberi masukan konstruktif terhadap draf tulisan teman dengan komunikasi welas asih (Peer Review).<br>- <strong>Cinta Lingkungan dan Cinta Tanah Air</strong>: Memilih objek lokal yang menumbuhkan kebanggaan nasional atau kepedulian terhadap pelestarian alam.</td>
     </tr>
     <tr>
       <td></td>
@@ -62,7 +62,7 @@
     <tr>
       <td></td>
       <td>Pemahaman</td>
-      <td>Menulis adalah proses menuangkan cinta dan apresiasi kita ke dalam kata-kata agar orang lain dapat ikut merasakan keindahan dan pentingnya hal tersebut (Cinta Ilmu & Sesama).</td>
+      <td>Menulis adalah proses menuangkan cinta dan apresiasi kita ke dalam kata-kata agar orang lain dapat ikut merasakan keindahan dan pentingnya hal tersebut — wujud nyata Cinta Ilmu dan Cinta Diri dan Sesama.</td>
     </tr>
     <tr class="header">
       <td>4</td>

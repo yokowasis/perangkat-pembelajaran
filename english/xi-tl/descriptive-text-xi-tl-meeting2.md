@@ -26,8 +26,8 @@
     </tr>
     <tr>
       <td></td>
-      <td>Profil Pelajar Pancasila & Nilai KBC (Kurikulum Berbasis Cinta)</td>
-      <td>- <strong>Bernalar Kritis (Cinta Ilmu)</strong>: Membedah struktur teks dan unsur kebahasaan dengan tekun.<br>- <strong>Mandiri (Cinta Diri)</strong>: Percaya diri dalam menemukan informasi rinci dari sebuah teks.<br>- <strong>Berkebinekaan Global (Cinta Tanah Air & Sesama)</strong>: Membaca teks deskripsi tentang tempat bersejarah atau pahlawan, menumbuhkan rasa bangga dan toleransi.</td>
+      <td>Nilai KBC (Kurikulum Berbasis Cinta)</td>
+      <td>- <strong>Cinta Ilmu</strong>: Membedah struktur teks dan unsur kebahasaan dengan tekun dan penuh makna.<br>- <strong>Cinta Diri dan Sesama</strong>: Percaya diri dalam menemukan informasi rinci dari sebuah teks dan bekerja sama dengan penuh empati.<br>- <strong>Cinta Tanah Air</strong>: Membaca teks deskripsi tentang tempat bersejarah atau pahlawan nasional, menumbuhkan rasa bangga dan toleransi.</td>
     </tr>
     <tr>
       <td></td>
@@ -62,7 +62,7 @@
     <tr>
       <td></td>
       <td>Pemahaman</td>
-      <td>Struktur teks yang rapi dan pemilihan kata sifat yang positif adalah wujud dari komunikasi welas asih, memastikan pembaca memahami keistimewaan suatu ciptaan tanpa disalahpahami (Cinta Ilmu & Sesama).</td>
+      <td>Struktur teks yang rapi dan pemilihan kata sifat yang positif adalah wujud dari komunikasi welas asih, memastikan pembaca memahami keistimewaan suatu ciptaan tanpa disalahpahami — wujud nyata Cinta Ilmu dan Cinta Diri dan Sesama.</td>
     </tr>
     <tr class="header">
       <td>4</td>
