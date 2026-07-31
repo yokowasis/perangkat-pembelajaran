@@ -1,6 +1,6 @@
 # Perangkat Pembelajaran - Bahasa Inggris, TIK & OSN Informatika
 
-> Modul Ajar Kurikulum Merdeka untuk Mata Pelajaran Bahasa Inggris, TIK, serta Pembahasan OSN Informatika
+> Modul Ajar Kurikulum Berbasis Cinta (KBC) untuk Mata Pelajaran Bahasa Inggris, TIK, serta Pembahasan OSN Informatika
 
 ## 🌐 Homepage
 
@@ -8,12 +8,12 @@
 
 ## 📖 Tentang Proyek Ini
 
-Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggris dan TIK yang disusun berdasarkan **Kurikulum Merdeka**, serta materi persediaan & analisis soal **Olimpiade Sains Nasional (OSN) Informatika**. Setiap modul dirancang untuk memfasilitasi pembelajaran yang efektif dan sesuai dengan Capaian Pembelajaran (CP) yang telah ditetapkan.
+Repositori ini berisi kumpulan **Modul Ajar** untuk mata pelajaran Bahasa Inggris dan TIK yang disusun berdasarkan **Kurikulum Berbasis Cinta (KBC)** (Keputusan Dirjen Pendidikan Islam No. 6077 Tahun 2025), serta materi persiapan & analisis soal **Olimpiade Sains Nasional (OSN) Informatika**. Setiap modul dirancang untuk memfasilitasi pembelajaran yang efektif dan terintegrasi dengan nilai-nilai Panca Cinta.
 
 ## 🎯 Tujuan
 
 - Menyediakan panduan pembelajaran terstruktur untuk guru Bahasa Inggris dan TIK
-- Memfasilitasi implementasi Kurikulum Merdeka di sekolah
+- Memfasilitasi implementasi Kurikulum Berbasis Cinta (KBC) di madrasah
 - Mengembangkan kompetensi dan karakter siswa melalui pembelajaran bahasa dan teknologi yang diperkaya dengan kegiatan kokurikuler
 - Memberikan variasi metode dan strategi pembelajaran yang inovatif
 
@@ -65,6 +65,32 @@ Setiap modul ajar dalam repositori ini mengikuti format standar yang mencakup:
 - **Focus**: Algoritma Lanjutan, Teori Graf & DSU, Dynamic Programming, Parametric Search, Teori Bilangan, Pembahasan Soal OSN-P 2023–2025
 - **Approach**: Problem-based learning, competitive programming analysis, C++ implementation, fast I/O optimization
 - **Assessment**: Analisis kompleksitas (waktu & memori), penyelesaian kasus uji, pembuktian kebenaran logika
+
+## 💚 Kurikulum Berbasis Cinta (KBC)
+
+Seluruh modul dalam repositori ini mengintegrasikan **Kurikulum Berbasis Cinta (KBC)** sesuai Keputusan Direktur Jenderal Pendidikan Islam Nomor **6077 Tahun 2025** — Kementerian Agama Republik Indonesia.
+
+> KBC adalah kurikulum yang dirancang dengan menitikberatkan pada **pengembangan karakter, pembelajaran berbasis pengalaman, serta perhatian mendalam terhadap aspek sosial dan emosional** dalam pendidikan. Tujuannya melahirkan insan yang humanis, nasionalis, naturalis, toleran, dan selalu mengedepankan cinta sebagai prinsip dasar dalam kehidupan.
+
+### Panca Cinta (5 Topik Utama)
+
+| No | Topik | Inti Materi |
+|----|-------|-------------|
+| 1 | **Cinta Allah dan Rasul-Nya** | Asmaul Husna, ibadah sebagai wujud cinta, Sirah Nabawiyah, meneladani sifat Rasulullah |
+| 2 | **Cinta Ilmu** | Pilar sukses mencari ilmu (niat, tekun, tawakal), literasi, adab kepada guru, inovasi |
+| 3 | **Cinta Lingkungan** | Alam sebagai *tajalli* Allah, menghindari *fasad*, menjaga kebersihan (*thaharah*), hemat energi |
+| 4 | **Cinta Diri dan Sesama** | Akhlak terpuji, *self-compassion*, ukhuwah Islamiyah & insaniyah, anti-bullying, adab kepada sesama |
+| 5 | **Cinta Tanah Air** | Ukhuwah wathaniyah, *Hubbul Wathan minal Iman*, menghormati perbedaan suku, budaya, dan agama |
+
+### Metode Pembelajaran KBC
+
+- **Experiential Learning** (alur ARKA: Aktivitas → Refleksi → Konsep → Aplikasi)
+- **Project-Based Learning** (alur FIDS: Feel → Imagine → Do → Share)
+- **Deep Learning** (alur MJM: Mindful → Meaningful → Joyful)
+- **Compassionate Communication**: koneksi sebelum koreksi, ruang aman (*safe space*)
+- **Evaluasi Berbasis Proses**: menilai perkembangan karakter, bukan hanya hasil akademis
+
+📖 Baca panduan lengkap: [KURIKULUM-CINTA.md](KURIKULUM-CINTA.md)
 
 ## 📋 Modul yang Tersedia
 
