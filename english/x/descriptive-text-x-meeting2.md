@@ -27,12 +27,12 @@
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2024</td>
+        <td>2024 / 2025</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMA</td>
+        <td>Madrasah Aliyah (MA) / SMA</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Descriptive Text</td>
+        <td>Descriptive Text (Focus on Places: Historical Places & National Parks)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (Pertemuan 2)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>2 (Struktur dan Fitur Kebahasaan)</td>
+        <td>2 (Struktur Teks, Fitur Kebahasaan, Taman Nasional/Tempat Bersejarah & Cinta Lingkungan & Cinta Tanah Air)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -72,22 +72,22 @@
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Menganalisis struktur teks deskriptif (identification, description)</li><li>Memahami fitur kebahasaan teks deskriptif</li><li>Menggunakan adjectives dan present tense dalam deskripsi</li></ul></td>
+        <td><ul><li>Membaca dan Memirsa (Reading & Viewing): Menganalisis secara kritis struktur teks (Identification & Description) serta unsur kebahasaan (Simple Present Tense, Noun Phrases, Sensory Adjectives) teks deskriptif tentang tempat bersejarah/taman nasional.</li><li>Menulis dan Mempresentasikan (Writing & Presenting): Mengomunikasikan pemahaman tentang kelestarian alam dan kebanggaan nasional melalui analisis teks deskriptif.</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengidentifikasi struktur teks deskriptif (identification dan description)</li><li>Menganalisis fitur kebahasaan teks deskriptif (adjectives, simple present tense)</li><li>Mengenali penggunaan linking verbs dalam teks deskriptif</li><li>Membedakan general dan specific description dalam teks</li><li>Menggunakan kosakata deskriptif yang tepat untuk mendeskripsikan objek</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menganalisis bagian struktur teks deskriptif (Identification dan Description) pada teks tempat bersejarah dan taman nasional Indonesia dengan tepat.</li><li>Mengidentifikasi fitur kebahasaan utama: Simple Present Tense, kata sifat indrawi (sensory adjectives), dan frasa kata benda (noun phrases).</li><li>Menghubungkan keindahan alam dan cagar budaya sebagai bukti keagungan Allah Swt. (*tajalli*) yang wajib dijaga dari kerusakan (*fasad*) (Cinta Lingkungan).</li><li>Menjelaskan pentingnya menjaga warisan sejarah dan budaya Indonesia sebagai wujud kecintaan kepada tanah air (*Hubbul Wathan minal Iman*) (Cinta Tanah Air).</li><li>Menyusun tabel analisis struktur dan fitur kebahasaan dari teks deskriptif tempat secara kolaboratif.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>How is a descriptive text organized and structured?</li><li>What language features make descriptions clear and vivid?</li><li>How do adjectives help us paint pictures with words?</li><li>Why is the simple present tense important in descriptions?</li><li>How can we make our descriptions more detailed and interesting?</li></ol></td>
+        <td><ol><li>How does the structure of Identification and Description help readers picture a place clearly?</li><li>What specific language features make a description of a national park vivid and inspiring?</li><li>Why is protecting our natural environment from destruction (*fasad*) a form of love for Allah and our homeland?</li><li>How do historical places reflect the rich culture and identity of the Indonesian nation?</li><li>What can young madrasah students do to promote eco-friendly actions in their local tourism sites?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
+        <td>Ruang kelas interaktif dengan tayangan multimedia (video cagar alam/taman nasional), dipasang poster pelestarian lingkungan.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -96,23 +96,33 @@
     </tr>
     <tr>
         <td></td>
+        <td>Profil Pelajar Pancasila & PPRA</td>
+        <td><ol><li>Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia: Menghargai alam ciptaan Allah sebagai amanah yang harus dilestarikan.</li><li>Bernalar Kritis: Menganalisis unsur kebahasaan dan struktur argumentatif dalam deskripsi tempat.</li><li>Kreatif & Gotong Royong: Menyusun peta konsep (mind map) fitur kebahasaan secara berkelompok.</li><li>Qudwah (Keteladanan) & Tawasuth (Moderat): Menjadi teladan dalam budaya bersih dan hemat energi.</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Integrasi KBC (Panca Cinta)</td>
+        <td><ol><li>Cinta Lingkungan (Core Topic): Menanamkan ekoteologi—memandang alam semesta sebagai manifestasi (*tajalli*) keagungan Allah, menjaga *thaharah* (kebersihan), dan melarang perusakan (*fasad* - QS. Ar-Rum: 41).</li><li>Cinta Tanah Air (Core Topic): Menguatkan *Hubbul Wathan minal Iman* melalui kebanggaan terhadap kekayaan alam dan budaya lokal (seperti Taman Nasional Komodo, Gunung Rinjani, dan Desa Tradisional Sambori di Bima).</li><li>Cinta Ilmu: Menganalisis tata bahasa dan struktur teks dengan teliti dan penuh rasa ingin tahu.</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td>Kegiatan kokurikuler untuk memperdalam materi struktur dan fitur kebahasaan:<ol><li>Workshop analisis teks dengan menggunakan artikel dari majalah sekolah berbahasa Inggris</li><li>Membuat mind map adjectives untuk berbagai kategori objek (orang, tempat, benda)</li><li>Kegiatan kunjungan ke museum untuk mengidentifikasi dan mendeskripsikan benda-benda bersejarah</li><li>Proyek membuat poster deskriptif tentang tokoh inspiratif sekolah dengan struktur teks yang lengkap</li></ol></td>
+        <td>Kegiatan kokurikuler terintegrasi KBC:<ol><li>Gerakan "Madrasah Green & Clean": Siswa mendeskripsikan sudut hijau sekolah favorit mereka dalam bahasa Inggris dan menempelkan papan nama tanaman berbahasa Inggris.</li><li>Virtual Tour & Green Review: Menonton dokumentasi video Taman Nasional Indonesia dan menulis ulasan singkat bertema eco-tourism.</li><li>Proyek Wall Magazine (Mading): Membuat brosur deskriptif tempat wisata lokal Bima (misal: Pantai Kolo / Desa Sambori) dengan pesan kampanye pelestarian alam.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
-        <td>Materi Ajar, Alat, dan Bahan</td>
+        <td>Materi Ajar, Alat dan Bahan</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Contoh teks deskriptif tentang orang terkenal (My Favorite Teacher)</li><li>Contoh teks deskriptif tentang tempat (My School Library)</li><li>Worksheet struktur teks deskriptif</li><li>Kamus dwibahasa Indonesia-Inggris</li><li>Video pembelajaran tentang adjectives</li></ol></td>
+        <td><ol><li>Teks Deskriptif 1: "The Majestic Komodo National Park: A Sanctuary of Biodiversity".</li><li>Teks Deskriptif 2: "Sambori Village: A Cultural Heritage in Bima Highlands".</li><li>Lembar Kerja Struktur Teks (Identification vs Description Analysis Sheet).</li><li>Bahan tayang presentasi (PPT) tentang Simple Present Tense, Noun Phrases, dan Sensory Adjectives.</li><li>Kutipan Ayat Al-Qur'an (QS. Ar-Rum: 41 & QS. Al-A'raf: 56) tentang larangan merusak bumi.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Proyektor dan layar</li><li>Laptop/komputer</li><li>Papan tulis dan spidol warna</li><li>Kartu kata sifat (adjective cards)</li><li>Lembar kerja siswa (worksheet)</li></ol></td>
+        <td><ol><li>Proyektor LCD dan laptop.</li><li>Video pendek keindahan flora-fauna Indonesia.</li><li>Spidol warna dan kertas karton manila untuk Jigsaw Analysis.</li><li>Lembar Kerja Peserta Didik (LKPD 1 Part 2).</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +132,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Pembelajaran Tatap Muka</li><li>Model Discovery Learning</li><li>Pendekatan Komunikatif (Communicative Approach)</li><li>Teknik Jigsaw untuk analisis teks</li><li>Pembelajaran Kolaboratif</li></ol></td>
+        <td><ol><li>Pembelajaran Tatap Muka.</li><li>Model Discovery Learning & Jigsaw Group Work.</li><li>Metodologi KBC: Alur FIDS (Feel, Imagine, Do, Share) & ARKA.</li><li>Komunikasi Welas Asih: Diskusi kelompok yang egaliter dan saling menghargai.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -132,22 +142,22 @@
     <tr>
         <td></td>
         <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Guru membuka pembelajaran dengan salam dan doa</li><li>Mengecek kehadiran dan kesiapan siswa</li><li>Review singkat materi pertemuan sebelumnya</li><li>Menyampaikan tujuan pembelajaran hari ini</li><li>Motivasi: Menjelaskan pentingnya memahami struktur teks</li></ol></td>
+        <td><ol><li>Guru membuka kelas dengan salam, doa bersama, dan tadarus singkat QS. Ar-Rum: 41 tentang menjaga alam semesta (Cinta Allah & Cinta Lingkungan).</li><li>Apersepsi: Guru menampilkan dua foto kontras (Taman nasional yang hijau asri vs. kawasan wisata yang penuh sampah plastik).</li><li>Feel (Alur FIDS): Guru bertanya: "Bagaimana perasaan kalian saat melihat alam yang bersih dibanding yang tercemar? Mengapa menjaga bumi adalah bagian dari iman kita?"</li><li>Guru menyampaikan tujuan pembelajaran pertemuan 2 (Analisis Struktur & Fitur Kebahasaan Teks Deskriptif Tempat).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Mengamati: Siswa membaca contoh teks deskriptif "My Favorite Teacher"</li><li>Menanya: Guru memfasilitasi siswa untuk bertanya tentang struktur teks</li><li>Mengumpulkan informasi: Siswa bekerja kelompok menganalisis struktur teks</li><li>Mengasosiasi: Siswa mengidentifikasi identification dan description parts</li><li>Mengkomunikasikan: Setiap kelompok mempresentasikan hasil analisis</li></ol></td>
+        <td><ol><li>Imagine (Alur FIDS) / Mengamati (15 menit): Peserta didik membaca teks deskriptif "The Majestic Komodo National Park". Peserta didik membayangkan keindahan lanskap Indonesia yang harus dijaga dari kerusakan (*fasad*).</li><li>Konsep / Menanya (15 menit): Guru memandu eksplorasi struktur teks: paragraf 1 sebagai Identification (mengenalkan tempat dan lokasi) dan paragraf 2-3 sebagai Description (mendeskripsikan pemandangan, satwa, dan ekosistem). Guru membedah fitur kebahasaan: Simple Present Tense (e.g., *It features rugged hills...*), Noun Phrases (e.g., *pristine white sand beaches*), dan Sensory Words.</li><li>Do (Alur FIDS) / Mengumpulkan Informasi & Mengasosiasi (25 menit): Pembelajaran Jigsaw! Siswa dibagi menjadi kelompok ahli untuk menganalisis teks deskriptif tempat bersejarah "Sambori Traditional Village". Kelompok menganalisis mana Identification, Description, kata sifat indrawi, serta pesan *Cinta Tanah Air* dan *Cinta Lingkungan* dalam teks.</li><li>Share (Alur FIDS) / Mengomunikasikan (15 menit): Perwakilan kelompok mempresentasikan tabel hasil analisis di depan kelas. Kelompok lain memberikan masukan konstruktif dengan bahasa yang santun (Compassionate Communication).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa merefleksikan pemahaman tentang struktur teks deskriptif</li><li>Guru memberikan feedback dan klarifikasi</li><li>Mengidentifikasi kesulitan yang masih dialami siswa</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Peserta didik menuliskan 1 aksi nyata yang akan mereka lakukan minggu ini untuk menjaga lingkungan sekolah (misal: mengurangi sampah plastik / mematikan kran air).</li><li>Guru mengapresiasi pemahaman siswa tentang keterkaitan kebersihan lingkungan dengan kualitas keimanan.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Penutup (10 menit)</td>
-        <td><ol><li>Menyimpulkan materi tentang struktur dan fitur kebahasaan</li><li>Memberikan tugas untuk mencari contoh teks deskriptif</li><li>Preview materi pertemuan berikutnya</li><li>Doa penutup dan salam</li></ol></td>
+        <td>Penutup (5 menit)</td>
+        <td><ol><li>Guru merangkum poin-poin utama struktur teks deskriptif tempat dan fitur kebahasaannya.</li><li>Guru menyampaikan tugas persiapan pertemuan 3 (Menulis Deskripsi Tokoh Teladan Berakhlak Mulia).</li><li>Doa penutup majelis dan salam.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +167,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan mengidentifikasi struktur teks deskriptif</li><li>Pemahaman fitur kebahasaan (adjectives, simple present)</li><li>Keterampilan kerja sama dalam kelompok</li><li>Kemampuan presentasi hasil analisis</li></ol></td>
+        <td><ol><li>Ketepatan menganalisis struktur teks (Identification & Description).</li><li>Penguasaan fitur kebahasaan (Simple Present Tense, Noun Phrases, Sensory Adjectives).</li><li>Refleksi karakter KBC: Kepedulian lingkungan (Cinta Lingkungan) dan kebanggaan nasional (Cinta Tanah Air).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Assessment Formatif: Observasi selama kegiatan kelompok</li><li>Assessment Sumatif: Quiz tentang struktur teks</li><li>Assessment Autentik: Portofolio hasil analisis teks</li></ol></td>
+        <td><ol><li>Assessment Formatif: Lembar kerja analisis Jigsaw teks deskriptif.</li><li>Assessment Autentik: Tabel identifikasi fitur kebahasaan dan refleksi aksi lingkungan.</li><li>Assessment Sikap KBC: Observasi kedisiplinan menjaga kebersihan ruang kelas.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: Tes identifikasi struktur dan fitur kebahasaan</li><li>Keterampilan: Kemampuan menganalisis dan mempresentasikan</li><li>Sikap: Observasi partisipasi dan kerja sama</li></ol></td>
+        <td><ol><li>Pengetahuan: Tes identifikasi paragraf Identification/Description dan analisis Simple Present Tense.</li><li>Keterampilan: Kemampuan membedah Noun Phrases dan sensory words dalam kalimat.</li><li>Sikap: Kepedulian terhadap kelestarian alam dan kebanggaan terhadap warisan budaya Indonesia.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Rubrik penilaian analisis teks terstruktur</li><li>Checklist observasi kegiatan kelompok</li><li>Peer assessment untuk presentasi</li><li>Self assessment pemahaman materi</li></ol></td>
+        <td><ol><li>Koreksi hasil lembar kerja analisis teks kelompok Jigsaw.</li><li>Rubrik penilaian presentasi kelompok (kejelasan, kerapian tabel, kesantunan bertutur).</li><li>Lembar penilai sikap kepedulian lingkungan.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td><ol><li>Sangat Baik (86-100): Mengidentifikasi struktur dan fitur dengan sempurna</li><li>Baik (71-85): Mengidentifikasi sebagian besar struktur dan fitur dengan benar</li><li>Cukup (56-70): Mengidentifikasi struktur dasar dengan bantuan</li><li>Kurang (<55): Belum mampu mengidentifikasi struktur teks</li></ol></td>
+        <td><ol><li>Sangat Baik (86-100): Mengidentifikasi seluruh struktur dan fitur kebahasaan secara tepat, serta menunjukkan refleksi ekoteologi yang mendalam.</li><li>Baik (71-85): Mengidentifikasi mayoritas struktur dan fitur kebahasaan dengan benar, serta memahami nilai ekoteologi.</li><li>Cukup (56-70): Mengidentifikasi struktur dasar dengan bantuan guru, memahami fitur kebahasaan secara parsial.</li><li>Kurang (<55): Kesulitan mengidentifikasi struktur teks dan fitur kebahasaan, memerlukan pembimbingan ulang.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +197,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Apakah siswa sudah memahami struktur teks deskriptif dengan baik?</li><li>Metode discovery learning efektif untuk materi ini?</li><li>Bagaimana respon siswa terhadap kegiatan kelompok?</li><li>Perlukah menyediakan contoh teks yang lebih beragam?</li></ol></td>
+        <td><ol><li>Apakah penggunaan metode FIDS efektif dalam membangun empati siswa terhadap isu lingkungan dan warisan tanah air?</li><li>Seberapa baik siswa mampu membedakan frasa benda (noun phrase) dan kata sifat (adjectives) dalam analisis teks?</li><li>Apakah alokasi waktu untuk kegiatan kelompok Jigsaw sudah optimal?</li><li>Bagaimana memastikan seluruh siswa terlibat aktif tanpa ada yang terdominasi?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Apa yang paling menarik dari mempelajari struktur teks hari ini?</li><li>Bagian mana dari analisis teks yang masih sulit dipahami?</li><li>Bagaimana perasaan setelah bekerja dalam kelompok?</li><li>Skill apa yang ingin dikembangkan di pertemuan berikutnya?</li></ol></td>
+        <td><ol><li>Apa hal baru yang kamu pelajari tentang cara mendeskripsikan keindahan tempat wisata/sejarah di Indonesia?</li><li>Mengapa merusak alam (*fasad*) dilarang keras dalam ajaran agama kita dan bagaimana hubungannya dengan *Cinta Lingkungan*?</li><li>Bagian mana dari struktur teks deskriptif (Identification atau Description) yang menurutmu paling menantang?</li><li>Aksi kecil apa yang bisa kamu lakukan hari ini untuk menunjukkan *Cinta Tanah Air*?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +213,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X</li>
-                <li>Sudarwati, Th. M. (2020). Look Ahead: An English Course for Senior High School</li>
-                <li>Anderson, M. & Anderson, K. (2019). Text Types in English 2</li>
-                <li>Gerot, L. & Wignell, P. (2018). Making Sense of Functional Grammar</li>
-                <li>www.englishfirstid.com - Descriptive Text Examples</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Bahasa Inggris: Work in Progress untuk SMA/SMK/MA Kelas X. Jakarta: Kemendikbudristek.</li>
+                <li>Gerot, L., & Wignell, P. (2018). Making Sense of Functional Grammar. Antipodean Educational Enterprises.</li>
+                <li>UNESCO World Heritage Centre. (2023). Komodo National Park and Conservation Reports.</li>
             </ul>
         </td>
     </tr>
@@ -219,13 +228,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Mencari dan menganalisis teks deskriptif dari sumber online</li><li>Membuat mind map tentang adjectives untuk berbagai topik</li><li>Menonton video descriptive text dan membuat catatan struktur</li><li>Membaca descriptive text dalam buku cerita pendek</li></ol></td>
+        <td><ol><li>Siswa dengan kemampuan tinggi diminta mencari artikel deskriptif berbahasa Inggris tentang situs warisan dunia UNESCO di Indonesia (seperti Borobudur / Raja Ampat) dan menganalisis frasa kata benda (noun phrases) yang digunakan.</li><li>Membuat kutipan inspiratif (eco-quote) berbahasa Inggris tentang pelestarian lingkungan untuk dipublikasikan di media sosial madrasah.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Pembelajaran individual dengan pendampingan intensif</li><li>Latihan tambahan mengidentifikasi identification dan description</li><li>Drill adjectives dengan gambar dan flashcards</li><li>Tutorial peer-to-peer dengan siswa yang sudah paham</li></ol></td>
+        <td><ol><li>Latihan terpandu memisahkan kalimat Identification dan Description menggunakan teks yang lebih pendek dan sederhana.</li><li>Drill tata bahasa Simple Present Tense untuk kata kerja statis (*to be: is/are*, *have/has*, *looks, feels*).</li></ol></td>
     </tr>
 </tbody>
 </table>
-

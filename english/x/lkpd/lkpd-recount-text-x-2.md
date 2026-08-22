@@ -2,276 +2,203 @@
 
 **Nama Sekolah** : MAN 1 Kota Bima  
 **Nama Siswa** :  
-**Kelas** :  
-**Pokok Bahasan** : Recount Text (Advanced Practice)
+**Kelas** : X (Sepuluh)  
+**Pokok Bahasan** : Recount Text (Environmental Projects & Digital Vlogging)  
+**Nilai KBC** : Cinta Lingkungan (*Ekoteologi & Fasad Prevention*), Cinta Ilmu (*Digital Literacy*), Cinta Diri & Sesama (*Compassionate Communication & Digital Ethics*)  
 
 ---
 
-## **A. VOCABULARY**
+## A. VOCABULARY
 
-**Target**: Memorize 20 advanced recount and time expression vocabulary
+**Target**: Hafalkan 15 kosakata recount text bertema proyek lingkungan & media digital beserta 6 frasa refleksi.
 
-### **Advanced Recount Vocabulary**
+### 1. Target Vocabulary List
 
-| English       | Indonesian      | Example                              |
-| ------------- | --------------- | ------------------------------------ |
-| Eventually    | Akhirnya        | Eventually, we reached the summit    |
-| Meanwhile     | Sementara itu   | Meanwhile, my sister was cooking     |
-| Suddenly      | Tiba-tiba       | Suddenly, it started to rain         |
-| Immediately   | Segera          | I immediately called for help        |
-| Unfortunately | Sayangnya       | Unfortunately, we missed the bus     |
-| Fortunately   | Untungnya       | Fortunately, the weather was perfect |
-| Previously    | Sebelumnya      | Previously, I had never been there   |
-| Afterwards    | Setelah itu     | Afterwards, we went home             |
-| Initially     | Pada awalnya    | Initially, I was nervous             |
-| Subsequently  | Selanjutnya     | Subsequently, we visited the museum  |
-| Memorable     | Berkesan        | It was a memorable experience        |
-| Exhausted     | Kelelahan       | We were exhausted after hiking       |
-| Thrilled      | Sangat senang   | I was thrilled to meet her           |
-| Disappointed  | Kecewa          | He was disappointed with the result  |
-| Amazed        | Terkagum        | We were amazed by the view           |
-| Relieved      | Lega            | I felt relieved after the exam       |
-| Embarrassed   | Malu            | She was embarrassed by her mistake   |
-| Overwhelmed   | Kewalahan       | I was overwhelmed by the support     |
-| Fascinated    | Terpesona       | We were fascinated by the story      |
-| Accomplished  | Merasa berhasil | I felt accomplished after finishing  |
+| English Word | Pronunciation | Indonesian Meaning | Example Sentence |
+|---|---|---|---|
+| **Conservation** | /ˌkɒn.səˈveɪ.ʃən/ | Pelestarian alam | Our school mangrove planting project is a great effort for coastal **conservation**. |
+| **Sustainability** | /səˌsteɪ.nəˈbɪl.ə.ti/ | Keberlanjutan | Environmental **sustainability** is our collective responsibility as Muslims. |
+| **Plastic Waste** | /ˈplæs.tɪk weɪst/ | Sampah plastik | We collected fifteen sacks of **plastic waste** during the Lawata Beach cleanup. |
+| **Eco-friendly** | /ˈiː.kəʊˌfrend.li/ | Ramah lingkungan | We used **eco-friendly** bamboo stakes to support the young tree saplings. |
+| **Mangrove** | /ˈmæŋ.ɡrəʊv/ | Pohon bakau | **Mangrove** trees protect the coast of Bima from coastal erosion. |
+| **Prevent** | /prɪˈvent/ | Mencegah | Protecting nature helps **prevent** environmental destruction (*fasad*). |
+| **Digital Diary** | /ˈdɪdʒ.ɪ.təl ˈdaɪ.ə.ri/ | Buku harian digital | I recorded my daily reflections in my English **digital diary**. |
+| **Vlog Script** | /vlɒɡ skrɪpt/ | Naskah video blog | We wrote a structured **vlog script** for our English presentation assignment. |
+| **Etiquette** | /ˈet.ɪ.ket/ | Etika / Adab | We must maintain digital **etiquette** and polite speech when posting videos online. |
+| **Compassionate** | /kəmˈpæʃ.ən.ət/ | Welas asih / Santun | Giving **compassionate** feedback helps our friends learn with confidence. |
+| **Fasad** | /fə-sɑːd/ | Kerusakan lingkungan | Islam strictly forbids causing **fasad** (harm/damage) on earth (QS. Ar-Rum: 41). |
+| **Thaharah** | /θɑː-hɑː-rɑː/ | Kebersihan diri & alam | Keeping our madrasah clean is a vital part of **thaharah** and faith. |
+| **Broadcast** | /ˈbrɔːd.kɑːst/ | Mengembangkan / Menyiarkan | We decided to **broadcast** our eco-campaign video on the school channel. |
+| **Collaborative** | /kəˈlæb.ər.ə.tɪv/ | Kolaboratif / Kerja sama | The beach cleanup was a **collaborative** project between students and teachers. |
+| **Inspiring** | /ɪnˈspaɪə.rɪŋ/ | Menginspirasi | Aisyah's vlog script about anti-bullying was very **inspiring** to our class. |
 
-### **Vocabulary Exercise**
+**Reflective Phrases:**
+- *It taught me that...* (Ini mengajari saya bahwa...)
+- *I realized how important it is to...* (Saya menyadari betapa pentingnya untuk...)
+- *Looking back, I feel proud because...* (Mengingat kembali, saya merasa bangga karena...)
+- *As a student of MAN 1 Kota Bima, I believe...* (Sebagai siswa MAN 1 Kota Bima, saya percaya...)
+- *Caring for nature is an act of worship...* (Merawat alam adalah bentuk ibadah...)
+- *Connection before correction...* (Membangun hubungan sebelum memberikan koreksi...)
 
-Complete the recount with appropriate vocabulary words:
+### 2. Vocabulary Exercise
 
-Last weekend, I had a **\_\_\_** experience climbing Mount Bromo. **\_\_\_**, I was nervous about the challenge, but **\_\_\_** I decided to go anyway. We started early in the morning, and **\_\_\_**, the weather was perfect. **\_\_\_**, we reached the base camp where we rested. The climb was difficult and I felt **\_\_\_** halfway up. **\_\_\_**, we made it to the top and I was **\_\_\_** by the sunrise view. I felt truly **\_\_\_** when we completed the journey.
+Complete the sentences using the words from the vocabulary table:
 
-**Assessment**: Students must memorize and correctly use 16 out of 20 advanced vocabulary words (80% accuracy).
+1. Throwing trash into rivers causes environmental __________ (*fasad*) which threatens marine life.
+2. Students of MAN 1 Kota Bima planted two hundred __________ saplings along Lawata Beach.
+3. Before recording our presentation video, we drafted a complete __________ in our notebooks.
+4. Practicing digital __________ means communicating politely and avoiding hateful comments online.
+5. Keeping our school environment clean is an essential practice of __________ in Islam.
 
----
-
-## **B. LISTENING**
-
-**Target**: Understand detailed recount narratives with multiple events
-
-### **Listening Activity 1: Sequence the Events**
-
-Listen to a recount about a school trip. Number the events in the correct order:
-
-( ) We visited the traditional market
-( ) The bus broke down on the highway  
-( ) We arrived at the cultural center
-( ) Everyone gathered at school at 6 AM
-( ) We watched a traditional dance performance
-( ) We had lunch at a local restaurant
-( ) We returned to school in the evening
-( ) We learned to make batik
-
-### **Listening Activity 2: Listen for Details**
-
-Listen to the recount and answer the questions:
-
-**A Cooking Disaster**
-
-1. What was the speaker trying to cook?
-2. What went wrong first?
-3. How did the speaker feel when the smoke alarm went off?
-4. Who helped the speaker?
-5. What was the final result?
-6. What lesson did the speaker learn?
-
-### **Listening Activity 3: Note-Taking**
-
-Listen to a personal recount and complete the information:
-
-**Topic**: **\*\***\_**\*\***
-
-**When**: **\*\***\_**\*\***  
-**Where**: **\*\***\_**\*\***  
-**Who was involved**: **\*\***\_**\*\***  
-**What happened**:
-
-- First: **\*\***\_**\*\***
-- Then: **\*\***\_**\*\***
-- After that: **\*\***\_**\*\***
-- Finally: **\*\***\_**\*\***
-
-**Speaker's feelings**: **\*\***\_**\*\***
-
-**Assessment**: Students must accurately identify and sequence 6 out of 8 events from complex recount narratives.
+**Assessment Target**: Hafal minimal 12 dari 15 kosakata dan 5 frasa refleksi (80% akurasi).
 
 ---
 
-## **C. SPEAKING**
+## B. LISTENING
 
-**Target**: Tell engaging personal recounts with appropriate expressions and emotions
+Listen to the audio recording carefully and complete the exercises below.
 
-### **Speaking Activity 1: Personal Experience Sharing**
+[Audio](../../../docs/recount-x-2-act1.mp3 ":include :type=audio")
 
-Tell a 3-minute recount about one of these experiences:
+### Listening Task 1: School Eco-Project Recount (Fill in the Blanks)
 
-1. Your most embarrassing moment
-2. A time when you helped someone
-3. Your biggest achievement
-4. A moment when you were really scared
-5. Your funniest family story
+Listen to Part One of the recording and fill in the missing information:
 
-**Include:**
+1. Last month, students of MAN 1 Kota Bima conducted a coastal cleanup and mangrove planting project at __________ Beach.
+2. On Friday afternoon, __________ hundred students and twenty teachers arrived at the beach.
+3. Group One collected plastic bottles and trash, while Group Two planted two hundred young mangrove __________.
+4. After three hours of hard work, they collected over __________ sacks of plastic waste.
+5. The school principal praised their dedication to protecting nature as an act of faith and Cinta __________.
 
-- Clear time sequence
-- Your emotions throughout
-- Interesting details
-- A conclusion about what you learned
+### Listening Task 2: Digital Diary & Vlog Script (True or False)
 
-### **Speaking Activity 2: Chain Story**
+Listen to Part Two and write **True (T)** or **False (F)** for each statement:
 
-Work in groups of 4. Each student continues the recount where the previous student stopped:
+1. ( ) The speaker and Aisyah selected the topic of digital ethics and respectful communication among teenagers.
+2. ( ) They wrote their vlog script on Monday morning during math class.
+3. ( ) They filmed their presentation in the school library using a smartphone and portable microphone.
+4. ( ) They rehearsed three times to ensure clear pronunciation and natural intonation.
+5. ( ) The project was a boring experience that did not improve their English skills.
 
-**Starter**: "Last summer, my family and I decided to go camping..."
+### Listening Task 3: Comprehension Questions
 
-Student 1: Continue for 1 minute
-Student 2: Continue the story for 1 minute  
-Student 3: Continue for 1 minute
-Student 4: Conclude the story
+1. What three groups were formed during the Lawata Beach environmental project, and what were their tasks?
+2. What message did the school principal give at the end of the coastal cleanup project?
+3. How did the student in Part Two prepare and execute their vlog script presentation?
 
-### **Speaking Activity 3: Interview and Retell**
-
-Partner A interviews Partner B about a memorable experience. Then Partner A retells Partner B's story to the class.
-
-**Interview Questions:**
-
-- When did this happen?
-- Where were you?
-- Who was with you?
-- What exactly happened?
-- How did you feel?
-- What was the result?
-- Would you do it again?
-
-**Assessment**: Students must tell coherent recounts using varied time expressions, appropriate emotions, and engaging details with fluent delivery.
+**Assessment Target**: Menjawab minimal 8 dari 10 soal listening dengan benar (isikan kata kunci, T/F, dan pertanyaan pemahaman).
 
 ---
 
-## **D. READING**
+## C. SPEAKING
 
-**Target**: Analyze complex recount texts and understand narrative techniques
+### Vlog Script Oral Presentation & Compassionate Peer Review
 
-### **Reading Text 1**
+Prepare to present your **Digital Diary / Vlog Script Recount** (1.5 – 2 minutes) in front of your group or class.
 
-**My First Day at a New School**
+#### Presentation Script Template
 
-Three years ago, I faced one of the most challenging days of my teenage life. My family had just moved to Jakarta, and I was starting at a completely new school. Initially, I felt overwhelmed by the size of the building and the crowds of unfamiliar faces.
+> *"Hello everyone! Welcome back to my digital diary vlog. Today, I want to share an inspiring recount about our recent school project at MAN 1 Kota Bima..."*  
+> *(Insert Orientation: When, Where, Who)*  
+> *(Insert Events: First, we... Next, we... After that, we...)*  
+> *(Insert Reorientation & KBC Value: Looking back, I realized that protecting our environment / practicing digital kindness is an act of love... Thank you for watching!")*
 
-As I walked through the corridors that first morning, my heart was pounding with anxiety. Unfortunately, I couldn't find my classroom and was already ten minutes late. Eventually, a kind teacher noticed my confusion and guided me to the right place. When I entered the classroom, everyone turned to stare at me, and I felt my face burning with embarrassment.
+#### Compassionate Peer Feedback Guidelines ("Connection before Correction")
 
-However, my teacher, Mrs. Sari, welcomed me warmly and introduced me to the class. Subsequently, she assigned a friendly student named Maya to be my buddy for the first week. Maya immediately made me feel at ease by sharing her lunch with me and explaining the school rules.
+When listening to your classmate's presentation, fill in the **Peer Feedback Card**:
 
-By the end of the day, I had made three new friends and felt much more confident. Looking back now, I realize that this experience taught me that new beginnings, although scary, often lead to wonderful opportunities.
+```
+Presenter's Name : 
+Topic            : 
+[♥ Connection]   : What I really enjoyed about your presentation: ___________
+[★ Growth Tip]   : One friendly suggestion for pronunciation or volume: ____
+[🌱 KBC Value]   : The inspiring message I learned from your recount: ______
+```
 
-**Analysis Questions:**
-
-1. What is the main event this recount focuses on?
-2. Trace the writer's emotional journey throughout the day.
-3. Identify five time connectives used in the text.
-4. How does the writer organize the events (chronological, thematic, etc.)?
-5. What message or lesson does the writer share in the conclusion?
-6. Find examples of how the writer shows emotions rather than just stating them.
-
-### **Reading Text 2**
-
-**The Day Everything Went Wrong**
-
-It was supposed to be the perfect day for our family picnic, but unfortunately, everything that could go wrong did go wrong. We had planned to visit Taman Mini Indonesia Indah early on Saturday morning.
-
-Initially, we woke up to heavy rain, which was completely unexpected since the weather forecast had predicted sunshine. Nevertheless, we decided to wait, hoping it would clear up. Meanwhile, my mother discovered that the sandwiches she had prepared the night before had somehow gone bad in the refrigerator.
-
-Subsequently, when the rain finally stopped around noon, we hurriedly packed new food and headed out. However, our car broke down just as we were leaving our neighborhood. Fortunately, my uncle lived nearby and offered to drive us, but his car could only fit four people, so my grandmother had to stay home.
-
-When we finally arrived at Taman Mini at 3 PM, we found that most of the outdoor attractions were closed due to the earlier rain. Despite all these setbacks, we made the best of the situation by visiting the indoor museums and enjoying some traditional snacks.
-
-Surprisingly, we ended up having a wonderful time together, and this chaotic day became one of our most memorable family stories that we still laugh about today.
-
-**Comprehension Questions:**
-
-1. List all the problems that occurred on this day.
-2. How did the family solve each problem?
-3. What was the unexpected positive outcome?
-4. Find three examples of contrast connectives (but, however, despite, etc.).
-5. Why does the writer call this day "memorable" despite all the problems?
-
-**Assessment**: Students must demonstrate sophisticated comprehension by analyzing narrative structure, identifying language features, and understanding implied meanings.
+**Assessment Target**: Menyampaikan presentasi vlog lisan 1.5–2 menit dengan intonasi alami, pengucapan jelas, gaya santun, serta memberikan umpan balik sejawat yang penuh kesantunan (*compassionate feedback*).
 
 ---
 
-## **E. WRITING**
+## D. READING
 
-**Target**: Write engaging recount texts with advanced narrative techniques
+Read the following authentic text and answer the questions.
 
-### **Writing Activity 1: Detailed Event Recount**
+### Reading Text: Youth Coastal Conservation Campaign at Lawata Beach
 
-Write a detailed recount (120-150 words) about a special celebration or festival you attended. Include:
+Last month, the Grade X Eco-Club of MAN 1 Kota Bima organized a transformative environmental campaign titled "Clean Coast, Green Future" at Lawata Beach, Bima. The initiative aimed to combat marine plastic pollution and restore coastal biodiversity in West Nusa Tenggara.
 
-**Structure:**
+The event commenced at 7:30 AM on a crisp Saturday morning. Over one hundred and fifty students, accompanied by ten English and Science teachers, gathered at the beach entrance. First, the project coordinator delivered an inspiring opening address, reminding everyone that caring for the earth (*Cinta Lingkungan*) is an integral manifestation of Islamic faith and a prohibition against causing destruction (*laa tufsiduu fil ardh*).
 
-- **Orientation**: When, where, who, what occasion
-- **Events**: What happened (in chronological order)
-- **Re-orientation**: Your feelings and reflection
+Subsequently, the volunteers divided into specialized action teams. Team Alpha patrolled a two-kilometer stretch of shoreline, collecting single-use plastic packaging, discarded fishing nets, and styrofoam containers. Meanwhile, Team Beta focused on planting three hundred mangrove seedlings in coastal mudflats with the guidance of local environmental experts. Team Gamma installed wooden awareness signboards painted with bilingual environmental slogans such as *"Save Our Oceans, Save Our Future"* and *"Thaharah Begins Here"*.
 
-**Language Features to Use:**
+By noon, the students had collected more than twenty-five large sacks of non-biodegradable waste, which were handed over to the Kota Bima Municipal Waste Management Agency for recycling. Before heading home, the participants held a reflective closing circle. They shared their feelings of fatigue transformed into profound joy (*joyful learning*) and pride in contributing to environmental preservation.
 
-- Past tense verbs
-- Time connectives (initially, subsequently, meanwhile, eventually)
-- Emotional expressions
-- Descriptive details
+This eco-project was not merely a school activity; it served as a powerful lesson in environmental stewardship (*Ekoteologi*), teamwork (*ta'awun*), and civic responsibility. The students left Lawata Beach with cleaner shores and a renewed commitment to living eco-friendly lives.
 
-### **Writing Activity 2: Problem-Solution Recount**
+### Reading Comprehension Questions
 
-Write about a time when you faced a problem and how you solved it (150-180 words).
+1. What was the title and main objective of the campaign organized by MAN 1 Kota Bima students?
+2. When and where did the environmental event take place?
+3. How many students and teachers participated in the event?
+4. Describe the specific tasks completed by Team Alpha, Team Beta, and Team Gamma!
+5. How much waste was collected by noon, and where was it sent?
+6. Identify the **Orientation**, **Events** (Series of Actions), and **Reorientation** of the text above!
+7. What Islamic environmental principles (*Ekoteologi / Thaharah / Fasad Prohibition*) are highlighted in this recount text?
 
-**Guidelines:**
-
-- Describe the problem clearly
-- Explain the steps you took to solve it
-- Include your emotions throughout the process
-- Reflect on what you learned
-- Use varied sentence structures
-
-**Topics:**
-
-- Getting lost in a new place
-- Dealing with a difficult assignment
-- Resolving a conflict with a friend
-- Overcoming a fear
-- Learning a new skill
-
-### **Writing Activity 3: Creative Recount**
-
-Choose one of these creative prompts and write an engaging recount (180-200 words):
-
-**Prompts:**
-
-1. "The day I met my hero"
-2. "My most unusual birthday"
-3. "When technology failed me"
-4. "A journey that changed me"
-5. "The best advice I ever received"
-
-**Advanced Writing Techniques:**
-
-- Start with an engaging hook
-- Use dialogue to make it more interesting
-- Include sensory details
-- Show emotions through actions and descriptions
-- End with a meaningful reflection
-- Vary your sentence lengths and structures
-
-**Assessment**: Students must write sophisticated recount texts using advanced vocabulary, complex sentence structures, and effective narrative techniques with minimal errors.
+**Assessment Target**: Menjawab minimal 6 dari 7 pertanyaan membaca secara tepat serta mampu menjelaskan implikasi nilai KBC Cinta Lingkungan dari teks.
 
 ---
 
-## **ASSESSMENT RUBRIC**
+## E. WRITING
 
-| Features       | A (90-100)                                                                                                               | B (80-89)                                                                                         | C (70-79)                                                                                  | D (60-69)                                                                             |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| **Vocabulary** | Uses 20/20 advanced words accurately with sophisticated understanding of time expressions and emotions                   | Uses 16-19/20 words accurately with good understanding of sequence and emotion words              | Uses 13-15/20 words accurately with fair understanding of basic recount vocabulary         | Uses 10-12/20 words with basic understanding and some confusion                       |
-| **Listening**  | Demonstrates excellent comprehension of complex recounts, sequences 8/8 events accurately with full understanding        | Demonstrates good comprehension, sequences 6-7/8 events accurately                                | Demonstrates basic comprehension, sequences 5-6/8 events with some accuracy                | Demonstrates limited comprehension, sequences 3-4/8 events with support               |
-| **Speaking**   | Tells engaging, well-structured recounts using sophisticated language, excellent fluency, and compelling delivery        | Tells clear, organized recounts using appropriate language and good fluency                       | Tells understandable recounts using basic language with adequate organization              | Tells simple recounts with limited language but shows clear effort                    |
-| **Reading**    | Demonstrates superior analytical skills, identifies all narrative techniques and understands complex implied meanings    | Demonstrates good analytical skills, identifies most techniques with sound interpretation         | Demonstrates basic analytical skills, identifies some techniques with simple understanding | Demonstrates limited analytical skills, identifies few techniques with support        |
-| **Writing**    | Produces sophisticated recount writing with advanced narrative techniques, varied structures, and excellent organization | Produces good recount writing with clear structure, appropriate techniques, and good organization | Produces acceptable recount writing with basic structure and simple techniques             | Produces simple recount writing with limited techniques but clear chronological order |
+Complete the following progressive writing tasks:
 
+### Task 1: Complete Sentences with Past Action Verbs & Time Connectives
+
+Fill in the blanks using appropriate past tense verbs (*planted, gathered, collected, realized, presented*) and time connectives (*First, Subsequently, Meanwhile, Finally*):
+
+1. __________, over one hundred students __________ at Lawata Beach at 7:30 AM.
+2. Team Alpha __________ plastic waste along the shoreline. __________, Team Beta __________ three hundred mangrove saplings in the mudflats.
+3. After working under the sun for three hours, we __________ that small actions can make a huge impact on nature.
+4. __________, we __________ our eco-project vlog script in front of the class with great enthusiasm.
+
+### Task 2: Outline Your Digital Vlog Script / Eco-Recount
+
+Fill out the **Recount Planning Map** before writing your full text:
+
+- **Topic**: (e.g. *Our Class Trash Separation Project / My Eco-Friendly Habit Vlog / School Gardening Day*)
+- **Orientation**: 
+  - Who: 
+  - When: 
+  - Where: 
+- **Events**:
+  - Event 1 (First): 
+  - Event 2 (Then / Meanwhile): 
+  - Event 3 (After that): 
+- **Reorientation & KBC Reflection**: 
+  - How you felt: 
+  - Value of Cinta Lingkungan / Cinta Diri & Sesama: 
+
+### Task 3: Write a Complete Digital Vlog Script / Eco-Recount Text
+
+Write a complete **Digital Vlog Script Recount** (120–150 words) based on your planning map above. 
+
+**Writing Criteria:**
+1. Clear **Title** and **Generic Structure** (Orientation, Events, Reorientation).
+2. Proper use of **Simple Past Tense** (*collected, cleaned, planted, learned, felt*).
+3. Use of **Time Connectives** (*First, Then, After that, Finally*).
+4. Explicit inclusion of **KBC Value Reflection** (Cinta Lingkungan, Ekoteologi, or Digital Ethics/Compassion).
+
+**Assessment Target**: Menulis naskah vlog recount 120-150 kata yang runtut, komunikatif, bebas kesalahan grammar mayor, serta memuat refleksi KBC yang kuat.
+
+---
+
+## ASSESSMENT RUBRIC (A-B-C-D SCALE)
+
+| Skill Feature | A (90 - 100) | B (80 - 89) | C (70 - 79) | D (60 - 69) |
+|---|---|---|---|---|
+| **Vocabulary** | Memorizes all 15 target words and 6 reflective phrases correctly; applies them with 90-100% accuracy in context. | Memorizes 12-14 target words and 5 reflective phrases; applies them accurately with minor errors. | Memorizes 9-11 target words and 4 reflective phrases; shows basic understanding of environmental/digital terms. | Memorizes fewer than 9 words; struggles to use environmental/digital vocabulary accurately. |
+| **Listening** | Accurately fills in all 5 blanks, correctly identifies all 5 T/F items, and answers comprehension questions with 90-100% accuracy. | Fills in 4/5 blanks, identifies 4/5 T/F items, and answers comprehension questions with 80-89% accuracy. | Fills in 3/5 blanks, identifies 3/5 T/F items, and answers comprehension questions with 70-79% accuracy. | Fills in fewer than 3 blanks and struggles to comprehend listening details without heavy guidance. |
+| **Speaking** | Delivers vlog presentation fluently (1.5-2 mins) with clear pronunciation, engaging intonation, and provides warm, compassionate peer feedback. | Delivers vlog presentation clearly with minor hesitations, good pronunciation, and provides constructive peer feedback. | Delivers vlog presentation with noticeable hesitations and basic pronunciation; provides simple peer feedback. | Delivers vlog presentation haltingly with frequent pronunciation errors; needs teacher assistance to finish. |
+| **Reading** | Answers all 7 comprehension questions correctly, analyzes generic structure perfectly, and explains KBC Ekoteologi values thoroughly. | Answers 5-6 comprehension questions correctly, analyzes generic structure well, and explains KBC values clearly. | Answers 4 comprehension questions correctly and identifies basic generic structure with minor errors. | Answers fewer than 4 questions; struggles to comprehend reading text or identify KBC principles. |
+| **Writing** | Produces an outstanding vlog script recount (120-150 words) with perfect generic structure, accurate past tense, and deep KBC reflection. | Produces a clear vlog script recount (120-150 words) with complete generic structure, good past tense usage, and clear KBC reflection. | Produces a basic vlog script recount with minor past tense or structural errors, but basic reflection is present. | Produces an incomplete script with frequent past tense errors, missing generic structure, or lack of reflection. |

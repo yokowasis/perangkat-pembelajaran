@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>X (Sepuluh)</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Narrative Text (Tingkat Dasar)</td>
+        <td>Narrative Text (Deconstructing Conflict, Moral Values, and Cinta Lingkungan / Avoiding Fasad)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (90 menit)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>2 (Analisis Struktur dan Bahasa)</td>
+        <td>2 (Mendekonstruksi Konflik Cerita, Nilai Moral, dan Cinta Lingkungan / Larangan Fasad)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Keterampilan inferensi tersirat ketika memahami informasi, dalam bahasa Inggris mulai berkembang.</td>
+        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Peserta didik mampu menganalisis secara kritis pesan tersirat dan konflik dalam teks naratif serta menyuarakan kepedulian terhadap isu sosial dan lingkungan hidup.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Menganalisis struktur narrative text secara detail</li><li>Mengenali dan memahami fitur kebahasaan narrative text</li><li>Menggunakan past tense dan sequence words dalam konteks cerita</li></ul></td>
+        <td><ul><li>Membaca dan Memahami isi tersirat dan klimaks konflik narrative text</li><li>Menganalisis fitur kebahasaan sebab-akibat (*cause-effect conjunctions*) dan *past tense*</li><li>Mengaitkan narasi cerita dengan prinsip pelestarian alam (*eco-theology*)</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menganalisis struktur narrative text (orientation, complication, resolution) secara detail</li><li>Mengidentifikasi dan memahami penggunaan past tense dalam narrative text</li><li>Mengenali sequence words dan time expressions dalam cerita</li><li>Memahami karakterisasi dan setting description dalam narrative</li><li>Menggunakan fitur kebahasaan narrative dalam kalimat sederhana</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mendekonstruksi puncak konflik (*complication*) dan akar masalah dalam teks naratif bertema alam dan fabel.</li><li>Menganalisis dampak perilaku merusak (*fasad*) terhadap keseimbangan lingkungan dan kehidupan tokoh cerita.</li><li>Menghubungkan pesan moral cerita dengan nilai Panca Cinta: **Cinta Lingkungan** (menjaga kelestarian alam sebagai *tajalli* Allah dan menghindari *fasad* - QS. Al-A'raf: 56).</li><li>Mengidentifikasi fitur kebahasaan naratif: *action verbs, past continuous/simple past, causal connectives (because, as a result, consequently)*.</li><li>Merumuskan usulan solusi berwawasan lingkungan untuk menyelesaikan konflik cerita secara harmonis.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>How are stories organized from beginning to end?</li><li>What language features make stories flow naturally?</li><li>How do we describe characters and settings effectively?</li><li>Why do we use past tense when telling stories?</li><li>How do time expressions help readers follow the story?</li></ol></td>
+        <td><ol><li>What causes the central conflict in stories involving human beings and nature?</li><li>How does greed or environmental destruction (*fasad*) harm both nature and human communities?</li><li>How can we analyze cause-and-effect relationships in narrative complications?</li><li>What lessons can we learn from fairytales about living in harmony with God's creation?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), dengan arrangement untuk text analysis activities</td>
+        <td>Indoor (kelas) & Outdoor lingkungan madrasah yang asri, mendorong apresiasi terhadap kebersihan dan keindahan alam.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -97,7 +97,7 @@
     <tr>
         <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>English literature circle dimana siswa membaca dan mendiskusikan short stories atau novel chapters berbahasa Inggris secara mendalam, menganalisis language features seperti descriptive language, dialogue, dan action verbs dalam konteks nyata</li><li>Proyek comparative analysis: Membandingkan versi berbeda dari cerita yang sama (misalnya Cinderella dari berbagai budaya) untuk menganalisis bagaimana language features digunakan untuk efek yang berbeda, memperdalam text analysis skills</li><li>Creative writing workshop dengan fokus pada language features dimana siswa bereksperimen dengan descriptive language, past tense variations, dan dialogue writing untuk menciptakan efek tertentu dalam cerita</li><li>Participatory storytelling session dimana siswa menganalisis storytelling performance (podcast, audiobook, drama) untuk memahami bagaimana language features berkontribusi pada atmosphere dan emotional impact cerita</li></ol></td>
+        <td>Integrasi P5-PPRA dan Kurikulum Berbasis Cinta (Panca Cinta: Cinta Lingkungan):<ol><li>**Green Story Analysis Project**: Kelompok siswa menganalisis cerita rakyat/fabel lingkungan Nusantara (misalnya cerita asal-usul danau/hutan) dan mengidentifikasi larangan perusakan alam.</li><li>**Eco-Slogan Campaign "Save Our Earth, Avoid Fasad"**: Membuat poster slogan berbahasa Inggris tentang larangan buang sampah sembarangan dan pentingnya mendaulat kebersihan madrasah sebagai bentuk ibadah.</li><li>**Outdoor Reading & Nature Reflection**: Membaca teks naratif di bawah pepohonan halaman madrasah untuk merasakan keindahan ciptaan Allah secara langsung.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +107,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Narrative text examples dengan struktur yang jelas (Goldilocks and the Three Bears, Little Red Riding Hood)</li><li>Text analysis worksheets dengan story structure charts</li><li>Past tense verb lists dan irregular verb forms</li><li>Sequence words dan time expressions handout</li><li>Character dan setting description examples</li></ol></td>
+        <td><ol><li>Teks Naratif Lingkungan: "The Guardian Tree and the Greed of Prince Maliko".</li><li>Grafik Organiser *Conflict Deconstruction Matrix* (Root Cause, Complication Peak, Environmental Impact, Resolution).</li><li>Daftar Kosakata *Eco-Language*: *deforestation, pollution, fasad, harmony, preserve, sacred tree, consequences*.</li><li>Worksheet LKPD 1 Reading & Writing Section.</li><li>Al-Qur'an terjemahan (QS. Al-A'raf: 56 tentang larangan membuat kerusakan di bumi).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Highlighters berbeda warna untuk text analysis</li><li>Story structure templates dan graphic organizers</li><li>Past tense verb cards untuk games</li><li>Flipchart paper untuk group analysis presentations</li><li>Timer untuk time-controlled activities</li></ol></td>
+        <td><ol><li>LCD Proyektor untuk menampilkan diagram peta konflik cerita.</li><li>Papan tulis, spidol warna-warni, dan *sticky notes* untuk analisis kelompok.</li><li>Kamus Bahasa Inggris - Indonesia.</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +122,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Text analysis approach dengan guided discovery learning</li><li>Collaborative learning dalam group text analysis</li><li>Grammar discovery learning untuk past tense identification</li><li>Visual learning dengan color-coding dan graphic organizers</li><li>Interactive games untuk practicing language features</li></ol></td>
+        <td><ol><li>Tatap Muka (In-Person Learning).</li><li>Alur **FIDS** (*Feel → Imagine → Do → Share*) & **ARKA** (*Aktivitas → Refleksi → Konsep → Aplikasi*).</li><li>Problem-Based Learning dengan pendekatan *Ecotheology & Compassionate Analysis*.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -131,23 +131,23 @@
     </tr>
     <tr>
         <td></td>
-        <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Review pertemuan sebelumnya tentang story elements dan basic narrative structure</li><li>Warm-up: "Past Tense Chain" - siswa menyebutkan verb dalam past tense secara bergiliran</li><li>Penjelasan tujuan pembelajaran dan manfaat memahami text structure dan language features</li><li>Preview aktivitas text analysis yang akan dilakukan</li><li>Motivasi: explaining how understanding structure helps us become better readers and storytellers</li></ol></td>
+        <td>Pendahuluan (15 menit)</td>
+        <td><ol><li>Guru membuka kelas dengan salam, memeriksa kebersihan kelas, dan memimpin doa penuh kekhusyukan.</li><li>**Warm-up & Eco-Check (Feel - FIDS Step 1)**: Guru mengawali dengan bertanya: *"Look outside the window. What happens when humans cut down trees recklessly or pollute streams?"*. Siswa membagikan perasaan empati terhadap alam.</li><li>Guru menyampaikan topik Pertemuan 2: Mendekonstruksi konflik cerita dan pentingnya Cinta Lingkungan (menjauhi *fasad*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Guided Text Analysis (20 menit): Menganalisis "Goldilocks and the Three Bears" dengan teacher modeling, identifying orientation, complication, resolution</li><li>Language Features Discovery (15 menit): Siswa mencari dan menandai past tense verbs, time expressions, dan sequence words dalam teks</li><li>Structure Mapping Activity (15 menit): Kelompok membuat story structure map dengan details untuk setiap bagian</li><li>Grammar Practice (10 menit): Interactive games dengan past tense verbs dan time expressions</li><li>Independent Analysis (10 menit): Siswa menganalisis narrative text pendek secara individu menggunakan checklist</li></ol></td>
+        <td>Kegiatan Inti (60 menit)</td>
+        <td><ol><li>**FIDS Step 1 (Feel - Reading the Story)**: Siswa membaca teks naratif "The Guardian Tree and the Greed of Prince Maliko". Siswa meresapi penderitaan warga desa ketika hutan dirusak demi keserakahan istana.</li><li>**FIDS Step 2 (Imagine - Envisioning Solutions)**: Guru mengajak siswa membayangkan: *"What if Prince Maliko respected the ancient trees as Allah's creation? How would the kingdom thrive in peace?"*. Siswa membayangkan resolusi hijau.</li><li>**FIDS Step 3 (Do - Deconstructing Conflict Matrix)**: Dalam kelompok, siswa mengisi *Conflict Deconstruction Matrix* pada LKPD 1 (Reading Section). Mengidentifikasi: (a) Akar keserakahan, (b) Bentuk kerusakan (*fasad*), (c) Konsekuensi alam, dan (d) Nilai Cinta Lingkungan.</li><li>**FIDS Step 4 (Share - Group Presentation)**: Setiap kelompok mempresentasikan diagram konflik mereka di depan kelas, menekankan pentingnya menjaga *thaharah* dan ekosistem bumi.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa sharing discoveries tentang story structure dan language patterns</li><li>Diskusi tentang bagian cerita mana yang paling menarik dan mengapa</li><li>Reflection tentang perbedaan antara present dan past tense dalam storytelling</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Guru mengajak siswa mengaitkan isi cerita dengan QS. Al-A'raf: 56 (Janganlah kamu membuat kerusakan di bumi setelah ditata dengan baik).</li><li>Siswa menuliskan 1 komitmen hijau pribadi (misal: *"I will save water and not litter"*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (10 menit)</td>
-        <td><ol><li>Review key findings tentang narrative structure dan language features</li><li>Quick quiz: identifying story parts dalam excerpt baru</li><li>Preview untuk pertemuan berikutnya tentang creative writing</li><li>Assignment: analyzing satu narrative text at home using structure chart</li></ol></td>
+        <td><ol><li>Guru menyimpulkan analisis konflik naratif dan hubungan sebab-akibat.</li><li>Instruksi persiapan untuk Pertemuan 3 (Menulis Alternative Ending dengan Sudut Pandang Kasih Sayang).</li><li>Doa penutup dan salam perpisahan yang ramah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +157,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan menganalisis struktur narrative text dengan akurat</li><li>Penguasaan past tense dan sequence words dalam konteks</li><li>Keterampilan mengidentifikasi language features dalam teks</li><li>Kemampuan bekerja sama dalam group analysis activities</li></ol></td>
+        <td><ol><li>Kemampuan menganalisis alur dan dekonstruksi konflik dalam narrative text.</li><li>Pemahaman makna kata dan kalimat sebab-akibat (*cause-effect*).</li><li>Penalaran kritis dan pemaknaan nilai Cinta Lingkungan (Avoiding Fasad).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Performance-based assessment: text analysis activity dengan rubric</li><li>Formative assessment: observation selama group work</li><li>Quick diagnostic quiz tentang language features identification</li></ol></td>
+        <td><ol><li>Assessment Formatif: Hasil pengisian *Conflict Deconstruction Matrix* pada LKPD 1.</li><li>Assessment Performa: Presentasi kelompok analisis konflik naratif.</li><li>Assessment Sikap KBC: Rubrik Kesadaran Lingkungan (*Eco-stewardship rubric*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: pemahaman structure dan language features narrative text</li><li>Keterampilan: kemampuan menganalisis teks dan mengidentifikasi grammar patterns</li><li>Sikap: ketelitian dalam analysis dan collaboration dalam group work</li></ol></td>
+        <td><ol><li>Pengetahuan: Analisis struktur *complication* dan kata sambung *cause-effect*.</li><li>Keterampilan: Keterampilan membaca kritis (*critical reading*) dan menyajikan argumen lisan.</li><li>Sikap: Kepedulian terhadap kelestarian lingkungan dan kerja sama tim.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Text analysis rubric dengan criteria untuk accuracy dan completeness</li><li>Checklist untuk language features identification</li><li>Peer evaluation dalam group analysis presentations</li><li>Individual worksheet completion untuk independent practice</li></ol></td>
+        <td><ol><li>Penilaian matriks analisis cerita dengan rubrik terstandar.</li><li>Lembar observasi presentasi dan diskusi interaktif.</li><li>Umpan balik konstruktif (*compassionate feedback*) dari guru dan teman sebaya.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td><ol><li>Excellent (A): Mengidentifikasi semua struktur dengan tepat, menguasai language features, analisis detail dan akurat</li><li>Good (B): Mengidentifikasi sebagian besar struktur dengan benar, memahami language features dengan baik</li><li>Satisfactory (C): Mengidentifikasi struktur dasar dengan benar, pemahaman language features cukup</li><li>Needs Improvement (D): Kesulitan mengidentifikasi struktur, pemahaman language features masih kurang</li></ol></td>
+        <td><ol><li>Sangat Baik (A: 90-100): Dekonstruksi konflik sangat mendalam, analisis *cause-effect* akurat, dan integrasi nilai Cinta Lingkungan sangat jelas.</li><li>Baik (B: 80-89): Dekonstruksi konflik tepat, pemahaman *cause-effect* baik, dan mengidentifikasi nilai moral lingkungan.</li><li>Cukup (C: 70-79): Mampu menemukan konflik utama dengan bimbingan serta memahami pesan moral dasar.</li><li>Perlu Bimbingan (D: 60-69): Masih kesulitan membedakan sebab dan akibat konflik cerita.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +187,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Apakah siswa dapat menganalisis struktur narrative text dengan baik?</li><li>Metode mana yang paling efektif untuk mengajarkan language features?</li><li>Bagaimana level keterlibatan siswa dalam text analysis activities?</li><li>Apakah perlu additional support untuk past tense understanding?</li></ol></td>
+        <td><ol><li>Apakah alur FIDS berhasil membawa siswa merasakan pentingnya menjaga alam dari kerusakan (*fasad*)?</li><li>Bagaimana penguasaan siswa terhadap kalimat sebab-akibat (*cause-effect*) dalam bahasa Inggris?</li><li>Apakah siswa aktif berpartisipasi dalam diskusi kelompok?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Bagaimana perasaan kalian setelah menganalisis struktur cerita secara detail?</li><li>Apa yang paling menarik dari language features yang kalian temukan?</li><li>Bagian mana dari text analysis yang masih challenging?</li><li>Bagaimana pemahaman kalian tentang past tense dalam storytelling sekarang?</li></ol></td>
+        <td><ol><li>Apa dampak perbuatan buruk tokoh Prince Maliko terhadap lingkungan dalam cerita tadi?</li><li>Bagaimana cerita tersebut mengubah cara pandangmu terhadap sampah dan pepohonan di sekitar madrasah?</li><li>Akankah kamu berusaha menjaga alam sebagai bentuk cinta kepada Allah?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +203,9 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X Kurikulum Merdeka</li>
-                <li>Anderson, M. & Anderson, K. (2020). Text Types in English 2: Narrative</li>
-                <li>Derewianka, B. (2021). Exploring How Texts Work</li>
-                <li>Thornbury, S. (2019). How to Teach Grammar Effectively</li>
-                <li>Hughes, A. (2020). Reading and Analyzing Narrative Texts</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kemendikbudristek. (2022). Bahasa Inggris Work in Progress Kelas X. Jakarta: Pusat Kurikulum dan Perbukuan.</li>
+                <li>Anderson, M. & Anderson, K. (2020). Text Types in English 2. South Yarra: Macmillan.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +217,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Analyzing more complex narrative texts dengan multiple plot lines</li><li>Comparing narrative structures dari different genres (fairy tales, legends, modern stories)</li><li>Creating detailed character profiles dan setting descriptions</li><li>Research project tentang narrative traditions dari different cultures</li></ol></td>
+        <td><ol><li>Mencari berita/cerita fiksi bertema krisis lingkungan hidup dan menyusun *cause-effect poster* berbahasa Inggris.</li><li>Menuliskan artikel opini singkat tentang pentingnya *thaharah* dan *eco-friendly habits* di madrasah.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Additional practice dengan shorter, simpler narrative texts</li><li>Visual aids dan graphic organizers untuk structure identification</li><li>Past tense drilling dengan games dan interactive activities</li><li>Peer tutoring untuk reinforcement of key concepts</li></ol></td>
+        <td><ol><li>Latihan terpandu mengisi bagan sebab-akibat sederhana dengan teks naratif yang lebih pendek.</li><li>Pendampingan kosakata *cause-effect* (because, so, therefore) dengan contoh kalimat sederhana.</li></ol></td>
     </tr>
 </tbody>
 </table>

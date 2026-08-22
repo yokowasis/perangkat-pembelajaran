@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>X (Sepuluh)</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Narrative Text (Tingkat Dasar)</td>
+        <td>Narrative Text (Fables & Fairytales: Introduction to Storytelling, Kindness, and Empathy)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (90 menit)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>1 (Pengenalan Dasar dan Konsep)</td>
+        <td>1 (Pengenalan Konsep Storytelling, Fabel/Dongeng, Kindness & Cinta Diri dan Sesama)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Berbagai jenis teks seperti narasi, deskripsi, prosedur, eksposisi, recount, report, dan teks otentik menjadi rujukan utama dalam mempelajari bahasa Inggris di fase ini.</td>
+        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Berbagai jenis teks seperti narasi, deskripsi, prosedur, eksposisi, recount, report, dan teks otentik menjadi rujukan utama dalam mempelajari bahasa Inggris di fase ini. Peserta didik memproduksi teks lisan dan tulisan yang mengekspresikan gagasan, empati, serta pemahaman budaya dan nilai moral.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Memahami fungsi sosial dan struktur dasar narrative text</li><li>Mengenali unsur-unsur cerita sederhana</li><li>Mengidentifikasi perbedaan narrative dengan teks lainnya</li></ul></td>
+        <td><ul><li>Menyimak dan Merespon teks naratif fabel/dongeng lisan</li><li>Membaca dan Memahami fungsi sosial serta struktur umum narrative text</li><li>Mengidentifikasi nilai moral dan karakter universal dalam cerita</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Memahami pengertian dan fungsi sosial narrative text dalam konteks storytelling</li><li>Mengidentifikasi unsur-unsur dasar cerita (characters, setting, plot) dalam teks sederhana</li><li>Mengenali struktur dasar narrative text (orientation, complication, resolution)</li><li>Membedakan narrative text dengan jenis teks lainnya yang sudah dipelajari</li><li>Menunjukkan apresiasi terhadap nilai moral dalam cerita sederhana</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Memahami fungsi sosial, tujuan komunikatif, dan jenis narrative text (fables & fairytales) dengan tepat.</li><li>Mengidentifikasi tiga struktur dasar narrative text (Orientation, Complication, Resolution) dari teks fabel sederhana.</li><li>Mengidentifikasi kosakata kunci terkait kebaikan, empati, dan karakter positif (*kindness, empathy, compassion, share, help*).</li><li>Menganalisis pesan moral cerita dan menghubungkannya dengan nilai Panca Cinta: **Cinta Diri dan Sesama** (*self-compassion*, ta'awun/tolong-menolong, anti-bullying).</li><li>Menunjukkan kesadaran emosional dan apresiasi terhadap sikap saling mengasihi antar sesama makhluk.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>What is narrative text and why do people love stories?</li><li>What elements make a good story interesting and engaging?</li><li>How are stories structured from beginning to end?</li><li>What can we learn from stories and folktales?</li><li>How do stories help us understand different cultures and values?</li></ol></td>
+        <td><ol><li>Why do human beings from all cultures love listening to and sharing stories?</li><li>How do fables and fairytales teach us about kindness, empathy, and love for others?</li><li>What are the key building blocks (orientation, complication, resolution) of a narrative text?</li><li>How can understanding a character's feelings help us build self-compassion and empathy in real life?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), dengan suasana storytelling yang menyenangkan</td>
+        <td>Indoor (ruang kelas), ditata hangat dan inklusif sebagai *safe space* (ruang aman) untuk berbagi pandangan emosional dan empati.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -97,7 +97,7 @@
     <tr>
         <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>Kunjungan ke perpustakaan daerah atau toko buku untuk mengeksplorasi koleksi short stories dan folktales dari berbagai budaya, membaca dan mendiskusikan pesan moral dalam cerita untuk memperkaya literary appreciation</li><li>English storytelling club dimana siswa berbagi cerita rakyat dari daerah masing-masing yang diterjemahkan ke bahasa Inggris, mempraktikkan oral storytelling skills dan melestarikan budaya lokal</li><li>Film viewing dan analysis session untuk menganalisis struktur narrative dalam film pendek berbahasa Inggris, mengidentifikasi plot elements (orientation, complication, resolution) dan character development</li><li>Workshop dengan storyteller atau penulis lokal yang berbagi pengalaman tentang craft of storytelling dan teknik mengembangkan plot yang menarik, memberikan insight dari praktisi tentang creative writing</li></ol></td>
+        <td>Integrasi P5-PPRA dan Kurikulum Berbasis Cinta (Panca Cinta: Cinta Diri & Sesama):<ol><li>**English Storytelling Circle & Compassionate Discussion**: Diskusi kelompok membaca fabel klasik dunia dan fabel lokal Nusantara, mendiskusikan pentingnya *ta'awun* (tolong-menolong) dan menghentikan *bullying* (perundungan).</li><li>**Journal Reflection "Love in Action"**: Siswa menuliskan refleksi pribadi singkat dalam bahasa Inggris tentang tindakan kebaikan sederhana yang terinspirasi dari tokoh cerita fabel.</li><li>**Wall of Kindness Poster**: Membuat mading mini berbahasa Inggris yang berisi pesan moral dan kutipan inspiratif tentang kepedulian terhadap sesama teman di madrasah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +107,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Cerita rakyat sederhana dalam bahasa Inggris (Cinderella, The Tortoise and The Hare)</li><li>Video storytelling animasi pendek</li><li>Kosakata dasar untuk storytelling (once upon a time, characters, setting)</li><li>Diagram visual untuk story elements</li><li>Contoh narrative text dengan struktur yang jelas</li></ol></td>
+        <td><ol><li>Teks Fabel: "The Wise Deer and the Forest Stream" dan "The Lion and the Mouse".</li><li>Panduan Struktur Teks Naratif: Orientation, Complication, Resolution.</li><li>Audio Listening Script (`narrative-x-1-act1.mp3`): Cerita mendengarkan "The Wise Deer".</li><li>Vocabulary List & Flashcards: Kindness, empathy, compassion, greed, resolution, shelter.</li><li>Buku Siswa Bahasa Inggris Kelas X Kurikulum Merdeka & Panduan KBC (Kepdirjen Pendis 6077/2025).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Proyektor untuk menampilkan video dan teks</li><li>Speaker untuk audio storytelling</li><li>Papan tulis untuk story mapping</li><li>Gambar-gambar ilustrasi cerita</li><li>Kartu kata untuk vocabulary games</li></ol></td>
+        <td><ol><li>Proyektor dan layar LCD untuk menampilkan teks dan visual animasi cerita.</li><li>Speaker aktif untuk memutar audio listening exercise.</li><li>Papan tulis dan spidol warna untuk *story mapping*.</li><li>Worksheet LKPD 1 (English Grade X Unit 3).</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +122,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Storytelling approach dengan multimedia presentation</li><li>Interactive learning melalui story games dan activities</li><li>Visual learning dengan story mapping dan illustrations</li><li>Collaborative learning dalam group story analysis</li><li>Total Physical Response (TPR) untuk vocabulary introduction</li></ol></td>
+        <td><ol><li>Tatap Muka (In-Person Learning).</li><li>**Experiential Learning** dengan Alur **ARKA** (*Aktivitas → Refleksi → Konsep → Aplikasi*).</li><li>**Compassionate Communication**: Koneksi sebelum koreksi, menciptakan ruang aman bagi emosi siswa.</li><li>Collaborative Group Discovery & Interactive Story Mapping.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -131,23 +131,23 @@
     </tr>
     <tr>
         <td></td>
-        <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Warming up: bertanya tentang cerita favorit siswa (dalam bahasa Indonesia)</li><li>Ice breaking: "Story Chain" - siswa melanjutkan cerita secara bergiliran</li><li>Menjelaskan tujuan pembelajaran dan manfaat mempelajari narrative text</li><li>Motivasi: menjelaskan bahwa cerita adalah cara universal untuk berbagi pengalaman</li><li>Preview: mengenalkan kegiatan storytelling yang menyenangkan</li></ol></td>
+        <td>Pendahuluan (15 menit)</td>
+        <td><ol><li>Guru membuka kelas dengan salam ramah, memeriksa kebersihan kelas (*thaharah*), dan memimpin doa secara khusyuk (*mindful start*).</li><li>**Aktivitas ARKA - Step 1 (Warming Up & Emotion Check)**: Guru mengajak siswa melakukan hening sejenak 1 menit, lalu menanyakan: *"When was the last time someone showed kindness to you, or you helped a friend in need?"*.</li><li>Guru menyampaikan tujuan pembelajaran hari ini dan mengaitkannya dengan nilai Panca Cinta (Cinta Diri dan Sesama).</li><li>Guru memberikan motivasi bahwa setiap cerita membawa benih kasih sayang yang dapat mengubah sikap hidup kita.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Story Presentation (15 menit): Guru bercerita "The Tortoise and The Hare" dengan visual aids</li><li>Story Elements Discovery (20 menit): Siswa mengidentifikasi characters, setting, dan plot dalam cerita</li><li>Structure Introduction (15 menit): Penjelasan struktur narrative (orientation, complication, resolution) menggunakan story map</li><li>Vocabulary Building (10 menit): Belajar kata-kata storytelling: once upon a time, lived, suddenly, finally, happily ever after</li><li>Story Analysis Activity (10 menit): Kelompok kecil menganalisis cerita pendek lain menggunakan story elements chart</li></ol></td>
+        <td>Kegiatan Inti (60 menit)</td>
+        <td><ol><li>**Aktivitas ARKA - Step 1 (Experiential Story Listening)**: Guru memperdengarkan audio story "The Wise Deer and the Forest Stream" (`narrative-x-1-act1.mp3`). Siswa menyimak dengan tenang dan mencatat tokoh serta suasana cerita.</li><li>**Aktivitas ARKA - Step 2 (Mindful Reflection & Emotional Connection)**: Guru memfasilitasi refleksi: *"Why did Pip the Deer choose to share the water instead of fighting the wolf? What made the wolf change his behavior?"*. Siswa berdiskusi tentang kekuatan empati dan kebaikan.</li><li>**Aktivitas ARKA - Step 3 (Concept Discovery & Structure Mapping)**: Guru membimbing siswa menemukan 3 bagian utama cerita (Orientation, Complication, Resolution) serta mendiskusikan *kindness vocabulary* (empathy, compassion, ta'awun).</li><li>**Aktivitas ARKA - Step 4 (Practical Application in Groups)**: Siswa bekerja dalam kelompok heterogen mengerjakan LKPD 1 Section A (Vocabulary) dan Section B (Listening Comprehension), menganalisis bagaimana tindakan kebaikan menyelesaikan konflik.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa sharing cerita mana yang paling mereka sukai dan mengapa</li><li>Diskusi tentang pelajaran moral yang bisa diambil dari cerita</li><li>Identifikasi bagian cerita yang paling menarik</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Setiap perwakilan kelompok menyampaikan 1 kata kunci pesan moral dari cerita (misalnya: *"Kindness softens hard hearts"*).</li><li>Guru memberikan koreksi positif penuh kehangatan (*compassionate feedback*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (10 menit)</td>
-        <td><ol><li>Review unsur-unsur cerita yang telah dipelajari</li><li>Preview: menceritakan rencana untuk pertemuan berikutnya tentang story structure</li><li>Assignment: siswa mencari satu cerita pendek dari internet atau buku untuk dianalisis</li><li>Closing dengan motivasi: "Everyone has a story to tell!"</li></ol></td>
+        <td><ol><li>Guru dan siswa merangkum pembelajaran tentang struktur narrative text dan pentingnya empati.</li><li>Penjelasan singkat tugas mandiri di LKPD 1.</li><li>Guru menyampaikan pengantar singkat untuk Pertemuan 2 tentang dekonstruksi konflik cerita dan Cinta Lingkungan.</li><li>Doa penutup dan salam perpisahan yang hangat.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +157,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Pemahaman konsep dasar narrative text dan story elements</li><li>Kemampuan mengidentifikasi characters, setting, dan plot</li><li>Pengenalan struktur narrative text sederhana</li><li>Partisipasi aktif dalam storytelling activities</li></ol></td>
+        <td><ol><li>Pemahaman konsep narrative text dan struktur utamanya (Orientation, Complication, Resolution).</li><li>Kemampuan mengidentifikasi kosakata kebaikan (*kindness vocabulary*) dan pesan moral cerita.</li><li>Sikap empati, kepedulian, dan kolaborasi siswa dalam kegiatan kelompok (Cinta Diri dan Sesama).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Observational assessment: partisipasi dalam story activities</li><li>Informal assessment: story elements identification task</li><li>Peer assessment: group work dalam story analysis</li></ol></td>
+        <td><ol><li>Assessment Formatif: Observasi keaktifan refleksi dan diskusi kelompok.</li><li>Assessment Autentik: Lembar Kerja Peserta Didik (LKPD 1 Section A & B).</li><li>Assessment Karakter KBC: Jurnal Observasi Sikap Empati & Toleransi.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: pemahaman dasar tentang narrative text dan unsur cerita</li><li>Keterampilan: kemampuan mengidentifikasi story elements dan basic vocabulary</li><li>Sikap: antusiasme terhadap storytelling dan apresiasi terhadap nilai moral cerita</li></ol></td>
+        <td><ol><li>Pengetahuan: Tes identifikasi struktur teks dan pemahaman isi cerita fabel.</li><li>Keterampilan: Kemampuan menyimak audio cerita dan menemukan informasi rinci/tersirat.</li><li>Sikap: Kepedulian sosial, kesantunan bertutur kata, dan penghormatan terhadap pendapat teman.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Checklist observasi untuk partisipasi dalam activities</li><li>Simple worksheet untuk story elements identification</li><li>Informal questioning selama pembelajaran</li><li>Story map completion sebagai formative assessment</li></ol></td>
+        <td><ol><li>Rubrik penilaian pemahaman teks naratif terstruktur.</li><li>Checklist observasi partisipasi dan keterlibatan emosional siswa.</li><li>Formative feedback secara lisan selama alur ARKA berlangsung.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td><ol><li>Excellent (A): Memahami semua konsep dengan baik, aktif berpartisipasi, mengidentifikasi story elements dengan tepat</li><li>Good (B): Memahami konsep dengan baik, cukup aktif, mengidentifikasi sebagian besar story elements</li><li>Satisfactory (C): Memahami konsep dasar, partisipasi cukup, mengidentifikasi beberapa story elements</li><li>Needs Support (D): Belum memahami konsep, partisipasi kurang, kesulitan mengidentifikasi story elements</li></ol></td>
+        <td><ol><li>Sangat Baik (A: 90-100): Mampu menganalisis seluruh struktur naratif dengan tepat, menemukan pesan moral mendalam, dan menunjukkan empati yang tinggi.</li><li>Baik (B: 80-89): Mampu menganalisis sebagian besar struktur naratif dan mengidentifikasi nilai moral cerita dengan baik.</li><li>Cukup (C: 70-79): Mampu memahami struktur dasar cerita dengan bantuan bimbingan guru.</li><li>Perlu Bimbingan (D: 60-69): Kesulitan mengidentifikasi struktur cerita dan membutuhkan pendampingan khusus.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +187,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Apakah pendekatan storytelling efektif untuk memperkenalkan narrative text?</li><li>Bagaimana level engagement siswa selama storytelling activities?</li><li>Apakah siswa dapat memahami perbedaan antara narrative dan teks lainnya?</li><li>Metode mana yang paling efektif untuk mengajarkan story elements?</li></ol></td>
+        <td><ol><li>Apakah alur ARKA efektif membangun keterlibatan emosional dan pemahaman struktur naratif siswa?</li><li>Apakah suasana kelas sudah benar-benar menjadi *safe space* bagi siswa untuk mengekspresikan empati?</li><li>Bagaimana tingkat pemahaman siswa terhadap kosakata kebaikan (*kindness vocabulary*) dalam bahasa Inggris?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Bagaimana perasaan kalian tentang belajar cerita dalam bahasa Inggris?</li><li>Apa yang paling menarik dari cerita yang kita pelajari hari ini?</li><li>Bagian mana dari story elements yang mudah dan mana yang sulit dipahami?</li><li>Cerita apa yang ingin kalian pelajari di pertemuan berikutnya?</li></ol></td>
+        <td><ol><li>Apa perasaan kalian setelah mendengar cerita tentang kebaikan Pip si Rusa?</li><li>Pelajaran berharga apa tentang pertemanan yang kalian dapatkan hari ini?</li><li>Bagian mana dari pelajaran hari ini yang paling menyenangkan bagi kalian?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +203,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X Kurikulum Merdeka</li>
-                <li>Wright, A. (2020). Storytelling with Children, 2nd Edition</li>
-                <li>Cameron, L. (2019). Teaching Languages to Young Learners</li>
-                <li>Ellis, G. & Brewster, J. (2021). Tell it Again! The Storytelling Handbook</li>
-                <li>Online resources: British Council LearnEnglish Kids, ESL storytelling websites</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Buku Siswa Bahasa Inggris Work in Progress untuk SMA/SMK/MA Kelas X. Jakarta: Kemendikbudristek.</li>
+                <li>Wright, A. (2020). Storytelling with Children (2nd ed.). Oxford: Oxford University Press.</li>
+                <li>Derewianka, B. (2021). Exploring How Texts Work (3rd ed.). Primary English Teaching Association.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +218,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Membaca cerita rakyat dari berbagai negara dan membandingkan unsur-unsurnya</li><li>Membuat story map visual untuk cerita favorit mereka</li><li>Menonton film pendek animasi dan mengidentifikasi story structure</li><li>Research tentang asal-usul cerita rakyat terkenal dunia</li></ol></td>
+        <td><ol><li>Siswa membaca fabel mancanegara lain (misalnya "The Ant and the Dove") dan menganalisis struktur serta nilai empati di dalamnya.</li><li>Membuat rangkuman bergambar (*visual story map*) tentang pesan moral cerita dalam bahasa Inggris.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Review dengan cerita yang lebih sederhana dan familiar (cerita Indonesia yang diterjemahkan)</li><li>Visual aids tambahan untuk memahami story elements</li><li>Peer tutoring dengan siswa yang sudah memahami konsep</li><li>Latihan tambahan menggunakan story games dan role play</li></ol></td>
+        <td><ol><li>Bimbingan individu membaca teks fabel yang lebih singkat dengan bantuan kosakata bergambar (*flashcards*).</li><li>Peer tutoring bersama teman sekelompok untuk memahami struktur Orientation, Complication, dan Resolution.</li></ol></td>
     </tr>
 </tbody>
 </table>

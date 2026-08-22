@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>X (Sepuluh)</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Narrative Text (Tingkat Dasar)</td>
+        <td>Narrative Text (Writing Alternative Ending with Compassion & Reconciliation POV)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (90 menit)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>3 (Praktik Menulis Kreatif)</td>
+        <td>3 (Menulis Akhir Cerita Alternatif Berbasis Welas Asih dan Rekonsiliasi)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir Fase E, peserta didik memproduksi teks tulisan dan visual yang lebih beragam, dengan kesadaran terhadap tujuan dan target pembaca. Peserta didik menggunakan bahasa Inggris untuk menyampaikan keinginan/perasaan dan berdiskusi mengenai topik yang dekat dengan keseharian mereka.</td>
+        <td>Pada akhir Fase E, peserta didik memproduksi teks lisan dan tulisan yang mengekspresikan gagasan, empati, serta pemahaman budaya dan nilai moral. Peserta didik dapat menyusun dan merancang teks naratif kreatif berbahasa Inggris dengan menyertakan sudut pandang alternatif yang membangun kedamaian.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Menulis narrative text sederhana dengan struktur yang benar</li><li>Menggunakan fitur kebahasaan narrative dalam writing</li><li>Mengembangkan kreativitas dalam storytelling</li></ul></td>
+        <td><ul><li>Menulis-Mempresentasikan teks naratif karya sendiri</li><li>Mengubah resolusi cerita klasik dari hukuman menjadi rekonsiliasi</li><li>Menggunakan fitur kebahasaan penulisan naratif (*direct speech, past tense, transition words*)</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menulis narrative text sederhana dengan struktur yang benar (orientation, complication, resolution)</li><li>Menggunakan past tense dan sequence words dalam writing dengan tepat</li><li>Mengembangkan karakter dan setting dalam cerita sederhana</li><li>Menerapkan creative writing techniques untuk membuat cerita menarik</li><li>Melakukan peer review dan memberikan feedback konstruktif untuk improvement</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menganalisis perbedaan antara resolusi berorientasi balam dendam/hukuman fisik (*punitive ending*) dengan resolusi pemulihan damai (*restorative & compassionate ending*).</li><li>Merancang draf akhir cerita alternatif (*alternative resolution*) untuk fabel/dongeng klasik berbasis nilai welas asih.</li><li>Mengaplikasikan *direct speech* (kalimat langsung dialog) dan kata kerja aksi (*action verbs*) dalam menggambarkan dialog rekonsiliasi.</li><li>Menghubungkan gagasan penulisan dengan nilai Panca Cinta: **Cinta Diri dan Sesama** (*forgiveness, tasamuh/toleransi, compassionate communication*).</li><li>Menyusun paragraf *resolution* berbahasa Inggris yang koheren dan bermakna.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>How do we create interesting characters and settings for our stories?</li><li>What techniques can make our stories engaging for readers?</li><li>How do we organize our ideas into a compelling narrative?</li><li>What makes a good beginning, middle, and end of a story?</li><li>How can we help each other improve our storytelling skills?</li></ol></td>
+        <td><ol><li>Why do traditional fairytales often end with harsh punishment, and how can compassion offer a better alternative?</li><li>How does forgiveness transform both the hurt person and the wrongdoer?</li><li>What linguistic tools (direct speech, emotional adjectives) help convey reconciliation in writing?</li><li>How can we re-imagine story endings to inspire peace and empathy in our society?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), dengan suasana creative writing workshop</td>
+        <td>Indoor (kelas), dikondisikan sebagai *Creative Writing Workshop* yang tenang, menginspirasi, dan ramah gagasan.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -97,7 +97,7 @@
     <tr>
         <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>Creative writing club dimana siswa secara rutin menulis short stories berbahasa Inggris dan berbagi dalam writing group untuk mendapatkan feedback, membangun writing habit dan creative confidence</li><li>Partisipasi dalam short story writing competition atau lomba menulis cerita tingkat sekolah/daerah untuk mengaplikasikan kemampuan narrative writing dalam konteks kompetitif dan mendapatkan recognition</li><li>Proyek penerbitan literary magazine atau zine sekolah yang memuat karya creative writing siswa (stories, poetry, comics) untuk memberikan platform publikasi dan authentic audience</li><li>Digital storytelling project dimana siswa menulis narrative text dan mengubahnya menjadi digital format (illustrated story, comic strip, animated video) menggunakan aplikasi digital, menggabungkan traditional writing dengan technology</li></ol></td>
+        <td>Integrasi P5-PPRA dan Kurikulum Berbasis Cinta (Panca Cinta: Cinta Diri & Sesama, Cinta Allah & Rasul-Nya):<ol><li>**Alternative Ending Anthology "Voices of Peace"**: Mengumpulkan draf cerita alternatif karya siswa menjadi antologi digital/cetak berisi fabel-fabel damai tanpa kekerasan.</li><li>**Compassionate Dialogue Workshop**: Latihan menulis dialog antartokoh cerita yang mengedepankan prinsip "Koneksi Sebelum Koreksi" (*Compassionate Communication*).</li><li>**Peer Feedback Circle**: Saling memberikan koreksi halus (*gentle peer feedback*) pada draf tulisan teman dengan prinsip apresiatif.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +107,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Story starters dan writing prompts untuk inspirasi</li><li>Character development worksheets dan setting description guides</li><li>Writing planning templates dan story outlines</li><li>Peer review checklists dan feedback forms</li><li>Examples of student-written narratives dari berbagai levels</li></ol></td>
+        <td><ol><li>Panduan Penulisan Naratif: *Writing Alternative Ending Checklist* & *Direct Speech Rules*.</li><li>Contoh Perbandingan Ending: Ending Tradisional "The Three Little Pigs vs The Big Bad Wolf" vs Ending Rekonsiliasi KBC.</li><li>Bank Kosakata Rekonsiliasi: *apologize, forgive, reconcile, build peace, compassion, restore, dialog, understand*.</li><li>Worksheet LKPD 2 Writing Section (Creative Story Writing).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Writing materials: kertas, pena, pensil warna</li><li>Story planning charts dan graphic organizers</li><li>Timer untuk writing sessions dan activities</li><li>Dictionaries untuk vocabulary support</li><li>Inspiration cards dengan pictures untuk story ideas</li></ol></td>
+        <td><ol><li>LCD Proyektor & Laptop untuk menampilkan contoh draf dan rumus *direct speech*.</li><li>Kertas HVS/Karton dan spidol warna untuk *Drafting & Wall Gallery*.</li><li>Worksheet LKPD 2 (English Grade X Unit 3).</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +122,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Creative writing workshop dengan process approach</li><li>Collaborative learning dalam brainstorming dan peer review</li><li>Scaffolded writing dengan guided practice dan independent work</li><li>Peer feedback system untuk improvement dan encouragement</li><li>Celebration of creativity untuk motivation dan appreciation</li></ol></td>
+        <td><ol><li>Tatap Muka (In-Person Learning).</li><li>**Process Writing Approach** (Pre-writing → Drafting → Revising → Publishing).</li><li>**Deep Learning** dengan Alur **MJM** (*Mindful → Meaningful → Joyful*).</li><li>**Compassionate Communication**: Mengintegrasikan komunikasi welas asih dalam dialog antar karakter.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -131,23 +131,23 @@
     </tr>
     <tr>
         <td></td>
-        <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Review narrative structure dan language features dari pertemuan sebelumnya</li><li>Creative warm-up: "Story in a Bag" - siswa pick random objects dan create story connections</li><li>Explain writing process dan tujuan creative writing session</li><li>Motivation: "Everyone has unique stories to tell - today you become storytellers!"</li><li>Preview writing activities dan peer review process</li></ol></td>
+        <td>Pendahuluan (15 menit)</td>
+        <td><ol><li>Guru membuka kelas dengan doa khusyuk dan menyapa siswa dengan senyuman penuh kasih.</li><li>**MJM Step 1 (Mindful Brainstorming)**: Guru membacakan cuplikan cerita klasik "The Big Bad Wolf" yang berakhir dengan srigala direbus air panas. Guru bertanya: *"Does physical punishment bring true peace, or does it perpetuate pain? How can we change the story with compassion?"*. Siswa merenung secara mendalam.</li><li>Guru menjelaskan tujuan Pertemuan 3: Menulis *Alternative Ending* berbasis rekonsiliasi dan maaf.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Story Planning (15 menit): Siswa choose writing prompts, brainstorm ideas, dan create story outline</li><li>Character & Setting Development (10 menit): Detailed planning untuk main characters dan story setting</li><li>Guided Writing Session 1 (20 menit): Writing orientation dan beginning of complication dengan teacher support</li><li>Independent Writing Session (15 menit): Students continue writing complication dan resolution</li><li>Peer Review Activity (10 menit): Partner reading dan feedback using checklist</li></ol></td>
+        <td>Kegiatan Inti (60 menit)</td>
+        <td><ol><li>**MJM Step 2 (Meaningful Contrast Analysis)**: Guru memperlihatkan dua versi ending cerita: Versi Balas Dendam vs Versi Dialog Rekonsiliasi. Siswa menemukan bahwa dialog welas asih membawa kedamaian jangka panjang.</li><li>**Pre-Writing & Outlining (LKPD 2 Writing Section)**: Siswa memilih satu dongeng/fabel (seperti *The Wolf and the Seven Kids* atau *The Dragon of Mount Merapi*) dan merancang bagan ending baru: (a) Momen pengakuan salah, (b) Ungkapan maaf dan dialog welas asih, (c) Tindakan perbaikan (*restorative action*), (d) Kedamaian bersama.</li><li>**Drafting (Process Writing)**: Siswa menulis draf *Alternative Ending* sepanjang 2-3 paragraf dalam bahasa Inggris, menggunakan *past tense* dan *direct speech* (misal: *"I am truly sorry for taking your food," whispered the wolf*).</li><li>**MJM Step 3 (Joyful Peer Review Circle)**: Siswa berpasangan saling membaca draf teman, memberikan dorongan positif dan masukan tata bahasa secara santun (*compassionate feedback*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Writers sharing challenges dan breakthroughs dalam writing process</li><li>Discussion about creative choices dan decisions made while writing</li><li>Appreciation untuk creative ideas dan unique story elements</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Siswa membagikan satu kalimat dialog rekonsiliasi paling berkesan yang mereka tulis.</li><li>Guru menguatkan bahwa meminta maaf dan memberi maaf adalah sifat mulia Rasulullah saw.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (10 menit)</td>
-        <td><ol><li>Celebrating creative efforts dengan positive reinforcement</li><li>Preview revision process untuk pertemuan berikutnya</li><li>Assignment: revise stories based pada peer feedback</li><li>Encouragement: "Every great writer started with one story!"</li></ol></td>
+        <td><ol><li>Guru memberikan apresiasi atas kreativitas dan ketulusan tulisan siswa.</li><li>Penjelasan persiapan Pertemuan 4: Bermain peran pendek (*Short Role-Play / Storytelling*) membawakan ending baru tersebut.</li><li>Doa penutup dan salam perpisahan.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +157,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan menulis narrative text dengan struktur yang benar</li><li>Penggunaan past tense dan language features dalam writing</li><li>Kreativitas dalam character dan plot development</li><li>Keterampilan memberikan dan menerima peer feedback</li></ol></td>
+        <td><ol><li>Keterampilan menyusun paragraf resolusi naratif berbahasa Inggris yang koheren.</li><li>Ketepatan penggunaan *simple past tense*, *direct speech*, dan kosakata rekonsiliasi.</li><li>Internalisasi nilai Panca Cinta: Cinta Diri dan Sesama (*forgiveness & peacemaking*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Process assessment: observation selama writing process</li><li>Product assessment: draft narrative text yang dihasilkan</li><li>Peer assessment: quality of feedback dan collaboration</li></ol></td>
+        <td><ol><li>Assessment Formatif: Draf produk tulisan *Alternative Ending* pada LKPD 2.</li><li>Assessment Sebaya (*Peer Assessment*): Lembar umpan balik antar teman.</li><li>Assessment Karakter KBC: Rubrik Kedamaian dan Empati Tulisan.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: application of narrative structure dan language features</li><li>Keterampilan: creative writing, organization, dan peer review skills</li><li>Sikap: creativity, effort, openness to feedback, dan collaboration</li></ol></td>
+        <td><ol><li>Pengetahuan: Penguasaan struktur penulisan resolusi cerita dan kaidah *direct speech*.</li><li>Keterampilan: Menulis kreatif berbahasa Inggris dengan variasi kalimat naratif.</li><li>Sikap: Ketulusan mengekspresikan kedamaian, keterbukaan menerima masukan.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Writing rubric untuk content, organization, language use, dan creativity</li><li>Process checklist untuk planning dan drafting stages</li><li>Peer feedback forms untuk quality of review dan suggestions</li><li>Self-reflection questionnaire tentang writing experience</li></ol></td>
+        <td><ol><li>Rubrik penilaian menulis naratif (Content, Organization, Grammar, Vocabulary, KBC Value).</li><li>Checklist revisi penulisan berbasis masukan teman sebaya.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td><ol><li>Excellent (A): Complete story structure, creative ideas, good language use, constructive peer feedback</li><li>Good (B): Clear story structure, interesting ideas, mostly correct language, helpful peer feedback</li><li>Satisfactory (C): Basic story structure, simple but clear ideas, basic language accuracy, basic peer feedback</li><li>Developing (D): Incomplete structure, limited ideas, language needs improvement, limited peer feedback</li></ol></td>
+        <td><ol><li>Sangat Baik (A: 90-100): Paragraf resolusi sangat koheren, tata bahasa dan *direct speech* tepat, nilai rekonsiliasi dan welas asih sangat kuat.</li><li>Baik (B: 80-89): Paragraf resolusi runtut, tata bahasa sebagian besar tepat, pesan kedamaian tersampaikan dengan jelas.</li><li>Cukup (C: 70-79): Mampu menyusun resolusi cerita dengan beberapa bantuan perbaikan tata bahasa.</li><li>Perlu Bimbingan (D: 60-69): Kesulitan dalam mengaplikasikan *past tense* dan membangun alur cerita alternatif.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +187,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Bagaimana level creativity dan engagement siswa dalam writing activities?</li><li>Apakah siswa dapat mengaplikasikan narrative structure dalam writing mereka?</li><li>Seberapa efektif peer review process dalam improving writing quality?</li><li>Support apa yang dibutuhkan untuk students yang struggling dengan creative writing?</li></ol></td>
+        <td><ol><li>Apakah kegiatan menulis *alternative ending* mampu membuka kesadaran siswa tentang pentingnya maaf dan dialog damai?</li><li>Bagaimana perkembangan penguasaan *direct speech* dan *past tense* pada draf siswa?</li><li>Apakah alur MJM membawa kegembiraan (*joyful writing*) selama proses membuat draf?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Bagaimana perasaan kalian saat menulis cerita pertama dalam bahasa Inggris?</li><li>Apa yang paling challenging dan paling menyenangkan dari writing process?</li><li>Bagaimana feedback dari teman membantu kalian improve story kalian?</li><li>Apa yang ingin kalian improve dalam cerita kalian untuk pertemuan berikutnya?</li></ol></td>
+        <td><ol><li>Bagaimana perasaanmu ketika memberikan akhir cerita yang penuh kedamaian bagi tokoh srigala/naga?</li><li>Mengapa memaafkan terasa lebih menenangkan daripada membalas dendam?</li><li>Apakah kamu merasa lebih percaya diri menulis cerita berbahasa Inggris hari ini?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +203,9 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X Kurikulum Merdeka</li>
-                <li>Graves, D.H. (2020). Writing: Teachers and Children at Work, 2nd Edition</li>
-                <li>Fletcher, R. & Portalupi, J. (2021). Writing Workshop: The Essential Guide</li>
-                <li>Calkins, L.M. (2019). The Art of Teaching Writing</li>
-                <li>Anderson, C. (2020). How's It Going? A Practical Guide to Conferring with Student Writers</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kemendikbudristek. (2022). Buku Siswa Bahasa Inggris Work in Progress Kelas X. Jakarta.</li>
+                <li>Hyland, K. (2019). Second Language Writing (2nd ed.). Cambridge University Press.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +217,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Writing multiple-chapter stories atau series of connected stories</li><li>Experimenting dengan different narrative perspectives (first person, third person)</li><li>Creating illustrated stories dengan visual storytelling elements</li><li>Developing stories into different formats (comic strips, digital stories)</li></ol></td>
+        <td><ol><li>Siswa mengembangkan draf *Alternative Ending* menjadi komik strip pendek 4 panel berbahasa Inggris.</li><li>Menuliskan ulasan komparatif (*reflective essay*) tentang transformasi karakter villain dalam cerita.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Additional scaffolding dengan sentence starters dan story templates</li><li>Simplified story prompts dengan clear structure guidelines</li><li>Extra grammar support untuk past tense usage</li><li>Individual conferencing untuk personalized writing support</li></ol></td>
+        <td><ol><li>Latihan terpandu melengkapi kalimat *direct speech* dan frasa rekonsiliasi yang sudah disediakan (*guided sentence completion*).</li><li>Peer tutoring untuk membetulkan kata kerja bentuk lampau (*irregular past tense*).</li></ol></td>
     </tr>
 </tbody>
 </table>

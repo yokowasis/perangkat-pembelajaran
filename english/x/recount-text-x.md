@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
-        <td>Kelas</td>
-        <td>X</td>
+        <td>Kelas / Fase</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Recount Text</td>
+        <td>Recount Text (Personal Memorable Experience & Gratitude)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (Pertemuan 1 dari 4)</td>
     </tr>
     <tr>
         <td></td>
-        <td>Pertemuan</td>
-        <td>Pertemuan 1: Pengenalan struktur, ciri-ciri, dan fungsi sosial recount text</td>
+        <td>Fokus KBC</td>
+        <td>Cinta Diri & Sesama (Self-Compassion & Empathy), Cinta Allah & Rasul-Nya (Gratitude for Life)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase E, peserta didik menggunakan teks khusus dalam bentuk recount, narrative, procedure, descriptive, dan report secara lisan dan tulisan untuk berinteraksi dan berkomunikasi dalam konteks yang lebih beragam. Mereka menganalisis dan mengevaluasi beberapa teks untuk mengidentifikasi makna tersirat. Peserta didik memproduksi teks lisan dan tulisan dengan struktur yang jelas dengan menunjukkan hubungan antar bagian dalam teks untuk menyampaikan ide dan pendapat mereka tentang berbagai topik dengan audiens yang beragam.</td>
+        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan, dan visual dalam bahasa Inggris untuk berkomunikasi sesuai situasi, tujuan, dan pemirsa. Peserta didik membaca, menganalisis, dan memproduksi berbagai jenis teks termasuk Recount Text untuk menyampaikan ide, perasaan, dan pengalaman pribadi dengan kesadaran terhadap struktur teks, fitur kebahasaan, serta nilai-nilai emosional dan sosial.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Menyimak - Speaking: Berpartisipasi dalam diskusi tentang pengalaman pribadi</li><li>Membaca - Reading: Memahami teks recount yang autentik</li><li>Menulis - Writing: Menganalisis struktur dan fitur kebahasaan recount text</li></ul></td>
+        <td><ul><li>Menyimak - Berbicara (Listening - Speaking): Memahami dan merespons pengalaman pribadi yang dibagikan secara lisan dengan penuh empati dan rasa syukur.</li><li>Membaca - Memirsa (Reading - Viewing): Menganalisis fungsi sosial, struktur generik, dan fitur kebahasaan dari personal recount text yang menginspirasi.</li><li>Menulis - Mempresentasikan (Writing - Presenting): Menuliskan draft awal pengalaman pribadi yang berkesan dengan menunjukkan rasa syukur kepada Allah dan apresiasi terhadap diri sendiri.</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengidentifikasi fungsi sosial recount text dalam kehidupan sehari-hari</li><li>Menganalisis struktur generik recount text (orientation, events, reorientation)</li><li>Mengenali ciri-ciri kebahasaan recount text (past tense, time connectives, specific participants)</li><li>Membedakan recount text dengan jenis teks naratif lainnya</li><li>Menemukan informasi faktual dari teks recount sederhana</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengidentifikasi fungsi sosial personal recount text dalam merefleksikan pengalaman hidup yang bermakna.</li><li>Menganalisis generic structure personal recount text (Orientation, Events, Reorientation) yang memuat elemen refleksi diri dan rasa syukur.</li><li>Mengenali dan menggunakan unsur kebahasaan recount text (simple past tense, action verbs, time connectives, and emotion words) dengan tepat.</li><li>Mengekspresikan rasa syukur kepada Allah Swt. atas setiap pengalaman hidup (suka maupun duka) sebagai pelajaran berharga (Cinta Allah & Cinta Diri).</li><li>Menunjukkan sikap empati, mendengarkan tanpa menghakimi, dan menghargai cerita pengalaman teman sekelas (Cinta Diri & Sesama).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>What is the purpose of recount text in our daily communication?</li><li>How do we organize our experiences when telling someone about what happened?</li><li>What makes a good recount interesting to read?</li><li>How does recount text differ from storytelling?</li><li>When do we usually use recount text in real life?</li></ol></td>
+        <td><ol><li>Why do people share their personal memories and experiences with others?</li><li>How does reflecting on past events help us appreciate our lives and express gratitude to Allah?</li><li>How are the events in a personal recount structured chronologically?</li><li>What language features show our emotions and feelings when retelling a past event?</li><li>How can listening to someone else's story build empathy and mutual respect?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor - Ruang kelas dengan fasilitas LCD projector, audio system, dan akses internet</td>
+        <td>Indoor - Ruang kelas yang inklusif, aman, dan ramah (safe space) dengan susunan tempat duduk melingkar/U-shape, dilengkapi LCD Projector, audio speaker, dan papan tulis refleksi.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -96,8 +96,13 @@
     </tr>
     <tr>
         <td></td>
+        <td>Nilai P5-PPRA & KBC</td>
+        <td><ul><li>P5-PPRA: Beriman, bertakwa kepada Tuhan YME, dan berakhlak mulia; Gotong Royong; Mandiri; Berkeadaban (Ta'addub); Keteladanan (Qudwah).</li><li>KBC Topik 1 (Cinta Allah & Rasul-Nya): Mensyukuri nikmat dan ujian hidup sebagai karunia Allah (*Tafakkur & Syukur*).</li><li>KBC Topik 4 (Cinta Diri & Sesama): Menumbuhkan *self-compassion* (welas asih diri), menghargai proses pertumbuhan pribadi, serta membangun empati (*ukhuwah insaniyah*).</li></ul></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>Kunjungan ke museum sejarah atau galeri foto lokal untuk mengobservasi cara menceritakan kembali peristiwa masa lalu melalui exhibit captions dan deskripsi, kemudian membuat recount text tentang pengalaman kunjungan tersebut</li><li>Proyek wawancara pengalaman hidup: Mewawancarai tokoh masyarakat atau guru tentang pengalaman bersejarah mereka, merekam, dan menuliskannya dalam bentuk recount text untuk dipublikasikan di majalah dinding sekolah</li><li>English club "Story Sharing Session" di luar jam pelajaran dimana siswa berbagi pengalaman pribadi mereka dalam bahasa Inggris secara lisan, kemudian menuliskan recount text berdasarkan cerita yang dibagikan</li><li>Proyek dokumentasi kegiatan sekolah: Mengikuti dan mendokumentasikan acara sekolah (outing, field trip, lomba) dan membuat recount text berbahasa Inggris sebagai laporan kegiatan untuk website atau sosial media sekolah</li></ol></td>
+        <td><ol><li>**Gratitude Life Journal**: Peserta didik menuliskan satu jurnal pengalaman pribadi mingguan dalam bahasa Inggris yang memuat catatan rasa syukur atas peristiwa yang dialami.</li><li>**Personal Journey Exhibition**: Menempelkan ringkasan cerita pengalaman inspiratif pada papan pajangan kelas ("Our Grateful Moments Wall") untuk dibaca dan diberi apresiasi positif oleh teman sekelas.</li><li>**Peer Empathy Circle**: Sesi berbagi cerita lisan secara berkala dalam kegiatan English Club madrasah untuk melatih *compassionate communication*.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +112,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Sample recount texts: "My Holiday in Bali", "My First Day at School"</li><li>Video: "Famous People's Life Stories" (3-5 minutes)</li><li>Worksheet: Recount Text Structure Analysis</li><li>PowerPoint presentation: "Introduction to Recount Text"</li><li>Online dictionary dan grammar reference</li></ol></td>
+        <td><ol><li>Teks Personal Recount: "An Unforgettable Act of Kindness" dan "Overcoming My First Public Speaking Fear".</li><li>Slide PowerPoint & Infografis: Generic Structure (Orientation, Events, Reorientation) dan Language Features (Simple Past Tense, Action Verbs, Chronological Connectives).</li><li>Lembar Refleksi Emosi & Syukur: "My Life Experience & Gratitude Map".</li><li>Kamus Bahasa Inggris - Indonesia digital/cetak.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>LCD Projector dan layar</li><li>Laptop/komputer</li><li>Audio speaker</li><li>Whiteboard dan spidol</li><li>Printed handouts dan worksheets</li></ol></td>
+        <td><ol><li>LCD Projector, laptop, dan speaker aktif.</li><li>Papan tulis, spidol warna-warni, dan sticky notes warna untuk refleksi emosi.</li><li>Handout cetak modul dan LKPD Pertemuan 1.</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -121,8 +126,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Mode Pembelajaran</td>
-        <td><ol><li>Pendekatan: Genre-Based Approach</li><li>Model: Discovery Learning</li><li>Metode: Diskusi, analisis teks, tanya jawab</li><li>Strategi: Text Analysis dan Guided Discovery</li><li>Teknik: Think-Pair-Share, jigsaw reading</li></ol></td>
+        <td>Mode & Metodologi KBC</td>
+        <td><ol><li>Model Pembelajaran: **Deep Learning dengan alur MJM** (Mindful, Meaningful, Joyful).</li><li>Pendekatan: *Genre-Based Approach* (GBA) yang diintegrasikan dengan *Compassionate Communication* (Koneksi sebelum koreksi).</li><li>Metode: Interactive lecture, guided text analysis, personal story sharing, and peer reflection.</li><li>Prinsip KBC: Mendorong kesadaran diri (*mindfulness*), pemaknaan mendalam atas pengalaman hidup (*meaningfulness*), dan suasana belajar yang ramah dan penuh kegembiraan (*joyfulness*).</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -132,22 +137,22 @@
     <tr>
         <td></td>
         <td>Pendahuluan (15 menit)</td>
-        <td><ol><li>Guru membuka pembelajaran dengan salam dan doa</li><li>Mengecek kehadiran dan kesiapan siswa untuk belajar</li><li>Apersepsi: Menanyakan "What did you do yesterday?" untuk memicu berbagi pengalaman</li><li>Menyampaikan tujuan pembelajaran dan aktivitas yang akan dilakukan</li><li>Memberikan motivasi tentang pentingnya menceritakan pengalaman dalam bahasa Inggris</li></ol></td>
+        <td><ol><li>**Mindful Opening & Greeting**: Guru membuka kelas dengan salam hangat, mengaji singkat, dan mengajak siswa melakukan *mindful breathing* (tarik napas dalam) selama 1 menit untuk menenangkan pikiran dan raga.</li><li>**Gratitude Check-in**: Guru menanyakan sapaan penuh empati: *"How are you feeling today? What is one small thing you are grateful for this morning?"* (Cinta Allah & Cinta Diri).</li><li>**Apersepsi & Motivasi**: Guru membagikan cerita singkat (1-2 menit) tentang pengalaman masa lalu yang berkesan dan pelajaran berharga di baliknya. Guru menyampaikan bahwa setiap peristiwa yang kita alami adalah bentuk kasih sayang Allah untuk mendewasakan diri kita.</li><li>**Penyampaian Tujuan**: Guru menjelaskan tujuan pembelajaran pertemuan 1 tentang pengenalan recount text dan bagaimana menceritakan pengalaman pribadi dengan penuh rasa syukur.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kegiatan Inti (60 menit)</td>
-        <td><ol><li>Building Knowledge of Field (15 menit): Menonton video pendek tentang pengalaman seseorang, diskusi tentang jenis-jenis pengalaman yang sering dibagikan</li><li>Modelling of Text (20 menit): Membaca dan menganalisis contoh recount text "My Holiday in Bali", mengidentifikasi struktur dan ciri kebahasaan</li><li>Joint Construction (15 menit): Bekerja berpasangan menganalisis recount text kedua menggunakan worksheet yang disediakan</li><li>Independent Construction (10 menit): Siswa mengidentifikasi recount text dari berbagai sumber secara mandiri</li></ol></td>
+        <td><ol><li>**Mindful Reading & Observation (15 menit)**: Peserta didik membaca teks personal recount "An Unforgettable Act of Kindness". Guru membimbing siswa menandai kalimat yang menunjukkan latar waktu/tempat (Orientation), urutan kejadian (Events), dan perasaan/refleksi di akhir cerita (Reorientation).</li><li>**Meaningful Analysis & Discussion (20 menit)**: Dalam kelompok kecil (3-4 siswa), peserta didik menganalisis struktur generik dan fitur kebahasaan (simple past tense verbs seperti *visited, realized, felt, learned*, serta time connectives seperti *first, then, after that, finally*). Siswa mendiskusikan nilai KBC dalam teks: *"What gratitude lesson can we learn from the writer's story?"*</li><li>**Joyful Story Mapping (15 menit)**: Setiap peserta didik mengisi *Graphic Organizer* "My Memorable Experience Timeline". Siswa memilih satu pengalaman pribadi yang paling berkesan (misal: pengalaman pertama di madrasah, mengatasi kesulitan, atau momen kebersamaan keluarga) dan memetakan kejadian beserta perasaan yang dirasakan saat itu.</li><li>**Compassionate Peer Sharing (10 menit)**: Secara berpasangan (*Think-Pair-Share*), siswa menceritakan outline pengalaman pribadinya kepada teman sejawat dengan menerapkan *compassionate listening* (mendengarkan tanpa memotong dan memberikan apresiasi verbal).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa merefleksikan apa yang telah dipelajari tentang recount text</li><li>Berbagi kesulitan yang dihadapi dalam memahami struktur teks</li><li>Mendiskusikan manfaat memahami recount text dalam kehidupan sehari-hari</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Peserta didik menuliskan satu kalimat refleksi pada sticky note: *"Through my past experience, I learned that Allah always guides me because..."* dan menempelkannya di papan refleksi.</li><li>Guru memberikan penguatan positif atas keterbukaan dan keberanian siswa dalam berbagi cerita.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Penutup (15 menit)</td>
-        <td><ol><li>Guru dan siswa menyimpulkan pembelajaran tentang fungsi sosial, struktur, dan ciri kebahasaan recount text</li><li>Memberikan preview untuk pertemuan selanjutnya tentang menulis recount text</li><li>Memberikan tugas rumah: mencari dan membaca satu recount text dari internet atau buku</li></ol></td>
+        <td>Penutup (10 menit)</td>
+        <td><ol><li>Guru bersama peserta didik menyimpulkan poin utama personal recount text (fungsi sosial, struktur, dan unsur past tense).</li><li>Guru memberikan umpan balik yang membangun dan memuji keaktifan serta rasa empati siswa selama kelas.</li><li>Guru menyampaikan informasi rencana pembelajaran pertemuan ke-2 (Historical Recount Text & Heroes' Struggle).</li><li>Kelas ditutup dengan doa bersama (*Doa Kaffaratul Majlis*) dan salam kasih sayang.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +162,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan mengidentifikasi fungsi sosial recount text</li><li>Kemampuan menganalisis struktur generik recount text</li><li>Kemampuan mengenali ciri-ciri kebahasaan recount text</li><li>Partisipasi aktif dalam diskusi dan aktivitas kelompok</li></ol></td>
+        <td><ol><li>Pemahaman konsep fungsi sosial, struktur generik, dan fitur kebahasaan personal recount text.</li><li>Kemampuan mengidentifikasi dan menggunakan simple past tense serta time connectives.</li><li>Kedalaman refleksi diri (rasa syukur dan *self-compassion*) dalam mendeskripsikan pengalaman pribadi.</li><li>Sikap empati dan *compassionate communication* saat berinteraksi dengan teman sejawat.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Formative Assessment: Observasi selama diskusi dan aktivitas</li><li>Performance Assessment: Analisis teks secara berpasangan</li><li>Self Assessment: Refleksi pembelajaran tentang pemahaman materi</li></ol></td>
+        <td><ol><li>**Diagnostic Assessment**: Tanya jawab lisan awal tentang pengalaman berkesan dan pemahaman awal recount text.</li><li>**Formative Assessment**: Lembar analisis struktur teks pada LKPD Pertemuan 1 dan pengisian *Graphic Organizer Timeline*.</li><li>**Observation Assessment**: Jurnal observasi sikap (empati, keaktifan, rasa syukur, dan kesantunan berbahasa).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Reading Comprehension: Memahami isi dan struktur recount text</li><li>Text Analysis: Menganalisis ciri kebahasaan dan generic structure</li><li>Critical Thinking: Membedakan recount dengan jenis teks lain</li></ol></td>
+        <td><ol><li>Pengetahuan: Mengidentifikasi bagian Orientation, Events, Reorientation, serta kosakata past tense dari teks sampel (Skor 0-100).</li><li>Keterampilan: Menyusun outline timeline pengalaman pribadi secara runtut (Skor 0-100).</li><li>Sikap & KBC: Menunjukkan kesadaran reflektif (rasa syukur dan empati) selama proses pembelajaran.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Observasi langsung saat siswa berdiskusi dan menganalisis teks</li><li>Checking worksheet hasil analisis struktur teks</li><li>Tanya jawab lisan tentang pemahaman konsep recount text</li><li>Exit ticket: pertanyaan singkat di akhir pembelajaran</li></ol></td>
+        <td><ol><li>Pemeriksaan hasil kerja siswa pada LKPD 1 bagian Reading dan Vocabulary.</li><li>Lembar observasi aktivitas kelompok (*Rubrik Compassionate Interaction*).</li><li>Penilaian hasil sticky note refleksi rasa syukur siswa.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kriteria Penilaian</td>
-        <td><ol><li>Excellent (85-100): Dapat mengidentifikasi semua aspek recount text dengan tepat dan memberikan penjelasan yang jelas</li><li>Good (70-84): Dapat mengidentifikasi sebagian besar aspek recount text dengan benar</li><li>Fair (55-69): Dapat mengidentifikasi beberapa aspek dasar recount text</li><li>Need Improvement (0-54): Masih kesulitan mengidentifikasi aspek-aspek recount text</li></ol></td>
+        <td>Kriteria Penilaian (KBC Integrated)</td>
+        <td><ol><li>**Sangat Baik (85-100)**: Mampu menganalisis seluruh struktur dan kebahasaan recount text dengan akurat, serta mengekspresikan nilai syukur dan empati secara mendalam dan santun.</li><li>**Baik (75-84)**: Mampu menganalisis sebagian besar struktur teks dan kebahasaan dengan benar, serta menunjukkan refleksi syukur yang cukup jelas.</li><li>**Cukup (65-74)**: Memahami struktur dasar recount text dengan beberapa bantuan, serta menunjukkan refleksi diri sederhana.</li><li>**Perlu Bimbingan (<65)**: Membutuhkan pendampingan intensif dalam mengidentifikasi struktur teks dan menyusun kalimat past tense.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +192,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Apakah siswa dapat memahami konsep dan fungsi sosial recount text dengan baik?</li><li>Metode pembelajaran mana yang paling efektif dalam menjelaskan struktur teks?</li><li>Bagaimana tingkat partisipasi dan antusiasme siswa selama pembelajaran?</li><li>Apa yang perlu diperbaiki untuk pembelajaran recount text selanjutnya?</li></ol></td>
+        <td><ol><li>Apakah suasana kelas sudah cukup aman dan ramah (*safe space*) bagi siswa untuk berbagi cerita pribadi mereka?</li><li>Seberapa baik siswa mampu menghubungkan pengalaman pribadi mereka dengan rasa syukur kepada Allah Swt. (Cinta Allah)?</li><li>Apakah metode MJM (Mindful, Meaningful, Joyful) berhasil meningkatkan keterlibatan emosional dan kognitif siswa?</li><li>Langkah perbaikan apa yang diperlukan untuk mendampingi siswa yang masih ragu mengekspresikan diri dalam bahasa Inggris?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>What did you learn about recount text today?</li><li>Which part of recount text structure do you find most interesting?</li><li>What difficulties did you face in understanding recount text?</li><li>How can understanding recount text help you in daily communication?</li></ol></td>
+        <td><ol><li>How did you feel when reflecting on your past personal experience today?</li><li>What new English words or past verbs did you learn to describe your memories?</li><li>How does remembering past events make you feel grateful to Allah and appreciative of yourself?</li><li>What was the most meaningful lesson you learned from listening to your classmate's story?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +208,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbudristek. (2022). Capaian Pembelajaran Bahasa Inggris Fase E. Jakarta: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.</li>
-                <li>Derewianka, B. (2003). Trends and Issues in Genre-Based Approaches. RELC Journal, 34(2), 133-154.</li>
-                <li>Anderson, M. & Anderson, K. (2003). Text Types in English 3. South Yarra: Macmillan Education Australia.</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta (KBC). Jakarta: Kementerian Agama Republik Indonesia.</li>
+                <li>Kemendikbudristek. (2022). Capaian Pembelajaran Bahasa Inggris Fase E. Jakarta: Badan Standar, Kurikulum, dan Asesmen Pendidikan.</li>
+                <li>Derewianka, B. & Jones, P. (2016). Using Functional Grammar in the School Classroom (2nd ed.). Primary English Teaching Association Australia (PETAA).</li>
                 <li>Emilia, E. (2011). Pendekatan Genre-Based dalam Pengajaran Bahasa Inggris: Petunjuk untuk Guru. Bandung: Rizqi Press.</li>
-                <li>Hammond, J. et al. (1992). English for Social Purposes: A Handbook for Teachers of Adult Literacy. Sydney: National Centre for English Language Teaching and Research.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +223,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Membaca recount text yang lebih kompleks dari berbagai sumber online</li><li>Menganalisis recount text dalam bentuk video blog atau vlog pendek</li><li>Membuat mind map tentang perbedaan recount text dengan narrative text</li><li>Mencari dan mengkoleksi berbagai jenis recount text (personal, factual, historical)</li></ol></td>
+        <td><ol><li>Peserta didik dengan kemampuan tinggi diminta menuliskan teks personal recount utuh (150-200 kata) yang mengintegrasikan kosa kata emosi tingkat lanjut (*gratitude, perseverance, inner strength*) dan dipublikasikan di mading/blog sekolah.</li><li>Menjadi *peer tutor* bagi teman yang membutuhkan bantuan dalam memahami simple past tense.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Memberikan recount text yang lebih sederhana dengan vocabulary yang familiar</li><li>Pendampingan individual dalam mengidentifikasi struktur teks</li><li>Menggunakan graphic organizer untuk membantu memahami alur cerita recount</li><li>Latihan tambahan menggunakan recount text bergambar atau komik sederhana</li></ol></td>
+        <td><ol><li>Memberikan bimbingan individual dalam menyusun kalimat past tense sederhana menggunakan *sentence starter templates* (misal: *Yesterday I went to... I felt... because...*).</li><li>Memberikan latihan pengenalan *regular and irregular verbs* dengan bantuan media kartu kata bergambar.</li></ol></td>
     </tr>
 </tbody>
 </table>

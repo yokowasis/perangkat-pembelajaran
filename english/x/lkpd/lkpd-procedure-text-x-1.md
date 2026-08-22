@@ -2,262 +2,184 @@
 
 **Nama Sekolah** : MAN 1 Kota Bima  
 **Nama Siswa** :  
-**Kelas** :  
-**Pokok Bahasan** : Procedure Text
+**Kelas** : X (Sepuluh)  
+**Pokok Bahasan** : Procedure Text (Tips & Manuals for Digital Well-Being & Eco-Practices)  
 
 ---
 
 ## **A. VOCABULARY**
 
-**Target**: Memorize 20 procedural and cooking vocabulary words
+**Target**: Memorize and correctly use 20 procedural and KBC vocabulary words related to digital safety, mental health, and eco-friendly thaharah habits.
 
 ### **New Vocabulary Words**
 
 | English | Indonesian | Example |
 |---------|------------|---------|
-| Instructions | Instruksi | Follow the instructions carefully |
-| Materials | Bahan-bahan | We need materials to cook |
-| Steps | Langkah-langkah | There are five steps |
-| First | Pertama | First, wash your hands |
-| Then | Kemudian | Then, add the sugar |
-| Next | Selanjutnya | Next, mix the ingredients |
-| After that | Setelah itu | After that, cook for 5 minutes |
-| Finally | Akhirnya | Finally, serve the food |
-| Mix | Mencampur | Mix the flour and water |
-| Stir | Mengaduk | Stir the soup slowly |
-| Pour | Menuang | Pour the water into the glass |
-| Add | Menambahkan | Add salt to taste |
-| Heat | Memanaskan | Heat the oil in a pan |
-| Boil | Merebus | Boil the water for 10 minutes |
-| Cut | Memotong | Cut the vegetables |
-| Wash | Mencuci | Wash the rice |
-| Prepare | Menyiapkan | Prepare all ingredients |
-| Serve | Menyajikan | Serve the dish hot |
-| Recipe | Resep | This is my favorite recipe |
-| Ingredient | Bahan | What ingredients do we need? |
+| Instructions | Instruksi / Petunjuk | Follow the instructions carefully to stay safe online. |
+| Steps | Langkah-langkah | There are five simple steps to conserve water during wudhu. |
+| Procedure | Prosedur | This procedure text explains how to protect your mental health. |
+| Tips | Tips / Saran | Read these tips before posting on social media. |
+| Manual | Manual / Panduan | Read the school manual for waste segregation. |
+| Imperative | Kalimat Perintah | Use imperative verbs like 'turn off' and 'limit'. |
+| Sequence | Urutan | Arrange the steps in logical sequence. |
+| Conserve | Menghemat / Melestarikan | Always conserve water when performing ritual purification. |
+| Digital Detox | Istirahat Digital | Take a digital detox to refresh your mind. |
+| Well-Being | Kesejahteraan / Kesehatan | Protecting your mental well-being is a form of Cinta Diri. |
+| Cyberbullying | Perundungan Siber | Never engage in cyberbullying on social media. |
+| Empathy | Empati | Show empathy to your classmates online and offline. |
+| Notification | Notifikasi / Pemberitahuan | Turn off non-essential notifications during study time. |
+| Screen Time | Waktu Layar | Limit your daily screen time to avoid brain fatigue. |
+| Rinse | Membilas | Rinse your mouth gently during wudhu. |
+| Stream | Aliran Air | Keep the water stream small to prevent wastage. |
+| Intention | Niat | Perform wudhu with a clear intention and pure heart. |
+| Avoid | Menghindari | Avoid posting negative comments on public forums. |
+| Unfollow | Berhenti Mengikuti | Unfollow toxic accounts to protect your peace of mind. |
+| Stewardship | Pengelolaan / Amanah | Caring for the environment is our stewardship on earth. |
 
 ### **Vocabulary Exercise**
-Fill in the blanks with the correct procedural words:
 
-1. _______, wash all the vegetables.
-2. _______ the water until it boils.
-3. _______ all the ingredients in a bowl.
-4. _______ that, add the spices.
-5. _______, serve the food while it's hot.
+Fill in the blanks with the correct words from the table above:
 
-**Assessment**: Students must memorize and correctly use 16 out of 20 vocabulary words (80% accuracy).
+1. To protect your mental health, try to _______ your daily screen time on social media.
+2. When performing wudhu, turn on the water tap with a small _______ to avoid wasting water.
+3. Showing _______ to others on digital platforms reflects our commitment to Cinta Diri dan Sesama.
+4. Always follow the step-by-step _______ in the manual to compost organic waste.
+5. If an online account causes you stress, it is wise to _______ it for your peace of mind.
+
+**Assessment**: Students must memorize and correctly use at least 16 out of 20 vocabulary words (80% accuracy) in sentence construction and quizzes.
 
 ---
 
 ## **B. LISTENING**
 
-**Target**: Understand procedural instructions given orally
+**Target**: Understand spoken procedural tips and manuals, sequence steps, and extract specific details.
+
+[Audio](../../../docs/procedure-x-1-act1.mp3 ":include :type=audio")
 
 ### **Listening Activity 1: Listen and Number**
-Listen to the teacher read the steps for making instant noodles. Number the steps in the correct order:
 
-( ) Add the seasoning powder
-( ) Pour hot water into the cup
-( ) Wait for 3 minutes
-( ) Open the noodle cup
-( ) Stir and enjoy
-( ) Remove the lid
+Listen to the audio track describing the 6 steps of practicing water-saving wudhu (eco-friendly thaharah). Number the steps from 1 to 6 in the order you hear them:
+
+* ( &nbsp;&nbsp;&nbsp; ) Rinse your mouth and cleanse your nose gently using a minimal amount of water.
+* ( &nbsp;&nbsp;&nbsp; ) Wash both feet up to the ankles and turn off the water tap completely.
+* ( &nbsp;&nbsp;&nbsp; ) Turn on the water tap with a very small stream to avoid wasting water.
+* ( &nbsp;&nbsp;&nbsp; ) Wash both hands up to the wrists three times while maintaining a mindful heart.
+* ( &nbsp;&nbsp;&nbsp; ) Wash your arms up to the elbows and wipe your head and ears carefully.
+* ( &nbsp;&nbsp;&nbsp; ) Wash your full face three times with intention and gratitude to Allah.
 
 ### **Listening Activity 2: Listen and Complete**
-Listen to the recipe and fill in the missing words:
 
-**How to Make Fried Rice**
+Listen to the tips for protecting digital mental health and fill in the missing words in the passage below:
 
-Materials:
-- 2 cups of _______ rice
-- 2 _______
-- 1 onion
-- Salt and _______
+1. First, _______ your daily screen time on social media platforms to avoid mental fatigue.
+2. Second, turn off non-essential _______ so you can stay focused during your study time.
+3. Third, _______ accounts that trigger negative emotions, anxiety, or unhealthy comparison.
+4. Fourth, practice _______ communication by posting kind words and avoiding cyberbullying.
+5. Fifth, take regular digital _______ breaks, especially before going to sleep at night.
 
-Steps:
-1. _______ the oil in a pan.
-2. Add the _______ and cook until fragrant.
-3. Add the _______ and scramble them.
-4. Add the rice and _______ well.
-5. Season with _______ and pepper.
+### **Listening Activity 3: Listen and True/False**
 
-### **Listening Activity 3: Listen and Draw**
-Listen to the instructions for folding a simple paper airplane. Draw each step as you hear it.
+Listen to the statements in the audio track and mark **T** (True) or **F** (False):
 
-**Assessment**: Students must correctly identify and sequence 5 out of 6 procedural steps from listening (83% accuracy).
+1. [ &nbsp;&nbsp; ] Turning on the water tap with a full stream is recommended during wudhu.
+2. [ &nbsp;&nbsp; ] Prophet Muhammad taught us to avoid wasting water even when performing ritual purification.
+3. [ &nbsp;&nbsp; ] Keeping all social media notifications active helps improve study concentration.
+4. [ &nbsp;&nbsp; ] Posting kind words on social media is a form of Cinta Diri and Sesama.
+5. [ &nbsp;&nbsp; ] Taking a digital detox before sleeping promotes better mental health and restful sleep.
+
+**Assessment**: Students must correctly sequence at least 5 out of 6 steps in Activity 1, fill in 4 out of 5 words in Activity 2, and answer 4 out of 5 T/F items correctly (80% overall accuracy).
 
 ---
 
 ## **C. SPEAKING**
 
-**Target**: Give clear procedural instructions orally
+**Target**: Give clear procedural tips and instructions orally using imperative verbs and sequence markers with polite, compassionate intonation.
 
-### **Speaking Activity 1: How to Make Your Favorite Drink**
-Explain to your partner how to make your favorite drink using these expressions:
-- "First, you need..."
-- "Then, you..."
-- "Next, you should..."
-- "After that..."
-- "Finally..."
+### **Speaking Activity 1: Giving Digital Self-Care Tips in Pairs**
 
-### **Speaking Activity 2: Classroom Instructions**
-Give your classmate instructions on how to:
-1. Sharpen a pencil
-2. Use a dictionary
-3. Clean the whiteboard
-4. Organize their desk
+In pairs, roleplay a conversation where Student A asks for advice on managing screen-time stress, and Student B provides 4 procedural tips using the following useful expressions:
 
-Use clear command words: wash, take, put, open, close, etc.
+* **Starting**: *"Here are a few simple tips you can follow..."*
+* **First Step**: *"First, make sure to limit your..."*
+* **Next Steps**: *"Then, try turning off...", "After that, remember to unfollow..."*
+* **Closing**: *"Finally, take a break before bed. Doing this shows love for yourself!"*
 
-### **Speaking Activity 3: Recipe Challenge**
-Work in pairs. Student A explains how to make a simple snack (sandwich, salad, etc.). Student B listens and asks questions if something is unclear.
+### **Speaking Activity 2: Micro-Demonstration of Eco-Wudhu**
 
-**Useful expressions:**
-- "Could you repeat that?"
-- "What comes after...?"
-- "How long should I...?"
-- "What do you mean by...?"
+In groups of 3-4, demonstrate orally to your group how to perform wudhu with water conservation at school. Use gestures and clear imperative sentences (*"Turn the tap slowly...", "Do not let water spill excessively..."*).
 
-**Assessment**: Students must speak clearly using proper sequence words and imperative verbs with appropriate pronunciation and intonation.
+**Assessment Criteria**:
+- **Pronunciation & Clarity**: Clear articulation of action verbs and technical words.
+- **Fluency & Sequencing**: Smooth transition using *first, next, then, finally*.
+- **KBC Integration**: Empathetic tone and expression of *Cinta Lingkungan* and *Cinta Diri & Sesama*.
 
 ---
 
 ## **D. READING**
 
-**Target**: Understand the structure and content of procedure texts
+**Target**: Analyze authentic procedure text, identify generic structure, main idea, specific details, inferences, and reflect on KBC values.
 
-### **Reading Text 1**
+### **Reading Text**
 
-**How to Make a Cup of Tea**
+> ### **How to Maintain Mental Well-Being in the Digital Age: Essential Tips for Teenagers**
+>
+> In today's hyper-connected world, social media offers incredible opportunities to learn and connect with friends. However, excessive screen time and toxic online interactions can harm your emotional health. Practicing *Cinta Diri dan Sesama* (Love for Self and Others) begins with taking control of your digital environment. Here are essential step-by-step tips to safeguard your digital well-being:
+>
+> **Goal**: To maintain healthy digital habits and protect mental well-being on social media.
+>
+> **Requirements**: A smartphone or computer, self-awareness, and a commitment to digital self-care.
+>
+> **Steps / Tips**:
+> 1. **Set strict screen-time boundaries**: Allocate specific time slots for checking social media. Avoid using devices during meals and at least 30 minutes before bedtime to ensure restful sleep.
+> 2. **Filter your social media feed mindfully**: Audit the accounts you follow. Unfollow or mute pages that induce anxiety, body dissatisfaction, or envy. Instead, follow accounts that share positive, educational, and spiritual inspiration.
+> 3. **Turn off non-urgent notifications**: Disable instant pop-ups for social apps. This simple step prevents constant distractions and allows your mind to focus deeply on studying (*Cinta Ilmu*).
+> 4. **Engage in compassionate communication**: Before posting a comment or sharing content, ask yourself: *"Is it true? Is it necessary? Is it kind?"* Refrain from forwarding unverified rumors (*fitnah*) or engaging in harsh arguments (*namimah*).
+> 5. **Schedule a weekly digital detox**: Dedicate one day or half a day every weekend to stay offline. Reconnect with nature, spend quality time with family, read books, and reflect on Allah's blessings (*Cinta Allah & Lingkungan*).
+>
+> By applying these simple tips consistently, you transform technology into a tool for empowerment and spreading love rather than a source of stress.
 
-**Goal:** To make a delicious cup of tea
+### **Comprehension Questions**
 
-**Materials:**
-- 1 tea bag or 1 teaspoon of tea leaves
-- 1 cup of hot water
-- Sugar (optional)
-- Milk (optional)
+1. **Main Idea**: What is the primary purpose of the reading text above?
+2. **Detailed Information**: What are three specific actions recommended in Step 1 and Step 2 to protect sleep quality and mental peace?
+3. **Inference**: Why does turning off non-urgent notifications help students embody the value of *Cinta Ilmu*?
+4. **Vocabulary & Reference**: Find words in the text that mean:
+   - (a) *"Excessive or damaging online behavior towards emotional health"*
+   - (b) *"Refrain from / stop yourself from doing something"*
+5. **KBC Reflection**: How does asking *"Is it true? Is it necessary? Is it kind?"* before commenting demonstrate both *Cinta Diri* and *Cinta Sesama* in your daily digital life?
 
-**Steps:**
-1. First, boil water in a kettle.
-2. Put the tea bag in a cup.
-3. Pour the hot water over the tea bag.
-4. Let the tea steep for 3-5 minutes.
-5. Remove the tea bag.
-6. Add sugar and milk if desired.
-7. Stir well and enjoy your tea.
-
-**Comprehension Questions:**
-1. What is the goal of this procedure text?
-2. How many materials do you need?
-3. What is the first step?
-4. How long should you let the tea steep?
-5. When do you add sugar and milk?
-
-### **Reading Text 2**
-
-**How to Use a Dictionary**
-
-**Goal:** To find the meaning of unknown words
-
-**Materials:**
-- A dictionary (paper or digital)
-- The word you want to look up
-
-**Steps:**
-1. Think about the first letter of the word.
-2. Open the dictionary to that letter section.
-3. Look for the second letter, then the third.
-4. Find your word in alphabetical order.
-5. Read the definition carefully.
-6. Check if there are example sentences.
-7. Practice using the word in your own sentence.
-
-**Analysis Questions:**
-1. What type of text is this? How do you know?
-2. Identify the three parts of this procedure text.
-3. Find all the imperative verbs in the steps.
-4. Which temporal connectives are used?
-5. What is the social function of this text?
-
-**Assessment**: Students must correctly answer 4 out of 5 comprehension questions and identify text structure components accurately.
+**Assessment**: Students must correctly answer at least 4 out of 5 comprehension questions with clear, well-supported sentences.
 
 ---
 
 ## **E. WRITING**
 
-**Target**: Write a simple procedure text with correct structure
+**Target**: Produce a complete, well-structured procedure text (Tips or Manual format) incorporating generic structure, imperative verbs, sequence connectors, and KBC themes.
 
-### **Writing Activity 1: Complete the Procedure Text**
+### **Writing Assignment**
 
-Fill in the missing parts:
+Choose **ONE** of the following topics and write a clear, 5-step procedure text (120-150 words):
 
-**How to _______**
+* **Option A (Digital Safety & Mental Health)**: *"Tips to Prevent Cyberbullying and Create a Loving Online Class Group"* (Theme: Cinta Diri & Sesama).
+* **Option B (Eco-Friendly School Manual)**: *"Manual for Water Conservation and Cleanliness in Madrasah Wudhu Facilities"* (Theme: Cinta Lingkungan & Cinta Allah).
 
-**Goal:** _______
+### **Writing Guidelines**
 
-**Materials:**
-- _______
-- _______
-- _______
+1. **Title / Goal**: Clearly state what the tips or manual will achieve.
+2. **Requirements / Materials**: List tools, materials, or mindsets needed.
+3. **Steps**: Write at least 5 sequenced steps using **Imperative Verbs** (*Set, Filter, Clean, Conserve, Respect*) and **Temporal Connectives** (*First, Second, Next, After that, Finally*).
+4. **KBC Reflection Note**: Add a concluding 1-2 sentence reflection linking the procedure to Panca Cinta values.
 
-**Steps:**
-1. First, _______
-2. Then, _______
-3. Next, _______
-4. After that, _______
-5. Finally, _______
-
-### **Writing Activity 2: Reorder the Steps**
-These steps for making a paper boat are mixed up. Rewrite them in the correct order:
-
-- Fold the triangle down to make the boat shape
-- Take a rectangular piece of paper
-- Open the triangle to form a square
-- Fold the paper in half lengthwise
-- Make two triangle folds at the top
-- Pull the ends to create the boat
-
-**Correct Order:**
-1. _______
-2. _______
-3. _______
-4. _______
-5. _______
-6. _______
-
-### **Writing Activity 3: Write Your Own Procedure Text**
-Choose one of these topics and write a complete procedure text:
-
-**Topics:**
-- How to make your bed
-- How to brush your teeth properly
-- How to send a text message
-- How to water a plant
-- How to organize your school bag
-
-**Writing Guidelines:**
-- Include Goal, Materials, and Steps
-- Use imperative verbs (wash, take, put, etc.)
-- Use temporal connectives (first, then, next, finally)
-- Write 5-7 clear steps
-- Make sure your instructions are easy to follow
-
-**Assessment**: Students must write a procedure text with correct structure (goal, materials, steps), appropriate use of imperative verbs and temporal connectives.
+**Assessment**: Writing will be evaluated using the scoring rubric below based on text structure, grammar accuracy, vocabulary choice, and KBC value integration.
 
 ---
 
-## **ASSESSMENT RUBRIC**
+## **F. ASSESSMENT RUBRIC**
 
-| Features   | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
-|------------|------------|-----------|-----------|-----------|
-| **Vocabulary** | Memorizes and uses 20/20 procedural words correctly with excellent understanding | Memorizes and uses 16-19/20 words correctly with good understanding | Memorizes and uses 13-15/20 words correctly with fair understanding | Memorizes and uses 10-12/20 words correctly with basic understanding |
-| **Listening** | Understands and follows all oral instructions perfectly, sequences steps correctly | Understands and follows most oral instructions, sequences 5/6 steps correctly | Understands and follows basic oral instructions, sequences 4/6 steps correctly | Understands and follows simple oral instructions with some difficulty |
-| **Speaking** | Gives extremely clear instructions using perfect sequence words and imperative verbs | Gives clear instructions using appropriate sequence words and imperative verbs | Gives understandable instructions using basic sequence words and some imperative verbs | Gives simple instructions with limited use of procedural language |
-| **Reading** | Demonstrates excellent comprehension of procedure text structure and content | Demonstrates good comprehension of procedure text structure and most content | Demonstrates basic comprehension of procedure text structure and some content | Demonstrates limited comprehension of procedure text with support |
-| **Writing** | Writes perfect procedure text with correct structure, imperative verbs, and temporal connectives | Writes good procedure text with mostly correct structure and appropriate language | Writes acceptable procedure text with basic structure and some procedural language | Writes simple procedure text with minimal structure and limited procedural language |
-
----
-
-**Teacher's Notes:** 
-This LKPD is designed to provide comprehensive practice in all language skills related to procedure texts. Students should complete this after the introductory lesson to reinforce understanding of text structure, practice following and giving instructions, and develop their ability to write clear procedural texts. The activities progress from receptive skills (listening/reading) to productive skills (speaking/writing) to ensure scaffolded learning.
+| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+| --- | --- | --- | --- | --- |
+| **Vocabulary** | Memorizes and uses 18-20 target words correctly in context with 90-100% accuracy; demonstrates rich understanding of digital safety and eco-friendly terms. | Memorizes and uses 15-17 target words correctly with 80-89% accuracy; minor errors in word form or context. | Memorizes and uses 12-14 target words with 70-79% accuracy; occasional misuse of procedural terms. | Memorizes fewer than 12 target words (<70% accuracy); struggles to apply vocabulary in sentences. |
+| **Listening** | Correctly answers 90-100% of listening exercises (sequencing 6/6 steps, filling 5/5 blanks, 5/5 T/F items); identifies implicit procedural details easily. | Correctly answers 80-89% of listening exercises (sequencing 5/6 steps, filling 4/5 blanks, 4/5 T/F items); good overall comprehension. | Correctly answers 70-79% of listening exercises (sequencing 4/6 steps, filling 3/5 blanks, 3/5 T/F items); requires minor repetition. | Correctly answers below 70% of listening tasks; struggles with oral sequence markers and action verbs. |
+| **Speaking** | Delivers oral tips/demo fluently with clear pronunciation, proper intonation, logical sequence connectors, and authentic expression of KBC values. | Delivers oral tips clearly with minor pauses, accurate pronunciation of key verbs, and good application of sequence markers and KBC tone. | Delivers basic oral tips with noticeable hesitation; minor pronunciation errors but communication remains understandable. | Speaks with frequent hesitation, unclear pronunciation, missing sequence markers, and needs heavy teacher prompting. |
+| **Reading** | Answers all 5 comprehension questions correctly with deep text analysis, accurate inference, and thoughtful KBC value reflection. | Answers 4 out of 5 comprehension questions correctly with clear text evidence and good reflection on KBC values. | Answers 3 out of 5 questions correctly; basic understanding of main idea but struggles with inference or vocabulary context. | Answers fewer than 3 questions correctly (<60%); difficulty identifying generic structure or text details. |
+| **Writing** | Writes a complete 5-step procedure text with accurate goal, logical sequence, flawless imperative grammar, rich procedural vocabulary, and clear KBC reflection. | Writes a complete procedure text with minor grammatical errors in imperatives; good sequence, clear goal, and meaningful KBC reflection. | Writes a procedure text with 3-4 steps; minor errors in sequence connectors or imperative structure; basic KBC note. | Writes incomplete procedure text (<3 steps); frequent grammatical errors, missing imperative verbs, and lacks KBC alignment. |

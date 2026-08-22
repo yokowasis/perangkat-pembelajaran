@@ -1,230 +1,220 @@
-# LKPD Bahasa Inggris 2
+# LKPD Bahasa Inggris (Lembar Kerja Peserta Didik)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
 **Nama Siswa** :  
-**Kelas** :  
-**Pokok Bahasan** : Descriptive Text (Advanced Practice)
+**Kelas** : X (Sepuluh)  
+**Pokok Bahasan** : Descriptive Text (Meetings 3-4: Role Models of Noble Character & Infographic Presentation)  
+**Nilai Kurikulum Berbasis Cinta (KBC)** : Cinta Allah & Rasul-Nya, Cinta Ilmu, Cinta Diri & Sesama  
 
 ---
 
 ## **A. VOCABULARY**
 
-**Target**: Memorize 20 advanced descriptive words and expressions
+**Target**: Memorize and correctly use 15 advanced descriptive words focusing on noble character traits (*akhlak karimah*) and visual presentation terms.
 
-### **Advanced Descriptive Vocabulary**
+### **New Vocabulary Words**
 
-| English | Indonesian | Example |
-|---------|------------|---------|
-| Gorgeous | Sangat cantik | The sunset is gorgeous |
-| Enormous | Sangat besar | An enormous elephant |
-| Tiny | Sangat kecil | A tiny ant |
-| Brilliant | Cemerlang/Brilian | Brilliant colors |
-| Magnificent | Megah | A magnificent palace |
-| Elegant | Anggun | An elegant dress |
-| Rough | Kasar | Rough surface |
-| Smooth | Halus | Smooth skin |
-| Sparkling | Berkilau | Sparkling water |
-| Gloomy | Suram | A gloomy day |
-| Cheerful | Ceria | A cheerful person |
-| Mysterious | Misterius | A mysterious place |
-| Cozy | Nyaman | A cozy room |
-| Spacious | Luas | A spacious house |
-| Ancient | Kuno | Ancient building |
-| Modern | Modern | Modern technology |
-| Delicious | Lezat | Delicious food |
-| Fragrant | Harum | Fragrant flowers |
-| Noisy | Berisik | A noisy street |
-| Peaceful | Damai | A peaceful garden |
+| English | Indonesian | Example Sentence |
+| ------- | ---------- | ---------------- |
+| Trustworthy (*Amanah*) | Terpercaya / Amanah | Prophet Muhammad saw. was famous as *Al-Amin* because he was always trustworthy. |
+| Truthful (*Siddiq*) | Jujur / Siddiq | A truthful student speaks honest words without fear or deceit. |
+| Wise (*Fathanah*) | Cerdas / Bijaksana | A wise teacher solves problems with patience and deep understanding. |
+| Benevolent (*Rahmah*) | Penuh kasih sayang | Allah Swt. is the Most Benevolent and Most Merciful. |
+| Virtuous | Berakhlak mulia | She is a virtuous girl who always helps elders in her neighborhood. |
+| Selfless | Tanpa pamrih / Ikhlas | His selfless dedication to community service inspires all of us. |
+| Empathetic | Empatis / Peduli | An empathetic listener seeks to connect before giving corrections. |
+| Respectful (*Adab*) | Beradab / Santun | Students must maintain a respectful attitude toward teachers and knowledge. |
+| Mindful | Berkesadaran | Mindful learning helps us appreciate every lesson with focus and peace. |
+| Meaningful | Bermakna | Doing small acts of kindness makes our lives truly meaningful. |
+| Harmonic | Harmonis | Living in a harmonic community requires tolerance and mutual respect. |
+| Aesthetic | Estetis / Indah | She designed an aesthetic infographic with pleasing colors and clear layout. |
+| Captivating | Menawan / Memikat | The presenter delivered a captivating story about an inspiring leader. |
+| Eco-conscious | Sadar lingkungan | Eco-conscious citizens avoid wasting energy and dumping garbage recklessly. |
+| Modest | Sederhana / Tawadhu | Despite her wealth, she remains very modest in her speech and clothing. |
 
 ### **Vocabulary Exercise**
-Choose the best descriptive word for each sentence:
 
-1. The _______ castle stood on top of the mountain. (ancient/modern)
-2. Her _______ smile made everyone happy. (gloomy/cheerful)
-3. The room was _______ with comfortable furniture everywhere. (tiny/cozy)
-4. The _______ diamond ring sparkled in the sunlight. (rough/sparkling)
-5. We could smell the _______ roses from the garden. (fragrant/noisy)
+Fill in the blanks with the correct vocabulary word from the table above:
 
-**Assessment**: Students must memorize and correctly use 16 out of 20 advanced vocabulary words (80% accuracy).
+1. A good student shows a ____________ attitude by listening attentively when the teacher speaks (*Cinta Ilmu*).
+2. Prophet Muhammad saw. possessed a ____________ character that brought mercy to all of creation (*Rahmatan lil 'alamin*).
+3. Tariq created a very ____________ poster that neatly combined pictures and descriptive sentences.
+4. Being ____________ means putting the needs of others before one's own comfort.
+5. In KBC, learning should be mindful, ____________, and joyful for every child.
+
+**Assessment**: Students must correctly match and use at least 12 out of 15 vocabulary words (80% accuracy).
 
 ---
 
 ## **B. LISTENING**
 
-**Target**: Understand detailed descriptive passages
+**Target**: Extract key information, structural features, and moral values from spoken descriptive monologues and presentations.
 
-### **Listening Activity 1: Complete the Description**
-Listen to the detailed description and fill in the missing adjectives:
+[Audio](../../../docs/descriptive-x-2-act1.mp3 ":include :type=audio")
 
-**My Dream House**
+### **Listening Activity 1: Listen and Complete the Fact File**
 
-My dream house is _______ and _______. It has a _______ garden with _______ flowers. The living room is _______ with _______ furniture. There's a _______ kitchen where I can cook _______ meals. My bedroom is _______ and _______, perfect for sleeping peacefully.
+Listen to the audio description of Ibu Rahma and complete the missing information:
 
-### **Listening Activity 2: Listen and Match**
-Listen to descriptions of five different places. Match each description to the correct picture:
+```text
+Name of Person : Ibu Rahma
+Role in Society: Devoted (1) ________________________ Leader
+Appearance     : Soft-spoken, calm presence, wears a simple neat (2) ________________________
+Key Traits     : Trustworthy, honest, and deeply (3) ________________________
+Community Work : Organizes free tutoring for children and manages a (4) ________________________ program
+KBC Message    : Loving Allah means serving humanity with sincerity, modesty, and (5) ________________________
+```
 
-A. Beach resort  
-B. Mountain cabin  
-C. City apartment  
-D. Countryside farm  
-E. Desert oasis  
+### **Listening Activity 2: Sambori Village Comprehension**
 
-1. Description 1: _____
-2. Description 2: _____
-3. Description 3: _____
-4. Description 4: _____
-5. Description 5: _____
+Listen to the narration about Sambori Village in Bima highlands and choose the correct answer:
 
-### **Listening Activity 3: Note-Taking**
-Listen to the description of a famous landmark. Take notes and then answer questions:
+1. Where is Sambori Village located?  
+   a. On a coastal beach  
+   b. In the highlands of Bima  
+   c. In an urban city center  
+2. What is the name of the traditional wooden houses in Sambori?  
+   a. Rumah Gadang  
+   b. Tongkonan  
+   c. Uma Lengge  
+3. How do the villagers treat their surrounding forests?  
+   a. They preserve them with deep respect and avoid destruction (*fasad*).  
+   b. They cut down trees for commercial factories.  
+   c. They ignore the forest completely.
 
-**Notes:**
-- Location: _____________
-- Size: _____________
-- Color: _____________
-- Special features: _____________
-- History: _____________
+### **Listening Activity 3: Infographic Presentation Audio**
 
-**Assessment**: Students must accurately identify and record 4 out of 5 key descriptive details from listening passages.
+Listen to Tariq presenting his infographic about Maya, an anti-bullying activist, and complete the table:
+
+| Field | Information from Listening |
+| ----- | -------------------------- |
+| **Name of Activist** | Maya (16 years old) |
+| **Main Campaign** | Youth (1) ________________________ campaign |
+| **Three Main Traits** | Honesty, active listening skills, and (2) ________________________ |
+| **Communication Method** | Practices (3) ________________________ communication |
+
+**Assessment**: Students must accurately complete at least 8 out of 10 listening items (80% accuracy).
 
 ---
 
 ## **C. SPEAKING**
 
-**Target**: Give detailed descriptions using varied vocabulary
+**Target**: Present an infographic descriptive project in front of peers with confidence, clear articulation, and respectful audience adab.
 
-### **Speaking Activity 1: Compare and Contrast**
-Look at two pictures and describe the differences using comparative forms:
-- "Picture A shows a _______ house, but Picture B shows a _______ house."
-- "The first garden is more _______ than the second one."
-- "The people in Picture A look _______, while those in Picture B appear _______."
+### **Speaking Activity 1: Infographic Presentation (Show and Tell)**
 
-### **Speaking Activity 2: Guided Tour**
-Imagine you're a tour guide. Give a 2-minute description of:
-1. Your school
-2. Your neighborhood  
-3. A famous place in your city
-4. Your ideal vacation spot
+Present your Infographic about a **Role Model of Noble Character** or a **Sacred/Historical Place** to your classmates in a 3-minute oral presentation. Use the following guide:
 
-**Use these expressions:**
-- "As you can see..."
-- "Notice how..."
-- "The most striking feature is..."
-- "What makes this special is..."
+1. **Greeting & Introduction**:  
+   *"Assalamu'alaikum wr. wb. Good morning everyone. Today, I am honored to present my descriptive infographic..."*
+2. **Identification**:  
+   *"The title of my infographic is... I chose to describe [Person/Place] because..."*
+3. **Description & Key Features**:  
+   *"As you can see on my poster, his/her main traits are... Physically, he/she is... In daily life, he/she..."*
+4. **KBC Reflection & Conclusion**:  
+   *"This person/place teaches us the value of [Cinta Allah / Cinta Diri & Sesama / Cinta Lingkungan] by... Thank you for your kind attention."*
 
-### **Speaking Activity 3: Mystery Object**
-Describe an object without saying what it is. Your classmates guess:
+### **Speaking Activity 2: Peer Evaluation (Compassionate Communication)**
 
-**Example:**
-"It's small and rectangular. It's usually black or colorful. It has numbers and buttons. People use it to communicate. It fits in your pocket."
+After listening to your classmate's presentation, give them feedback using the **KBC Feedback Formula (Koneksi Sebelum Koreksi)**:
 
-**Assessment**: Students must speak fluently using varied descriptive vocabulary with clear pronunciation and engaging delivery.
+- **Step 1 (Pujian Tulus / Connection)**:  
+  *"I really loved how you described [Name/Place]. Your presentation was very clear and inspiring!"*
+- **Step 2 (Saran Santun / Construction)**:  
+  *"To make your presentation even better, you could speak slightly slower / add more adjectives."*
+
+### **Speaking Activity 3: Q&A and Group Discussion**
+
+Participate in asking and answering questions about the role models presented in class. Discuss how young madrasah students can emulate those noble traits in their daily school life.
+
+**Assessment**: Evaluated on delivery fluency, pronunciation accuracy, visual presentation integration, and compassionate peer interaction.
 
 ---
 
 ## **D. READING**
 
-**Target**: Analyze complex descriptive texts and identify literary devices
+**Target**: Read authentic descriptive texts, analyze structure, language features, and extract character values.
 
-### **Reading Text 1**
+### **Reading Text**
 
-**The Enchanted Forest**
+**Ibu Nur: A Living Example of Prophetic Compassion**
 
-Deep in the heart of the mountains lies an enchanted forest, mysterious and magnificent. Towering ancient trees stretch their gnarled branches toward the sky, creating a natural cathedral of green. Shafts of golden sunlight filter through the dense canopy, illuminating patches of emerald moss and sparkling dewdrops.
+Ibu Nur is a sixty-year-old community volunteer who lives near MAN 1 Kota Bima. She is a woman of small stature with a gentle voice and warm, smiling eyes that reflect deep inner peace. She dresses modestly in neat, simple clothing and walks with an active, energetic step despite her age.
 
-The forest floor is carpeted with a soft blanket of fallen leaves in brilliant shades of amber, crimson, and bronze. Delicate wildflowers peek through the undergrowth, their fragrant petals dancing in the gentle breeze. A crystal-clear stream winds its way through the woodland, its cheerful babbling echoing through the peaceful silence.
+Ibu Nur is widely respected for her virtuous character and selfless devotion to helping others. Every morning, she prepares free healthy meals for orphans and needy children in the village. She also runs a small community library in her front porch, encouraging neighborhood children to love reading and seek knowledge (*Cinta Ilmu*). When children make mistakes or disagree, Ibu Nur never scolds them harshly. She practices compassionate communication (*Koneksi Sebelum Koreksi*), listening gently to their feelings before guiding them with wise, loving words.
 
-This magical place seems untouched by time, where every corner holds secrets waiting to be discovered.
+For the people in our community, Ibu Nur is a true living example of prophetic compassion (*Rahmah*). She teaches us that loving Allah Swt. and Prophet Muhammad saw. is not just about words, but about bringing genuine benefit, love, and comfort to everyone around us.
 
-**Analysis Questions:**
-1. What mood does the author create in this description?
-2. Find five examples of sensory details (sight, sound, smell, touch, taste).
-3. Identify three metaphors or similes used in the text.
-4. What makes this description effective and engaging?
-5. How does the author organize the description (from general to specific, spatial order, etc.)?
+### **Comprehension Questions**
 
-### **Reading Text 2**
+1. **Main Idea**: What is the text about, and what makes Ibu Nur an inspiring role model?
+2. **Detail Extraction**: Mention three physical traits and three noble character traits of Ibu Nur described in the text.
+3. **Structural Analysis**: Identify the *Identification* paragraph and the *Description* paragraphs in the text.
+4. **Language Features**: Find three **Adjectives of Noble Character** and two **Simple Present Tense verbs** used in the text.
+5. **KBC Moral Reflection**: How does Ibu Nur exemplify *Cinta Allah & Rasul-Nya* and *Cinta Diri & Sesama* in her daily actions? How can you apply her example at school?
 
-**Character Description**
-
-Professor Elizabeth Hartwell was an extraordinary woman who commanded attention the moment she entered any room. Her silver hair was always pulled back in an elegant chignon, and her piercing blue eyes seemed to see straight into your soul. Despite being in her seventies, she moved with the grace of someone half her age.
-
-She dressed impeccably, favoring tailored suits in deep colors that complemented her dignified bearing. Her voice was melodious yet authoritative, and when she spoke, students hung on every word. Her office was a treasure trove of ancient books, exotic artifacts, and mysterious specimens that reflected her lifelong passion for archaeology.
-
-**Comprehension Questions:**
-1. What physical features are described?
-2. How does the author show Professor Hartwell's personality?
-3. What does her office reveal about her character?
-4. Find examples of descriptive adjectives used for her appearance.
-5. What overall impression does the reader get of this character?
-
-**Assessment**: Students must demonstrate deep understanding by analyzing descriptive techniques and identifying literary devices used in complex texts.
+**Assessment**: Students must answer at least 4 out of 5 comprehension questions correctly, demonstrating high-level critical thinking and value reflection.
 
 ---
 
 ## **E. WRITING**
 
-**Target**: Write sophisticated descriptive texts using advanced vocabulary and techniques
+**Target**: Produce a complete descriptive text project and design an aesthetic infographic poster.
 
-### **Writing Activity 1: Sensory Description**
-Write a paragraph describing a place using all five senses. Complete this template:
+### **Writing Activity 1: Drafting the Infographic Content**
 
-**My Favorite Place**
+Draft the text content for your infographic on a sheet of paper. Follow the required outline below:
 
-When I enter _______, the first thing I notice is _______. (sight)
-The air is filled with _______. (smell)
-I can hear _______. (sound)  
-When I touch _______, it feels _______. (touch)
-Sometimes I can taste _______. (taste)
+```text
+[TITLE OF INFOGRAPHIC]
+"A Role Model of Noble Character: [Name of Person]"
 
-This place makes me feel _______ because _______.
+1. IDENTIFICATION PARAGRAPH:
+   (Introduce who the person is, their status/relation, and why they inspire you).
 
-### **Writing Activity 2: Character Portrait**
-Create a detailed character description (100-120 words) including:
-- Physical appearance (face, hair, body, clothing)
-- Personality traits shown through actions
-- Special characteristics or habits
-- Overall impression
+2. DESCRIPTION PARAGRAPH:
+   (Describe physical traits, daily habits, noble character traits like Siddiq, Amanah, Rahmah, etc.).
 
-**Character Options:**
-- Your favorite teacher
-- A superhero you create
-- Someone you admire
-- A character from your imagination
+3. KEY ADJECTIVES (3 Bullet Points):
+   - Adjective 1: ____________________ (e.g. Selfless)
+   - Adjective 2: ____________________ (e.g. Compassionate)
+   - Adjective 3: ____________________ (e.g. Trustworthy)
 
-### **Writing Activity 3: Creative Description**
-Choose one topic and write a creative descriptive essay (150-180 words):
+4. KBC MORAL QUOTE / REFLECTIONS:
+   "Loving others is a true reflection of our love for Allah Swt."
+```
 
-**Topics:**
-- A magical garden
-- The perfect room
-- An unusual animal
-- A futuristic city
-- A abandoned castle
+### **Writing Activity 2: Infographic Poster Design**
 
-**Writing Guidelines:**
-- Use varied vocabulary (avoid repeating simple words)
-- Include sensory details (not just sight)
-- Organize your description logically
-- Use figurative language (similes, metaphors)
-- Create a clear mood or atmosphere
-- Edit for grammar and spelling
+Using Canva, PowerPoint, or drawing on cart paper, format your draft into a visually appealing infographic poster. 
 
-**Assessment**: Students must write sophisticated descriptions using advanced vocabulary, varied sentence structures, and effective organization with minimal errors.
+**Design Guidelines**:
+- Use clear headings and organized text blocks.
+- Add relevant photos/illustrations of your role model or place.
+- Ensure high color contrast for readability.
+- Highlight key adjectives and the KBC moral quote.
+
+### **Writing Activity 3: Final Project Self-Reflection Journal**
+
+Write a short reflection paragraph (50-80 words) answering these questions:
+- *What did you learn about descriptive writing during Unit 1?*
+- *How has learning through Kurikulum Berbasis Cinta (KBC) changed the way you view yourself and others?*
+
+**Assessment**: Writing and Infographic project evaluated based on text structure, grammatical accuracy, visual layout aesthetics, and depth of KBC character reflection.
 
 ---
 
 ## **ASSESSMENT RUBRIC**
 
-| Features   | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
-|------------|------------|-----------|-----------|-----------|
-| **Vocabulary** | Uses 20/20 advanced words accurately with sophisticated understanding and creative application | Uses 16-19/20 advanced words accurately with good understanding | Uses 13-15/20 advanced words accurately with fair understanding | Uses 10-12/20 advanced words with basic understanding |
-| **Listening** | Demonstrates excellent comprehension of complex descriptive passages, identifies all details accurately | Demonstrates good comprehension, identifies 4/5 key details accurately | Demonstrates basic comprehension, identifies 3/5 key details | Demonstrates limited comprehension, identifies 2-3/5 details with support |
-| **Speaking** | Delivers sophisticated descriptions using varied vocabulary, excellent fluency, and engaging presentation style | Delivers clear descriptions using good vocabulary and fluency with effective presentation | Delivers understandable descriptions using basic vocabulary with adequate presentation | Delivers simple descriptions with limited vocabulary but shows effort |
-| **Reading** | Demonstrates superior analytical skills, identifies all literary devices and techniques with insightful interpretation | Demonstrates good analytical skills, identifies most literary devices with sound interpretation | Demonstrates basic analytical skills, identifies some techniques with simple interpretation | Demonstrates limited analytical skills, identifies few techniques with support |
-| **Writing** | Produces sophisticated descriptive writing with advanced vocabulary, complex sentences, and excellent organization | Produces good descriptive writing with varied vocabulary and clear organization | Produces acceptable descriptive writing with basic vocabulary and simple organization | Produces simple descriptive writing with limited vocabulary but clear attempt |
+| Skill | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+| ----- | ---------- | --------- | --------- | --------- |
+| **Vocabulary** | Memorizes and uses 14-15/15 target words correctly with excellent understanding of noble character traits and presentation terminology. | Memorizes and uses 12-13/15 target words correctly with good contextual understanding. | Memorizes and uses 10-11/15 target words with basic understanding. | Memorizes and uses fewer than 10 words, requiring continuous assistance. |
+| **Listening** | Accurately completes 9-10/10 listening items showing deep comprehension of monologues, presentations, and character details. | Accurately completes 8/10 listening items showing strong listening comprehension. | Accurately completes 6-7/10 listening items showing basic comprehension. | Completes 5 or fewer listening items; struggles with audio content. |
+| **Speaking** | Delivers an outstanding, fluent infographic presentation with clear articulation, great confidence, and compassionate peer interaction. | Delivers a clear presentation with good pronunciation, strong visual integration, and polite peer feedback. | Delivers a basic presentation with occasional hesitations and simple peer feedback. | Delivers an incomplete presentation with frequent pauses and lacks confidence. |
+| **Reading** | Answers all 5 questions correctly with thorough text analysis, accurate structural breakdown, and profound KBC reflection. | Answers 4/5 questions correctly with good reading comprehension and clear structural identification. | Answers 3/5 questions correctly demonstrating basic reading understanding. | Answers 2 or fewer questions correctly; needs guidance to find information. |
+| **Writing** | Creates an exceptional infographic text project with complete Identification/Description structure, error-free present tense, aesthetic design, and deep KBC values. | Creates a well-organized infographic text with good language accuracy, neat visual layout, and clear KBC values. | Creates a simple infographic text with basic structure, minor language errors, and simple design. | Produces an unfinished text draft with major grammar errors and missing infographic elements. |
 
 ---
 
-**Teacher's Notes:** 
-This advanced LKPD is designed as a follow-up to LKPD 1, providing more challenging activities that develop higher-order thinking skills. Students practice analyzing literary techniques, using sophisticated vocabulary, and creating more complex descriptive texts. This worksheet should be used after students have mastered basic descriptive language from LKPD 1.
+**Teacher's Notes & Unit Summary:**  
+This LKPD serves as the capstone assessment for Grade X Unit 1: Descriptive Text. By combining Infographic creation, public presentation, and compassionate peer evaluation, students experience learning that is **Mindful, Meaningful, and Joyful (MJM)** while internalizing the core principles of **Kurikulum Berbasis Cinta (KBC)**.

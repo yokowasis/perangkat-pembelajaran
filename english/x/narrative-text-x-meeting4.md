@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
         <td>Kelas</td>
-        <td>X (Sepuluh)</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Narrative Text (Tingkat Dasar)</td>
+        <td>Narrative Text (Short Role-Play / Storytelling, Reflection, & Summative Evaluation)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (90 menit)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>4 (Presentasi dan Assessment Akhir)</td>
+        <td>4 (Unjuk Kerja Role-Play/Storytelling, Refleksi Karakter, dan Evaluasi Sumatif Unit 3)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan dan visual dalam bahasa Inggris untuk berkomunikasi sesuai dengan situasi, tujuan, dan pemirsa/pembacanya. Peserta didik menggunakan bahasa Inggris untuk menyampaikan keinginan/perasaan dan berdiskusi mengenai topik yang dekat dengan keseharian mereka.</td>
+        <td>Pada akhir Fase E, peserta didik memproduksi dan mempresentasikan teks lisan dan tulisan yang mengekspresikan gagasan, empati, serta pemahaman budaya dan nilai moral. Peserta didik menunjukkan kefasihan lisan, rasa percaya diri, dan apresiasi nilai-nilai kemanusiaan dalam pertunjukan cerita naratif.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Mempresentasikan narrative text secara lisan dengan expression yang baik</li><li>Mengevaluasi dan mengapresiasi karya narrative teman</li><li>Melakukan refleksi komprehensif tentang pembelajaran narrative text</li></ul></td>
+        <td><ul><li>Menyimak-Berbicara melalui penampilan *Role-Play / Oral Storytelling*</li><li>Mempresentasikan resolusi damai cerita dengan ekspresi dan pengucapan (*pronunciation & intonation*) yang jelas</li><li>Mengevaluasi secara sumatif penguasaan materi naratif dan refleksi nilai-nilai KBC</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mempresentasikan narrative text secara lisan dengan pronunciation, intonation, dan expression yang baik</li><li>Mendemonstrasikan storytelling techniques untuk engaging audience</li><li>Memberikan feedback konstruktif dan apresiasi terhadap karya teman</li><li>Melakukan self-assessment terhadap progress pembelajaran narrative text</li><li>Menunjukkan pemahaman komprehensif tentang narrative text melalui summative assessment</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menampilkan drama pendek (*short role-play*) atau bercerita lisan (*oral storytelling*) yang membawakan *alternative ending* berbasis welas asih secara percaya diri.</li><li>Menggunakan pengucapan (*pronunciation*), intonasi emosional, dan gestur tubuh yang tepat untuk menyampaikan pesan kedamaian.</li><li>Mengevaluasi pemahaman materi Unit 3 (Narrative Text: structure, language features, moral values) melalui evaluasi sumatif.</li><li>Melakukan refleksi diri komprehensif mengenai pertumbuhan karakter dan internalisasi **Panca Cinta** (Cinta Allah & Rasul-Nya, Cinta Ilmu, Cinta Lingkungan, Cinta Diri & Sesama).</li><li>Memberikan apresiasi bernilai kasih sayang (*compassionate peer feedback*) terhadap penampilan kelompok lain.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>How can we bring our stories to life through oral presentation?</li><li>What techniques make storytelling engaging and memorable?</li><li>How do we appreciate and learn from others' creative work?</li><li>What have we learned about storytelling and narrative writing?</li><li>How will narrative skills help us in future communication?</li></ol></td>
+        <td><ol><li>How does performing a story help us feel true empathy for the characters' emotions?</li><li>What elements of vocal expression and body language make storytelling powerful and touching?</li><li>How has our journey through Unit 3 shaped our understanding of love, nature, and peacemaking?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), diatur seperti storytelling circle untuk presentations</td>
+        <td>Indoor (kelas/panggung mini), dikondisikan sebagai *Storytelling Showcase Stage* yang meriah, apresiatif, dan bebas perundungan.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -97,7 +97,7 @@
     <tr>
         <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>Storytelling festival atau story slam event dimana siswa mempresentasikan narrative text mereka secara oral dengan expression, gesture, dan voice modulation, melatih performance skills dan stage presence</li><li>Readers theater atau dramatic reading session dimana siswa mengadaptasi narrative text menjadi script dan memperformkannya dengan pembagian peran, menggabungkan storytelling dengan drama</li><li>Podcast recording project dimana siswa merekam diri mereka membacakan atau menceritakan narrative text dengan sound effects dan background music untuk dipublikasikan di platform audio sekolah</li><li>Kunjungan ke teater lokal atau cultural center untuk menonton storytelling performance atau drama adaptasi dari literary works, memberikan exposure kepada professional storytelling dan performance techniques</li></ol></td>
+        <td>Integrasi P5-PPRA dan Kurikulum Berbasis Cinta (Panca Cinta Integration):<ol><li>**Madrasah Storytelling Festival "Voices of Love and Peace"**: Pameran pertunjukan cerita lisan di mana kelompok terbaik tampil di hadapan adik kelas atau acara peringatan hari besar madrasah.</li><li>**Reflective Video Vlog**: Mengunggah klip rekaman role-play pendek ke media sosial madrasah dengan tagar inspiratif #LoveAndPeaceInStorytelling.</li><li>**Peace Pledge Certificate**: Pembagian sertifikat apresiasi karakter bagi setiap siswa atas partisipasi aktif dan komitmen menjadi agen kedamaian di madrasah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +107,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Final revised narrative texts dari siswa</li><li>Storytelling tips dan presentation guidelines</li><li>Peer evaluation forms dan appreciation certificates</li><li>Self-assessment reflection worksheets</li><li>Summative assessment materials untuk comprehensive evaluation</li></ol></td>
+        <td><ol><li>Naskah *Role-Play / Storytelling Draft* yang telah direvisi dari Pertemuan 3.</li><li>Rubrik Penilaian Unjuk Kerja *Storytelling & Performance*.</li><li>Soal Evaluasi Sumatif Unit 3 Narrative Text (LKPD 2 Section E & Assessment Test).</li><li>Formulir Refleksi Karakter Panca Cinta.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Storytelling area dengan comfortable seating arrangement</li><li>Presentation timer untuk time management</li><li>Evaluation clipboards dan forms</li><li>Camera/phone untuk documenting storytelling sessions (optional)</li><li>Celebration materials: certificates, stickers, appreciation notes</li></ol></td>
+        <td><ol><li>Panggung mini / area depan kelas dengan properti sederhana (topeng kertas, kartu nama tokoh).</li><li>Mikrofon dan speaker (jika diperlukan).</li><li>Lembar penilaian dan kuesioner refleksi diri.</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +122,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Performance-based learning dengan oral storytelling presentations</li><li>Peer evaluation dan appreciation system</li><li>Reflective learning untuk self-assessment dan growth</li><li>Summative assessment untuk comprehensive evaluation</li><li>Celebratory learning untuk motivation dan achievement recognition</li></ol></td>
+        <td><ol><li>Tatap Muka (In-Person Learning).</li><li>**Performance-Based Learning** (Unjuk Kerja & Pameran Karya).</li><li>**Deep Learning** dengan Alur **MJM** (*Mindful → Meaningful → Joyful*).</li><li>**Compassionate Presentation & Authentic Peer Evaluation**.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -131,23 +131,23 @@
     </tr>
     <tr>
         <td></td>
-        <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Review journey pembelajaran narrative text dari pertemuan 1-3</li><li>Storytelling warm-up: guru demonstrates effective storytelling techniques</li><li>Explanation of presentation format dan evaluation criteria</li><li>Setting positive atmosphere untuk supportive audience behavior</li><li>Encouragement dan motivation untuk all storytellers</li></ol></td>
+        <td>Pendahuluan (15 menit)</td>
+        <td><ol><li>Guru membuka kelas dengan salam, senyuman, dan doa bersama.</li><li>**Warm-Up & Stage Preparation (Joyful Start)**: Guru memberikan dorongan semangat: *"Today is our celebration of peace and storytelling! Let's support every group with big applause and warm hearts"*.</li><li>Penjelasan tata tertib pertunjukkan drama/storytelling dan pengenalan lembar penilaian teman sebaya.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Storytelling Session 1 (25 menit): 6-7 siswa present their stories (3-4 menit each)</li><li>Peer Feedback Round 1 (10 menit): Audience memberikan appreciation dan constructive feedback</li><li>Storytelling Session 2 (25 menit): 6-7 siswa berikutnya present stories mereka</li><li>Peer Evaluation Activity (10 menit): Completing evaluation forms dan selecting favorite stories</li></ol></td>
+        <td>Kegiatan Inti (60 menit)</td>
+        <td><ol><li>**Storytelling Showcase (Performance-Based)**: Kelompok siswa secara bergantian tampil di depan kelas membawakan pertunjukkan drama pendek 3-5 menit atau *oral storytelling* bertema resolusi damai/rekonsiliasi.</li><li>**Compassionate Peer Feedback**: Setelah tiap pertunjukkan, penonton (teman-teman kelas) menyampaikan 2 hal yang paling disukai dari penampilan kelompok tersebut (*positive reinforcement*).</li><li>**Summative Evaluation Test (20 menit)**: Siswa secara mandiri mengerjakan tes evaluasi sumatif Unit 3 (menguji pemahaman struktur naratif, kosakata, dan analisis moral KBC).</li><li>**Comprehensive Character Reflection (10 menit)**: Siswa mengisi formulir refleksi pribadi Panca Cinta, merenungkan bagaimana pengalaman belajar naratif mengubah sikap empati mereka sehari-hari.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Storytellers sharing experience dan feelings tentang presenting</li><li>Audience sharing appreciation untuk creativity dan effort yang ditunjukkan</li><li>Group reflection tentang improvement dalam storytelling skills</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Siswa dan guru melakukan tepuk apresiasi bersama atas keberhasilan seluruh penampilan.</li><li>Guru menyampaikan ucapan terima kasih atas kerja keras dan ketulusan seluruh siswa.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (10 menit)</td>
-        <td><ol><li>Celebration of achievement dengan appreciation certificates</li><li>Summary of key learnings tentang narrative text dan storytelling</li><li>Self-assessment activity untuk personal growth reflection</li><li>Motivational closing: "You are all storytellers now - keep sharing your stories!"</li></ol></td>
+        <td><ol><li>Pengumuman apresiasi untuk berbagai kategori penampilan (Penampilan Terfavorit, Dialog Ter-Welas Asih, Dll).</li><li>Rangkuman penutup Unit 3 Narrative Text.</li><li>Doa syukur bersama atas kelancaran proses pembelajaran.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +157,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan mempresentasikan narrative text dengan effective storytelling</li><li>Quality of final written narrative text (revised version)</li><li>Keterampilan memberikan peer evaluation yang konstruktif dan supportive</li><li>Self-awareness terhadap learning progress dan achievement</li></ol></td>
+        <td><ol><li>Keterampilan lisan (*speaking, pronunciation, intonation, expression*) dalam role-play/storytelling.</li><li>Hasil evaluasi sumatif pengetahuan teks naratif (struktur, bahasa, pemahaman isi).</li><li>Refleksi internalisasi nilai-nilai Panca Cinta dalam kehidupan nyata.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Performance assessment: oral storytelling presentation</li><li>Product assessment: final written narrative text</li><li>Peer assessment: evaluation of classmates' stories dan presentations</li><li>Self-assessment: reflection pada learning journey dan personal growth</li></ol></td>
+        <td><ol><li>Assessment Sumatif: Tes Tertulis Unit 3 Narrative Text (LKPD 2 Assessment).</li><li>Assessment Performa: Rubrik Penampilan Role-Play / Storytelling.</li><li>Assessment Diri (*Self-Assessment*): Lembar Refleksi Karakter KBC.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: comprehensive understanding of narrative text structure, features, dan purpose</li><li>Keterampilan: storytelling, writing, listening, speaking, dan critical evaluation skills</li><li>Sikap: creativity, confidence, appreciation for others, dan positive attitude toward learning</li></ol></td>
+        <td><ol><li>Pengetahuan: Penguasaan konsep narrative text, vocabulary, dan moral values.</li><li>Keterampilan: Kelancaran berbicara bahasa Inggris, penguasaan panggung, dan kerja sama pertunjukan.</li><li>Sikap: Rasa percaya diri, sikap saling menghargai, dan komitmen kedamaian.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Storytelling rubric covering content, delivery, language use, dan audience engagement</li><li>Written narrative rubric untuk final text evaluation</li><li>Peer evaluation forms dengan structured criteria dan open feedback</li><li>Self-reflection portfolio review dan goal setting for future learning</li></ol></td>
+        <td><ol><li>Rubrik unjuk kerja *Storytelling & Drama Performance*.</li><li>Scoring sheet tes tertulis evaluasi sumatif.</li><li>Lembar refleksi diri berbasis kriteria Panca Cinta.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td><ol><li>Outstanding (A): Excellent storytelling dengan engaging delivery, well-crafted story, insightful peer feedback, strong self-awareness</li><li>Proficient (B): Good storytelling dengan clear delivery, well-organized story, constructive peer feedback, adequate self-reflection</li><li>Developing (C): Adequate storytelling dengan basic delivery, simple but complete story, basic peer feedback, some self-awareness</li><li>Beginning (D): Limited storytelling skills, incomplete story structure, minimal peer feedback, limited self-reflection</li></ol></td>
+        <td><ol><li>Sangat Baik (A: 90-100): Penampilan sangat fasih, intonasi dan ekspresi emosional sangat kuat, nilai tes sumatif ≥90, refleksi karakter sangat mendalam.</li><li>Baik (B: 80-89): Penampilan lancar, ekspresi jelas, nilai tes sumatif 80-89, refleksi karakter terisi dengan baik.</li><li>Cukup (C: 70-79): Penampilan cukup lancar dengan beberapa jeda, nilai tes sumatif 70-79, refleksi karakter standar.</li><li>Perlu Bimbingan (D: 60-69): Membutuhkan banyak bantuan saat tampil lisan dan perlu perbaikan nilai sumatif.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +187,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Bagaimana progress siswa dari pertemuan 1 sampai 4 dalam memahami dan creating narrative texts?</li><li>Seberapa efektif storytelling approach dalam building confidence dan communication skills?</li><li>Apakah celebration dan peer appreciation activities meningkatkan motivation untuk learning?</li><li>Bagaimana cara mengembangkan narrative skills siswa untuk level yang lebih advanced?</li></ol></td>
+        <td><ol><li>Apakah pertunjukan *role-play* mencerminkan transformasi pemahaman siswa terhadap nilai welas asih?</li><li>Bagaimana perkembangan rasa percaya diri lisan siswa dari Pertemuan 1 hingga Pertemuan 4?</li><li>Apa poin-poin yang perlu diperbaiki untuk materi unit selanjutnya?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Apa yang paling kalian sukai dari belajar narrative text dan storytelling?</li><li>Bagaimana perasaan kalian tentang kemampuan bercerita kalian sekarang dibandingkan awal pembelajaran?</li><li>Keterampilan apa yang kalian dapatkan yang berguna untuk komunikasi sehari-hari?</li><li>Cerita seperti apa yang ingin kalian tulis dan ceritakan di masa depan?</li></ol></td>
+        <td><ol><li>Bagaimana perasaanmu setelah berhasil tampil membawakan cerita di depan teman-teman?</li><li>Apa perubahan terbesar pada caramu memandang masalah atau perbedaan setelah mempelajari Unit Narrative Text ini?</li><li>Bagaimana kamu akan menerapkan nilai-nilai kedamaian ini di rumah dan di madrasah?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +203,9 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X Kurikulum Merdeka</li>
-                <li>Palmer, P. (2020). The Art of Storytelling: Creative Ways to Present Your Message</li>
-                <li>Heath, C. & Heath, D. (2021). Made to Stick: Why Some Ideas Survive and Others Die</li>
-                <li>Fletcher, R. (2019). What a Writer Needs: Strategies for Teaching Writing</li>
-                <li>Rosen, B. (2020). Shapers and Polishers: Teachers as Storytellers</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kemendikbudristek. (2022). Buku Siswa Bahasa Inggris Work in Progress Kelas X. Jakarta.</li>
+                <li>Luoma, S. (2019). Assessing Speaking. Cambridge: Cambridge University Press.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +217,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Creating digital storytelling projects menggunakan multimedia tools</li><li>Organizing storytelling sessions untuk junior students atau community</li><li>Writing dan presenting longer, more complex narratives</li><li>Exploring different narrative genres: mystery, adventure, science fiction</li></ol></td>
+        <td><ol><li>Menjadi fasilitator / tutor sebaya untuk melatih peragaan drama bagi adik kelas.</li><li>Merekam pertunjukkan *storytelling* dalam bentuk podcast audio pendek berbahasa Inggris.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Additional practice dengan very short story presentations</li><li>Alternative presentation formats untuk students dengan speaking anxiety</li><li>Extra support dalam story structure dan vocabulary</li><li>Continued peer support dan mentoring dari advanced students</li></ol></td>
+        <td><ol><li>Tes remidial tertulis untuk indikator materi yang belum tuntas.</li><li>Latihan pengucapan lisan (*pronunciation practice*) terpandu bersama guru secara privat.</li></ol></td>
     </tr>
 </tbody>
 </table>

@@ -1,212 +1,208 @@
-# LKPD Bahasa Inggris
+# LKPD Bahasa Inggris (Lembar Kerja Peserta Didik)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
 **Nama Siswa** :  
-**Kelas** :  
-**Pokok Bahasan** : Descriptive Text
+**Kelas** : X (Sepuluh)  
+**Pokok Bahasan** : Descriptive Text (Meetings 1-2: Inspiring Figures & Eco-tourism)  
+**Nilai Kurikulum Berbasis Cinta (KBC)** : Cinta Diri & Sesama, Cinta Lingkungan, Cinta Tanah Air  
 
 ---
 
 ## **A. VOCABULARY**
 
-**Target**: Memorize 15 basic descriptive words
+**Target**: Memorize and correctly use 15 basic descriptive words related to people and places.
 
 ### **New Vocabulary Words**
 
-| English   | Indonesian   | Example            |
-| --------- | ------------ | ------------------ |
-| Beautiful | Cantik/Indah | She is beautiful   |
-| Tall      | Tinggi       | He is tall         |
-| Short     | Pendek       | The table is short |
-| Big       | Besar        | A big house        |
-| Small     | Kecil        | A small cat        |
-| Round     | Bulat        | A round ball       |
-| Square    | Persegi      | A square box       |
-| Long      | Panjang      | Long hair          |
-| Curly     | Keriting     | Curly hair         |
-| Straight  | Lurus        | Straight line      |
-| Fat       | Gemuk        | A fat cat          |
-| Thin      | Kurus        | A thin book        |
-| Young     | Muda         | A young boy        |
-| Old       | Tua          | An old man         |
-| Clean     | Bersih       | Clean water        |
+| English | Indonesian | Example Sentence |
+| ------- | ---------- | ---------------- |
+| Compassionate | Penuh kasih sayang | Pak Ahmad is a compassionate teacher who cares for every student. |
+| Dedicated | Dedikatif / Tekun | She is a dedicated student who studies with great enthusiasm. |
+| Humble | Rendah hati | Despite his success, he remains very humble and polite. |
+| Patient | Sabar | A good leader is always patient and listens carefully. |
+| Generous | Dermawan | She is generous and often shares her lunch with friends in need. |
+| Majestic | Megah / Anggun | Mount Rinjani is a majestic volcano in Lombok. |
+| Pristine | Murni / Alami | The national park has pristine beaches with crystal-clear water. |
+| Breathtaking | Memesona / Menakjubkan | The sunset view from the highland is truly breathtaking. |
+| Serene | Tenang / Damai | The village in Sambori is serene and surrounded by green hills. |
+| Ancient | Kuno / Bersejarah | The museum contains ancient traditional artifacts from Bima. |
+| Welcoming | Ramah / Menyambut | The local villagers are always welcoming to all visitors. |
+| Hospitable | Suka menerima tamu | Indonesian people are famous for being warm and hospitable. |
+| Eco-friendly | Ramah lingkungan | We should build eco-friendly habits to protect our madrasah. |
+| Clean | Bersih | Keeping our environment clean (*thaharah*) is part of our faith. |
+| Inspiring | Menginspirasi | Malala is an inspiring figure for youth education around the world. |
 
 ### **Vocabulary Exercise**
 
-Complete the sentences with the correct words from the vocabulary list:
+Complete the sentences below with the most appropriate word from the vocabulary table:
 
-1. My grandmother is _______ and kind.
-2. The elephant is very _______.
-3. She has _______ hair like a princess.
-4. The box is _______ and brown.
-5. My little brother is _______ and funny.
+1. My English teacher is very _______; he never gets angry when explaining difficult grammar.
+2. We must keep our classroom _______ and neat because cleanliness is an expression of faith.
+3. Komodo National Park has _______ landscapes with turquoise water and rugged hills.
+4. Sarah is an _______ classmate who always helps others and stands up against bullying.
+5. The villagers of Sambori are exceptionally _______ to guests who visit their traditional houses.
 
-**Assessment**: Students must memorize and correctly use 12 out of 15 vocabulary words (80% accuracy).
+**Assessment**: Students must correctly match and use at least 12 out of 15 vocabulary words (80% accuracy) in sentence contexts.
 
 ---
 
 ## **B. LISTENING**
 
-**Target**: Understand simple descriptive sentences
+**Target**: Understand spoken descriptive sentences about inspiring figures, places, and national parks.
 
-### **Listening Activity 1: Listen and Draw**
+[Audio](../../../docs/descriptive-x-1-act1.mp3 ":include :type=audio")
 
-[descriptive-x-1-act1](../../../docs/descriptive-x-1-act1.mp3 ":include :type=audio")
+### **Listening Activity 1: Listen and Complete the Profile**
 
-Listen to the description. Draw what you hear:
+Listen to the audio description of Pak Ahmad and fill in the missing information in the profile box:
 
-*"This is a house. It is big and white. It has a red door. There are two windows. The roof is brown."
+```text
+Teacher's Name : Pak Ahmad
+Profession     : (1) ________________________ Teacher at Madrasah Aliyah
+Physical Appearance: Tall, slim, has short (2) ________________________ hair, warm smile
+Personality    : Compassionate, patient, kind, and (3) ________________________
+Environmental Action: Keeps the school garden (4) ________________________ and green
+Social Value   : Treats all students with equal (5) ________________________ and empathy
+```
 
-### **Listening Activity 2: Fill in the Blanks**
+### **Listening Activity 2: Listen and Fill in the Blanks**
 
-[descriptive-x-1-act2](../../../docs/descriptive-x-1-act2.mp3 ":include :type=audio")
+Listen to the five sentences from the audio track and write down the missing descriptive words:
 
-Listen to the description and complete the sentences:
+1. My grandmother is humble and very ____________ to her neighbors.
+2. Mount Rinjani is a ____________ mountain with a breathtaking volcanic lake.
+3. The old library is peaceful and filled with ____________ historical books.
+4. Sarah is a hard-working student who always shows great ____________ to her friends.
+5. The local beach in Bima is clean, ____________, and surrounded by beautiful green trees.
 
-1. My cat is _______ and _______.
-2. The classroom is _______ and _______.
-3. My teacher has _______ hair and _______ eyes.
-4. The book is _______ and _______.
-5. The garden is _______ with many _______ flowers.
+### **Listening Activity 3: True or False (Komodo National Park)**
 
-### **Listening Activity 3: True or False**
+Listen to the narration about Komodo National Park and write **T** (True) or **F** (False) for each statement:
 
-[descriptive-x-1-act3](../../../docs/descriptive-x-1-act3.mp3 ":include :type=audio")
+1. Komodo National Park consists of three major islands: Komodo, Rinca, and Padar. ( _____ )
+2. The Komodo dragon is considered the smallest living lizard in the world. ( _____ )
+3. Visitors are allowed to damage nature and litter inside the national park. ( _____ )
+4. The landscapes of the national park feature rugged hills and turquoise water. ( _____ )
+5. Preserving national heritage reflects our love for our country (*Cinta Tanah Air*). ( _____ )
 
-Listen to the description and write T (True) or F (False):
-
-1. The dog is small. ( )
-2. The car is red. ( )
-3. The girl has long hair. ( )
-4. The house is old. ( )
-5. The tree is tall. ( )
-
-**Assessment**: Students must correctly identify and write 4 out of 5 listening items (80% accuracy).
+**Assessment**: Students must accurately answer at least 8 out of 10 items across the three listening activities (80% accuracy).
 
 ---
 
 ## **C. SPEAKING**
 
-**Target**: Describe simple objects using basic adjectives
+**Target**: Describe people and places using correct adjectives, simple present tense, and compassionate language.
 
-### **Speaking Activity 1: Describe Your Friend**
+### **Speaking Activity 1: Pair Dialogue - Describing an Inspiring Classmate**
 
-Work in pairs. Describe your partner using these sentence patterns:
+Work with your partner. Choose one classmate who has shown kindness or dedication in class. Use the following sentence starters to compliment and describe them:
 
-- "My friend is _______."
-- "He/She has _______ hair."
-- "He/She is _______ and _______."
+- *"I would like to describe my friend, [Name]."*
+- *"He/She is very [Adjective 1] and [Adjective 2]."*
+- *"One thing I admire about him/her is that he/she always [Action of kindness/dedication]."*
+- *"He/She teaches me how to be a good friend and avoid bad behavior like bullying."*
 
-### **Speaking Activity 2: Show and Tell**
+### **Speaking Activity 2: Group Presentation - My Favorite Eco-Friendly Place**
 
-Bring an object from your bag. Describe it to the class:
+In groups of 4, choose one national park or eco-tourism destination in Indonesia (e.g. Mount Rinjani, Komodo Island, Pantai Kolo Bima, or Desa Sambori). Present a 3-minute oral description using this structure:
 
-- "This is my _______."
-- "It is _______ and _______."
-- "I use it for _______."
+1. **Identification**: State the name of the place and its location.
+2. **Description**: Describe its natural beauty, flora, fauna, and fresh air using sensory adjectives.
+3. **KBC Reflection**: Explain why protecting this place from destruction (*fasad*) shows love for Allah (*Cinta Allah*) and love for our country (*Cinta Tanah Air*).
 
-### **Speaking Activity 3: Guessing Game**
+### **Speaking Activity 3: Roleplay - Interviewing a Local Hero**
 
-Student A describes an object in the classroom. Student B guesses what it is.
+Student A acts as a student journalist; Student B acts as a dedicated local hero in Bima (a clean-up volunteer, a wise teacher, or an elder). Practice asking and answering questions about their appearance, daily habits, and noble character.
 
-**Example:**
-A: "It is big and white. We write on it."
-B: "Is it the whiteboard?"
-A: "Yes, correct!"
-
-**Assessment**: Students must speak clearly with correct pronunciation and use at least 3 descriptive words per description.
+**Assessment**: Students are evaluated on pronunciation clarity, fluency, appropriate use of at least 4 target descriptive words, and expression of positive KBC character values.
 
 ---
 
 ## **D. READING**
 
-**Target**: Understand simple descriptive texts
+**Target**: Analyze structural elements (Identification & Description), language features, and moral values in descriptive texts.
 
 ### **Reading Text 1**
 
-**My Pet Dog**
+**Pak Ahmad: An Inspiring Eco-Teacher**
 
-I have a pet dog. His name is Buddy. Buddy is small and brown. He has short hair and big eyes. His tail is long and always moving. Buddy is very friendly and smart. He likes to play in the garden. I love my dog very much.
+Pak Ahmad is a dedicated English teacher at MAN 1 Kota Bima. He is in his late thirties with a tall, slender build and neat black hair. He always wears a clean, modest uniform and carries a warm, welcoming smile that puts his students at ease.
 
-**Comprehension Questions:**
-
-1. What is the dog's name?
-2. What color is Buddy?
-3. Describe Buddy's hair.
-4. Where does Buddy like to play?
-5. How does the writer feel about the dog?
+Pak Ahmad is known for his compassionate and patient nature. He never uses harsh words or angry tones in class. Instead, he applies compassionate communication (*Koneksi Sebelum Koreksi*), making every student feel valued and safe from bullying. Outside the classroom, Pak Ahmad is a passionate environmental activist. He started the "Madrasah Green Club" to plant trees and reduce plastic waste in school. For Pak Ahmad, keeping the environment clean (*thaharah*) is a noble act of worship and a true manifestation of love for Allah and His creation.
 
 ### **Reading Text 2**
 
-**My Classroom**
+**The Majestic Komodo National Park**
 
-My classroom is big and bright. There are twenty desks and chairs. The walls are white and clean. We have a big blackboard in front of the class. There are many colorful posters on the walls. The windows are large and let in much sunlight. I like my classroom because it is comfortable.
+Komodo National Park is a world-famous natural conservation area located in the Lesser Sunda Islands of Indonesia, between East Nusa Tenggara and West Nusa Tenggara. The park includes three main large islands—Komodo, Rinca, and Padar—along with numerous smaller islands.
 
-**Answer these questions:**
+The scenery in Komodo National Park is truly breathtaking. It features dry savannah-covered hills, stark white and pink sand beaches, and vibrant coral reefs with crystal-clear turquoise waters. The park is the natural sanctuary for the famous Komodo dragon, the largest living species of lizard on Earth. Visitors from around the globe admire the park's untouched biodiversity. Preserving this natural treasure requires responsibility from everyone to prevent environmental damage (*fasad*). Protecting Komodo National Park is an expression of pride in Indonesia's natural heritage (*Cinta Tanah Air*) and gratitude to Allah Swt. for creating such wonder.
 
-1. How many desks are in the classroom?
-2. What color are the walls?
-3. What is in front of the class?
-4. Why does the writer like the classroom?
-5. What makes the classroom bright?
+### **Comprehension Questions**
 
-**Assessment**: Students must answer 4 out of 5 comprehension questions correctly, demonstrating understanding of main ideas and specific details.
+Answer the following questions based on Text 1 and Text 2:
+
+1. **Main Idea (Text 1)**: What is the main purpose of writing the text about Pak Ahmad?
+2. **Detail Extraction (Text 1)**: What physical traits and personality characteristics does Pak Ahmad have?
+3. **Structure Analysis (Text 2)**: Which paragraph in Text 2 acts as the *Identification* and which acts as the *Description*? Explain why.
+4. **Vocabulary in Context (Text 2)**: What does the word *"pristine"* mean in the text, and what synonyms can you find for *"breathtaking"*?
+5. **KBC Reflection (Both Texts)**: How do both texts teach us to practice *Cinta Sesama* (toward people) and *Cinta Lingkungan* (toward nature) in our daily lives?
+
+**Assessment**: Students must answer at least 4 out of 5 questions accurately, demonstrating deep comprehension of text structure, vocabulary, and KBC character values.
 
 ---
 
 ## **E. WRITING**
 
-**Target**: Write simple descriptive sentences
+**Target**: Produce a structured descriptive text about an inspiring figure or a local place incorporating proper grammar and KBC themes.
 
-### **Writing Activity 1: Complete the Description**
+### **Writing Activity 1: Sentence Construction**
 
-Complete this description of a person:
+Combine the words below into grammatically correct descriptive sentences using the **Simple Present Tense**:
 
-My mother is _______ and _______. She has _______ hair and _______ eyes. She always wears _______ clothes. She is very _______ and _______. I love my mother because she is _______.
+1. (Mount Rinjani / be / a / majestic / mountain / in Lombok)  
+   → __________________________________________________________________________
+2. (Pak Ahmad / treat / all students / with / compassion / and / respect)  
+   → __________________________________________________________________________
+3. (We / must / protect / our / local environment / from / destruction)  
+   → __________________________________________________________________________
 
-### **Writing Activity 2: Describe Your School**
+### **Writing Activity 2: Guided Writing Frame (Inspiring Figure)**
 
-Write 5 sentences about your school using descriptive words:
+Fill in the guided frame below to write a 2-paragraph descriptive text about an inspiring person in your madrasah or family:
 
-1. My school is _______.
-2. The building is _______.
-3. The garden is _______.
-4. The library is _______.
-5. The teachers are _______.
+**Title**: ________________________________________
 
-### **Writing Activity 3: Write a Simple Description**
+**Paragraph 1 (Identification)**:  
+My inspiring role model is (Name/Relation) ________________________. He/She is a (profession/status) ________________________ at ________________________. I admire him/her because he/she is very ________________________ and ________________________.
 
-Choose one topic and write a short paragraph (5-6 sentences):
+**Paragraph 2 (Description)**:  
+Physically, he/she is ________________________ with ________________________ hair and a ________________________ smile. In daily life, he/she always ________________________. He/She shows love for others (*Cinta Sesama*) by ________________________. I feel very blessed to know him/her because ________________________.
 
-**Topics:**
+### **Writing Activity 3: Independent Writing (A Place of Natural Beauty)**
 
-- My best friend
-- My favorite food
-- My bedroom
-- My pet (real or imaginary)
+Write a 2-paragraph descriptive text (80-120 words) about a natural or historical place in your region (e.g. Pantai Kolo Bima, Desa Sambori, or Lake Kalimutu). 
 
-**Writing Guidelines:**
+**Guidelines**:
+- Include an **Identification** paragraph and a **Description** paragraph.
+- Use at least **5 descriptive adjectives** and **Simple Present Tense**.
+- Explicitly integrate a message of **Cinta Lingkungan** (protecting nature) or **Cinta Tanah Air** (national pride).
 
-- Use at least 5 descriptive words
-- Write complete sentences
-- Check your spelling
-- Make it interesting!
-
-**Assessment**: Students must write grammatically correct sentences using descriptive vocabulary with appropriate word choice and sentence structure.
+**Assessment**: Writing is evaluated based on content relevance, structural organization, grammatical accuracy, vocabulary richness, and KBC theme integration.
 
 ---
 
 ## **ASSESSMENT RUBRIC**
 
-| Features       | A (90-100)                                                                                         | B (80-89)                                                                         | C (70-79)                                                                   | D (60-69)                                                                          |
-| -------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Vocabulary** | Memorizes and uses 15/15 words correctly with proper pronunciation                                 | Memorizes and uses 12-14/15 words correctly                                       | Memorizes and uses 10-11/15 words correctly                                 | Memorizes and uses 8-9/15 words correctly                                          |
-| **Listening**  | Understands and responds correctly to all listening tasks with excellent comprehension             | Understands and responds correctly to 4/5 listening tasks                         | Understands and responds correctly to 3/5 listening tasks                   | Understands and responds correctly to 2-3/5 listening tasks                        |
-| **Speaking**   | Speaks fluently with excellent pronunciation, uses varied descriptive vocabulary                   | Speaks clearly with good pronunciation, uses descriptive vocabulary appropriately | Speaks understandably with fair pronunciation, uses basic descriptive words | Speaks with some difficulty but attempts to use descriptive words                  |
-| **Reading**    | Answers all comprehension questions correctly with deep text understanding                         | Answers 4/5 questions correctly showing good comprehension                        | Answers 3/5 questions correctly showing basic comprehension                 | Answers 2-3/5 questions correctly with limited comprehension                       |
-| **Writing**    | Writes grammatically perfect sentences with rich descriptive vocabulary and excellent organization | Writes mostly correct sentences with good use of descriptive words                | Writes understandable sentences with basic descriptive vocabulary           | Writes simple sentences with limited descriptive vocabulary but attempts are clear |
+| Skill | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+| ----- | ---------- | --------- | --------- | --------- |
+| **Vocabulary** | Memorizes and correctly uses 14-15/15 target words with excellent contextual accuracy and correct spelling. | Memorizes and correctly uses 12-13/15 target words with minor spelling errors. | Memorizes and correctly uses 10-11/15 target words with basic understanding. | Memorizes and uses fewer than 10 words, requiring teacher support. |
+| **Listening** | Accurately completes 9-10/10 listening items showing full comprehension of details and main ideas. | Accurately completes 8/10 listening items showing good overall comprehension. | Accurately completes 6-7/10 listening items with basic comprehension. | Completes 5 or fewer items correctly; struggles with audio details. |
+| **Speaking** | Speaks fluently with accurate pronunciation, rich descriptive vocabulary, and clear KBC character reflection. | Speaks clearly with minor pronunciation errors, appropriate vocabulary, and good KBC reflection. | Speaks with noticeable hesitations, uses basic vocabulary, and shows basic KBC reflection. | Speaks with significant difficulty, lacks descriptive vocabulary, needs constant prompt. |
+| **Reading** | Correctly answers all 5 reading questions with deep text analysis, structure identification, and moral insight. | Correctly answers 4/5 questions showing strong reading comprehension and structural awareness. | Correctly answers 3/5 questions demonstrating basic text understanding. | Correctly answers 2 or fewer questions; struggles to locate details or main ideas. |
+| **Writing** | Writes a clear 2-paragraph text with flawless Identification/Description structure, rich adjectives, accurate present tense, and strong KBC values. | Writes a complete text with good structure, minor grammatical/spelling errors, and clear KBC integration. | Writes a simple text with basic structure, noticeable grammar mistakes, but understandable meaning. | Writes an incomplete text with major grammatical errors and missing structural components. |
 
 ---
 
-**Teacher's Notes:**
-This LKPD is designed to complement the pretest and introduction lesson by providing practical exercises for all four language skills plus vocabulary building. Students should complete this worksheet after the initial lesson to reinforce learning and practice using descriptive language in context.
+**Teacher's Notes & Reflection:**  
+This LKPD seamlessly integrates English skill acquisition (Vocabulary, Listening, Speaking, Reading, Writing) with the core values of Kurikulum Berbasis Cinta (KBC). Teachers are encouraged to facilitate peer feedback using *Compassionate Communication* ("Koneksi Sebelum Koreksi") to ensure every student feels supported and inspired.

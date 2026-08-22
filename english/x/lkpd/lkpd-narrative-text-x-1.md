@@ -2,179 +2,212 @@
 
 **Nama Sekolah** : MAN 1 Kota Bima  
 **Nama Siswa** :  
-**Kelas** : X  
-**Pokok Bahasan** : Narrative Text (Basic Level)
+**Kelas** : X (Sepuluh)  
+**Pokok Bahasan** : Narrative Text (Fables & Environmental Tales: Kindness, Empathy, & Cinta Lingkungan)  
 
 ---
 
-## MATERI
+## **A. VOCABULARY**
 
-### Vocabulary
+**Target**: Memorize and apply 15 narrative vocabulary words related to fables, kindness, and environmental care (*Cinta Diri & Sesama, Cinta Lingkungan*).
 
-Learn these essential storytelling words:
+### **New Vocabulary Words**
 
-1. **Once upon a time** /wʌns əˈpɒn ə taɪm/ - pada suatu masa
-2. **Character** /ˈkærɪktər/ - tokoh, karakter
-3. **Setting** /ˈsetɪŋ/ - latar tempat dan waktu
-4. **Plot** /plɒt/ - alur cerita
-5. **Beginning** /bɪˈɡɪnɪŋ/ - awal, permulaan
-6. **Middle** /ˈmɪdl/ - tengah
-7. **Ending** /ˈendɪŋ/ - akhir
-8. **Problem** /ˈprɒbləm/ - masalah
-9. **Solution** /səˈluːʃən/ - solusi, penyelesaian
-10. **Moral** /ˈmɒrəl/ - pesan moral
+| English | Indonesian | Example Sentence |
+| ------- | ---------- | ---------------- |
+| Fable | Fabel / Cerita Hewan | A fable teaches us valuable moral lessons through animal characters. |
+| Kindness | Kebaikan | She showed great kindness by sharing her food with the hungry puppy. |
+| Empathy | Empati | Empathy helps us understand how others feel when they are sad. |
+| Compassion | Welas Asih / Kasih Sayang | The prophet taught us to act with compassion towards all living beings. |
+| Stream | Sungai Kecil / Aliran Air | The deer drank fresh water from the clear forest stream. |
+| Fasad | Kerusakan / Destruksi | Cutting trees excessively causes fasad and floods in the valley. |
+| Harmony | Keharmonisan / Keselarasan | Animals and humans must live in harmony with nature. |
+| Greed | Keserakahan | The king's greed ruined the peaceful green forest. |
+| Protect | Melindungi | We must protect our madrasah environment from pollution. |
+| Share | Berbagi | Pip decided to share the cool stream with the thirsty wolf. |
+| Suffer | Menderita | The villagers suffered when the ancient trees were cut down. |
+| Shelter | Tempat Berlindung | The big tree provided shelter for birds and tired travelers. |
+| Restorative | Pemulihan | Restorative justice focuses on healing relationships rather than revenge. |
+| Consequence | Akibat / Konsekuensi | Flooding is a direct consequence of throwing garbage into the river. |
+| Grateful | Bersyukur | The wolf was grateful for the deer's gentle help. |
 
-**Assessment** : Memorize and use 8 out of 10 vocabulary words correctly in sentences
+### **Vocabulary Exercise**
 
-### Listening
+Complete the sentences below using the correct words from the vocabulary table:
 
-**Story:** Listen to "The Ant and the Grasshopper"
+1. Throwing plastic into the river causes _______ and harms marine life.
+2. Pip demonstrated true _______ when he invited the wolf to drink from the clean _______.
+3. The villagers were extremely _______ when rain fell after the long drought.
+4. Human beings must _______ trees and animals to maintain nature's _______.
+5. The selfish prince learned that his _______ brought penderitaan to his own people.
 
-[The Ant and the Grasshopper](../../../docs/The%20Ant%20and%20the%20Grasshopper.mp3 ":include :type=audio")
-
-> **Narrator:** "Once upon a time, there lived an ant and a grasshopper in a field. The ant worked hard every day collecting food for winter. The grasshopper played and sang all day long."
->
-> **Grasshopper:** "Why do you work so hard, little ant? Come and play with me!"
->
-> **Ant:** "I need to prepare food for winter. You should do the same."
->
-> **Narrator:** "When winter came, the ant had plenty of food. The grasshopper was hungry and cold. He learned that hard work is important."
-
-**Questions:**
-
-1. Who are the main characters in this story? **\*\*\*\***\_\_\_**\*\*\*\***
-2. What did the ant do every day? **\*\***\*\***\*\***\_**\*\***\*\***\*\***
-3. What did the grasshopper do instead of working? **\*\***\_\_**\*\***
-4. What happened when winter came? \***\*\*\*\*\*\*\***\_\_\_\***\*\*\*\*\*\*\***
-5. What is the moral of this story? \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
-
-**Assessment** : Answer 4 out of 5 questions correctly about story elements and moral
-
-**Story:** Listen to "The Lost Cat"
-
-[The Lost Cat](../../../docs/The%20Lost%20Cat.mp3 ":include :type=audio")
-
-**Questions:**
-
-1. When did Lina find the cat?
-2. Where was the cat when Lina first saw it?
-3. What sound did Lina hear?
-4. How did the cat look when Lina found it?
-5. What did Lina give the cat at home?
-6. What did the cat do after it felt comfortable?
-7. What did Lina make to find the cat’s owner?
-8. How long had the cat been missing?
-9. Who came to Lina’s house?
-10. Why did Lina feel both sad and happy at the end of the story?
-
-**Assessment** : Answer the questions correctly about story elements and moral
-
-### Speaking
-
-**Retelling Activity:** Practice telling a simple story
-
-**Your Task:** Retell the story of "The Tortoise and the Hare" using these key phrases:
-
-**Story Structure Phrases:**
-
-- "Once upon a time..."
-- "One day..."
-- "Suddenly..."
-- "In the end..."
-- "The moral of the story is..."
-
-**Practice Steps:**
-
-1. Tell your partner the story using simple past tense
-2. Include the main characters, setting, problem, and solution
-3. Use expression and gestures to make it interesting
-4. End with the moral lesson
-
-**Key Points to Include:**
-
-- Tortoise and hare decide to race
-- Hare runs fast but becomes overconfident
-- Hare takes a nap during the race
-- Tortoise keeps going slowly but steadily
-- Tortoise wins the race
-
-**Assessment** : Tell complete story with correct sequence, use past tense verbs, show good expression and clear pronunciation
-
-### Reading
-
-**Text: The Lion and the Mouse**
-
-Once upon a time, a mighty lion was sleeping under a tree. A little mouse was playing nearby. Suddenly, the mouse ran over the lion's nose. The lion woke up angrily.
-
-"How dare you wake me up!" roared the lion. He caught the mouse with his big paw.
-
-"Please don't eat me," begged the mouse. "If you let me go, I will help you someday."
-
-The lion laughed. "How can a tiny mouse help a strong lion?" But he felt sorry for the mouse and let him go.
-
-A few days later, hunters caught the lion in a net. The lion roared for help. The little mouse heard him and came quickly. The mouse used his sharp teeth to bite through the ropes. Soon, the lion was free.
-
-"Thank you, little friend," said the lion. "I learned that even small friends can be great helpers."
-
-**Questions:**
-
-1. Where was the lion sleeping? **\*\***\*\*\*\***\*\***\_**\*\***\*\*\*\***\*\***
-2. What woke the lion up? **\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***
-3. What did the mouse promise to do? \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
-4. How did the lion get trapped? **\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***
-5. How did the mouse help the lion? **\*\***\*\***\*\***\_**\*\***\*\***\*\***
-6. What lesson did the lion learn? **\*\***\*\***\*\***\_\_**\*\***\*\***\*\***
-
-**Assessment** : Identify main story elements and answer 5 out of 6 comprehension questions correctly
-
-### Writing
-
-**Task 1: Complete the story beginning**
-
-Complete these story starters with your own ideas:
-
-1. Once upon a time, there was a kind princess who **\*\***\_\_\_\_**\*\***
+**Assessment**: Students must correctly complete at least 4 out of 5 exercise sentences and memorize 12 out of 15 vocabulary words (80% accuracy).
 
 ---
 
-2. Long ago, in a small village, lived a poor farmer who \***\*\_\_\_\_\*\***
+## **B. LISTENING**
+
+**Target**: Comprehend spoken fables, identify main ideas, detailed information, and moral values of kindness and eco-stewardship.
+
+### **Audio Material**
+
+[narrative-x-1-act1](../../../docs/narrative-x-1-act1.mp3 ":include :type=audio")
 
 ---
 
-3. One sunny morning, a little boy found a magic lamp that \***\*\_\_\*\***
+### **Listening Activity 1: Main Idea & Story Details**
+
+Listen to the audio story "The Wise Deer and the Forest Stream" (`narrative-x-1-act1.mp3`) and answer the questions:
+
+1. Who is the main character of the fable and what did he care about?
+2. What problem occurred during the dry summer?
+3. How did Pip react when the thirsty wolf arrived at the stream?
+4. What did the wolf promise after receiving Pip's kindness?
 
 ---
 
-**Task 2: Story sequencing**
+### **Listening Activity 2: Fill in the Blanks**
 
-Put these sentences in the correct order (1-5):
+Listen to the audio sentences and fill in the missing words:
 
-**_ Finally, the three little pigs lived safely in the brick house.
-_** Once upon a time, there were three little pigs who left home.
-**_ The big bad wolf blew down the houses made of straw and sticks.
-_** Each pig built a house: one of straw, one of sticks, and one of bricks.
-\_\_\_ The wolf could not blow down the brick house.
-
-**Task 3: Write a simple story (60-80 words)**
-
-Write your own simple story using this structure:
-
-**Beginning:** Introduce the characters and setting
-**Middle:** Present a problem or challenge  
-**End:** Show how the problem is solved and include a moral lesson
-
-Use these words: once upon a time, suddenly, finally, the moral is
-
-**Assessment** : Use correct story structure, include all required elements, write in simple past tense with good grammar
+1. The gentle deer named Pip cared for the _______ river.
+2. One dry summer, a _______ wolf came to the forest stream.
+3. Pip shared the cool stream instead of _______.
+4. The wolf was touched by Pip's kindness and _______.
+5. Protecting nature and loving others brings _______ to everyone.
 
 ---
 
-## LEMBAR PENILAIAN
+### **Listening Activity 3: True or False Statements**
 
-| Features       | A (90-100)                                                                                                            | B (80-89)                                                                                                       | C (70-79)                                                                                        | D (60-69)                                                                           |
-| -------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| **Vocabulary** | Memorizes and uses 9-10 words perfectly in meaningful sentences with correct pronunciation                            | Memorizes and uses 7-8 words correctly in sentences with minor pronunciation errors                             | Memorizes and uses 6-7 words in basic sentences with some pronunciation issues                   | Memorizes fewer than 6 words with significant pronunciation and usage errors        |
-| **Listening**  | Answers all 5 questions correctly, demonstrates excellent story comprehension and identifies moral clearly            | Answers 4 questions correctly, shows good understanding of main story elements                                  | Answers 3 questions correctly, understands basic story information                               | Answers fewer than 3 questions correctly, shows limited story comprehension         |
-| **Speaking**   | Retells complete story with perfect sequence, excellent past tense usage, engaging expression and clear pronunciation | Retells story with good sequence, mostly correct past tense, good expression and pronunciation                  | Retells basic story with acceptable sequence, some past tense errors, adequate expression        | Struggles to retell story completely, many past tense errors, unclear pronunciation |
-| **Reading**    | Identifies all story elements perfectly, answers all comprehension questions correctly with detailed understanding    | Identifies most story elements, answers 5 questions correctly with good understanding                           | Identifies basic story elements, answers 3-4 questions correctly with adequate understanding     | Struggles to identify story elements, answers fewer than 3 questions correctly      |
-| **Writing**    | Excellent story structure with creative ideas, perfect past tense usage, clear moral lesson, error-free grammar       | Good story structure with interesting ideas, mostly correct past tense, appropriate moral, minor grammar errors | Basic story structure with simple ideas, some past tense errors, basic moral, acceptable grammar | Incomplete story structure, many past tense errors, unclear moral, poor grammar     |
+Listen to the audio statements and write **T (True)** or **F (False)**:
+
+1. Pip was a greedy animal who refused to share water. ( ___ )
+2. The wolf came to the forest during a cold rainy winter. ( ___ )
+3. Pip showed compassion and kindness to the thirsty wolf. ( ___ )
+4. The wolf promised to protect the animals and the forest stream. ( ___ )
+5. Showing love to nature and fellow creatures creates a peaceful community. ( ___ )
+
+**Assessment**: Students must answer at least 8 out of 10 listening items (Activity 2 & 3 combined) correctly (80% accuracy).
+
+---
+
+## **C. SPEAKING**
+
+**Target**: Express thoughts on fable moral values, practice compassionate dialogue, and perform short pair conversations.
+
+### **Speaking Activity 1: Pair Dialogue Practice**
+
+Practice reading the dialogue below with your partner using natural expression, clear pronunciation, and warm tone:
+
+**Siti** : "Hi Ahmad! Did you listen to the fable about Pip the Deer?"  
+**Ahmad** : "Yes, Siti! I was really touched by Pip's decision. If I were Pip, I might have been afraid of the wolf."  
+**Siti** : "I agree. But Pip chose compassion over fear. He shared the forest stream peacefully."  
+**Ahmad** : "That shows *Cinta Diri & Sesama*. When we show kindness to others, even those who seem scary can change into friends."  
+**Siti** : "Exactly! And by protecting the stream, Pip also practiced *Cinta Lingkungan*."  
+
+---
+
+### **Speaking Activity 2: Group Discussion on Moral Dilemma**
+
+Discuss the following question in groups of 4 and present your conclusion to the class (2 minutes per group):
+
+> *"If you see a classmate making a mistake or damaging madrasah property (causing fasad), how can you talk to them using Compassionate Communication (Koneksi Sebelum Koreksi) instead of shouting?"*
+
+**Speaking Guidelines & Criteria:**
+- Use clear pronunciation and appropriate volume.
+- Show emotional connection and mutual respect (*tasamuh*).
+- Use key phrases: *"In my opinion...", "We can show kindness by...", "Protecting our environment means..."*.
+
+**Assessment**: Students must speak fluently with acceptable pronunciation, participating actively in the pair dialogue and presenting 2 clear points in the group discussion.
+
+---
+
+## **D. READING**
+
+**Target**: Read authentic narrative text, analyze structure (*Orientation, Complication, Resolution*), and evaluate environmental ethics (*Cinta Lingkungan / Avoiding Fasad*).
+
+### **Reading Text**
+
+**The Guardian Tree and the Greed of Prince Maliko**
+
+Once upon a time, on the fertile slopes of Mount Rajasa, there stood a magnificent ancient Banyan tree known as the Guardian Tree. For centuries, the villagers believed the tree was a sacred blessing from Allah that kept the soil firm, purified the river water, and gave shelter to thousands of birds. The villagers lived in harmony with nature, taking only fallen branches for firewood and praying with deep gratitude for the lush valley.
+
+However, young Prince Maliko inherited the kingdom. Blinded by greed and ambition to build a massive palace, Prince Maliko ordered his soldiers to chop down the Guardian Tree. The elder villager, Pak Rahmad, bowed respectfully and warned the prince, "Your Highness, this tree holds the roots of our valley. Destroying it will bring *fasad* (ruin) upon our land and cause great floods." But the arrogant prince ignored the warning and commanded, "Cut it down at once!"
+
+Three days after the majestic tree fell, dark clouds gathered over Mount Rajasa. Heavy rain poured relentlessly for three days. Without the deep roots of the Guardian Tree to hold the soil and absorb the rainfall, a disastrous landslide crashed down the mountain. Mud and floodwaters overwhelmed the prince's unfinished palace and destroyed the village crops.
+
+Standing in the mud, covered in rain, Prince Maliko saw the crying children and homeless villagers. His heart shattered with remorse. He realized that his greed had disrupted nature's balance and brought suffering to everyone. Falling to his knees, Prince Maliko apologized to the villagers and vowed to restore the land. Together with the villagers, he planted five hundred new saplings along the hillsides and declared Mount Rajasa a protected sanctuary. From that day on, Prince Maliko ruled with humility, teaching all citizens to cherish and protect Allah's creation.
+
+---
+
+### **Comprehension Questions**
+
+1. **Orientation**: Where did the story take place and why was the Guardian Tree important to the villagers?
+2. **Complication**: What decision did Prince Maliko make, and why did he ignore Pak Rahmad's warning?
+3. **Causal Analysis**: What were the direct consequences (*fasad*) on the environment and the kingdom after the Guardian Tree was cut down?
+4. **Resolution & Transformation**: How did Prince Maliko change after seeing the disaster, and what restorative action did he take?
+5. **KBC Reflection**: What lesson does this story teach us about *Cinta Lingkungan* and avoiding environmental destruction in our daily lives at MAN 1 Kota Bima?
+
+**Assessment**: Students must answer at least 4 out of 5 questions correctly with complete sentences showing deep text comprehension.
+
+---
+
+## **E. WRITING**
+
+**Target**: Deconstruct narrative conflicts, construct cause-and-effect sentences, and write a reflective paragraph on environmental care (*Cinta Lingkungan*).
+
+### **Writing Activity 1: Deconstructing Conflict Matrix**
+
+Based on the reading text "The Guardian Tree", complete the conflict matrix below:
+
+| Story Element | Details from the Text |
+| ------------- | --------------------- |
+| **Root Cause of Conflict** | Prince Maliko's greed to build a massive palace. |
+| **Action of Environmental Fasad** | ____________________________________________________ |
+| **Immediate Environmental Disaster** | ____________________________________________________ |
+| **Restorative Action taken by Prince** | ____________________________________________________ |
+| **Moral & Eco-Value (KBC)** | ____________________________________________________ |
+
+---
+
+### **Writing Activity 2: Cause-and-Effect Sentence Construction**
+
+Combine the pairs of ideas into complete sentences using cause-and-effect connectives (*because, as a result, consequently, therefore*):
+
+1. Prince Maliko cut down the Guardian Tree. / The mountain soil became loose and unstable.  
+   *Answer*: ____________________________________________________________________
+2. The villagers cared for nature with gratitude. / The valley remained fertile and peaceful for centuries.  
+   *Answer*: ____________________________________________________________________
+3. Heavy rain poured for three days without tree roots to absorb water. / A massive flood destroyed the palace.  
+   *Answer*: ____________________________________________________________________
+
+---
+
+### **Writing Activity 3: Short Personal Eco-Reflection**
+
+Write a short paragraph (4-5 sentences) in simple past/present tense describing one action you took to protect the environment or keep your madrasah clean:
+
+**Writing Prompts:**
+- What action did you do? (e.g., *picked up plastic trash, saved water during wudu, planted a flower*).
+- Why did you do it? (e.g., *because I love our madrasah and want to avoid fasad*).
+- How did it make you and your friends feel?
+
+**Assessment**: Students must complete the matrix, write 3 grammatically correct cause-and-effect sentences, and produce a coherent 4-sentence paragraph with less than 3 grammatical errors.
+
+---
+
+## **ASSESSMENT RUBRIC**
+
+| Features | A (90-100) | B (80-89) | C (70-79) | D (60-69) |
+| -------- | ---------- | --------- | --------- | --------- |
+| **Vocabulary** | Memorizes 14-15 words, completes exercise with 100% accuracy, uses words in context flawlessly. | Memorizes 12-13 words, completes exercise with 80-89% accuracy, good context understanding. | Memorizes 10-11 words, completes exercise with 70-79% accuracy, basic word usage. | Memorizes <10 words, accuracy below 70%, needs vocabulary assistance. |
+| **Listening** | Answers 10/10 listening items correctly, identifies all main ideas and implied moral values effortlessly. | Answers 8-9/10 listening items correctly, shows good comprehension of spoken details. | Answers 7/10 listening items correctly, grasps basic story plot with minor gaps. | Answers <6/10 listening items correctly, struggles to catch key information from audio. |
+| **Speaking** | Speaks with excellent fluency, clear pronunciation, natural intonation, and strong KBC emotional expression. | Speaks clearly with good pronunciation, minor pauses, and appropriate expression of empathy. | Speaks with acceptable clarity, occasional hesitation, basic vocabulary and tone. | Speaks with significant hesitation, frequent pronunciation errors, needs prompts. |
+| **Reading** | Answers all 5 comprehension questions correctly with insightful analysis of conflict and KBC eco-values. | Answers 4/5 questions correctly, demonstrating strong text understanding and cause-effect logic. | Answers 3/5 questions correctly, showing basic understanding of main plot points. | Answers <3/5 questions correctly, has difficulty identifying conflict cause and resolution. |
+| **Writing** | Writes error-free cause-effect sentences and a well-structured paragraph rich in eco-vocabulary and KBC values. | Writes mostly correct sentences and a clear paragraph with minor grammatical issues. | Writes understandable sentences and paragraph with basic vocabulary and some syntax errors. | Writes incomplete or incoherent sentences, major grammar and spelling errors. |
+
+---
+
+**Teacher's Notes:**  
+LKPD 1 is designed for Meetings 1 and 2 of Grade X Narrative Text Unit. It integrates 5 core language skills with Kurikulum Berbasis Cinta principles (Panca Cinta: *Cinta Diri & Sesama* and *Cinta Lingkungan*). Make sure to play the audio `narrative-x-1-act1.mp3` clearly during Section B.

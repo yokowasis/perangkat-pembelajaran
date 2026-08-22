@@ -32,12 +32,12 @@
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>MA</td>
+        <td>MA (Madrasah Aliyah)</td>
     </tr>
     <tr>
         <td></td>
-        <td>Kelas</td>
-        <td>X</td>
+        <td>Kelas / Fase</td>
+        <td>X (Sepuluh) / Fase E</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Recount Text</td>
+        <td>Historical Recount Text (Heroes' Struggle & Historical Events)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (Pertemuan 2 dari 4)</td>
     </tr>
     <tr>
         <td></td>
-        <td>Pertemuan</td>
-        <td>Pertemuan 2: Praktik menulis dan mempresentasikan recount text</td>
+        <td>Fokus KBC</td>
+        <td>Cinta Tanah Air (*Ukhuwah Wathaniyah & Hubbul Wathan minal Iman*), Cinta Ilmu, Cinta Allah & Rasul-Nya</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -67,27 +67,27 @@
     <tr>
         <td></td>
         <td>Fase Capaian Pembelajaran (CP)</td>
-        <td>Pada akhir fase E, peserta didik menggunakan teks khusus dalam bentuk recount, narrative, procedure, descriptive, dan report secara lisan dan tulisan untuk berinteraksi dan berkomunikasi dalam konteks yang lebih beragam. Mereka menganalisis dan mengevaluasi beberapa teks untuk mengidentifikasi makna tersirat. Peserta didik memproduksi teks lisan dan tulisan dengan struktur yang jelas dengan menunjukkan hubungan antar bagian dalam teks untuk menyampaikan ide dan pendapat mereka tentang berbagai topik dengan audiens yang beragam.</td>
+        <td>Pada akhir Fase E, peserta didik menggunakan teks lisan, tulisan, dan visual dalam bahasa Inggris untuk berkomunikasi sesuai situasi, tujuan, dan pemirsa. Peserta didik menganalisis dan mengevaluasi teks sejarah dan perjuangan (Historical Recount Text) untuk mengidentifikasi makna tersurat dan tersirat serta meneladani nilai-nilai perjuangan patriotik, persatuan, dan pengorbanan para pahlawan bangsa.</td>
     </tr>
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Berbicara - Speaking: Mempresentasikan pengalaman pribadi secara lisan dengan struktur yang jelas</li><li>Menulis - Writing: Memproduksi recount text dengan struktur dan fitur kebahasaan yang tepat</li><li>Menyimak - Listening: Memahami recount text yang disampaikan secara lisan oleh teman</li></ul></td>
+        <td><ul><li>Membaca - Memirsa (Reading - Viewing): Menganalisis teks sejarah (Historical Recount) secara kritis, memahami kronologi peristiwa bersejarah, dan menemukan gagasan utama serta detail faktual.</li><li>Menyimak - Berbicara (Listening - Speaking): Menceritakan kembali (retelling) peristiwa sejarah perjuangan pahlawan dengan bahasa Inggris yang tepat dan penuh semangat kebangsaan.</li><li>Menulis - Mempresentasikan (Writing - Presenting): Menyusun ringkasan recount sejarah bangsa/daerah dengan menyertakan nilai persatuan dan kecintaan pada tanah air.</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menulis recount text sederhana tentang pengalaman pribadi dengan struktur yang tepat</li><li>Menggunakan past tense dan time connectives dalam menulis recount text</li><li>Mempresentasikan recount text secara lisan dengan pronunciation dan intonation yang baik</li><li>Memberikan feedback konstruktif terhadap recount text yang dipresentasikan teman</li><li>Mengevaluasi dan merevisi recount text berdasarkan kriteria yang diberikan</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Menganalisis perbedaan struktur dan ciri kebahasaan antara *Personal Recount* dan *Historical Recount Text*.</li><li>Menemukan informasi rinci dan makna tersirat dari teks sejarah perjuangan pahlawan (seperti Sultan Salahuddin Bima atau Jenderal Soedirman).</li><li>Menggunakan kosa kata sejarah (*historical terms, passive voice, temporal sequence*) dalam konteks menceritakan peristiwa masa lalu.</li><li>Meneladani semangat pengorbanan dan kegigihan para pahlawan sebagai wujud *Hubbul Wathan minal Iman* (Cinta Tanah Air).</li><li>Menceritakan kembali peristiwa bersejarah secara lisan/tulisan dengan bangga sebagai bangsa Indonesia (Cinta Tanah Air & Cinta Diri).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>How do we organize our personal experiences into an interesting recount?</li><li>What makes a recount text engaging for the readers or listeners?</li><li>How can we use time connectives effectively in recount text?</li><li>What are the key elements of good presentation skills?</li><li>How do we give constructive feedback to improve our friends' writing?</li></ol></td>
+        <td><ol><li>Why is it important for young generations to study and recount historical events of our heroes?</li><li>How does understanding historical recounts strengthen our national unity (*Ukhuwah Wathaniyah*)?</li><li>What are the key differences in language style between personal recount and historical recount?</li><li>How can we embody the spirit of national heroes in our daily lives at madrasah?</li><li>What lessons of courage and selflessness can we learn from our local and national historical figures?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor - Ruang kelas dengan setting diskusi kelompok, fasilitas LCD projector, dan area presentasi</td>
+        <td>Indoor - Ruang kelas berbasis media audiovisual, dilengkapi peta sejarah Indonesia/Bima, LCD Projector, audio speaker, dan galeri pahlawan nasional.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -96,8 +96,13 @@
     </tr>
     <tr>
         <td></td>
+        <td>Nilai P5-PPRA & KBC</td>
+        <td><ul><li>P5-PPRA: Berkebinekaan Global; Nasionalisme; Berkeadaban (Ta'addub); Keteladanan (Qudwah); Musyawarah (Syura).</li><li>KBC Topik 5 (Cinta Tanah Air): Menumbuhkan semangat persatuan kebangsaan (*Ukhuwah Wathaniyah*), menghormati perbedaan suku/budaya, dan menghargai sejarah perjuangan bangsa.</li><li>KBC Topik 2 (Cinta Ilmu): Semangat mempelajari sejarah sebagai ikhtiar mengambil hikmah (*ibrah*) untuk masa depan.</li></ul></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td><ol><li>Pembuatan blog atau video blog (vlog) pribadi berbahasa Inggris di luar jam pelajaran dimana siswa secara rutin mengunggah recount text tentang kegiatan mereka sehari-hari atau weekend activities untuk memperdalam kemampuan writing dan presentation</li><li>Partisipasi dalam English writing competition atau lomba menulis pengalaman berbahasa Inggris tingkat sekolah/daerah untuk mengasah kemampuan menulis recount text dengan standar yang lebih tinggi</li><li>Peer tutoring program: Siswa yang sudah mahir menulis recount text menjadi tutor sebaya di English corner atau study group untuk membantu teman-teman yang masih kesulitan, memperkuat pemahaman melalui mengajar</li><li>Proyek penerbitan buku kumpulan pengalaman siswa: Kolaborasi menulis dan mengedit recount texts dari berbagai siswa untuk dikompilasi menjadi anthology "Our Stories" sebagai kenang-kenangan kelas dan portfolio pembelajaran</li></ol></td>
+        <td><ol><li>**Historical Hero Wall Magazine**: Menyusun artikel historical recount tentang pahlawan lokal Bima/Nusa Tenggara Barat untuk ditampilkan di mading madrasah.</li><li>**Virtual Historical Museum Tour**: Melakukan eksplorasi mandiri ke museum digital nasional (misal: Museum Nasional Indonesia) dan membuat laporan recount singkat dalam bahasa Inggris.</li><li>**National Patriotism Quiz & Storytelling**: Mengikuti kegiatan bertema "Young Historian" dalam ajang pekan literasi Bahasa Inggris madrasah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +112,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Writing template: Recount Text Organizer</li><li>Sample student recount texts dengan berbagai tingkat kemampuan</li><li>Checklist for peer feedback dan self-assessment</li><li>Presentation rubric dan speaking guidelines</li><li>Time connectives reference chart</li></ol></td>
+        <td><ol><li>Teks Historical Recount: "Sultan Muhammad Salahuddin: The Patriot of Bima" dan "The Battle of Surabaya: November 10th".</li><li>Video Dokumenter Pendek: "Indonesian Heroes' Struggle for Independence" (3-4 menit).</li><li>Infografis Fitur Kebahasaan Historical Recount: Passive Voice in Past Events (*was led, were defeated*), Action Verbs, and Time Markers (*In 1945, during the struggle, subsequently*).</li><li>Handout dan Lembar Kerja Siswa (LKPD Pertemuan 2).</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>LCD Projector dan layar untuk menampilkan rubrik dan template</li><li>Laptop/komputer untuk akses materi digital</li><li>Timer untuk mengatur waktu presentasi</li><li>Sticky notes untuk feedback session</li><li>Writing paper dan stationery</li></ol></td>
+        <td><ol><li>LCD Projector, laptop, dan audio system.</li><li>Papan tulis, spidol warna, dan cetakan gambar pahlawan nasional.</li><li>Lembar kerja kelompok & rubrik penilaian presentasi lisan.</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -121,8 +126,8 @@
     </tr>
     <tr>
         <td></td>
-        <td>Mode Pembelajaran</td>
-        <td><ol><li>Pendekatan: Communicative Language Teaching (CLT)</li><li>Model: Process Writing Approach</li><li>Metode: Collaborative writing, peer feedback, presentation</li><li>Strategi: Scaffolding, guided practice, independent practice</li><li>Teknik: Drafting, peer review, oral presentation</li></ol></td>
+        <td>Mode & Metodologi KBC</td>
+        <td><ol><li>Model Pembelajaran: **Experiential Learning dengan alur ARKA** (Aktivitas → Refleksi → Konsep → Aplikasi).</li><li>Pendekatan: *Genre-Based Approach* (GBA) & *Discovery Learning*.</li><li>Metode: Interactive viewing, text analysis, group discussion, historical retelling.</li><li>Prinsip KBC: Mengalami langsung kisah perjuangan pahlawan, merefleksikan nilai patriotisme, merumuskan konsep teks sejarah, dan mengaplikasikan nilai cinta tanah air dalam kehidupan madrasah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -131,23 +136,23 @@
     </tr>
     <tr>
         <td></td>
-        <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Guru membuka pembelajaran dengan review singkat tentang struktur recount text dari pertemuan sebelumnya</li><li>Ice breaker: "Share one interesting thing that happened to you this week" (dalam bahasa Inggris)</li><li>Menyampaikan tujuan pembelajaran dan aktivitas menulis serta presentasi yang akan dilakukan</li><li>Memotivasi siswa tentang pentingnya kemampuan menulis dan berbicara dalam bahasa Inggris</li><li>Menjelaskan kriteria penilaian untuk writing dan speaking</li></ol></td>
+        <td>Pendahuluan (15 menit)</td>
+        <td><ol><li>**Warm Greeting & Patriotic Opening**: Guru menyapa peserta didik dengan salam hangat, membaca doa belajar, dan menyanyikan satu bait lagu kebangsaan atau salam patriotik madrasah.</li><li>**Aktivitas Awal (A - Aktivitas)**: Guru menampilkan slide gambar pahlawan nasional dan pahlawan Bima (Sultan Salahuddin), lalu menanyakan: *"Do you recognize these heroes? What great deeds did they do for our country?"*</li><li>**Penyampaian Tujuan & KBC Link**: Guru menyampaikan tujuan pembelajaran pertemuan 2 tentang *Historical Recount Text* dan bagaimana kisah sejarah menumbuhkan rasa bangga dan cinta tanah air (*Hubbul Wathan minal Iman*).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (70 menit)</td>
-        <td><ol><li>Pre-writing (15 menit): Brainstorming pengalaman pribadi, membuat outline menggunakan recount text organizer, reviewing time connectives dan past tense patterns</li><li>While-writing (25 menit): Menulis draft pertama recount text (100-150 kata), bimbingan individual dari guru, mengecek struktur dan grammar dasar</li><li>Peer Review (15 menit): Bertukar draft dengan partner, memberikan feedback menggunakan checklist, diskusi dan revisi berdasarkan saran teman</li><li>Presentation Preparation (15 menit): Mempersiapkan presentasi lisan, berlatih pronunciation dan intonation, mempersiapkan gesture dan eye contact</li></ol></td>
+        <td>Kegiatan Inti (60 menit)</td>
+        <td><ol><li>**Aktivitas Pengamatan Teks (A - Aktivitas, 15 menit)**: Peserta didik membaca teks historical recount "Sultan Muhammad Salahuddin: The Patriot of Bima" secara berpasangan. Siswa mengamati kronologi tahun, tempat, dan aksi perjuangan yang dilakukan Sultan Salahuddin.</li><li>**Refleksi Nilai Perjuangan (R - Refleksi, 15 menit)**: Siswa berdiskusi dalam kelompok 4 orang untuk merefleksikan pertanyaan pemicu: *"Why did Sultan Salahuddin sacrifice his personal comfort for the independence of Indonesia? What spirit can we copy today as students of MAN 1 Kota Bima?"* (Cinta Tanah Air & Cinta Ilmu).</li><li>**Konstruksi Konsep Kebahasaan (K - Konsep, 15 menit)**: Guru memfasilitasi pembahasan struktur generik *Historical Recount* (Orientation, Series of Historical Events, Reorientation) serta fitur kebahasaan khas (passive voice in past events, precise dates, and factual connectives). Siswa melengkapi diagram garis waktu (*Historical Timeline Chart*).</li><li>**Aplikasi Retelling & Sharing (A - Aplikasi, 15 menit)**: Setiap kelompok memilih satu peristiwa sejarah pendek (misal: Proklamasi 1945, Hari Pahlawan 10 November, atau Sejarah Kesultanan Bima) dan menceritakannya kembali secara lisan ringkas (2 menit per kelompok) di depan kelas dengan penuh semangat nasionalisme.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa merefleksikan proses menulis: kesulitan dan strategi yang digunakan</li><li>Berbagi perasaan tentang persiapan presentasi</li><li>Mendiskusikan pentingnya feedback dalam improving writing skills</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Peserta didik mengisi lembar refleksi singkat: *"One heroic value I will practice at madrasah is..."* (misal: kerja keras, disiplin, membantu sesama, menjaga persatuan).</li><li>Guru memberikan apresiasi terhadap keberanian dan semangat nasionalisme siswa.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (10 menit)</td>
-        <td><ol><li>Beberapa siswa volunteer mempresentasikan recount text mereka (2-3 orang, masing-masing 2 menit)</li><li>Memberikan feedback positif dan constructive criticism</li><li>Menyimpulkan pembelajaran tentang proses menulis dan pentingnya revisi</li></ol></td>
+        <td><ol><li>Guru dan peserta didik merangkum struktur dan ciri kebahasaan historical recount text.</li><li>Guru menekankan pentingnya menjaga kedaulatan bangsa dan persatuan *Ukhuwah Wathaniyah* sebagai wujud iman.</li><li>Guru menyampaikan preview untuk Pertemuan 3 (School Event & Environmental Project Recount / Cinta Lingkungan).</li><li>Kelas diakhiri dengan doa kaffaratul majlis dan salam penutup.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +162,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan menulis recount text dengan struktur yang tepat</li><li>Penggunaan past tense dan time connectives yang akurat</li><li>Kemampuan mempresentasikan recount text secara lisan</li><li>Keterampilan memberikan dan menerima feedback</li></ol></td>
+        <td><ol><li>Kemampuan menganalisis struktur generik dan fitur kebahasaan historical recount text.</li><li>Kemampuan menceritakan kembali peristiwa bersejarah secara kronologis dan jelas.</li><li>Internalisasi nilai Cinta Tanah Air, keberanian, dan rasa bangga atas sejarah perjuangan bangsa.</li><li>Keaktifan berdiskusi dan berkolaborasi dalam kelompok.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Performance Assessment: Penilaian hasil tulisan recount text</li><li>Presentation Assessment: Penilaian kemampuan berbicara dan presentasi</li><li>Peer Assessment: Penilaian feedback yang diberikan kepada teman</li></ol></td>
+        <td><ol><li>**Formative Assessment**: Tugas analisis teks historical recount pada LKPD 1 Bagian Reading & Writing.</li><li>**Performance Assessment**: Penilaian kemampuan *Historical Retelling* secara lisan di depan kelas.</li><li>**Attitude & Character Assessment**: Jurnal observasi sikap nasionalisme, kerja sama, dan sopan santun.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Writing Skills: Struktur teks, grammar, vocabulary, mechanics</li><li>Speaking Skills: Pronunciation, fluency, confidence, content organization</li><li>Collaboration Skills: Kemampuan bekerja sama dan memberikan feedback konstruktif</li></ol></td>
+        <td><ol><li>Pengetahuan: Mengidentifikasi fakta sejarah, tahun, tokoh, dan penggunaan kalimat past tense/passive voice (Skor 0-100).</li><li>Keterampilan: Kelancaran lisan dan kerapian tulisan dalam menceritakan kembali teks sejarah (Skor 0-100).</li><li>Sikap & KBC: Menunjukkan apresiasi terhadap perjuangan pahlawan dan rasa cinta tanah air.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Rubrik penilaian writing: Content (25%), Organization (25%), Language Use (25%), Mechanics (25%)</li><li>Rubrik penilaian speaking: Content (30%), Delivery (30%), Language (40%)</li><li>Observasi langsung selama peer review dan collaboration activities</li><li>Self-assessment reflection sheet di akhir pembelajaran</li></ol></td>
+        <td><ol><li>Penilaian lembar kerja LKPD 1 (Reading comprehension & timeline exercise).</li><li>Rubrik penilaian presentasi lisan *Historical Retelling* (Content, Pronunciation, Enthusiasm/Patriotism).</li><li>Observasi keterlibatan siswa dalam diskusi alur ARKA.</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kriteria Penilaian</td>
-        <td><ol><li>Excellent (85-100): Recount text terstruktur dengan baik, grammar akurat, presentasi lancar dan percaya diri</li><li>Good (70-84): Recount text cukup terstruktur, beberapa kesalahan grammar minor, presentasi cukup baik</li><li>Fair (55-69): Struktur recount text masih perlu perbaikan, beberapa kesalahan grammar, presentasi perlu lebih percaya diri</li><li>Need Improvement (0-54): Struktur tidak jelas, banyak kesalahan grammar, presentasi masih perlu banyak latihan</li></ol></td>
+        <td>Kriteria Penilaian (KBC Integrated)</td>
+        <td><ol><li>**Sangat Baik (85-100)**: Mampu menyusun historical recount secara akurat, kronologis, berstruktur tepat, serta menyampaikan refleksi cinta tanah air yang menginspirasi.</li><li>**Baik (75-84)**: Mampu menganalisis fakta sejarah dan menyusun teks recount dengan sedikit kesalahan grammar, serta menunjukkan pemahaman nilai nasionalisme.</li><li>**Cukup (65-74)**: Mampu menyusun recount sejarah sederhana dengan bimbingan dan memahami nilai nasionalisme dasar.</li><li>**Perlu Bimbingan (<65)**: Membutuhkan bimbingan intensif dalam mengurutkan peristiwa sejarah dan menggunakan past tense.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +192,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Apakah siswa dapat menulis recount text dengan struktur yang tepat?</li><li>Seberapa efektif peer feedback dalam meningkatkan kualitas tulisan siswa?</li><li>Bagaimana confidence level siswa saat mempresentasikan recount text mereka?</li><li>Strategi apa yang perlu ditingkatkan untuk mengajar writing dan speaking skills?</li></ol></td>
+        <td><ol><li>Apakah penggunaan contoh pahlawan lokal (Sultan Salahuddin Bima) berhasil meningkatkan kebanggaan dan minat belajar siswa?</li><li>Apakah alur ARKA efektif membantu siswa menghubungkan teks sejarah dengan nilai-nilai kehidupan masa kini?</li><li>Bagaimana tingkat pemahaman siswa terhadap penggunaan kalimat pasif (*passive voice*) dalam teks sejarah?</li><li>Perbaikan apa yang perlu disiapkan untuk mendukung siswa yang masih ragu berbicara di depan umum?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>How do you feel about writing and presenting your own recount text?</li><li>What was the most challenging part of writing a recount text?</li><li>How did your friend's feedback help improve your writing?</li><li>What presentation skills do you want to improve for next time?</li></ol></td>
+        <td><ol><li>What historical hero's story inspired you the most today and why?</li><li>How do you feel about the struggle of our heroes for our freedom today?</li><li>What specific English words helped you describe historical events chronologically?</li><li>How can you show love for our country (*Hubbul Wathan*) in your daily life at school?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,11 +208,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbudristek. (2022). Capaian Pembelajaran Bahasa Inggris Fase E. Jakarta: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.</li>
-                <li>Harmer, J. (2015). The Practice of English Language Teaching (5th Edition). Pearson Education Limited.</li>
-                <li>Brown, H.D. (2007). Teaching by Principles: An Interactive Approach to Language Pedagogy (3rd Edition). White Plains, NY: Pearson Education.</li>
-                <li>Nation, I.S.P. (2009). Teaching ESL/EFL Reading and Writing. New York: Routledge.</li>
-                <li>Richards, J.C. & Renandya, W.A. (Eds.). (2002). Methodology in Language Teaching: An Anthology of Current Practice. Cambridge: Cambridge University Press.</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta (KBC). Jakarta: Kementerian Agama Republik Indonesia.</li>
+                <li>Kemendikbudristek. (2022). Capaian Pembelajaran Bahasa Inggris Fase E. Jakarta: Badan Standar, Kurikulum, dan Asesmen Pendidikan.</li>
+                <li>Anderson, M. & Anderson, K. (2003). Text Types in English 3. South Yarra: Macmillan Education Australia.</li>
+                <li>Haji, A. (2018). Sejarah Perjuangan Sultan Muhammad Salahuddin Bima. Mataram: Pustaka Nusa Tenggara.</li>
             </ul>
         </td>
     </tr>
@@ -219,12 +223,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Menulis recount text yang lebih panjang dan kompleks (200-250 kata) dengan vocabulary yang lebih beragam</li><li>Membuat video recount menggunakan smartphone dengan editing sederhana</li><li>Menulis recount text dari perspektif orang lain (interviewing family members tentang pengalaman mereka)</li><li>Menganalisis recount text dari buku atau website dan mempresentasikan findings kepada kelas</li></ol></td>
+        <td><ol><li>Peserta didik membuat mini-biografi pahlawan daerah/nasional (150-200 kata) dilengkapi infografis digital menggunakan Canva untuk dipublikasikan pada website madrasah.</li><li>Mengadakan kompetisi *Historical Storytelling Short Video* antar siswa.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Menggunakan sentence frames dan templates yang lebih detail untuk membantu struktur writing</li><li>Praktik tambahan past tense forms dengan activities yang lebih guided</li><li>Paired writing dengan siswa yang lebih advanced sebagai writing buddy</li><li>Record and replay presentation untuk self-evaluation dan improvement</li></ol></td>
+        <td><ol><li>Memberikan teks sejarah yang lebih singkat dengan kata kunci (*vocabulary list*) dan terjemahan terbantu.</li><li>Latihan terbimbing menyusun urutan peristiwa (*chronological matching exercise*) dan pembentukan kata kerja past tense.</li></ol></td>
     </tr>
 </tbody>
 </table>

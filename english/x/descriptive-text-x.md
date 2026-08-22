@@ -9,7 +9,7 @@
     </tr>
 </thead>
 <tbody>
-    <tr>
+    <tr class="header">
         <td>1</td>
         <td>Informasi Umum</td>
         <td></td>
@@ -27,12 +27,12 @@
     <tr>
         <td></td>
         <td>Tahun Penyusunan</td>
-        <td>2024</td>
+        <td>2024 / 2025</td>
     </tr>
     <tr>
         <td></td>
         <td>Jenjang Sekolah</td>
-        <td>SMA</td>
+        <td>Madrasah Aliyah (MA) / SMA</td>
     </tr>
     <tr>
         <td></td>
@@ -47,17 +47,17 @@
     <tr>
         <td></td>
         <td>Materi Pokok</td>
-        <td>Descriptive Text</td>
+        <td>Descriptive Text (Focus on People)</td>
     </tr>
     <tr>
         <td></td>
         <td>Alokasi Waktu</td>
-        <td>2 x 45 menit</td>
+        <td>2 x 45 menit (Pertemuan 1)</td>
     </tr>
     <tr>
         <td></td>
         <td>Pertemuan</td>
-        <td>1 (Pretest dan Pengenalan Dasar)</td>
+        <td>1 (Pengenalan Dasar, Diagnostic Assessment, Inspiring Figures & Cinta Diri & Sesama)</td>
     </tr>
     <tr class="header">
         <td>2</td>
@@ -72,22 +72,22 @@
     <tr>
         <td></td>
         <td>Elemen Domain (CP)</td>
-        <td><ul><li>Mengenal teks deskriptif sederhana</li><li>Memahami kosakata dasar untuk mendeskripsikan</li><li>Mengidentifikasi ciri-ciri teks deskriptif</li></ul></td>
+        <td><ul><li>Membaca dan Memirsa (Reading & Viewing): Mengidentifikasi fungsi sosial, struktur teks, dan unsur kebahasaan teks deskriptif tentang orang.</li><li>Menulis dan Mempresentasikan (Writing & Presenting): Mengungkapkan deskripsi sederhana tentang sifat positif orang lain dengan memperhatikan kesadaran sosial-emosional.</li></ul></td>
     </tr>
     <tr>
         <td></td>
         <td>Tujuan Pembelajaran Spesifik</td>
-        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengenal dan memahami pengertian teks deskriptif sederhana</li><li>Mengidentifikasi kosakata dasar untuk mendeskripsikan benda, orang, dan tempat</li><li>Membedakan teks deskriptif dengan jenis teks lainnya</li><li>Menunjukkan kemampuan awal dalam memahami teks deskriptif</li><li>Mengekspresikan deskripsi sederhana dengan kata-kata dasar</li></ol></td>
+        <td>Setelah mengikuti pembelajaran ini, peserta didik mampu:<ol><li>Mengidentifikasi fungsi sosial dan struktur teks deskriptif sederhana tentang tokoh inspiratif.</li><li>Menganalisis kosakata kata sifat (adjectives) penampilan fisik dan karakter mulia (noble traits).</li><li>Mengekspresikan deskripsi diri dan teman sebaya secara santun dan penuh empati (Cinta Diri & Sesama).</li><li>Menunjukkan pemahaman awal melalui asesmen diagnostik mengenai deskripsi orang.</li><li>Mengembangkan sikap saling menghargai, menolak perundungan (anti-bullying), dan menumbuhkan rasa percaya diri sebagai bentuk kasih sayang terhadap sesama.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Essential Questions</td>
-        <td><ol><li>What is descriptive text and why do we use it?</li><li>How do we describe people, places, and things in English?</li><li>What basic words can help us describe our surroundings?</li><li>How can simple descriptions help us communicate better?</li><li>What do we already know about describing in English?</li></ol></td>
+        <td><ol><li>What makes a person inspiring and worth describing in our life?</li><li>How do adjectives help us describe someone's appearance and inner beauty?</li><li>How can positive words built through descriptions prevent bullying and foster love in class?</li><li>What is the main purpose of writing a descriptive text about an inspiring figure?</li><li>How do we express gratitude for the unique qualities given by Allah to every human being?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Lingkungan Belajar</td>
-        <td>Indoor (kelas), menggunakan LCD / whiteboard</td>
+        <td>Ruang kelas yang ramah anak, nyaman, aman (safe space), dilengkapi LCD Proyektor dan whiteboard.</td>
     </tr>
     <tr class="header">
         <td>3</td>
@@ -96,8 +96,18 @@
     </tr>
     <tr>
         <td></td>
+        <td>Profil Pelajar Pancasila & PPRA</td>
+        <td><ol><li>Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia: Menghargai sesama manusia sebagai ciptaan Allah.</li><li>Gotong Royong & Empati: Bekerja sama dan saling mendukung dalam lingkungan belajar.</li><li>Bernalar Kritis: Menganalisis sifat dan kebiasaan positif tokoh inspiratif.</li><li>Ta'addub (Adab) & Tasamuh (Toleransi): Menghormati perbedaan karakteristik fisik dan latar belakang teman.</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Integrasi KBC (Panca Cinta)</td>
+        <td><ol><li>Cinta Diri dan Sesama (Core Topic): Mengembangkan self-compassion, membangun budaya anti-bullying, menghargai keunikan diri dan orang lain sebagai wujud persaudaraan kemanusiaan (ukhuwah insaniyah).</li><li>Cinta Ilmu: Menumbuhkan rasa ingin tahu dan adab dalam mempelajari bahasa sebagai sarana komunikasi yang santun.</li></ol></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>Kegiatan Kokurikuler</td>
-        <td>Kegiatan kokurikuler untuk memperdalam materi descriptive text:<ol><li>Membuat album foto keluarga dengan deskripsi dalam bahasa Inggris untuk dipresentasikan di kelas</li><li>Mengunjungi perpustakaan sekolah untuk membaca buku descriptive texts dan membuat catatan</li><li>Proyek deskripsi lingkungan sekolah: siswa mendeskripsikan ruang kelas, kantin, atau taman sekolah</li><li>Kegiatan field trip ke tempat wisata lokal untuk menulis deskripsi tempat bersejarah</li></ol></td>
+        <td>Kegiatan kokurikuler terintegrasi KBC:<ol><li>Membuat "Kindness Board" di kelas tempat siswa menempelkan deskripsi singkat 3 kalimat yang memuji kebaikan teman.</li><li>Mewawancarai tokoh inspiratif lokal (guru, penjaga sekolah, atau orang tua) untuk mendokumentasikan sifat terpuji mereka.</li><li>Membaca artikel bergambar tentang pahlawan kemanusiaan berbahasa Inggris di perpustakaan madrasah.</li></ol></td>
     </tr>
     <tr class="header">
         <td>4</td>
@@ -107,12 +117,12 @@
     <tr>
         <td></td>
         <td>Materi/Sumber Pembelajaran</td>
-        <td><ol><li>Soal pretest teks deskriptif sederhana</li><li>Gambar objek sederhana (buah, hewan, ruang kelas)</li><li>Kosakata dasar descriptive words</li><li>Contoh teks deskriptif sangat sederhana</li><li>Kamus bergambar bahasa Inggris-Indonesia</li></ol></td>
+        <td><ol><li>Lembar Asesmen Diagnostik (Pretest) Teks Deskriptif.</li><li>Teks Deskriptif Singkat: "Pak Ahmad: An Inspiring and Dedicated Teacher".</li><li>Kartu Kosakata (Adjective Cards): Appearance (tall, slim, neat) & Personality (kind, patient, generous, compassionate).</li><li>Modul Kurikulum Berbasis Cinta (KBC) Kementerian Agama RI (2025).</li><li>Kamus Dwibahasa Indonesia-Inggris.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Fasilitas / Alat Bantu</td>
-        <td><ol><li>Proyektor dan layar</li><li>Papan tulis dan spidol warna-warni</li><li>Kertas pretest dan lembar jawaban</li><li>Gambar-gambar untuk media pembelajaran</li><li>Kartu kosakata bergambar</li></ol></td>
+        <td><ol><li>Proyektor dan layar LCD.</li><li>Laptop dan speaker aktif.</li><li>Papan tulis dan spidol warna.</li><li>Lembar Kerja Peserta Didik (LKPD 1).</li><li>Kartu Refleksi Emosi (Emoji Cards).</li></ol></td>
     </tr>
     <tr class="header">
         <td>5</td>
@@ -122,7 +132,7 @@
     <tr>
         <td></td>
         <td>Mode Pembelajaran</td>
-        <td><ol><li>Pembelajaran Tatap Muka</li><li>Pendekatan Komunikatif sederhana</li><li>Metode Total Physical Response (TPR)</li><li>Teknik demonstrasi dan peniruan</li><li>Pembelajaran berbasis gambar (Visual Learning)</li></ol></td>
+        <td><ol><li>Pembelajaran Tatap Muka (In-Person Learning).</li><li>Pendekatan Komunikatif (Communicative Language Teaching / CLT).</li><li>Metodologi KBC: Mindful, Meaningful, Joyful (MJM) & ARKA (Aktivitas, Refleksi, Konsep, Aplikasi).</li><li>Komunikasi Welas Asih (Compassionate Communication: Koneksi sebelum Koreksi).</li></ol></td>
     </tr>
     <tr class="header">
         <td>6</td>
@@ -132,22 +142,22 @@
     <tr>
         <td></td>
         <td>Pendahuluan (10 menit)</td>
-        <td><ol><li>Guru membuka dengan salam dalam bahasa Inggris dan Indonesia</li><li>Mengecek kehadiran siswa dengan sapaan sederhana</li><li>Ice breaking: Guru mendeskripsikan diri dengan sangat sederhana sebagai contoh</li><li>Menjelaskan tujuan pembelajaran dan pentingnya pretest</li><li>Memotivasi siswa bahwa tidak ada jawaban salah dalam pretest</li></ol></td>
+        <td><ol><li>Guru membuka kelas dengan salam penuh kehangatan, menyapa peserta didik, dan berdoa bersama (Cinta Allah & Rasul-Nya).</li><li>Mindful Check-in (MJM): Guru mengajak siswa mengambil napas dalam-dalam, merasakan kehadiran di kelas, dan tersenyum kepada teman di sebelahnya.</li><li>Apersepsi & Motivasi: Guru mendeskripsikan seorang tokoh inspiratif di madrasah tanpa menyebutkan nama dan meminta siswa menebaknya.</li><li>Guru menyampaikan tujuan pembelajaran serta menekankan bahwa di kelas ini tidak ada perundungan (anti-bullying) dan semua pendapat dihargai (Cinta Diri & Sesama).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Kegiatan Inti (30 menit)</td>
-        <td><ol><li>Pretest (20 menit): Siswa mengerjakan soal untuk mengukur kemampuan awal memahami teks deskriptif sederhana</li><li>Pengenalan konsep (5 menit): Guru menjelaskan apa itu descriptive text menggunakan bahasa campuran</li><li>Demonstrasi (3 menit): Guru mencontohkan mendeskripsikan benda di kelas dengan kata-kata sangat sederhana</li><li>Observasi gambar (2 menit): Siswa mengamati gambar dan mencoba menyebutkan kata-kata yang mereka ketahui</li></ol></td>
+        <td>Kegiatan Inti (70 menit)</td>
+        <td><ol><li>Aktivitas (20 menit): Peserta didik mengerjakan tes diagnostik singkat (pretest) untuk memetakan pemahaman awal teks deskriptif dan kosakata kata sifat. Guru memotivasi agar siswa tidak merasa takut salah.</li><li>Refleksi (10 menit): Guru memfasilitasi diskusi socio-emotional: "Bagaimana perasaanmu ketika seseorang mendeskripsikan kebaikanmu? Mengapa kata-kata yang baik sangat penting?" (Panca Cinta: Cinta Diri & Sesama).</li><li>Konsep (25 menit): Peserta didik mengamati tayangan teks deskriptif "Pak Ahmad: An Inspiring Teacher". Guru menjelaskan fungsi sosial (mendeskripsikan orang secara spesifik), struktur teks (Identification & Description), serta kata sifat fisik dan karakter.</li><li>Aplikasi (15 menit): Peserta didik duduk berpasangan dan melakukan aktivitas "Appreciation Card": menuliskan 3 kata sifat positif yang menggambarkan kebaikan teman sebangku dan menyampaikannya secara lisan dengan santun (Compassionate Communication).</li></ol></td>
     </tr>
     <tr>
         <td></td>
-        <td>Refleksi Ringan</td>
-        <td><ol><li>Siswa berbagi perasaan setelah mengerjakan pretest</li><li>Guru memberikan motivasi dan dukungan</li><li>Identifikasi kosakata yang sudah diketahui siswa</li></ol></td>
+        <td>Refleksi Ringan (5 menit)</td>
+        <td><ol><li>Peserta didik memilih kartu emoji yang menggambarkan perasaan mereka setelah menerima kalimat pujian/penghargaan dari teman.</li><li>Guru memberikan apresiasi atas keberanian siswa saling mengungkapkan pujian yang tulus.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penutup (5 menit)</td>
-        <td><ol><li>Guru menyampaikan bahwa pretest bukan untuk nilai</li><li>Preview materi untuk pertemuan berikutnya</li><li>Motivasi untuk belajar kosakata sederhana di rumah</li><li>Doa penutup dan salam</li></ol></td>
+        <td><ol><li>Guru bersama peserta didik menyimpulkan esensi teks deskriptif orang dan pentingnya kata-kata yang penuh kasih sayang.</li><li>Guru memberikan gambaran materi pertemuan 2 (Deskripsi Tempat Bersejarah & Taman Nasional).</li><li>Pembelajaran ditutup dengan doa bersama dan salam.</li></ol></td>
     </tr>
     <tr class="header">
         <td>7</td>
@@ -157,27 +167,27 @@
     <tr>
         <td></td>
         <td>Target Penilaian</td>
-        <td><ol><li>Kemampuan awal memahami teks deskriptif</li><li>Pengenalan kosakata dasar bahasa Inggris</li><li>Kemampuan mengidentifikasi objek sederhana</li><li>Keberanian mencoba menggunakan bahasa Inggris</li></ol></td>
+        <td><ol><li>Kemampuan diagnostik awal dalam mengidentifikasi teks deskriptif dan kata sifat (adjectives).</li><li>Keterampilan mengartikulasikan deskripsi karakter positif secara lisan dan tulisan.</li><li>Internalisasi karakter KBC: Empati, rasa bersyukur, menghargai sesama, dan budaya anti-bullying.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Jenis Assessment</td>
-        <td><ol><li>Pretest: Tes diagnostik untuk mengukur kemampuan awal</li><li>Observasi: Mengamati partisipasi dan antusiasme siswa</li><li>Assessment informal: Tanya jawab sederhana</li></ol></td>
+        <td><ol><li>Assessment Diagnostik: Tes tertulis diagnostik awal (pilihan ganda dan isian singkat).</li><li>Assessment Formatif: Observasi partisipasi, apresiasi sejawat, dan keaktifan diskusi.</li><li>Assessment Sikap KBC: Jurnal observasi perilaku empati dan saling menghargai.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Penilaian Kompetensi dan Pengetahuan</td>
-        <td><ol><li>Pengetahuan: Pretest pilihan ganda dan isian sederhana</li><li>Keterampilan: Observasi kemampuan menyebutkan kosakata</li><li>Sikap: Keberanian mencoba dan semangat belajar</li></ol></td>
+        <td><ol><li>Pengetahuan: Mengidentifikasi kata sifat, struktur teks (Identification & Description), dan fungsi sosial.</li><li>Keterampilan: Menyusun kalimat deskripsi sederhana tentang sifat baik orang lain.</li><li>Sikap: Menunjukkan rasa empati, kesantunan bertutur kata, dan menolak perundungan.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Cara Melakukan Assessment</td>
-        <td><ol><li>Pretest tertulis dengan soal bergambar</li><li>Checklist observasi partisipasi</li><li>Catatan anekdotal untuk kemampuan individual</li><li>Dokumentasi respons siswa</li></ol></td>
+        <td><ol><li>Pemeriksaan hasil tes diagnostik awal.</li><li>Lembar observasi aktivitas "Appreciation Card" dan interaksi berpasangan.</li><li>Catatan anekdotal guru mengenai sikap sosial siswa selama pembelajaran.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Kriteria Penilaian</td>
-        <td>Untuk Pretest (diagnostik, bukan untuk nilai):<ol><li>Tinggi (>75%): Sudah mengenal konsep dasar deskripsi</li><li>Sedang (50-75%): Mengenal sebagian kosakata dasar</li><li>Rendah (25-50%): Mengenal sedikit kosakata</li><li>Sangat Rendah (<25%): Perlu bimbingan intensif</li></ol></td>
+        <td><ol><li>Sangat Baik (86-100): Menguasai >85% kosakata deskriptif, mampu menyusun deskripsi positif yang kaya, serta aktif menunjukkan empati tinggi.</li><li>Baik (71-85): Menguasai 70-84% kosakata, mampu menyusun deskripsi dengan bantuan minimal, serta bersikap santun dan komunikatif.</li><li>Cukup (56-70): Menguasai 50-69% kosakata, mampu menyusun kalimat sederhana dengan bimbingan, serta berpartisipasi cukup baik.</li><li>Kurang (<55): Menguasai <50% kosakata, membutuhkan pendampingan intensif dalam deskripsi dasar dan pengembangan sikap sosial.</li></ol></td>
     </tr>
     <tr class="header">
         <td>8</td>
@@ -187,12 +197,12 @@
     <tr>
         <td></td>
         <td>Refleksi Guru</td>
-        <td><ol><li>Bagaimana tingkat kemampuan awal siswa berdasarkan pretest?</li><li>Strategi apa yang perlu disiapkan untuk siswa dengan kosakata sangat terbatas?</li><li>Apakah siswa merasa nyaman dengan pembelajaran hari ini?</li><li>Bagaimana merencanakan pembelajaran yang sesuai level siswa?</li></ol></td>
+        <td><ol><li>Apakah pemetaan diagnostik awal menggambarkan variasi kemampuan siswa secara akurat?</li><li>Seberapa efektif pendekatan KBC (Cinta Diri & Sesama) dalam menciptakan rasa aman (safe space) bagi siswa?</li><li>Apakah aktivitas "Appreciation Card" berhasil membangun empati dan mencegah sikap saling mengejek di kelas?</li><li>Langkah diferensiasi apa yang perlu disiapkan untuk pertemuan berikutnya berdasarkan hasil pretest?</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Refleksi Siswa</td>
-        <td><ol><li>Bagaimana perasaan kalian tentang bahasa Inggris hari ini?</li><li>Kata-kata bahasa Inggris apa yang sudah kalian ketahui?</li><li>Apa yang paling sulit dari soal pretest tadi?</li><li>Apa yang ingin kalian pelajari tentang bahasa Inggris?</li></ol></td>
+        <td><ol><li>Bagaimana perasaanmu ketika mendengar kata-kata positif dan apresiasi dari temanmu hari ini?</li><li>Kata sifat bahasa Inggris baru apa saja yang kamu pelajari untuk mendeskripsikan kebaikan seseorang?</li><li>Mengapa kita harus menghindari kata-kata kasihan atau perundungan (bullying) kepada teman?</li><li>Apa kebaikan dalam dirimu yang paling kamu syukuri kepada Allah Swt. hari ini?</li></ol></td>
     </tr>
     <tr class="header">
         <td>9</td>
@@ -203,9 +213,10 @@
         <td></td>
         <td colspan="2">
             <ul style="font-weight:normal">
-                <li>Kemendikbud. (2022). Buku Siswa Bahasa Inggris Kelas X</li><li>Harmer, J. (2019). The Practice of English Language Teaching</li>
-                <li>Richards, J.C. (2020). Teaching English for Beginners</li>
-                <li>Nation, I.S.P. (2021). Learning Vocabulary in Another Language</li><li>Visual dictionaries for beginner English learners</li>
+                <li>Direktorat KSKK Madrasah. (2025). Keputusan Direktur Jenderal Pendidikan Islam Nomor 6077 Tahun 2025 tentang Panduan Kurikulum Berbasis Cinta. Jakarta: Kementerian Agama RI.</li>
+                <li>Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Bahasa Inggris: Work in Progress untuk SMA/SMK/MA Kelas X. Jakarta: Kemendikbudristek.</li>
+                <li>Harmer, J. (2019). The Practice of English Language Teaching (6th ed.). Pearson Education.</li>
+                <li>Richards, J. C., & Rodgers, T. S. (2014). Approaches and Methods in Language Teaching. Cambridge University Press.</li>
             </ul>
         </td>
     </tr>
@@ -217,12 +228,12 @@
     <tr>
         <td></td>
         <td>Pengayaan</td>
-        <td><ol><li>Untuk siswa dengan kemampuan lebih: berlatih mendeskripsikan objek kompleks dengan kosakata yang lebih beragam</li><li>Menggunakan aplikasi kosakata bahasa Inggris</li><li>Menonton video deskripsi sederhana dengan subtitle</li><li>Membuat kamus bergambar pribadi</li></ol></td>
+        <td><ol><li>Peserta didik dengan hasil diagnostik tinggi diminta menulis paragraf deskriptif tentang pahlawan nasional Indonesia (misal: R.A. Kartini / K.H. Hasyim Asy'ari) dengan menyertakan nilai-nilai perjuangan mereka.</li><li>Menjadi "Peer Buddy" bagi teman yang membutuhkan bantuan dalam memahami kosakata bahasa Inggris.</li></ol></td>
     </tr>
     <tr>
         <td></td>
         <td>Remedial</td>
-        <td><ol><li>Pembelajaran kosakata dasar dengan flash cards bergambar</li><li>Pendampingan individual dengan bantuan bahasa Indonesia</li><li>Menggunakan aplikasi pembelajaran bahasa untuk pemula</li><li>Peer tutoring dengan siswa yang lebih mampu</li><li>Latihan menghafal 5-10 kata sederhana setiap hari</li></ol></td>
+        <td><ol><li>Peserta didik yang membutuhkan pendampingan diberikan kartu kosakata bergambar (visual adjective cards) tentang sifat-sifat fisik dan kepribadian dasar.</li><li>Bimbingan terstruktur dalam menyusun pola kalimat dasar "Subject + to be + Adjective" (contoh: He is kind, She is smart) dengan suasana yang mendukung tanpa tekanan.</li></ol></td>
     </tr>
 </tbody>
 </table>
