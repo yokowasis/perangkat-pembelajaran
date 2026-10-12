@@ -2,7 +2,7 @@
 ## BAHASA INGGRIS TINGKAT LANJUT - KELAS XI (XI-TL)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
-**Nama Siswa** : ___________________________  
+**Nama Siswa** : _______________  
 **Kelas** : XI-TL  
 **Pokok Bahasan** : Analytical Exposition Text (Structuring Arguments, Language Features, Fact vs. Opinion)  
 **Nilai KBC** : Cinta Diri & Sesama (Digital Wellbeing) & Cinta Lingkungan (Ekoteologi)  
@@ -63,17 +63,17 @@ Answer the following questions based on the audio recording:
 
 1. What is the speaker's main thesis regarding social media consumption?
    
-   _________________________________________________________________________________
+   _______________
 
 2. Mention two specific arguments provided by the speaker to support the thesis.
    
-   a. _______________________________________________________________________________
+   a. _______________
    
-   b. _______________________________________________________________________________
+   b. _______________
 
 3. What value of *Kurikulum Berbasis Cinta (KBC)* is emphasized at the conclusion of the speech?
    
-   _________________________________________________________________________________
+   _______________
 
 ### **Listening Activity 2: Fill in the Blanks**
 
@@ -151,25 +151,25 @@ In conclusion, coastal conservation in Bima is crucial for ecological preservati
 
 1. What is the writer's thesis regarding coastal ecosystems in Bima?
    
-   _________________________________________________________________________________
+   _______________
 
 2. Identify two main arguments presented in Paragraphs 2 and 3.
    
-   a. _______________________________________________________________________________
+   a. _______________
    
-   b. _______________________________________________________________________________
+   b. _______________
 
 3. Locate two internal or causal conjunctions used in the text and explain their grammatical function in the sentence.
    
-   _________________________________________________________________________________
+   _______________
 
 4. Which sentence in the text explicitly connects environmental care with religious stewardship (*Ekoteologi*)?
    
-   _________________________________________________________________________________
+   _______________
 
 5. *Inference Question*: What might happen to Bima's fishing community if plastic pollution continues to rise unchecked for the next ten years?
    
-   _________________________________________________________________________________
+   _______________
 
 **Assessment Target**: Students must answer at least 4 out of 5 questions correctly with thorough explanation.
 
@@ -187,13 +187,13 @@ Combine the two simple sentences below into a cohesive argument using the given 
    Sentence B: Students must practice compassionate online communication.  
    *[Conjunction: Therefore | Evaluative Word: Imperative]*  
    
-   Draft: ___________________________________________________________________________
+   Draft: _______________
 
 2. Sentence A: Single-use plastics pollute our local rivers in Bima.  
    Sentence B: Microplastics enter our drinking water supply.  
    *[Conjunction: Furthermore | Evaluative Word: Alarming]*  
    
-   Draft: ___________________________________________________________________________
+   Draft: _______________
 
 ### **Writing Activity 2: Thesis & Outline Construction**
 
@@ -205,11 +205,11 @@ Fill in the **Analytical Exposition Outline Matrix**:
 
 | Component | Outline Content |
 |-----------|-----------------|
-| **Title** | _________________________________________________________________ |
-| **Thesis Statement** | _________________________________________________________________ |
-| **Argument 1 + Fact/Evidence** | _________________________________________________________________ |
-| **Argument 2 + Fact/Evidence** | _________________________________________________________________ |
-| **Reiteration / Call to Action** | _________________________________________________________________ |
+| **Title** | _______________ |
+| **Thesis Statement** | _______________ |
+| **Argument 1 + Fact/Evidence** | _______________ |
+| **Argument 2 + Fact/Evidence** | _______________ |
+| **Reiteration / Call to Action** | _______________ |
 
 ### **Writing Activity 3: Guided Paragraph Writing**
 
@@ -217,11 +217,11 @@ Based on your outline above, write **TWO** well-structured body paragraphs (Argu
 - 2 internal/causal conjunctions (*furthermore, consequently, therefore, in addition*)
 - 2 evaluative vocabulary words (*vital, alarming, essential, damaging*)
 
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
+_______________
+_______________
+_______________
+_______________
+_______________
 
 ---
 
@@ -238,5 +238,5 @@ ________________________________________________________________________________
 ---
 
 **Teacher's Feedback & Signature:**  
-*Notes:* _______________________________________________________________________________  
-*Date:* ______________________ | *Signature:* ______________________
+*Notes:* _______________  
+*Date:* _______________ | *Signature:* _______________

@@ -180,13 +180,6 @@ Seluruh modul dalam repositori ini mengintegrasikan **Kurikulum Berbasis Cinta (
 - [📋 Procedure Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x-meeting3) - Perancangan Naskah Tutorial & Panduan Praktis Edukatif (Scriptwriting & Storyboarding, Cinta Ilmu)
 - [📋 Procedure Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/procedure-text-x-meeting4) - Unjuk Karya Presentasi Tutorial, Evaluasi Sumatif, & Refleksi Panca Cinta
 
-#### 3. Analytical Exposition (4 JP)
-
-- [📊 Analytical Exposition - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x) - Pengenalan konsep dan fungsi sosial analytical exposition
-- [📊 Analytical Exposition - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting2) - Struktur dan fitur kebahasaan analytical exposition
-- [📊 Analytical Exposition - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting3) - Praktik aplikasi dan menulis analytical exposition
-- [📊 Analytical Exposition - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/x/analytical-exposition-x-meeting4) - Presentasi dan evaluasi akhir
-
 #### 4. Narrative Text (4 JP)
 
 - [📚 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/x/narrative-text-x) - Pengenalan fabel/dongeng, unsur cerita, dan nilai kebaikan (*Kindness & Cinta Diri & Sesama*)
@@ -209,10 +202,6 @@ Seluruh modul dalam repositori ini mengintegrasikan **Kurikulum Berbasis Cinta (
 **Procedure Text:**
 - [📄 LKPD - Procedure Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-1) - Basic instructions dengan simple imperative verbs
 - [📄 LKPD - Procedure Text 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-procedure-text-x-2) - Advanced technical procedures dengan complex instructions
-
-**Analytical Exposition:**
-- [📄 LKPD - Analytical Exposition 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-analytical-exposition-x-1) - Basic argumentative writing dengan opinion expressions
-- [📄 LKPD - Analytical Exposition 2](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-analytical-exposition-x-2) - Advanced argumentation dengan sophisticated academic language
 
 **Narrative Text:**
 - [📄 LKPD - Narrative Text 1](https://modul-belajar.code.app.web.id/#/english/x/lkpd/lkpd-narrative-text-x-1) - Fables & environmental tales dengan audio embed narrative-x-1-act1.mp3 (*Kindness, Empathy, & Cinta Lingkungan*)
@@ -248,64 +237,44 @@ Seluruh modul dalam repositori ini mengintegrasikan **Kurikulum Berbasis Cinta (
 
 ### Bahasa Inggris - Kelas XI Tingkat Lanjut
 
-#### 1. Descriptive Text (Focus on People and Places)
-
-- [📖 Descriptive Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting1) - Pengenalan teks deskriptif untuk orang dan tempat
-- [📖 Descriptive Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting2) - Struktur dan fitur kebahasaan
-- [📖 Descriptive Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting3) - Praktik menulis terpandu (PjBL)
-- [📖 Descriptive Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/descriptive-text-xi-tl-meeting4) - Presentasi lisan dan pameran karya
-
-- [📝 Recount Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting1) - Pengenalan (Personal Experiences / Historical Events)
-- [📝 Recount Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting2) - Struktur teks dan ciri kebahasaan
-- [📝 Recount Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting3) - Praktik menulis draf dan evaluasi sebaya
-- [📝 Recount Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/recount-text-xi-tl-meeting4) - Unjuk karya (Digital Diary / Vlog)
-
-- [📚 Narrative Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting1) - Pengenalan (Fables/Fairytales)
-- [📚 Narrative Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting2) - Struktur teks dan ciri kebahasaan (Direct/Indirect Speech)
-- [📚 Narrative Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting3) - Praktik menyusun alternate ending
-- [📚 Narrative Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/narrative-text-xi-tl-meeting4) - Presentasi lisan (Storytelling & Comic Strip)
-
-#### Unit 1. Legend and Folklores (Teks Naratif Legenda)
+#### 1. Unit 1: Legend and Folklores (Teks Naratif Legenda) (4 JP)
 
 - [📜 Legend and Folklores - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/legend-and-folklores-xi-tl-meeting1) - Narrative Structure, Local & Global Legends, Cultural Appreciation & Cinta Tanah Air & Cinta Diri
 - [📜 Legend and Folklores - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/legend-and-folklores-xi-tl-meeting2) - Past Tenses, Direct/Indirect Speech, Character Motivation & Cinta Diri & Sesama
 - [📜 Legend and Folklores - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/legend-and-folklores-xi-tl-meeting3) - Critical Reading & Rewriting Legend with Compassionate POV, KBC Experiential Learning (ARKA/FIDS Framework)
 - [📜 Legend and Folklores - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/legend-and-folklores-xi-tl-meeting4) - Storytelling Monologue Performance, Peer Evaluation, Reflection & Assessment
 
-- [📋 Procedure Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting1) - Pengenalan teks instruksional (Tips for well-being)
-- [📋 Procedure Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting2) - Struktur teks dan kalimat imperatif
-- [📋 Procedure Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting3) - Praktik merancang infografis/naskah video
-- [📋 Procedure Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/procedure-text-xi-tl-meeting4) - Unjuk karya presentasi tutorial
+#### 2. Unit 2: Analytical Exposition (Teks Eksposisi Analitis) (4 JP)
 
-#### 5. Discussion Text (Teks Diskusi)
+- [📊 Analytical Exposition - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/analytical-exposition-xi-tl-meeting1) - Thesis Structure, Evaluative Language, Digital Wellbeing & Cinta Diri & Sesama
+- [📊 Analytical Exposition - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/analytical-exposition-xi-tl-meeting2) - Arguments & Causal Conjunctions, Fact vs. Opinion, Eco-Ethics & Cinta Lingkungan
+- [📊 Analytical Exposition - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/analytical-exposition-xi-tl-meeting3) - Guided Essay Writing, Ecotheology in Bima & Cinta Allah & Rasul-Nya
+- [📊 Analytical Exposition - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/analytical-exposition-xi-tl-meeting4) - Mini-Debate / Oral Exposition, Compassionate Communication, Summative Assessment
 
-- [💬 Discussion Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting1) - Issue Identification, Balanced Views, Pro/Con Arguments, Tasamuh & Cinta Diri & Sesama
-- [💬 Discussion Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting2) - Language Features: Contrastive Conjunctions, Hedging Expressions, AI Ethics & Cinta Ilmu
-- [💬 Discussion Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting3) - Writing Popular Science Discussion Text, Objective Decision & Moderation/Tawasuth, Cinta Lingkungan
-- [💬 Discussion Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting4) - Focus Group Discussion (FGD) / Panel Simulation, Adab al-Ikhtilaf, Evaluation & Assessment
-
-#### 6. Unit 3: Hortatory Exposition (Teks Eksposisi Hortatori)
+#### 3. Unit 3: Hortatory Exposition (Teks Eksposisi Hortatori) (4 JP)
 
 - [📢 Hortatory Exposition - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/hortatory-exposition-xi-tl-meeting1) - Analytical vs Hortatory Exposition, Generic Structure (Thesis, Arguments, Recommendation), Social Issues & Cinta Diri & Sesama
 - [📢 Hortatory Exposition - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/hortatory-exposition-xi-tl-meeting2) - Language Features: Modal Auxiliaries, Abstract Nouns, Persuasive Techniques for Eco-Action & Cinta Lingkungan (Alur FIDS)
 - [📢 Hortatory Exposition - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/hortatory-exposition-xi-tl-meeting3) - Writing Letter to the Editor / Campaign Speech for Community Action, Civic Duty & Cinta Tanah Air (Alur ARKA)
 - [📢 Hortatory Exposition - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/hortatory-exposition-xi-tl-meeting4) - Delivering Persuasive Speech / Campaign Poster Presentation, Peer Evaluation, Reflection & Assessment
 
-#### LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
-- [📄 LKPD - Descriptive Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-1) - Latihan dasar terintegrasi nilai KBC
-- [📄 LKPD - Descriptive Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-descriptive-text-xi-tl-2) - Latihan lanjutan (Literary Analysis & Higher Order Thinking) terintegrasi nilai KBC
-- [📄 LKPD - Recount Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-1) - Latihan recount dasar (Personal Experiences)
-- [📄 LKPD - Recount Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-recount-text-xi-tl-2) - Latihan recount lanjutan (Historical Events)
-- [📄 LKPD - Narrative Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-1) - Latihan naratif dasar (Fables & Moral Values)
-- [📄 LKPD - Narrative Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-narrative-text-xi-tl-2) - Latihan naratif lanjutan (Alternate Endings & Direct Speech)
+#### 4. Unit 4: Discussion Text (Teks Diskusi) (4 JP)
+
+- [💬 Discussion Text - Pertemuan 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting1) - Issue Identification, Balanced Views, Pro/Con Arguments, Tasamuh & Cinta Diri & Sesama
+- [💬 Discussion Text - Pertemuan 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting2) - Language Features: Contrastive Conjunctions, Hedging Expressions, AI Ethics & Cinta Ilmu
+- [💬 Discussion Text - Pertemuan 3](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting3) - Writing Popular Science Discussion Text, Objective Decision & Moderation/Tawasuth, Cinta Lingkungan
+- [💬 Discussion Text - Pertemuan 4](https://modul-belajar.code.app.web.id/#/english/xi-tl/discussion-text-xi-tl-meeting4) - Focus Group Discussion (FGD) / Panel Simulation, Adab al-Ikhtilaf, Evaluation & Assessment
+
+#### 5. LKPD (Lembar Kerja Peserta Didik) - Kelas XI TL
+
 - [📄 LKPD - Legend and Folklores 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-legend-and-folklores-xi-tl-1) - Meetings 1-2 LKPD dengan 5 keterampilan bahasa, audio embed `legend-xi-tl-1-act1.mp3`, dan integrasi KBC (Princess Mandalika, Cultural Appreciation, Cinta Tanah Air & Cinta Diri)
 - [📄 LKPD - Legend and Folklores 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-legend-and-folklores-xi-tl-2) - Meetings 3-4 LKPD dengan 5 keterampilan bahasa, audio embed `legend-xi-tl-2-act1.mp3`, dan integrasi KBC (Singing Stone of Bima, Compassionate POV Rewriting & Monologue Showcase)
-- [📄 LKPD - Procedure Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-1) - Latihan instruksional dasar (Manuals/Recipes)
-- [📄 LKPD - Procedure Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-procedure-text-xi-tl-2) - Latihan prosedur lanjutan (Tips for Well-being)
-- [📄 LKPD - Discussion Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-discussion-text-xi-tl-1) - Meetings 1-2 LKPD dengan 5 keterampilan bahasa, audio embed `discussion-text-xi-tl-1-act1.mp3`, dan integrasi KBC (AI Ethics & Tasamuh)
-- [📄 LKPD - Discussion Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-discussion-text-xi-tl-2) - Meetings 3-4 LKPD dengan 5 keterampilan bahasa, audio embed `discussion-text-xi-tl-2-act1.mp3`, dan integrasi KBC (Renewable Energy, GMOs, FGD Simulation & Tawasuth)
+- [📄 LKPD - Analytical Exposition 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-analytical-exposition-xi-tl-1) - Meetings 1-2 LKPD dengan 5 keterampilan bahasa, audio embed `analytical-exposition-xi-tl-1-act1.mp3`, dan integrasi KBC (Digital Wellbeing & Ekoteologi)
+- [📄 LKPD - Analytical Exposition 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-analytical-exposition-xi-tl-2) - Meetings 3-4 LKPD dengan 5 keterampilan bahasa, audio embed `analytical-exposition-xi-tl-2-act1.mp3`, dan integrasi KBC (Scientific Literacy & Local Wisdom)
 - [📄 LKPD - Hortatory Exposition 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-hortatory-exposition-xi-tl-1) - Meetings 1-2 LKPD dengan 5 keterampilan bahasa, audio embed `hortatory-exposition-xi-tl-1-act1.mp3`, dan integrasi KBC (Digital Empathy, Cyberbullying, & Cinta Diri & Sesama)
 - [📄 LKPD - Hortatory Exposition 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-hortatory-exposition-xi-tl-2) - Meetings 3-4 LKPD dengan 5 keterampilan bahasa, audio embed `hortatory-exposition-xi-tl-2-act1.mp3`, dan integrasi KBC (Civic Action, Eco-Protection Bima, Campaign Speech & Cinta Tanah Air)
+- [📄 LKPD - Discussion Text 1](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-discussion-text-xi-tl-1) - Meetings 1-2 LKPD dengan 5 keterampilan bahasa, audio embed `discussion-text-xi-tl-1-act1.mp3`, dan integrasi KBC (AI Ethics & Tasamuh)
+- [📄 LKPD - Discussion Text 2](https://modul-belajar.code.app.web.id/#/english/xi-tl/lkpd/lkpd-discussion-text-xi-tl-2) - Meetings 3-4 LKPD dengan 5 keterampilan bahasa, audio embed `discussion-text-xi-tl-2-act1.mp3`, dan integrasi KBC (Renewable Energy, GMOs, FGD Simulation & Tawasuth)
 
 ### Bahasa Inggris - Kelas XII
 

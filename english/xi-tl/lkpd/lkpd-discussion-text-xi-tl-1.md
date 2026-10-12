@@ -1,7 +1,7 @@
 # LKPD Bahasa Inggris Tingkat Lanjut (XI-TL)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
-**Nama Siswa** : ___________________________  
+**Nama Siswa** : _______________  
 **Kelas** : XI-TL (Tingkat Lanjut)  
 **Pokok Bahasan** : Discussion Text - Issue Identification, Balanced Arguments & Language Features (Meetings 1-2)  
 
@@ -60,15 +60,15 @@ Fill in the blanks using the appropriate vocabulary from the table above:
 Listen to the audio text titled *"Artificial Intelligence in Education: Catalyst for Learning or Threat to Academic Integrity?"* and answer the questions:
 
 1. What is the main issue presented in the listening text?
-   - **Answer**: _________________________________________________________________
+   - **Answer**: _______________
 2. State two arguments **for** (proponents' view) utilizing AI tools in high school:
-   - Arg 1: ___________________________________________________________________
-   - Arg 2: ___________________________________________________________________
+   - Arg 1: _______________
+   - Arg 2: _______________
 3. State two arguments **against** (opponents' view) heavy reliance on AI tools:
-   - Arg 1: ___________________________________________________________________
-   - Arg 2: ___________________________________________________________________
+   - Arg 1: _______________
+   - Arg 2: _______________
 4. What is the recommended conclusion proposed by the speaker?
-   - **Answer**: _________________________________________________________________
+   - **Answer**: _______________
 
 ---
 
@@ -144,15 +144,15 @@ In conclusion, addressing the dilemma of algorithmic echo chambers requires a ba
 ### **Comprehension Questions**
 
 1. **Main Idea**: What is the central controversy discussed in the text?
-   __________________________________________________________________________________
+   _______________
 2. **Detail Extraction**: According to proponents, how do social media algorithms benefit niche communities and marginalized voices?
-   __________________________________________________________________________________
+   _______________
 3. **Detail Extraction**: What negative socio-emotional consequences do critics associate with algorithmic "echo chambers"?
-   __________________________________________________________________________________
+   _______________
 4. **Inference & Structure Analysis**: Identify one contrastive conjunction and one hedging expression used in Paragraph 3. How do these language choices affect the author's tone?
-   __________________________________________________________________________________
+   _______________
 5. **KBC Reflection**: How can practicing the values of **Tasamuh** (tolerance) and **Cinta Sesama** (love for others) help high school students overcome algorithmic echo chambers in their daily digital interactions?
-   __________________________________________________________________________________
+   _______________
 
 **Assessment**: Students must answer all 5 questions thoroughly, achieving a minimum score of 4 out of 5 correct (80%).
 
@@ -168,15 +168,15 @@ Rewrite the following dogmatic sentences into cautious, academic, and respectful
 
 1. *Original*: Social media destroys teenagers' attention span completely.  
    *(Use: evidence suggests / tend to)*  
-   *Hedged*: __________________________________________________________________________
+   *Hedged*: _______________
 
 2. *Original*: Online learning is a total failure and nobody learns anything.  
    *(Use: on the other hand / arguably)*  
-   *Hedged*: __________________________________________________________________________
+   *Hedged*: _______________
 
 3. *Original*: Artificial intelligence will replace all human teachers in five years.  
    *(Use: it could be argued that / potentially)*  
-   *Hedged*: __________________________________________________________________________
+   *Hedged*: _______________
 
 ---
 
@@ -252,5 +252,5 @@ Choose **ONE** of the following controversial topics and write a balanced discus
 ---
 
 **Teacher's Signature & Feedback**:  
-__________________________________________________________________________________________  
+_______________  
 **Score**: _______ / 100  

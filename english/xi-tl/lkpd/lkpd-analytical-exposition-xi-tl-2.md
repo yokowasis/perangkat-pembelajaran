@@ -2,7 +2,7 @@
 ## BAHASA INGGRIS TINGKAT LANJUT - KELAS XI (XI-TL)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
-**Nama Siswa** : ___________________________  
+**Nama Siswa** : _______________  
 **Kelas** : XI-TL  
 **Pokok Bahasan** : Analytical Exposition Essay Writing, Oral Argumentation & Peer Evaluation  
 **Nilai KBC** : Cinta Ilmu (Academic Integrity) & Cinta Tanah Air (National Pride & Local Wisdom)  
@@ -63,23 +63,23 @@ Match the English term on the left with its appropriate definition on the right:
 
 1. What is the central thesis declared by the speaker?
    
-   _________________________________________________________________________________
+   _______________
 
 2. List three main reasons provided in the speech:
    
-   a. Reason 1: ____________________________________________________________________
+   a. Reason 1: _______________
    
-   b. Reason 2: ____________________________________________________________________
+   b. Reason 2: _______________
    
-   c. Reason 3: ____________________________________________________________________
+   c. Reason 3: _______________
 
 ### **Listening Activity 2: Transition & Signposting Markers**
 
 Complete the sentences by writing the exact transitional phrases used in the audio:
 
-1. "____________________, scientific literacy equips us to separate verified truth from misinformation."
-2. "____________________, intellectual honesty and avoiding plagiarism reflect our moral maturity."
-3. "____________________, loving knowledge is not merely about achieving high grades..."
+1. "_______________, scientific literacy equips us to separate verified truth from misinformation."
+2. "_______________, intellectual honesty and avoiding plagiarism reflect our moral maturity."
+3. "_______________, loving knowledge is not merely about achieving high grades..."
 
 ### **Listening Activity 3: Critical Ethics Evaluation**
 
@@ -87,8 +87,8 @@ Answer the reflection question based on the listening passage:
 
 How does practicing academic honesty and avoiding plagiarism reflect both **Cinta Ilmu** (Love of Knowledge) and **Cinta Tanah Air** (Love of Country) according to the speaker?
 
-____________________________________________________________________________________
-____________________________________________________________________________________
+_______________
+_______________
 
 **Assessment Target**: Students must score at least 80% accuracy on listening analysis.
 
@@ -109,22 +109,22 @@ Deliver an oral presentation based on your essay draft. Use the **Signposting Gu
 
 While your peer presents, evaluate their speech using the **KBC Peer Feedback Table** below:
 
-**Speaker's Name**: ___________________________  
-**Topic**: ___________________________
+**Speaker's Name**: _______________  
+**Topic**: _______________
 
 | Evaluation Aspect | Score (1-5) | Constructive Feedback / Praise |
 |-------------------|-------------|--------------------------------|
-| **Thesis Clarity** | _____ / 5 | __________________________________________________ |
-| **Logical Arguments** | _____ / 5 | __________________________________________________ |
-| **Fluency & Pronunciation** | _____ / 5 | __________________________________________________ |
-| **KBC Values & Ethics** | _____ / 5 | __________________________________________________ |
+| **Thesis Clarity** | _____ / 5 | _______________ |
+| **Logical Arguments** | _____ / 5 | _______________ |
+| **Fluency & Pronunciation** | _____ / 5 | _______________ |
+| **KBC Values & Ethics** | _____ / 5 | _______________ |
 
 **Two Things I Praised (*Cinta Sesama*)**:
-1. _________________________________________________________________________________
-2. _________________________________________________________________________________
+1. _______________
+2. _______________
 
 **One Gentle Suggestion for Growth**:
-1. _________________________________________________________________________________
+1. _______________
 
 ---
 
@@ -150,23 +150,23 @@ In conclusion, advocating for eco-tourism and heritage preservation in Bima is e
 
 1. What is the writer's thesis regarding tourism in Bima?
    
-   _________________________________________________________________________________
+   _______________
 
 2. How does eco-tourism differ from mass tourism according to Paragraph 2?
    
-   _________________________________________________________________________________
+   _______________
 
 3. Explain the economic benefits of eco-tourism described in Paragraph 3.
    
-   _________________________________________________________________________________
+   _______________
 
 4. Find a word in Paragraph 4 that means *"a feeling of being isolated or detached from one's culture"*.
    
-   _________________________________________________________________________________
+   _______________
 
 5. How does preserving local Bima culture represent the value of *Cinta Tanah Air*? Explain your opinion.
    
-   _________________________________________________________________________________
+   _______________
 
 **Assessment Target**: Students must answer at least 4 out of 5 questions correctly with thorough critical reasoning.
 
@@ -187,42 +187,42 @@ In conclusion, advocating for eco-tourism and heritage preservation in Bima is e
 
 ```
 [PARAGRAPH 1: INTRODUCTION]
-- Hook: ________________________________________________________________________
-- Background: __________________________________________________________________
-- Thesis Statement: _____________________________________________________________
+- Hook: _______________
+- Background: _______________
+- Thesis Statement: _______________
 
 [PARAGRAPH 2: BODY ARGUMENT 1]
-- Topic Sentence: ______________________________________________________________
-- Evidence / Facts: _____________________________________________________________
-- Conjunction & Concluding sentence: ___________________________________________
+- Topic Sentence: _______________
+- Evidence / Facts: _______________
+- Conjunction & Concluding sentence: _______________
 
 [PARAGRAPH 3: BODY ARGUMENT 2]
-- Topic Sentence: ______________________________________________________________
-- Evidence / Facts: _____________________________________________________________
-- Conjunction & Concluding sentence: ___________________________________________
+- Topic Sentence: _______________
+- Evidence / Facts: _______________
+- Conjunction & Concluding sentence: _______________
 
 [PARAGRAPH 4: REITERATION / CONCLUSION]
-- Restatement of Thesis: ________________________________________________________
-- Summary of Main Points: _______________________________________________________
-- Final Call to Action (KBC Value): _____________________________________________
+- Restatement of Thesis: _______________
+- Summary of Main Points: _______________
+- Final Call to Action (KBC Value): _______________
 ```
 
 ### **Final Essay Composition Area**
 
 Write your full essay (250 - 350 words) cleanly below:
 
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
-____________________________________________________________________________________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
 
 ---
 
@@ -240,5 +240,5 @@ ________________________________________________________________________________
 
 **Teacher's Final Grade & Signature:**  
 *Overall Score:* ________ / 100  
-*Teacher's Remarks:* __________________________________________________________________  
-*Date:* ______________________ | *Signature:* ______________________
+*Teacher's Remarks:* _______________  
+*Date:* _______________ | *Signature:* _______________

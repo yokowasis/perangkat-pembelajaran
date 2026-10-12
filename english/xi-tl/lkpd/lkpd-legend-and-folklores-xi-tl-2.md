@@ -92,8 +92,8 @@ Pada kegiatan ini, kamu akan mempresentasikan pertunjukan monolog *Storytelling*
 #### Peer Evaluation Form (Lembar Apresiasi Sebaya)
 Berikan umpan balik yang penuh dukungan (*Compassionate Feedback*) untuk teman yang tampil di depanmu!
 
-**Nama Penampil** : ___________________________  
-**Judul Legenda** : ___________________________  
+**Nama Penampil** : _______________  
+**Judul Legenda** : _______________  
 
 | Criteria | Score (1-5) | Positive Notes & Constructive Feedback |
 |---|---|---|
@@ -102,7 +102,7 @@ Berikan umpan balik yang penuh dukungan (*Compassionate Feedback*) untuk teman y
 | **Body Language & Expression** | | |
 | **KBC Moral Message Clarity** | | |
 
-*Pesanku untuk Teman Penampil*: "____________________________________________________________________"
+*Pesanku untuk Teman Penampil*: "_______________"
 
 **Assessment Target**: Penampilan monolog yang lancar, ekspresif, memuat pesan KBC yang jelas, serta keterlibatan aktif dalam memberikan umpan balik suportif kepada teman sekelas.
 
@@ -148,29 +148,29 @@ Pilihlah salah satu legenda Nusantara (misalnya: *Malin Kundang*, *Batu Golog*, 
 
 **Drafting Box:**
 ```text
-Title: ____________________________________________________
+Title: _______________
 
 [Beginning & Orientation Context]
-__________________________________________________________________________________
-__________________________________________________________________________________
+_______________
+_______________
 
 [Transformed Resolution with Compassionate POV]
-__________________________________________________________________________________
-__________________________________________________________________________________
-__________________________________________________________________________________
-__________________________________________________________________________________
+_______________
+_______________
+_______________
+_______________
 
 [Coda / KBC Moral Lesson]
-__________________________________________________________________________________
-__________________________________________________________________________________
+_______________
+_______________
 ```
 
 #### Activity 5.2: Unit 1 Self-Reflection & Action Plan
 Tuliskan 3 komitmen tindakan nyata (Action Plan) yang akan kamu lakukan di lingkungan madrasah berdasarkan pembelajaran Unit 1 Legend and Folklores:
 
-1. **Cinta Tanah Air**: ____________________________________________________________________
-2. **Cinta Diri & Sesama**: ________________________________________________________________
-3. **Cinta Ilmu**: ________________________________________________________________________
+1. **Cinta Tanah Air**: _______________
+2. **Cinta Diri & Sesama**: _______________
+3. **Cinta Ilmu**: _______________
 
 **Assessment Target**: Draf cerita naratif yang terstruktur rapi, tata bahasa lampau yang tepat, integrasi pesan KBC yang kuat, serta jurnal refleksi diri yang realistis dan bermakna.
 

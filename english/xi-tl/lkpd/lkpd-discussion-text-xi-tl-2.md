@@ -1,7 +1,7 @@
 # LKPD Bahasa Inggris Tingkat Lanjut (XI-TL)
 
 **Nama Sekolah** : MAN 1 Kota Bima  
-**Nama Siswa** : ___________________________  
+**Nama Siswa** : _______________  
 **Kelas** : XI-TL (Tingkat Lanjut)  
 **Pokok Bahasan** : Discussion Text - Writing Popular Science & FGD Simulation (Meetings 3-4)  
 
@@ -60,15 +60,15 @@ Fill in the blanks using the appropriate vocabulary from the table above:
 Listen to the audio text titled *"Transition to Renewable Energy in Coastal Regions: Economic Challenges vs Ecological Stewardship"* and complete the information chart:
 
 1. **Central Scientific Conflict**:  
-   __________________________________________________________________________________
+   _______________
 2. **Key Arguments FOR Clean Energy Transition (Proponents)**:  
-   - Benefit 1: ____________________________________________________________________  
-   - Benefit 2: ____________________________________________________________________  
+   - Benefit 1: _______________  
+   - Benefit 2: _______________  
 3. **Key Arguments AGAINST / Challenges (Opponents/Economists)**:  
-   - Challenge 1: _________________________________________________________________  
-   - Challenge 2: _________________________________________________________________  
+   - Challenge 1: _______________  
+   - Challenge 2: _______________  
 4. **Final Recommendation (KBC Principle)**:  
-   - Recommended Action: ___________________________________________________________  
+   - Recommended Action: _______________  
 
 ---
 
@@ -88,11 +88,11 @@ Listen carefully to Part 2 of the audio recording and complete the missing words
 
 Listen to Part 3 of the recording and classify each statement as **[ FOR ]**, **[ AGAINST ]**, or **[ RECOMMENDATION ]**:
 
-1. [ __________________ ] Solar microgrids significantly reduce carbon emissions and decrease reliance on imported diesel fuel.
-2. [ __________________ ] High initial capital investment for solar panels puts a heavy strain on regional budgets.
-3. [ __________________ ] Clean energy projects create green technology jobs for coastal communities.
-4. [ __________________ ] Wind turbines may potentially disrupt local marine habitats if improperly installed.
-5. [ __________________ ] Energy policy should balance economic feasibility with ecological stewardship through scientific planning.
+1. [ _______________ ] Solar microgrids significantly reduce carbon emissions and decrease reliance on imported diesel fuel.
+2. [ _______________ ] High initial capital investment for solar panels puts a heavy strain on regional budgets.
+3. [ _______________ ] Clean energy projects create green technology jobs for coastal communities.
+4. [ _______________ ] Wind turbines may potentially disrupt local marine habitats if improperly installed.
+5. [ _______________ ] Energy policy should balance economic feasibility with ecological stewardship through scientific planning.
 
 **Assessment**: Students must correctly complete 8 out of 10 items across Activities 1–3 (80% accuracy).
 
@@ -147,17 +147,17 @@ In conclusion, evaluating GMO technology requires adopting the principle of **Ta
 ### **Comprehension Questions**
 
 1. **Main Issue**: What central problem in global agriculture prompted the development of Genetically Modified Organisms (GMOs)?
-   __________________________________________________________________________________
+   _______________
 2. **Proponent Arguments**: List two empirical benefits of GMO crops mentioned by supporters in Paragraph 2.
-   - Benefit 1: ____________________________________________________________________
-   - Benefit 2: ____________________________________________________________________
+   - Benefit 1: _______________
+   - Benefit 2: _______________
 3. **Opponent Arguments**: What ecological and socio-economic risks do critics emphasize in Paragraph 3?
-   - Ecological Risk: _______________________________________________________________
-   - Socio-economic Risk: ___________________________________________________________
+   - Ecological Risk: _______________
+   - Socio-economic Risk: _______________
 4. **Linguistic Feature Analysis**: Identify two hedging expressions used in Paragraph 3. Why did the author use these expressions instead of absolute statements?
-   __________________________________________________________________________________
+   _______________
 5. **KBC Reflection**: How does applying **Tawasuth** (moderation) and **Hikmah** (wisdom) guide us in making balanced decisions regarding scientific and technological innovations?
-   __________________________________________________________________________________
+   _______________
 
 **Assessment**: Students must answer all 5 questions accurately (minimum 4 out of 5 correct, 80%).
 
@@ -179,36 +179,36 @@ Write a formal Popular Science Discussion Essay on **ONE** of the following topi
 
 ### **Essay Planning Outline**
 
-1. **Title**: ___________________________________________________________________________
+1. **Title**: _______________
 2. **Paragraph 1: Statement of Issue**
-   - Introduce the scientific context: ___________________________________________________
-   - State the central debate: ________________________________________________________
+   - Introduce the scientific context: _______________
+   - State the central debate: _______________
 3. **Paragraph 2: Arguments FOR (Proponents)**
-   - Topic Sentence: __________________________________________________________________
-   - Evidence & Hedging: ______________________________________________________________
+   - Topic Sentence: _______________
+   - Evidence & Hedging: _______________
 4. **Paragraph 3: Arguments AGAINST (Opponents)**
-   - Contrastive Connector: ___________________________________________________________
-   - Counter-evidence & Hedging: ______________________________________________________
+   - Contrastive Connector: _______________
+   - Counter-evidence & Hedging: _______________
 5. **Paragraph 4: Conclusion & Recommendation (Tawasuth & KBC)**
-   - Moderate Synthesis: _____________________________________________________________
-   - Final Recommendation: ___________________________________________________________
+   - Moderate Synthesis: _______________
+   - Final Recommendation: _______________
 
 ---
 
 ### **Essay Writing Sheet (200–250 Words)**
 
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
-__________________________________________________________________________________________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
+_______________  
 
 ---
 
@@ -266,5 +266,5 @@ ________________________________________________________________________________
 ---
 
 **Teacher's Signature & Feedback**:  
-__________________________________________________________________________________________  
+_______________  
 **Score**: _______ / 100  
